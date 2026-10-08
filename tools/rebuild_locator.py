@@ -59,22 +59,52 @@ def land_units(root, land_fill):
     return out
 
 
-def id_render(base, land_fill, scale, work):
+def layer_units(root, layer_id):
+    """Units = the paths in one layer, grouped by id (pieces of one region share an id)."""
+    layer = root.find(f".//*[@id='{layer_id}']")
+    groups = {}
+    for p in layer.iter(Q('path')):
+        groups.setdefault(p.get('id') or id(p), []).append(p)
+    return list(groups.values())
+
+
+def unit_elements(unit):
+    """Every element of a unit (a list of elements) including descendant paths."""
+    return [e for el in unit for e in [el, *el.iter(Q('path'))]]
+
+
+def id_render(base, land_fill, scale, work, layer=None):
     tree = etree.parse(str(base))
     root = tree.getroot()
-    units = land_units(root, land_fill)
+    if layer:
+        units = layer_units(root, layer)
+        keep = root.find(f".//*[@id='{layer}']")
+        for c in root:
+            if isinstance(c.tag, str) and c is not keep and c.tag in (Q('g'), Q('path'), Q('rect'), Q('image'), Q('text')):
+                c.set('style', (c.get('style', '') + ';display:none').lstrip(';'))
+        for k, unit in enumerate(units, start=1):
+            col = '#%02x%02x%02x' % (k // 256, k % 256, 200)
+            for e in unit_elements(unit):
+                restyle(e, fill=col, stroke='none', fill_opacity='1', opacity='1', shape_rendering='crispEdges')
+        return finish_id_render(tree, work, scale, units)
+    units = [[u] for u in land_units(root, land_fill)]
+    flat = [u[0] for u in units]
     for el in root.iter(Q('g'), Q('path'), Q('rect'), Q('text')):
         st = el.get('style', '')
-        if el not in units and not any(a in units for a in el.iterancestors()):
+        if el not in flat and not any(a in flat for a in el.iterancestors()):
             if el.tag in (Q('path'), Q('rect'), Q('text')) and 'display:none' not in st:
                 if style_get(el, 'fill') in (None, 'none') or el.tag == Q('text'):
                     restyle(el, display='none')
                 else:  # lakes and the background: not land
                     restyle(el, fill='#000000', stroke='none', fill_opacity='1', opacity='1')
-    for k, el in enumerate(units, start=1):
+    for k, unit in enumerate(units, start=1):
         col = '#%02x%02x%02x' % (k // 256, k % 256, 200)
-        for e in [el, *el.iter(Q('path'))]:
+        for e in unit_elements(unit):
             restyle(e, fill=col, stroke='none', fill_opacity='1', opacity='1', shape_rendering='crispEdges')
+    return finish_id_render(tree, work, scale, units)
+
+
+def finish_id_render(tree, work, scale, units):
     svg_path = work / 'ids.svg'
     tree.write(str(svg_path))
     png = work / 'ids.png'
@@ -168,7 +198,7 @@ def sample_colours(target, idx, xf, scale):
     k = idx[y, x]
     T = target.astype(int)
     q = (T // 8) * 8 + 4                                  # quantised, for robust modes
-    notdark = T.sum(2) > 200                              # skip text
+    notdark = (T.sum(2) > 200) | (T.max(2) - T.min(2) > 60)  # skip black/grey text, keep dark colours
     sea = Counter(map(tuple, q[(k == 0) & notdark].tolist())).most_common(1)[0][0]
     interior = nd.binary_erosion(k > 0, iterations=3) & notdark
     land = Counter(map(tuple, q[interior].tolist())).most_common(1)[0][0]
@@ -215,12 +245,13 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('target'); ap.add_argument('base'); ap.add_argument('out')
     ap.add_argument('--land-fill', default='#fcf5e3')
+    ap.add_argument('--units-layer', help='units are the paths of this layer (by id); only highlighted units are recoloured')
     ap.add_argument('--scale', type=int, default=4)
     ap.add_argument('--work', default='scratch/locator')
     a = ap.parse_args()
     work = Path(a.work); work.mkdir(parents=True, exist_ok=True)
     target = np.array(Image.open(a.target).convert('RGB'))
-    idx, units = id_render(Path(a.base), a.land_fill, a.scale, work)
+    idx, units = id_render(Path(a.base), a.land_fill, a.scale, work, a.units_layer)
     xf = register(target, idx, a.scale)
     fills, outlines, sea, land, coast, border = sample_colours(target, idx, xf, a.scale)
 
@@ -235,25 +266,28 @@ def main():
     root = tree.getroot()
     if root.get('viewBox'):
         raise SystemExit('base with viewBox not supported yet')
-    units = land_units(root, a.land_fill)
-    for el in root.iter(Q('g'), Q('path')):
-        if style_get(el, 'fill') == a.land_fill:
-            restyle(el, fill=hexc(land), **({'stroke': hexc(border)} if border else {}))
     highlighted = []
-    for k, el in enumerate(units, start=1):
+    if a.units_layer:
+        # minimal edit: the base keeps its own styling, only highlighted units change
+        units = layer_units(root, a.units_layer)
+    else:
+        units = [[u] for u in land_units(root, a.land_fill)]
+        for el in root.iter(Q('g'), Q('path')):
+            if style_get(el, 'fill') == a.land_fill:
+                restyle(el, fill=hexc(land), **({'stroke': hexc(border)} if border else {}))
+        if coast:
+            for el in root.iter(Q('g'), Q('path')):
+                if style_get(el, 'stroke') == '#27aaea':
+                    restyle(el, stroke=hexc(coast))
+        for el in root.iter(Q('path'), Q('rect')):  # lakes and background take the sea colour
+            if style_get(el, 'fill') == '#daf0fd':
+                restyle(el, fill=hexc(sea))
+    for k, unit in enumerate(units, start=1):
         if k in fills:
             extra = {'stroke': hexc(outlines[k])} if k in outlines else {}
-            for e in [el, *el.iter(Q('path'))]:
+            for e in unit_elements(unit):
                 restyle(e, fill=hexc(fills[k]), **extra)
-            highlighted.append(dict(id=el.get('id'), fill=hexc(fills[k]), outline=hexc(outlines[k]) if k in outlines else None))
-    if coast:
-        for el in root.iter(Q('g'), Q('path')):
-            if style_get(el, 'stroke') == '#27aaea':
-                restyle(el, stroke=hexc(coast))
-    # other fills: lakes and background take the sea colour
-    for el in root.iter(Q('path'), Q('rect')):
-        if style_get(el, 'fill') == '#daf0fd':
-            restyle(el, fill=hexc(sea))
+            highlighted.append(dict(id=unit[0].get('id'), fill=hexc(fills[k]), outline=hexc(outlines[k]) if k in outlines else None))
     agree, s, ox, oy = xf
     H, W = target.shape[:2]
     root.set('viewBox', f'{ox:.4f} {oy:.4f} {W * s:.4f} {H * s:.4f}')

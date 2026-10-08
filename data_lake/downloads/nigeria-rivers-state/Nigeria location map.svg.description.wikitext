@@ -1,0 +1,37 @@
+== {{int:filedesc}} ==
+{{Information
+|description={{de|Positionskarte von Nigeria
+Quadratische Plattkarte. Geographische Begrenzung der Karte:
+* N: 14° N
+* S: 4° N
+* W: 2° O
+* O: 15° O}}
+{{en|Location map of Nigeria
+Equirectangular projection. Geographic limits of the map:
+* N: 14° N
+* S: 4° N
+* W: 2° E
+* E: 15° E}}
+|source={{Own}} ({{original text|1=Own work, using UN-map of Nigeria No. 4228 from October 2004|nobold=1}})
+|date=2010-02-09
+|author={{U|Uwe Dedering||de}}
+|permission=
+|other versions=
+|other fields={{Igen|Inkscape|259|+|s=m}}
+}}
+
+== {{int:license-header}} ==
+{{self|GFDL|cc-by-3.0|migration=redundant|author = {{user at project|Uwe Dedering|wikipedia|de}}}}
+{{Cc-by-sa-3.0-de}}
+
+== {{original upload log}} ==
+{{transferred from|de.wikipedia|Uwe Dedering}} {{original description page|de.wikipedia|Test-Nigeria_location_map.svg}}
+* 2010-02-10 11:43 {{U|Uwe Dedering||de}} 954×736× (181926 bytes) ''<nowiki>better coastline</nowiki>''
+* 2010-02-10 10:39 {{U|Uwe Dedering||de}} 954×736× (181888 bytes) ''<nowiki>some little mask errors</nowiki>''
+* 2010-02-09 18:24 {{U|Uwe Dedering||de}} 954×736× (184458 bytes) ''<nowiki>clipping does not work</nowiki>''
+* 2010-02-09 14:16 {{U|Uwe Dedering||de}} 990×765× (150899 bytes) ''<nowiki>{{Information |Beschreibung = |Quelle = |Urheber = |Datum = |Genehmigung = |Andere Versionen = |Anmerkungen = Tschad-See verändert }}</nowiki>''
+* 2010-02-09 12:51 {{U|Uwe Dedering||de}} 990×765× (148360 bytes) ''<nowiki>{{Information |Beschreibung = Deutsch: Positionskarte von Nigeria Quadratische Plattkarte. Geographische Begrenzung der Karte: * N: 14° N * S: 4° N * W: 2° O * O: 15° O English: Location map of Nigeria Equirectangular projection. </nowiki>''
+
+[[Category:Files by Uwe Dedering]]
+[[Category:Location maps of Nigeria]]
+[[Category:SVG maps of Nigeria]]

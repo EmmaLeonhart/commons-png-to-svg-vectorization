@@ -44,3 +44,9 @@
   the other 31 are still queued. Ehime, Fukui, Gunma, Hiroshima fell below 0.93.
 - **File:Oki islands in Shimane prefecture.png → SVG** (`files/oki-islands/`): source relief SVG
   plus three `<text>` labels, each within 1 px of the original. Staged in upload/.
+- **File:Nigeria Rivers State map.png → SVG** (`files/nigeria-rivers-state/`): from the 2010-02-11
+  revision of Nigeria location map.svg; Rivers State cut from the land along borders and rivers
+  (the PNG was flood-filled), red-area IoU 0.943. Staged in upload/.
+- `tools/rebuild_locator.py`: `--units-layer` mode (units = a layer's paths by id, minimal edit);
+  dark saturated colours are no longer mistaken for text.
+- Location map Ryukyu Islands.png marked NOT REBUILDABLE (raster topographic relief).

@@ -4,7 +4,7 @@ PNG files from `data_lake/wikipedia-png-search-results.txt`, resolved against
 Commons by `tools/build_queue.py`. One line per file; delete a line when the file
 is done (record it in devlog.md). Prefer rebuilding from a vector source over tracing.
 
-## To vectorize (879)
+## To vectorize (878)
 
 - [File:1873 Seikanron Debate Saigo Takamori Ukiyo-e by Suzuki Toshimoto.png](https://commons.wikimedia.org/wiki/File:1873_Seikanron_Debate_Saigo_Takamori_Ukiyo-e_by_Suzuki_Toshimoto.png) — Saigō Takamori
 - [File:1bc1a.png](https://commons.wikimedia.org/wiki/File:1bc1a.png) — Help:Multilingual support
@@ -327,7 +327,7 @@ is done (record it in devlog.md). Prefer rebuilding from a vector source over tr
 - [File:Letter from Viceroy of Portuguese India Duarte de Menezes to Toyotomi Hideyoshi 1588.png](https://commons.wikimedia.org/wiki/File:Letter_from_Viceroy_of_Portuguese_India_Duarte_de_Menezes_to_Toyotomi_Hideyoshi_1588.png) — Tangible Cultural Property (Japan)
 - [File:LFW2008 2403.png](https://commons.wikimedia.org/wiki/File:LFW2008_2403.png) — Template:Contains special characters
 - [File:Linear B Sample.png](https://commons.wikimedia.org/wiki/File:Linear_B_Sample.png) — Help:Multilingual support
-- [File:Location map Ryukyu Islands.png](https://commons.wikimedia.org/wiki/File:Location_map_Ryukyu_Islands.png) — Talk:Gusuku Sites and Related Properties of the Kingdom of Ryukyu
+- [File:Location map Ryukyu Islands.png](https://commons.wikimedia.org/wiki/File:Location_map_Ryukyu_Islands.png) — Talk:Gusuku Sites and Related Properties of the Kingdom of Ryukyu — NOT REBUILDABLE: raster topographic relief from maps-for-free.com; the listed SVG is a different map. Only tracing would vectorize it (ruled out).
 - [File:Location-of-Liancourt-rocks-en.png](https://commons.wikimedia.org/wiki/File:Location-of-Liancourt-rocks-en.png) — Template:Infobox islands/doc
 - [File:Lontara script.png](https://commons.wikimedia.org/wiki/File:Lontara_script.png) — Help:Multilingual support
 - [File:Macedonian Police insignia.png](https://commons.wikimedia.org/wiki/File:Macedonian_Police_insignia.png) — Template:Coat of arms
@@ -394,7 +394,6 @@ is done (record it in devlog.md). Prefer rebuilding from a vector source over tr
 - [File:Neulicht.Botein.P1162773.png](https://commons.wikimedia.org/wiki/File:Neulicht.Botein.P1162773.png) — Acronychic
 - [File:Neuro logo.png](https://commons.wikimedia.org/wiki/File:Neuro_logo.png) — Module:Portal/images/n
 - [File:New Tai Lue script sample.png](https://commons.wikimedia.org/wiki/File:New_Tai_Lue_script_sample.png) — Help:Multilingual support
-- [File:Nigeria Rivers State map.png](https://commons.wikimedia.org/wiki/File:Nigeria_Rivers_State_map.png) — Module:Portal/images/r
 - [File:Niigata Gokoku Shrine 20070815.png](https://commons.wikimedia.org/wiki/File:Niigata_Gokoku_Shrine_20070815.png) — Niigata Gokoku Shrine
 - [File:Niiname-sai.png](https://commons.wikimedia.org/wiki/File:Niiname-sai.png) — Niiname-no-Matsuri
 - [File:Ninigi.png](https://commons.wikimedia.org/wiki/File:Ninigi.png) — Ninigi-no-Mikoto
