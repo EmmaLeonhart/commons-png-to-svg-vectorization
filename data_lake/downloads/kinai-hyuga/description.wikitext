@@ -1,0 +1,14 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Hyuga, Izumo , and Five Provinces in Kinai.}}
+|date=2025-01-25
+|source={{own}} based on the image [[:File:Provinces of Japan.svg|Provinces of Japan.svg]] (GFDL et CC-by-3.0)
+|author=[[User:Flora fon Esth|Flora fon Esth]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-3.0}}
+
+[[Category:Maps of the provinces of Japan]]

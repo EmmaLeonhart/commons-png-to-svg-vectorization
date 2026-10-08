@@ -1,0 +1,15 @@
+== {{int:filedesc}} ==
+{{Information
+|Description=Blank map of the former Japanese provinces, with standard colours.
+|Source=Own work, based on [[:Image:Old Japan Mutsu.svg]] (CC-by // GFDL [[User talk:πrate|{{lang|ja|百楽兎}}]])
+|Date=2007-01-25
+|Author={{U|Ash_Crow}}
+|Permission= {{Self|GFDL|Cc-by-sa-3.0-migrated|Cc-by-2.5}}
+|other_versions=
+<gallery>
+File:Ancient Provinces of Japan Ryoseikoku Map.png|Map with all province names
+File:Assassin’s Creed꞉ Shadows – world map.png|Map of the locations featured in the video game ''Assassin’s Creed: Shadows''.
+</gallery>
+}}
+
+[[Category:SVG locator maps of former provinces in Japan (location map scheme)]]
