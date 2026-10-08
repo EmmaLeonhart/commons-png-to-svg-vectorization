@@ -4,7 +4,7 @@ PNG files from `data_lake/wikipedia-png-search-results.txt`, resolved against
 Commons by `tools/build_queue.py`. One line per file; delete a line when the file
 is done (record it in devlog.md). Prefer rebuilding from a vector source over tracing.
 
-## To vectorize (1140)
+## To vectorize (1139)
 
 - [File:1873 Seikanron Debate Saigo Takamori Ukiyo-e by Suzuki Toshimoto.png](https://commons.wikimedia.org/wiki/File:1873_Seikanron_Debate_Saigo_Takamori_Ukiyo-e_by_Suzuki_Toshimoto.png) — Saigō Takamori
 - [File:1bc1a.png](https://commons.wikimedia.org/wiki/File:1bc1a.png) — Help:Multilingual support
@@ -900,7 +900,6 @@ is done (record it in devlog.md). Prefer rebuilding from a vector source over tr
 - [File:Unwatched page in Vector.png](https://commons.wikimedia.org/wiki/File:Unwatched_page_in_Vector.png) — Help:Watchlist
 - [File:Urquiza U 60px.png](https://commons.wikimedia.org/wiki/File:Urquiza_U_60px.png) — Template:Rail-interchange
 - [File:Usahachiman1928.png](https://commons.wikimedia.org/wiki/File:Usahachiman1928.png) — Usa Jingū
-- [File:Ushu Province.png](https://commons.wikimedia.org/wiki/File:Ushu_Province.png) — Module:Location map/data/Japan Dewa, Module:Location map/data/Japan Dewa/doc
 - [File:Uyghurche.png](https://commons.wikimedia.org/wiki/File:Uyghurche.png) — Template:Contains special characters
 - [File:Vaduz.png](https://commons.wikimedia.org/wiki/File:Vaduz.png) — Template:Coat of arms
 - [File:Vampire Smiley.png](https://commons.wikimedia.org/wiki/File:Vampire_Smiley.png) — Module:Portal/images/h/sandbox, Module:Portal/images/s, Module:Portal/images/s/sandbox
