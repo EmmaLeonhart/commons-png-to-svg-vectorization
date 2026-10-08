@@ -38,3 +38,7 @@
   `tools/batch_shadow.py`. 13 matched at IoU >= 0.93 but are visibly smoother than the
   originals, so none were accepted; all parked in queue.md with their scores, drafts in
   scratch/shadow/. A detailed boundary source is needed (INTENT open question).
+- **Shadow pictures → SVG from MLIT N03** (`tools/n03_prefecture_svg.py`, `tools/batch_shadow.py`):
+  Aichi, Aomori, Chiba, Fukuoka, Fukushima, Gifu (IoU 0.945–0.981), staged in upload/.
+  The batch was stopped by Claude Code after 10 of 41 because the machine ran low on memory;
+  the other 31 are still queued. Ehime, Fukui, Gunma, Hiroshima fell below 0.93.

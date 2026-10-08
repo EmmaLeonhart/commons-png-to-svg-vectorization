@@ -1,0 +1,10 @@
+Aichi {'status': 'done', 'size': [1069, 954], 'iou': 0.9781, 'fill': '#000000', 'y_over_x': 1.224, 'outline': None}
+Aomori {'status': 'done', 'size': [420, 387], 'iou': 0.9537, 'fill': '#000000', 'y_over_x': 1.3345, 'outline': None}
+Chiba {'status': 'done', 'size': [306, 390], 'iou': 0.9542, 'fill': '#000000', 'y_over_x': 1.1956, 'outline': None}
+Ehime {'status': 'below-threshold', 'size': [510, 365], 'iou': 0.5197, 'fill': '#000000', 'y_over_x': 0.4301, 'outline': None}
+Fukui {'status': 'below-threshold', 'size': [443, 396], 'iou': 0.8212, 'fill': '#000000', 'y_over_x': 1.4427, 'outline': None}
+Fukuoka {'status': 'done', 'size': [400, 400], 'iou': 0.9454, 'fill': '#000000', 'y_over_x': 1.1888, 'outline': None}
+Fukushima {'status': 'done', 'size': [504, 401], 'iou': 0.9807, 'fill': '#000000', 'y_over_x': 1.2783, 'outline': None}
+Gifu {'status': 'done', 'size': [337, 387], 'iou': 0.9737, 'fill': '#000000', 'y_over_x': 1.2073, 'outline': None}
+Gunma {'status': 'below-threshold', 'size': [390, 390], 'iou': 0.738, 'fill': '#000000', 'y_over_x': 0.8854, 'outline': None}
+Hiroshima {'status': 'below-threshold', 'size': [463, 395], 'iou': 0.905, 'fill': '#000000', 'y_over_x': 1.172, 'outline': None}

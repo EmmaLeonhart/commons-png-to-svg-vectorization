@@ -1,11 +1,11 @@
-"""Rebuild every queued "Shadow picture of X prefecture.png" from Natural Earth.
+"""Rebuild every queued "Shadow picture of X prefecture.png" from MLIT N03 boundaries.
 
-For each: download the PNG and its description, write the Natural Earth source SVG,
+For each: download the PNG and its description, write the N03 source SVG
+(tools/n03_prefecture_svg.py),
 fit with tools/rebuild_flagmap.py (solid fill), render a comparison, and record IoU.
 Results at or above --min-iou go to files/shadow-<x>/ and upload/shadow-<x>/; the rest
 stay in scratch/shadow/ for investigation. Writes tools/batch_shadow.json.
-PNGs larger than --max-size px are left for a more detailed source.
-usage: python tools/batch_shadow.py [--min-iou 0.93] [--max-size 500] [names...]
+usage: python tools/batch_shadow.py [--min-iou 0.93] [names...]
 """
 import argparse
 import json
@@ -21,7 +21,13 @@ import numpy as np
 from PIL import Image
 
 sys.path.insert(0, str(Path(__file__).parent))
-from ne_prefecture_svg import prefecture_svg  # noqa: E402
+from n03_prefecture_svg import prefecture_svg  # noqa: E402
+
+CODES = {n: i + 1 for i, n in enumerate(
+    'Hokkaido Aomori Iwate Miyagi Akita Yamagata Fukushima Ibaraki Tochigi Gunma Saitama Chiba Tokyo '
+    'Kanagawa Niigata Toyama Ishikawa Fukui Yamanashi Nagano Gifu Shizuoka Aichi Mie Shiga Kyoto Osaka '
+    'Hyogo Nara Wakayama Tottori Shimane Okayama Hiroshima Yamaguchi Tokushima Kagawa Ehime Kochi '
+    'Fukuoka Saga Nagasaki Kumamoto Oita Miyazaki Kagoshima Okinawa'.split())}
 from render_svg import render  # noqa: E402
 
 UA = 'agentic-vectorization/0.1 (emma@topazcomputing.com)'
@@ -36,7 +42,6 @@ def fetch(url, dest):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('--min-iou', type=float, default=0.93)
-    ap.add_argument('--max-size', type=int, default=500)
     ap.add_argument('names', nargs='*')
     a = ap.parse_args()
     queue = Path('queue.md').read_text(encoding='utf8').split('## Already')[0]
@@ -55,13 +60,12 @@ def main():
                 shutil.copy(desc, dl / 'description.wikitext')
         work = Path('scratch/shadow') / slug
         work.mkdir(parents=True, exist_ok=True)
-        try:
-            src = work / 'natural-earth.svg'
-            prefecture_svg(name, src)
-        except StopIteration:
-            results[name] = dict(status='no Natural Earth match')
-            print(name, 'no Natural Earth match', flush=True)
+        if name not in CODES:
+            results[name] = dict(status='no prefecture code')
+            print(name, 'no prefecture code', flush=True)
             continue
+        src = work / 'n03.svg'
+        prefecture_svg(CODES[name], src)
         colour = Image.open(png).convert('RGBA')
         px = np.array(colour)
         opaque = px[..., 3] > 200
@@ -82,9 +86,8 @@ def main():
         iou = float((A & B).sum() / (A | B).sum())
         o = np.full(A.shape + (3,), 255, np.uint8); o[A & ~B] = [255, 0, 0]; o[B & ~A] = [0, 0, 255]; o[A & B] = 0
         Image.fromarray(o).save(work / 'diff.png')
-        big = max(px.shape[:2]) > a.max_size  # Natural Earth 1:10M is too coarse for big PNGs
-        ok = iou >= a.min_iou and not big
-        status = 'done' if ok else ('needs-detailed-source' if big else 'below-threshold')
+        ok = iou >= a.min_iou
+        status = 'done' if ok else 'below-threshold'
         results[name] = dict(status=status, size=list(px.shape[1::-1]), iou=round(iou, 4), fill=fill,
                              y_over_x=rep.get('y_over_x_scale'), outline=rep.get('outline'))
         if ok:

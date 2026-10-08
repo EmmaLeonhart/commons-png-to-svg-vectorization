@@ -4,7 +4,7 @@ PNG files from `data_lake/wikipedia-png-search-results.txt`, resolved against
 Commons by `tools/build_queue.py`. One line per file; delete a line when the file
 is done (record it in devlog.md). Prefer rebuilding from a vector source over tracing.
 
-## To vectorize (886)
+## To vectorize (880)
 
 - [File:1873 Seikanron Debate Saigo Takamori Ukiyo-e by Suzuki Toshimoto.png](https://commons.wikimedia.org/wiki/File:1873_Seikanron_Debate_Saigo_Takamori_Ukiyo-e_by_Suzuki_Toshimoto.png) — Saigō Takamori
 - [File:1bc1a.png](https://commons.wikimedia.org/wiki/File:1bc1a.png) — Help:Multilingual support
@@ -531,14 +531,8 @@ is done (record it in devlog.md). Prefer rebuilding from a vector source over tr
 - [File:Seven-Lucky-Gods-of-Japan-Hokusai-七福神.png](https://commons.wikimedia.org/wiki/File:Seven-Lucky-Gods-of-Japan-Hokusai-%E4%B8%83%E7%A6%8F%E7%A5%9E.png) — Seven Lucky Gods
 - [File:Sexuality pearl necklace small.png](https://commons.wikimedia.org/wiki/File:Sexuality_pearl_necklace_small.png) — MediaWiki:Bad image list
 - [File:Sf-userbox.png](https://commons.wikimedia.org/wiki/File:Sf-userbox.png) — Module:Portal/images/s, Module:Portal/images/s/sandbox, Template talk:Portal
-- [File:Shadow picture of Aichi prefecture.png](https://commons.wikimedia.org/wiki/File:Shadow_picture_of_Aichi_prefecture.png) — Template:Aichi — NEEDS-INVESTIGATION: Natural Earth rebuild needs-detailed-source (IoU 0.9451); needs a detailed boundary source (scratch/shadow/).
-- [File:Shadow picture of Aomori prefecture.png](https://commons.wikimedia.org/wiki/File:Shadow_picture_of_Aomori_prefecture.png) — Category:Important Cultural Properties of Aomori Prefecture — NEEDS-INVESTIGATION: Natural Earth rebuild draft-too-smooth (IoU 0.947); needs a detailed boundary source (scratch/shadow/).
-- [File:Shadow picture of Chiba prefecture.png](https://commons.wikimedia.org/wiki/File:Shadow_picture_of_Chiba_prefecture.png) — Category:Important Cultural Property of Japan in Chiba prefecture, Template:Chiba — NEEDS-INVESTIGATION: Natural Earth rebuild draft-too-smooth (IoU 0.9306); needs a detailed boundary source (scratch/shadow/).
 - [File:Shadow picture of Ehime prefecture.png](https://commons.wikimedia.org/wiki/File:Shadow_picture_of_Ehime_prefecture.png) — Category:Important Cultural Property of Japan in Ehime prefecture — NEEDS-INVESTIGATION: Natural Earth rebuild needs-detailed-source (IoU 0.5314); needs a detailed boundary source (scratch/shadow/).
 - [File:Shadow picture of Fukui prefecture.png](https://commons.wikimedia.org/wiki/File:Shadow_picture_of_Fukui_prefecture.png) — Template:Fukui — NEEDS-INVESTIGATION: Natural Earth rebuild below-threshold (IoU 0.7917); needs a detailed boundary source (scratch/shadow/).
-- [File:Shadow picture of Fukuoka prefecture.png](https://commons.wikimedia.org/wiki/File:Shadow_picture_of_Fukuoka_prefecture.png) — Category:Important Cultural Property of Japan in Fukuoka prefecture, Template:Fukuoka — NEEDS-INVESTIGATION: Natural Earth rebuild draft-too-smooth (IoU 0.9377); needs a detailed boundary source (scratch/shadow/).
-- [File:Shadow picture of Fukushima prefecture.png](https://commons.wikimedia.org/wiki/File:Shadow_picture_of_Fukushima_prefecture.png) — Category:Important Cultural Property of Japan in Fukushima prefecture, Template:Fukushima — NEEDS-INVESTIGATION: Natural Earth rebuild needs-detailed-source (IoU 0.9795); needs a detailed boundary source (scratch/shadow/).
-- [File:Shadow picture of Gifu prefecture.png](https://commons.wikimedia.org/wiki/File:Shadow_picture_of_Gifu_prefecture.png) — Category:Important Cultural Property of Japan in Gifu prefecture, Template:岐阜県の自治体カテゴリ — NEEDS-INVESTIGATION: Natural Earth rebuild draft-too-smooth (IoU 0.9605); needs a detailed boundary source (scratch/shadow/).
 - [File:Shadow picture of Gunma prefecture.png](https://commons.wikimedia.org/wiki/File:Shadow_picture_of_Gunma_prefecture.png) — Category:Important Cultural Property of Japan in Gunma prefecture, Template:Gunma — NEEDS-INVESTIGATION: Natural Earth rebuild below-threshold (IoU 0.7415); needs a detailed boundary source (scratch/shadow/).
 - [File:Shadow picture of Hiroshima prefecture.png](https://commons.wikimedia.org/wiki/File:Shadow_picture_of_Hiroshima_prefecture.png) — Category:Important Cultural Property of Japan in Hiroshima prefecture, Template:Hiroshima — NEEDS-INVESTIGATION: Natural Earth rebuild below-threshold (IoU 0.8964); needs a detailed boundary source (scratch/shadow/).
 - [File:Shadow picture of Hokkaido prefecture edit.png](https://commons.wikimedia.org/wiki/File:Shadow_picture_of_Hokkaido_prefecture_edit.png) — Template:Hokkaido
