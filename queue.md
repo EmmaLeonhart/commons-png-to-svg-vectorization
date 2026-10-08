@@ -4,7 +4,7 @@ PNG files from `data_lake/wikipedia-png-search-results.txt`, resolved against
 Commons by `tools/build_queue.py`. One line per file; delete a line when the file
 is done (record it in devlog.md). Prefer rebuilding from a vector source over tracing.
 
-## To vectorize (1139)
+## To vectorize (1138)
 
 - [File:1873 Seikanron Debate Saigo Takamori Ukiyo-e by Suzuki Toshimoto.png](https://commons.wikimedia.org/wiki/File:1873_Seikanron_Debate_Saigo_Takamori_Ukiyo-e_by_Suzuki_Toshimoto.png) — Saigō Takamori
 - [File:1bc1a.png](https://commons.wikimedia.org/wiki/File:1bc1a.png) — Help:Multilingual support
@@ -408,7 +408,7 @@ is done (record it in devlog.md). Prefer rebuilding from a vector source over tr
 - [File:Juzenji.png](https://commons.wikimedia.org/wiki/File:Juzenji.png) — Jūzenji
 - [File:Kabuki.png](https://commons.wikimedia.org/wiki/File:Kabuki.png) — Conservation Techniques for Cultural Properties
 - [File:Kaemon Takashima.png](https://commons.wikimedia.org/wiki/File:Kaemon_Takashima.png) — Kaemon Takashima
-- [File:Kagoshima-geo-stub.png](https://commons.wikimedia.org/wiki/File:Kagoshima-geo-stub.png) — Template:Kagoshima
+- [File:Kagoshima-geo-stub.png](https://commons.wikimedia.org/wiki/File:Kagoshima-geo-stub.png) — Template:Kagoshima — already has a vector version: File:Flag map of Kagoshima Prefecture.svg (tag the PNG {{Vector version available}}).
 - [File:Kagura-Dance-Shinto-1914.png](https://commons.wikimedia.org/wiki/File:Kagura-Dance-Shinto-1914.png) — Kagura
 - [File:Kagura-den of Rokugo-jinja.png](https://commons.wikimedia.org/wiki/File:Kagura-den_of_Rokugo-jinja.png) — Rokugō Shrine
 - [File:Kaikatennou oujintennou.png](https://commons.wikimedia.org/wiki/File:Kaikatennou_oujintennou.png) — Hikoimasu no Ōkimi
@@ -1001,7 +1001,6 @@ is done (record it in devlog.md). Prefer rebuilding from a vector source over tr
 - [File:W-asia.png](https://commons.wikimedia.org/wiki/File:W-asia.png) — Module:Portal/images/w
 - [File:Wakamiyajima Iki.png](https://commons.wikimedia.org/wiki/File:Wakamiyajima_Iki.png) — Iki Island
 - [File:Wakan Sansai Zue - Hitatare.png](https://commons.wikimedia.org/wiki/File:Wakan_Sansai_Zue_-_Hitatare.png) — Hitatare
-- [File:Wakayama-geo-stub.png](https://commons.wikimedia.org/wiki/File:Wakayama-geo-stub.png) — Template:Wakayama-geo-stub
 - [File:Walden Pond, Massachusetts on June 27, 2012.png](https://commons.wikimedia.org/wiki/File:Walden_Pond%2C_Massachusetts_on_June_27%2C_2012.png) — Module:Portal/images/l
 - [File:Walnut.png](https://commons.wikimedia.org/wiki/File:Walnut.png) — Template:Nutshell
 - [File:Wappen at salzburg stadt.png](https://commons.wikimedia.org/wiki/File:Wappen_at_salzburg_stadt.png) — Template:Coat of arms

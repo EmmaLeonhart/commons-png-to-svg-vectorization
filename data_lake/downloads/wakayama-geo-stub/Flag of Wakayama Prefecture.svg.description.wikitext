@@ -1,0 +1,17 @@
+== {{int:filedesc}} ==
+{{Information
+|description={{en|Flag of Wakayama Prefecture, Japan.}}{{ja|日本の和歌山県章。}}
+|date=2008-02-11
+|source={{Own}} ({{original text|1=Own Work (based on [http://www.pref.wakayama.lg.jp/prefg/010100/reiki/reiki_honbun/ak50100011.html 和歌山県の県章制定] 昭和44年4月26日 告示第310号、[http://www.pref.wakayama.lg.jp/prefg/010100/reiki/reiki_honbun/ak50100061.html 和歌山県の県旗制定] 昭和44年8月7日 告示第567号) sign #FFF flag #007BBB|nobold=1}})
+|author={{U|PRiMENON}}, {{U|Zscout370}}, {{ut|Mike Rohsopht}}
+|permission={{PD-ineligible}}{{Insignia}}
+|other versions={{DerivativeVersions|Symbol of Wakayama Prefecture.svg}}{{G|Flag_of_Wakayama_Prefecture.svg}}
+|other fields={{Igen|T|+|s=em}}
+}}
+
+== {{int:license-header}} ==
+{{PD-ineligible}}
+
+[[Category:SVG flags of prefectures of Japan|Wakayama]]
+[[Category:Prefectural symbols of Wakayama prefecture]]
+[[Category:Blue and white flags of Japan]]

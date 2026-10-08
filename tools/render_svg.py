@@ -14,8 +14,13 @@ def render(src, out, scale=1.0):
     src, out = Path(src).resolve(), Path(out).resolve()
     s = src.read_text(encoding='utf8')
     head = re.search(r'<svg\b[^>]*>', s, re.S).group(0)
-    w = float(re.sub(r'[^\d.]', '', re.search(r'\swidth="([^"]+)"', head).group(1)))
-    h = float(re.sub(r'[^\d.]', '', re.search(r'\sheight="([^"]+)"', head).group(1)))
+    wa = re.search(r'\swidth="([^"]+)"', head).group(1)
+    ha = re.search(r'\sheight="([^"]+)"', head).group(1)
+    vb = re.search(r'\sviewBox="([^"]+)"', head)
+    if vb and re.search(r'[a-z%]', wa + ha):  # mm, cm, % ...: size by the viewBox instead
+        w, h = [float(v) for v in re.split(r'[\s,]+', vb.group(1).strip())[2:4]]
+    else:
+        w, h = float(re.sub(r'[^\d.]', '', wa)), float(re.sub(r'[^\d.]', '', ha))
     W, H = round(w * scale), round(h * scale)
     html = src.with_name(src.stem + '.render.html')
     html.write_text(f'<html><body style="margin:0;background:#000"><img src="{src.name}" '

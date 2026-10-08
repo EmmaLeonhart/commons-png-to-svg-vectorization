@@ -1,0 +1,14 @@
+== {{int:filedesc}} ==
+{{Information
+|Description=
+{{fr|1=Carte administrative vierge de la [[w:fr:préfecture de Wakayama|préfecture de Wakayama]].}}
+{{en|1=Blank administrative map of the  [[w:Wakayama prefecture|Wakayama prefecture]].}}<br/>
+|Source={{own}}
+|Date=2016-11-02
+|Author=[[User:Flappiefh|Flappiefh]]
+|Permission=
+|other_versions=
+}}
+== {{int:license-header}} ==
+{{self|cc-by-sa-4.0}}
+[[Category:Location maps of Wakayama prefecture]]

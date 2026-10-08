@@ -14,3 +14,9 @@
   maps made from the "Provinces of Japan" SVG family. Checked against Kinai: it finds the
   same seven provinces and the same transform as the hand-made build.
 - `tools/triage.py`: sorted all queued files by route (triage.md).
+- **File:Wakayama-geo-stub.png → SVG** (`files/wakayama-geo-stub/`) with the new
+  `tools/rebuild_flagmap.py`: prefecture = land minus neighbours from Wakayama
+  géolocalisation.svg (shapely), clipped Flag of Wakayama Prefecture.svg, navy outline.
+  Silhouette IoU 0.946. Licence question recorded (outline source is CC BY-SA 4.0).
+- `tools/render_svg.py` now sizes SVGs with mm/cm dimensions by their viewBox.
+- Kagoshima-geo-stub.png: an SVG flag map already exists; noted in queue.md.
