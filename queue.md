@@ -4,7 +4,7 @@ PNG files from `data_lake/wikipedia-png-search-results.txt`, resolved against
 Commons by `tools/build_queue.py`. One line per file; delete a line when the file
 is done (record it in devlog.md). Prefer rebuilding from a vector source over tracing.
 
-## To vectorize (865)
+## To vectorize (864)
 
 - [File:1873 Seikanron Debate Saigo Takamori Ukiyo-e by Suzuki Toshimoto.png](https://commons.wikimedia.org/wiki/File:1873_Seikanron_Debate_Saigo_Takamori_Ukiyo-e_by_Suzuki_Toshimoto.png) — Saigō Takamori
 - [File:1bc1a.png](https://commons.wikimedia.org/wiki/File:1bc1a.png) — Help:Multilingual support
@@ -363,7 +363,6 @@ is done (record it in devlog.md). Prefer rebuilding from a vector source over tr
 - [File:Mon- Izumo taisha.png](https://commons.wikimedia.org/wiki/File:Mon-_Izumo_taisha.png) — Izumo Taisha Matsuyama Shrine
 - [File:Monodevelop-main-window.png](https://commons.wikimedia.org/wiki/File:Monodevelop-main-window.png) — Template:Infobox programming language/doc
 - [File:Monterey Bay Map (cropped).png](https://commons.wikimedia.org/wiki/File:Monterey_Bay_Map_%28cropped%29.png) — Module:Portal/images/m
-- [File:Moriya Family Tree (English).png](https://commons.wikimedia.org/wiki/File:Moriya_Family_Tree_%28English%29.png) — Moriya
 - [File:Moriya Family Tree - 守矢氏系図.png](https://commons.wikimedia.org/wiki/File:Moriya_Family_Tree_-_%E5%AE%88%E7%9F%A2%E6%B0%8F%E7%B3%BB%E5%9B%B3.png) — Chikatō-no-Kami, Itsuhayahime-no-Mikoto, Izuhayao-no-Mikoto, Katakurabe no Mikoto, Kodamahiko-no-Mikoto, Moritachi no Kami, Moritaku-no-Kami, Moriya clan, Tamaru-hime, Yagata no Sukune no Kami
 - [File:Moromi.png](https://commons.wikimedia.org/wiki/File:Moromi.png) — Module:Portal/images/a
 - [File:Mouse icon vector.png](https://commons.wikimedia.org/wiki/File:Mouse_icon_vector.png) — Module:Portal/images/h, Module:Portal/images/h/sandbox

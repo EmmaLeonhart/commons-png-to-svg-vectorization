@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="3872" height="1840" viewBox="0 0 3872 1840">
+  <title>Moriya family tree</title>
+  <rect width="3872" height="1840" fill="#ffffff"/>
+  <path id="lines" d="M2260,451.5 H2971 M388,468.5 H1633 M1836,599.5 H1979 M1836,615.5 H1979 M750,966.5 H820 M750,979.5 H820 M3164,991.5 H3246 M3164,1007.5 H3246 M2590.5,395 V454 M1104.5,420 V539 M2262.5,449 V556 M2968.5,449 V550 M390.5,466 V542 M1630.5,466 V553 M1104.5,764 V920 M390.5,767 V918 M2968.5,770 V913 M785.5,977 V1301 M785.5,1530 V1634" style="fill:none;stroke:#000000;stroke-width:5"/>
+  <g id="labels">
+    <text id="minakatatomi" x="1118.0" y="167.9" text-anchor="middle" style="font-family:'Gentium Plus', Gentium, 'Noto Serif', 'DejaVu Serif', serif;font-size:103.5px;fill:#000000">Minakatatomi (Takeminakata)</text>
+    <text id="moriya" x="2588.5" y="273.2" text-anchor="middle" style="font-family:'Gentium Plus', Gentium, 'Noto Serif', 'DejaVu Serif', serif;font-size:99.0px;fill:#6090dc">Moriya</text>
+    <text id="great-god" x="1103.5" y="261.1" text-anchor="middle" style="font-family:'Gentium Plus', Gentium, 'Noto Serif', 'DejaVu Serif', serif;font-size:80.2px;fill:#000000">The Great God of Suwa</text>
+    <text id="minakatatomi-ja" x="1097.0" y="382.6" text-anchor="middle" style="font-family:'Noto Serif CJK JP', 'Noto Serif JP', serif;font-size:91.6px;fill:#000000;letter-spacing:-4.58px">（御名方刀美命）</text>
+    <text id="moriya-ja" x="2590.0" y="385.1" text-anchor="middle" style="font-family:'Noto Serif CJK JP', 'Noto Serif JP', serif;font-size:85.5px;fill:#6090dc;letter-spacing:-0.20px">（洩矢神）</text>
+    <text id="moriya-morita" x="2981.0" y="633.9" text-anchor="middle" style="font-family:'Gentium Plus', Gentium, 'Noto Serif', 'DejaVu Serif', serif;font-size:112.2px;fill:#6090dc">Moriya (Morita)</text>
+    <text id="katakurabe" x="1103.0" y="633.6" text-anchor="middle" style="font-family:'Gentium Plus', Gentium, 'Noto Serif', 'DejaVu Serif', serif;font-size:107.7px;fill:#000000">Katakurabe</text>
+    <text id="izuhayao" x="1624.5" y="634.1" text-anchor="middle" style="font-family:'Gentium Plus', Gentium, 'Noto Serif', 'DejaVu Serif', serif;font-size:110.0px;fill:#000000">Izuhayao</text>
+    <text id="tamaruhime" x="2255.5" y="633.6" text-anchor="middle" style="font-family:'Gentium Plus', Gentium, 'Noto Serif', 'DejaVu Serif', serif;font-size:107.7px;fill:#000000">Tamaruhime</text>
+    <text id="moritatsu" x="399.0" y="633.7" text-anchor="middle" style="font-family:'Gentium Plus', Gentium, 'Noto Serif', 'DejaVu Serif', serif;font-size:94.0px;fill:#000000">Moritatsu</text>
+    <text id="moritatsu-ja" x="388.5" y="740.1" text-anchor="middle" style="font-family:'Noto Serif CJK JP', 'Noto Serif JP', serif;font-size:86.7px;fill:#000000;letter-spacing:-1.00px">（守達神）</text>
+    <text id="katakurabe-ja" x="1090.0" y="744.6" text-anchor="middle" style="font-family:'Noto Serif CJK JP', 'Noto Serif JP', serif;font-size:91.6px;fill:#000000;letter-spacing:-5.12px">（片倉辺命）</text>
+    <text id="tamaruhime-ja" x="2260.0" y="746.6" text-anchor="middle" style="font-family:'Noto Serif CJK JP', 'Noto Serif JP', serif;font-size:91.6px;fill:#000000;letter-spacing:-5.12px">（多満留姫）</text>
+    <text id="izuhayao-ja" x="1625.5" y="744.1" text-anchor="middle" style="font-family:'Noto Serif CJK JP', 'Noto Serif JP', serif;font-size:85.5px;fill:#000000;letter-spacing:0.48px">（出速雄神）</text>
+    <text id="moriya-morita-ja" x="2962.0" y="746.1" text-anchor="middle" style="font-family:'Noto Serif CJK JP', 'Noto Serif JP', serif;font-size:85.5px;fill:#6090dc;letter-spacing:-0.20px">（守宅神）</text>
+    <text id="mitsutamahime" x="392.5" y="997.6" text-anchor="middle" style="font-family:'Gentium Plus', Gentium, 'Noto Serif', 'DejaVu Serif', serif;font-size:107.7px;fill:#000000">Mitsutamahime</text>
+    <text id="kodamahiko" x="1109.0" y="997.6" text-anchor="middle" style="font-family:'Gentium Plus', Gentium, 'Noto Serif', 'DejaVu Serif', serif;font-size:107.7px;fill:#6090dc">Kodamahiko</text>
+    <text id="chikato" x="2958.0" y="1023.6" text-anchor="middle" style="font-family:'Gentium Plus', Gentium, 'Noto Serif', 'DejaVu Serif', serif;font-size:107.7px;fill:#6090dc">Chikatō</text>
+    <text id="urakohime" x="3513.0" y="1023.6" text-anchor="middle" style="font-family:'Gentium Plus', Gentium, 'Noto Serif', 'DejaVu Serif', serif;font-size:107.7px;fill:#000000">Urakohime</text>
+    <text id="mitsutamahime-ja" x="388.0" y="1107.6" text-anchor="middle" style="font-family:'Noto Serif CJK JP', 'Noto Serif JP', serif;font-size:91.6px;fill:#000000;letter-spacing:-4.40px">（美津多麻比賣命）</text>
+    <text id="kodamahiko-ja" x="1085.0" y="1107.6" text-anchor="middle" style="font-family:'Noto Serif CJK JP', 'Noto Serif JP', serif;font-size:91.6px;fill:#6090dc;letter-spacing:-5.28px">（児玉彦命）</text>
+    <text id="urakohime-ja" x="3521.0" y="1146.6" text-anchor="middle" style="font-family:'Noto Serif CJK JP', 'Noto Serif JP', serif;font-size:91.6px;fill:#000000;letter-spacing:-4.58px">（宇良古比賣命）</text>
+    <text id="chikato-ja" x="2966.0" y="1146.0" text-anchor="middle" style="font-family:'Noto Serif CJK JP', 'Noto Serif JP', serif;font-size:87.7px;fill:#6090dc;letter-spacing:-1.76px">（千鹿頭神）</text>
+    <text id="heir-1" x="1065.0" y="1178.6" text-anchor="start" style="font-family:'Gentium Plus', Gentium, 'Noto Serif', 'DejaVu Serif', serif;font-size:63.8px;fill:#000000">Became the heir of the Moriya bloodline</text>
+    <text id="heir-2" x="1064.0" y="1246.6" text-anchor="start" style="font-family:'Gentium Plus', Gentium, 'Noto Serif', 'DejaVu Serif', serif;font-size:63.8px;fill:#000000">as per the Suwa deity's will</text>
+    <text id="yakushi" x="765.0" y="1387.6" text-anchor="middle" style="font-family:'Gentium Plus', Gentium, 'Noto Serif', 'DejaVu Serif', serif;font-size:107.7px;fill:#6090dc">Yakushi</text>
+    <text id="yakushi-ja" x="768.5" y="1489.3" text-anchor="middle" style="font-family:'Noto Serif CJK JP', 'Noto Serif JP', serif;font-size:84.7px;fill:#6090dc;letter-spacing:0.40px">（八櫛神）</text>
+    <text id="moriya-clan" x="775.0" y="1728.1" text-anchor="middle" style="font-family:'Gentium Plus', Gentium, 'Noto Serif', 'DejaVu Serif', serif;font-size:110.0px;fill:#6090dc">Moriya Clan</text>
+  </g>
+</svg>

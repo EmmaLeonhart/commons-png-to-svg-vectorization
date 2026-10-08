@@ -90,3 +90,6 @@
 - **File:Emperor family tree0.png → SVG** (`files/emperor-family-tree0/`): `rebuild_tree.py` now also
   extracts 45° and dotted runs, several line colours (the grey 国津神系/天津神系 divider) and takes masks
   and hand-made extras (a hop arc). 23 names, 6 notes. Staged in upload/.
+- **File:Moriya Family Tree (English).png → SVG** (`files/moriya-family-tree-english/`): 19 exact 5 px
+  lines and 28 `<text>` lines fitted to the PNG's ink boxes (new `scratch/fit_text_lines.py`).
+  Staged in upload/.
