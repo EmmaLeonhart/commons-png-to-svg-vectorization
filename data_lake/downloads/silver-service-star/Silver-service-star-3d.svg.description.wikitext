@@ -1,0 +1,17 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Silver service star ribbon device used on military ribbons.}}
+|date=2017-02-05
+|source={{own}}
+|author=[[User:Bear17|Bear17]]
+|permission=
+|other_versions={{DerivativeVersions|Silver and Bronze Service Stars.PNG}}
+}}
+
+== {{int:license-header}} ==
+{{self|cc-by-sa-3.0|GFDL}}
+
+[[Category:SVG military decoration devices of the United States]]
+[[Category:SVG five-pointed stars]]
+[[Category:SVG star icons]]
+[[Category:Silver symbols]]

@@ -53,3 +53,6 @@
 - **File:Shinmei torii.png → SVG** (`files/shinmei-torii/`): torii A of Torii gate variation.svg,
   each part fitted to its own box in the PNG; title, three labels as `<text>`. Staged in upload/.
 - Melanesian / Micronesian Cultural Area.png: NEEDS-DECISION recorded (hand-drawn region blob).
+- `tools/render_match.py`: renders each linked SVG at the PNG's size. Silver-service-star.png and
+  Tamil distribution.png are plain renders of existing SVGs; moved to "Already vectorized".
+  King of Na gold seal face.png marked NOT REBUILDABLE (photograph).

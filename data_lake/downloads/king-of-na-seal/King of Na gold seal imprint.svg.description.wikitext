@@ -1,0 +1,19 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|White-character imprint of the [[:w:King of Na gold seal|King of Na gold seal]] in red paste. The inscription reads from right to left, top to bottom ''King of Wana in Han Dynasty'' ({{lang|zh-hant|漢委奴國王}}). Old gold seal, given by China to early Japanese ruler ca. 57 AD, rediscovered 1784 AD).}}
+{{zh|漢封倭奴國王金印—白文“{{lang|zh-hant|漢委奴國王}}”}}
+|Source=Own work, based on [[:Image:Kan wana kokuo inbun.svg]]
+|Date=2008-03-19
+|Author=Washiucho
+|other_versions={{AttribSVG|Kan wana kokuo inbun.svg}}
+[[:File:King of Na gold seal imprint 1935.jpg]]{{see also cat|King of Na gold seal}}
+}} {{Inkscape|v}}
+
+== {{int:license-header}} ==
+{{PD-self}}
+
+[[Category:King of Na gold seal]]
+[[Category:Chinese seal imprints]]
+[[Category:Baiwen seals]]
+[[Category:Texts in Chinese characters rendered to SVG]]
+[[Category:SVG seals of China]]

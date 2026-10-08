@@ -4,7 +4,7 @@ PNG files from `data_lake/wikipedia-png-search-results.txt`, resolved against
 Commons by `tools/build_queue.py`. One line per file; delete a line when the file
 is done (record it in devlog.md). Prefer rebuilding from a vector source over tracing.
 
-## To vectorize (877)
+## To vectorize (875)
 
 - [File:1873 Seikanron Debate Saigo Takamori Ukiyo-e by Suzuki Toshimoto.png](https://commons.wikimedia.org/wiki/File:1873_Seikanron_Debate_Saigo_Takamori_Ukiyo-e_by_Suzuki_Toshimoto.png) — Saigō Takamori
 - [File:1bc1a.png](https://commons.wikimedia.org/wiki/File:1bc1a.png) — Help:Multilingual support
@@ -306,7 +306,7 @@ is done (record it in devlog.md). Prefer rebuilding from a vector source over tr
 - [File:Kazoku-Japanese-Nobility-Group.png](https://commons.wikimedia.org/wiki/File:Kazoku-Japanese-Nobility-Group.png) — Kazoku
 - [File:Kharosthi font rendering sample.png](https://commons.wikimedia.org/wiki/File:Kharosthi_font_rendering_sample.png) — Help:Multilingual support
 - [File:Kimigayo-Anthem-Japan-Sheet-Music-1888.png](https://commons.wikimedia.org/wiki/File:Kimigayo-Anthem-Japan-Sheet-Music-1888.png) — Kimigayo
-- [File:King of Na gold seal face.png](https://commons.wikimedia.org/wiki/File:King_of_Na_gold_seal_face.png) — King of Na gold seal
+- [File:King of Na gold seal face.png](https://commons.wikimedia.org/wiki/File:King_of_Na_gold_seal_face.png) — King of Na gold seal — NOT REBUILDABLE: a photograph of the seal (PD-Art); the linked SVG is the imprint, a different image.
 - [File:King of Na gold seal knob top.png](https://commons.wikimedia.org/wiki/File:King_of_Na_gold_seal_knob_top.png) — King of Na gold seal
 - [File:Kitakatsuragi District in Nara prefecture Ja.png](https://commons.wikimedia.org/wiki/File:Kitakatsuragi_District_in_Nara_prefecture_Ja.png) — Kitakatsuragi District, Nara
 - [File:Kitatogawa 2daimetaikodai.png](https://commons.wikimedia.org/wiki/File:Kitatogawa_2daimetaikodai.png) — Futon Daiko
@@ -327,7 +327,7 @@ is done (record it in devlog.md). Prefer rebuilding from a vector source over tr
 - [File:Letter from Viceroy of Portuguese India Duarte de Menezes to Toyotomi Hideyoshi 1588.png](https://commons.wikimedia.org/wiki/File:Letter_from_Viceroy_of_Portuguese_India_Duarte_de_Menezes_to_Toyotomi_Hideyoshi_1588.png) — Tangible Cultural Property (Japan)
 - [File:LFW2008 2403.png](https://commons.wikimedia.org/wiki/File:LFW2008_2403.png) — Template:Contains special characters
 - [File:Linear B Sample.png](https://commons.wikimedia.org/wiki/File:Linear_B_Sample.png) — Help:Multilingual support
-- [File:Location map Ryukyu Islands.png](https://commons.wikimedia.org/wiki/File:Location_map_Ryukyu_Islands.png) — Talk:Gusuku Sites and Related Properties of the Kingdom of Ryukyu — NOT REBUILDABLE: raster topographic relief from maps-for-free.com; the listed SVG is a different map. Only tracing would vectorize it (ruled out).
+- [File:Location map Ryukyu Islands.png](https://commons.wikimedia.org/wiki/File:Location_map_Ryukyu_Islands.png) — Talk:Gusuku Sites and Related Properties of the Kingdom of Ryukyu — NOT REBUILDABLE: raster topographic relief from maps-for-free.com; the listed SVG is a different map. Only tracing would vectorize it (ruled out). Checked: Ryukyu cultural regions.svg embeds this same relief raster (render diff 7.2), so it is not a vector source.
 - [File:Location-of-Liancourt-rocks-en.png](https://commons.wikimedia.org/wiki/File:Location-of-Liancourt-rocks-en.png) — Template:Infobox islands/doc
 - [File:Lontara script.png](https://commons.wikimedia.org/wiki/File:Lontara_script.png) — Help:Multilingual support
 - [File:Macedonian Police insignia.png](https://commons.wikimedia.org/wiki/File:Macedonian_Police_insignia.png) — Template:Coat of arms
@@ -579,7 +579,6 @@ is done (record it in devlog.md). Prefer rebuilding from a vector source over tr
 - [File:Shu logo.png](https://commons.wikimedia.org/wiki/File:Shu_logo.png) — Module:Portal/images/s, Module:Portal/images/s/sandbox
 - [File:Sida-aids.png](https://commons.wikimedia.org/wiki/File:Sida-aids.png) — Module:Portal/images/v
 - [File:Sikaku.png](https://commons.wikimedia.org/wiki/File:Sikaku.png) — Category:Qualifications by Country, Category:Qualifications in Japan
-- [File:Silver-service-star.png](https://commons.wikimedia.org/wiki/File:Silver-service-star.png) — (file-title list), File:Silver-service-star.png
 - [File:SingaporeArmyinfoboxflag.png](https://commons.wikimedia.org/wiki/File:SingaporeArmyinfoboxflag.png) — Template:Country data Singapore
 - [File:Size of Lake Suwa.png](https://commons.wikimedia.org/wiki/File:Size_of_Lake_Suwa.png) — Takeminakata
 - [File:Skibsflaget fra Mariakirken i Lübeck.png](https://commons.wikimedia.org/wiki/File:Skibsflaget_fra_Mariakirken_i_L%C3%BCbeck.png) — Template:Country data Kalmar Union
@@ -605,7 +604,6 @@ is done (record it in devlog.md). Prefer rebuilding from a vector source over tr
 - [File:Talisman Against Disease.png](https://commons.wikimedia.org/wiki/File:Talisman_Against_Disease.png) — Ofuda
 - [File:Talk tab location - Minerva - en.png](https://commons.wikimedia.org/wiki/File:Talk_tab_location_-_Minerva_-_en.png) — Help:Talk pages
 - [File:Talk tab location - Vector 2022 - en.png](https://commons.wikimedia.org/wiki/File:Talk_tab_location_-_Vector_2022_-_en.png) — Help:Talk pages
-- [File:Tamil distribution.png](https://commons.wikimedia.org/wiki/File:Tamil_distribution.png) — Module:Portal/images/t
 - [File:Tangut Sample.png](https://commons.wikimedia.org/wiki/File:Tangut_Sample.png) — Help:Multilingual support
 - [File:Tanko-Armor-Kofun-Period-by-Sugiyama-Sueo.png](https://commons.wikimedia.org/wiki/File:Tanko-Armor-Kofun-Period-by-Sugiyama-Sueo.png) — Tankō
 - [File:TARDIS-trans.png](https://commons.wikimedia.org/wiki/File:TARDIS-trans.png) — Module:Portal/images/d
@@ -884,11 +882,13 @@ is done (record it in devlog.md). Prefer rebuilding from a vector source over tr
 - [File:평양신사배치도.png](https://commons.wikimedia.org/wiki/File:%ED%8F%89%EC%96%91%EC%8B%A0%EC%82%AC%EB%B0%B0%EC%B9%98%EB%8F%84.png) — Heijō Shrine
 - [File:평양신사측면전경.png](https://commons.wikimedia.org/wiki/File:%ED%8F%89%EC%96%91%EC%8B%A0%EC%82%AC%EC%B8%A1%EB%A9%B4%EC%A0%84%EA%B2%BD.png) — Heijō Shrine
 
-## Already vectorized on Commons (251)
+## Already vectorized on Commons (253)
 
 No rebuild needed; at most the PNG needs `{{Vector version available|...}}`. Built from
 `tools/same_name_svg.json` and `tools/triage.json`.
 
+- [File:Tamil distribution.png](https://commons.wikimedia.org/wiki/File:Tamil_distribution.png) — Module:Portal/images/t — vector exists: File:Tamil speakers map.svg (the PNG matches its render, mean diff 4.3)
+- [File:Silver-service-star.png](https://commons.wikimedia.org/wiki/File:Silver-service-star.png) — (file-title list), File:Silver-service-star.png — vector exists: File:Silver-service-star-3d.svg (the PNG is a render of it)
 - [File:Actual Cluj county CoA.png](https://commons.wikimedia.org/wiki/File:Actual_Cluj_county_CoA.png) — Template:Coat of arms — vector exists: File:Actual Cluj county CoA.svg
 - [File:Alveoli diagram.png](https://commons.wikimedia.org/wiki/File:Alveoli_diagram.png) — Module:Params/doc — description page already points to a vector version
 - [File:Anime stub.png](https://commons.wikimedia.org/wiki/File:Anime_stub.png) — (file-title list), File:Anime stub.png, Help:Pictures, Help:Visual file markup — vector exists: File:Anime stub.svg

@@ -1,0 +1,14 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Silver service star ribbon device used on military ribbons.}}
+|date=2017-02-05
+|source=https://en.wikipedia.org/wiki/File:Silver-service-star-3d.svg
+|author=Original version: Bear17 (https://commons.wikimedia.org/wiki/User:Bear17)
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{cc-by-sa-3.0}}
+
+[[Category:Military award devices]]
