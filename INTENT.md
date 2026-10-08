@@ -85,3 +85,6 @@ caused by unbounded steps (since fixed).
 
 - Work started 2026-10-07 23:02 PST, on the user's go-ahead. GitHub repo (private):
   EmmaLeonhart/commons-png-to-svg-vectorization.
+- 2026-10-08 13:20 PST: 40 files finished and staged in upload/; 546 still to vectorize, 256 already
+  vectorized on Commons, 299 likely raster originals set aside. Understanding of the goal unchanged;
+  the open questions above still need the user.
