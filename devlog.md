@@ -100,3 +100,5 @@
   53 `<text>` labels. Staged in upload/.
 - **File:Bangkok Monorail Logo.png → SVG** (three rounded squares, radii from mask area; 0.54% differ) and
   **File:23 Graz.png → SVG** (rounded badge + "(23)" text). Staged in upload/.
+- **File:Blackpool Transport simple logo.png → SVG**: two stroked primitives (tower polyline, base arc),
+  IoU 0.88. Staged in upload/.

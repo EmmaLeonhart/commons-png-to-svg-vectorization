@@ -4,7 +4,7 @@ PNG files from `data_lake/wikipedia-png-search-results.txt`, resolved against
 Commons by `tools/build_queue.py`. One line per file; delete a line when the file
 is done (record it in devlog.md). Prefer rebuilding from a vector source over tracing.
 
-## To vectorize (562)
+## To vectorize (561)
 
 Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed images (174).
 
@@ -27,7 +27,6 @@ Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed image
 - [File:Bali Ba.png](https://commons.wikimedia.org/wiki/File:Bali_Ba.png) — Template:Contains special characters
 - [File:Bamum King Njoya (4).png](https://commons.wikimedia.org/wiki/File:Bamum_King_Njoya_%284%29.png) — Help:Multilingual support
 - [File:Birth and death rate of japan 1950-2019.png](https://commons.wikimedia.org/wiki/File:Birth_and_death_rate_of_japan_1950-2019.png) — Yang Fire Horse
-- [File:Blackpool Transport simple logo.png](https://commons.wikimedia.org/wiki/File:Blackpool_Transport_simple_logo.png) — Template:Rail-interchange
 - [File:Blasó de Mallorca.png](https://commons.wikimedia.org/wiki/File:Blas%C3%B3_de_Mallorca.png) — Template:Coat of arms
 - [File:Blue Ridge Parkway shield.png](https://commons.wikimedia.org/wiki/File:Blue_Ridge_Parkway_shield.png) — Module:Road data/strings/USA/regional/Trails
 - [File:BodhGayaCetiya silhouette.png](https://commons.wikimedia.org/wiki/File:BodhGayaCetiya_silhouette.png) — Template:Buddhist-temple-stub
