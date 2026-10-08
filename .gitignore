@@ -32,3 +32,9 @@ Thumbs.db
 
 # The user's own photos stay out of git (local files are kept)
 upload/inochi-daigengu/
+
+# All photos stay out of git
+*.jpg
+*.jpeg
+*.JPG
+*.JPEG
