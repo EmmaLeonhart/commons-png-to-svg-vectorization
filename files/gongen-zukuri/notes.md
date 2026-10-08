@@ -6,4 +6,4 @@
   art as exact segments, with stacked 1 px runs merged into single lines of that width (189 line elements), and 66
   pillars as circles (`tools/rebuild_tree.extract`), drawn over the yellow as in the PNG. Every black pixel is explained;
   0.39% of pixels differ. 13 KB.
-- **Licence:** as on the original's page.
+- **Licence:** PD-self (Hiroyuki0904), as the original.
