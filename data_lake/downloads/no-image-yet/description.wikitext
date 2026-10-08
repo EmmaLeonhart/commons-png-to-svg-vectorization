@@ -1,0 +1,24 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|1=This image is a placeholder for a requested image. If you have such an image available as  [[:en:public domain|public domain]], or [[:en:open content|open content]], then please upload the images for the articles below. For more requested images, see [[:en:Wikipedia:Requested pictures|Wikipedia:Requested pictures]].
+
+black box, white field, single line red text "NO IMAGE YET"; original work, [[:en:user:badanedwa|user:badanedwa]].}}
+|Source={{Transferred from|en.wikipedia}}
+|Date={{Original upload date|2004-06-16}}
+|Author={{user at project|Vanished user 1234567890|wikipedia|en}}
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{self|author={{user at project|Vanished user 1234567890|wikipedia|en}}|GFDL-en|migration=relicense}}
+
+== {{Original upload log}} ==
+{{original description|en.wikipedia|NO+IMAGE+YET.png}}
+{| class="wikitable"
+! {{int:filehist-datetime}} !! {{int:filehist-dimensions}} !! {{int:filehist-user}} !! {{int:filehist-comment}}
+|-
+| 2004-06-16 22:18 || 173×21× (1570 bytes) || [[:en:User:Vanished user 1234567890|Vanished user 1234567890]] || ''<nowiki>black box, white field, single line red text "NO IMAGE YET"; original work, [[user:badanedwa]].</nowiki>''
+|}
+
+[[Category:Wikipedia image placeholders|Text message]]

@@ -128,3 +128,6 @@
   the district's four municipal paths recoloured; 1.8% of pixels differ. Staged in upload/.
 - **File:Gongen Zukuri.png → SVG**: axis rectangles, merged exact line segments, 66 pillar circles; 0.39% of pixels differ.
   Staged in upload/.
+- **NO IMAGE YET square.png, NO IMAGE YET.png, L14 C.png → SVG**: text images rebuilt as fitted `<text>` with the new
+  `tools/fit_text.py` (size, letter-spacing and start position from the ink box; padded canvas so trial text is never
+  clipped). 5 kamon marked NOT REBUILDABLE; 7 script samples added to the script-specimen decision. Staged in upload/.

@@ -4,7 +4,7 @@ PNG files from `data_lake/wikipedia-png-search-results.txt`, resolved against
 Commons by `tools/build_queue.py`. One line per file; delete a line when the file
 is done (record it in devlog.md). Prefer rebuilding from a vector source over tracing.
 
-## To vectorize (546)
+## To vectorize (543)
 
 Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed images (174).
 
@@ -117,46 +117,43 @@ Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed image
 - [File:Kounoke kamon.png](https://commons.wikimedia.org/wiki/File:Kounoke_kamon.png) — Kōno clan
 - [File:Kyoto-geo-stub.png](https://commons.wikimedia.org/wiki/File:Kyoto-geo-stub.png) — Template:Kyoto-geo-stub
 - [File:Kōfukuji plan.png](https://commons.wikimedia.org/wiki/File:K%C5%8Dfukuji_plan.png) — Kōfuku-ji
-- [File:L14 C.png](https://commons.wikimedia.org/wiki/File:L14_C.png) — Template:Rail-interchange
 - [File:LFW2008 2403.png](https://commons.wikimedia.org/wiki/File:LFW2008_2403.png) — Template:Contains special characters
-- [File:Linear B Sample.png](https://commons.wikimedia.org/wiki/File:Linear_B_Sample.png) — Help:Multilingual support
-- [File:Lontara script.png](https://commons.wikimedia.org/wiki/File:Lontara_script.png) — Help:Multilingual support
-- [File:Malayalam Om.png](https://commons.wikimedia.org/wiki/File:Malayalam_Om.png) — Om
+- [File:Linear B Sample.png](https://commons.wikimedia.org/wiki/File:Linear_B_Sample.png) — Help:Multilingual support — NEEDS-DECISION (user): script specimen (see INTENT: <text> needs the font on Commons vs. glyph outlines as paths).
+- [File:Lontara script.png](https://commons.wikimedia.org/wiki/File:Lontara_script.png) — Help:Multilingual support — NEEDS-DECISION (user): script specimen (see INTENT: <text> needs the font on Commons vs. glyph outlines as paths).
+- [File:Malayalam Om.png](https://commons.wikimedia.org/wiki/File:Malayalam_Om.png) — Om — NEEDS-DECISION (user): script specimen (see INTENT: <text> needs the font on Commons vs. glyph outlines as paths).
 - [File:Manual tab only - visual editor - citations.png](https://commons.wikimedia.org/wiki/File:Manual_tab_only_-_visual_editor_-_citations.png) — Help:VisualEditor
 - [File:Map Icon - Hotel.png](https://commons.wikimedia.org/wiki/File:Map_Icon_-_Hotel.png) — Module:Portal/images/h, Module:Portal/images/h/sandbox
 - [File:Map Kumano Kodo (ja).png](https://commons.wikimedia.org/wiki/File:Map_Kumano_Kodo_%28ja%29.png) — Kiiji
 - [File:Map Kumano Kodo.png](https://commons.wikimedia.org/wiki/File:Map_Kumano_Kodo.png) — Kumano Kodō
 - [File:Map of Suwa Shrine, Kamisha Honmiya (English).png](https://commons.wikimedia.org/wiki/File:Map_of_Suwa_Shrine%2C_Kamisha_Honmiya_%28English%29.png) — Suwa-taisha
 - [File:Map-okinawa-pref.png](https://commons.wikimedia.org/wiki/File:Map-okinawa-pref.png) — Okinawa
-- [File:Maru ni Sasa Rindō inverted.png](https://commons.wikimedia.org/wiki/File:Maru_ni_Sasa_Rind%C5%8D_inverted.png) — Ishikawa Kazumasa
-- [File:Marunimitsukashiwa.png](https://commons.wikimedia.org/wiki/File:Marunimitsukashiwa.png) — Ishizu Shrine, Yamato Okunitama Shrine, Mima
-- [File:Marunitsurukashiwa.png](https://commons.wikimedia.org/wiki/File:Marunitsurukashiwa.png) — Nahe Shrine, Takefutsu Nishinomiya Shrine
+- [File:Maru ni Sasa Rindō inverted.png](https://commons.wikimedia.org/wiki/File:Maru_ni_Sasa_Rind%C5%8D_inverted.png) — Ishikawa Kazumasa — NOT REBUILDABLE without tracing: kamon with freeform organic motifs.
+- [File:Marunimitsukashiwa.png](https://commons.wikimedia.org/wiki/File:Marunimitsukashiwa.png) — Ishizu Shrine, Yamato Okunitama Shrine, Mima — NOT REBUILDABLE without tracing: kamon with freeform organic motifs.
+- [File:Marunitsurukashiwa.png](https://commons.wikimedia.org/wiki/File:Marunitsurukashiwa.png) — Nahe Shrine, Takefutsu Nishinomiya Shrine — NOT REBUILDABLE without tracing: kamon with freeform organic motifs.
 - [File:Matsuura-gun.png](https://commons.wikimedia.org/wiki/File:Matsuura-gun.png) — Matsura-gun
 - [File:Megamihōri-no-in (売神祝印) seal imprint.png](https://commons.wikimedia.org/wiki/File:Megamih%C5%8Dri-no-in_%28%E5%A3%B2%E7%A5%9E%E7%A5%9D%E5%8D%B0%29_seal_imprint.png) — Suwa-taisha
 - [File:Melanesian Cultural Area.png](https://commons.wikimedia.org/wiki/File:Melanesian_Cultural_Area.png) — Module:Portal/images/m — NEEDS-DECISION (user): base (World2Hires filled mercator.svg) and ~25 labels are rebuildable, but the region blob is hand-drawn with no source; recreating it means fitting a smooth curve to the PNG's outline (tracing a simple shape). OK or not?
 - [File:Micronesian Cultural Area.png](https://commons.wikimedia.org/wiki/File:Micronesian_Cultural_Area.png) — Module:Portal/images/m — NEEDS-DECISION (user): base (World2Hires filled mercator.svg) and ~25 labels are rebuildable, but the region blob is hand-drawn with no source; recreating it means fitting a smooth curve to the PNG's outline (tracing a simple shape). OK or not?
 - [File:Midtown line GO logo.png](https://commons.wikimedia.org/wiki/File:Midtown_line_GO_logo.png) — Template:Rail-interchange
 - [File:Minor edit.png](https://commons.wikimedia.org/wiki/File:Minor_edit.png) — Help:Editing
-- [File:Mitsu Zaru inverted.png](https://commons.wikimedia.org/wiki/File:Mitsu_Zaru_inverted.png) — Mon (emblem)
-- [File:Modre symbol Omkara.png](https://commons.wikimedia.org/wiki/File:Modre_symbol_Omkara.png) — Om
-- [File:Mon- Izumo taisha.png](https://commons.wikimedia.org/wiki/File:Mon-_Izumo_taisha.png) — Izumo Taisha Matsuyama Shrine
+- [File:Mitsu Zaru inverted.png](https://commons.wikimedia.org/wiki/File:Mitsu_Zaru_inverted.png) — Mon (emblem) — NOT REBUILDABLE without tracing: kamon with freeform organic motifs.
+- [File:Modre symbol Omkara.png](https://commons.wikimedia.org/wiki/File:Modre_symbol_Omkara.png) — Om — NEEDS-DECISION (user): script specimen (see INTENT: <text> needs the font on Commons vs. glyph outlines as paths).
+- [File:Mon- Izumo taisha.png](https://commons.wikimedia.org/wiki/File:Mon-_Izumo_taisha.png) — Izumo Taisha Matsuyama Shrine — NOT REBUILDABLE without tracing: kamon with freeform organic motifs.
 - [File:Moriya Family Tree - 守矢氏系図.png](https://commons.wikimedia.org/wiki/File:Moriya_Family_Tree_-_%E5%AE%88%E7%9F%A2%E6%B0%8F%E7%B3%BB%E5%9B%B3.png) — Chikatō-no-Kami, Itsuhayahime-no-Mikoto, Izuhayao-no-Mikoto, Katakurabe no Mikoto, Kodamahiko-no-Mikoto, Moritachi no Kami, Moritaku-no-Kami, Moriya clan, Tamaru-hime, Yagata no Sukune no Kami
 - [File:Moromi.png](https://commons.wikimedia.org/wiki/File:Moromi.png) — Module:Portal/images/a
 - [File:Mouse icon vector.png](https://commons.wikimedia.org/wiki/File:Mouse_icon_vector.png) — Module:Portal/images/h, Module:Portal/images/h/sandbox
 - [File:Nagashima Iki.png](https://commons.wikimedia.org/wiki/File:Nagashima_Iki.png) — Iki Island
 - [File:Nagikama.png](https://commons.wikimedia.org/wiki/File:Nagikama.png) — Takeminakata
 - [File:Nakano Inugoya dog shelters 1696.png](https://commons.wikimedia.org/wiki/File:Nakano_Inugoya_dog_shelters_1696.png) — Tokugawa Tsunayoshi
-- [File:Name muhammad in sylheti nagari.png](https://commons.wikimedia.org/wiki/File:Name_muhammad_in_sylheti_nagari.png) — Help:Multilingual support
+- [File:Name muhammad in sylheti nagari.png](https://commons.wikimedia.org/wiki/File:Name_muhammad_in_sylheti_nagari.png) — Help:Multilingual support — NEEDS-DECISION (user): script specimen (see INTENT: <text> needs the font on Commons vs. glyph outlines as paths).
 - [File:Nara Toichi-gun.png](https://commons.wikimedia.org/wiki/File:Nara_Toichi-gun.png) — Toichi district
 - [File:Naval jack of the United States (1975–1976).png](https://commons.wikimedia.org/wiki/File:Naval_jack_of_the_United_States_%281975%E2%80%931976%29.png) — Template:Country data United States Navy
 - [File:NaviMumbaiMetro-Logo.png](https://commons.wikimedia.org/wiki/File:NaviMumbaiMetro-Logo.png) — Template:Rail-interchange
 - [File:Nbfr logo.png](https://commons.wikimedia.org/wiki/File:Nbfr_logo.png) — Template:Country data Russia
 - [File:Neulicht.Botein.P1162773.png](https://commons.wikimedia.org/wiki/File:Neulicht.Botein.P1162773.png) — Acronychic
-- [File:New Tai Lue script sample.png](https://commons.wikimedia.org/wiki/File:New_Tai_Lue_script_sample.png) — Help:Multilingual support
-- [File:NO IMAGE YET square.png](https://commons.wikimedia.org/wiki/File:NO_IMAGE_YET_square.png) — (file-title list), File:NO IMAGE YET square.png, Module:InfoboxImage/data, Module:InfoboxImage/doc, Module:InfoboxImage/sandbox
-- [File:NO IMAGE YET.png](https://commons.wikimedia.org/wiki/File:NO_IMAGE_YET.png) — (file-title list), File:NO IMAGE YET.png, Module:InfoboxImage/data, Module:InfoboxImage/doc, Module:InfoboxImage/sandbox
+- [File:New Tai Lue script sample.png](https://commons.wikimedia.org/wiki/File:New_Tai_Lue_script_sample.png) — Help:Multilingual support — NEEDS-DECISION (user): script specimen (see INTENT: <text> needs the font on Commons vs. glyph outlines as paths).
 - [File:NoDVDcover copy.png](https://commons.wikimedia.org/wiki/File:NoDVDcover_copy.png) — (file-title list), File:NoDVDcover copy.png, Module:InfoboxImage/data, Module:InfoboxImage/doc, Module:InfoboxImage/sandbox
-- [File:Nonotonoto.png](https://commons.wikimedia.org/wiki/File:Nonotonoto.png) — Help:Multilingual support
+- [File:Nonotonoto.png](https://commons.wikimedia.org/wiki/File:Nonotonoto.png) — Help:Multilingual support — NEEDS-DECISION (user): script specimen (see INTENT: <text> needs the font on Commons vs. glyph outlines as paths).
 - [File:North Texas Stacked Wordmark.png](https://commons.wikimedia.org/wiki/File:North_Texas_Stacked_Wordmark.png) — Module:Portal/images/u
 - [File:Notifications - Email received - January 2016.png](https://commons.wikimedia.org/wiki/File:Notifications_-_Email_received_-_January_2016.png) — Help:Notifications
 - [File:Notifications - Failed Mention - August 2016.png](https://commons.wikimedia.org/wiki/File:Notifications_-_Failed_Mention_-_August_2016.png) — Help:Notifications
