@@ -124,3 +124,5 @@
 - Japan ferry sign.png: File:Japanese road sign (Ferry).svg is the same official sign; moved to "Already vectorized".
 - **File:Japanese flag during the Kenmu Restoration.png → SVG**: Imperial Seal chrysanthemum (recoloured) on a measured
   nobori banner; 0.9% of pixels differ. Staged in upload/.
+- **File:Kitakatsuragi District in Nara prefecture Ja.png → SVG**: the 2008 revision of Map of Nara Prefecture Ja.svg with
+  the district's four municipal paths recoloured; 1.8% of pixels differ. Staged in upload/.

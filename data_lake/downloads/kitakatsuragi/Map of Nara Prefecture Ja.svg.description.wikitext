@@ -1,0 +1,50 @@
+<!--This file was moved here using FileImporter from https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:%E5%8C%85%E6%8B%AC%E8%87%AA%E6%B2%BB%E4%BD%93%E5%8C%BA%E7%94%BB%E5%9B%B3_29000.svg-->
+== {{int:filedesc}} ==
+{{Information
+|Description    = {{en|Map of Nara Prefecture, Japan.}}
+{{ja|[[:ja:奈良県]]区画図}}
+|Source         = * Original file: {{own}}
+* Data: 国土交通省 国土数値情報(行政区域<span style="font-size:smaller;">(N03)</span>・湖沼<span style="font-size:smaller;">(W09)</span>)
+|Date           = 2008-04-29 23:12 (UTC)
+|Author         = [[:ja:User:Lincun|Lincun]]
+|Permission     = {{Japan municipality by Lincun|奈良県|}}
+|other_versions = 
+}}
+
+== {{int:license-header}} ==
+{{GFDL|migration=redundant}}
+{{Cc-by-sa-3.0}}
+
+== {{Original upload log}} ==
+{{Moved from Japanese Wikipedia
+| filename = 包括自治体区画図 29000.svg
+| description = <nowiki>{{NowCommons|File:Map of Nara Prefecture Ja.svg}} {{基礎自治体位置図画像情報|奈良県|}}</nowiki>
+| file_history = {{Moved from Japanese Wikipedia/FileHistory
+ | timezone = UTC
+ | datetime1 = 2007-10-08T13:07:37Z
+ | demensions1 = 450x782
+ | user1 = Lincun
+ | comment1 = <nowiki>{{基礎自治体位置図画像情報|奈良県|}}</nowiki>
+ | datetime2 = 2013-07-14T12:56:00Z
+ | demensions2 = 440x700
+ | user2 = ニンジンシチュー
+ | comment2 = <nowiki>デザイン変更</nowiki>
+}}
+| page_history = {{Moved from Japanese Wikipedia/PageHistory
+ | timezone = UTC
+ | datetime1 = 2007-10-08T13:07:37Z
+ | user1 = Lincun
+ | summary1 = <nowiki>{{基礎自治体位置図画像情報|奈良県|}}</nowiki>
+ | datetime2 = 2009-10-08T06:10:32Z
+ | user2 = Monaneko
+ | summary2 = 
+ | datetime3 = 2013-07-14T12:56:00Z
+ | user3 = ニンジンシチュー
+ | summary3 = <nowiki>ニンジンシチュー 「[[ファイル:包括自治体区画図 29000.svg]]」の新しい版をアップロードしました</nowiki>
+}}
+| other_information = 
+}}
+
+[[Category:Location maps of Nara prefecture]]
+[[Category:Maps of municipalities in Nara prefecture|*]]
+[[Category:Locator maps of municipalities in Japan based on maps by Lincun]]

@@ -4,7 +4,7 @@ PNG files from `data_lake/wikipedia-png-search-results.txt`, resolved against
 Commons by `tools/build_queue.py`. One line per file; delete a line when the file
 is done (record it in devlog.md). Prefer rebuilding from a vector source over tracing.
 
-## To vectorize (548)
+## To vectorize (547)
 
 Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed images (174).
 
@@ -111,7 +111,6 @@ Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed image
 - [File:Katana (common shema).png](https://commons.wikimedia.org/wiki/File:Katana_%28common_shema%29.png) — Japanese sword, Katana
 - [File:KAWI LETTER OM.png](https://commons.wikimedia.org/wiki/File:KAWI_LETTER_OM.png) — Om
 - [File:Kharosthi font rendering sample.png](https://commons.wikimedia.org/wiki/File:Kharosthi_font_rendering_sample.png) — Help:Multilingual support
-- [File:Kitakatsuragi District in Nara prefecture Ja.png](https://commons.wikimedia.org/wiki/File:Kitakatsuragi_District_in_Nara_prefecture_Ja.png) — Kitakatsuragi District, Nara
 - [File:Kolkata bus.png](https://commons.wikimedia.org/wiki/File:Kolkata_bus.png) — Template:Rail-interchange
 - [File:Kongo Cosmogram - blank.png](https://commons.wikimedia.org/wiki/File:Kongo_Cosmogram_-_blank.png) — Template:Kongo religion sidebar
 - [File:Koshiate (Sword Hangers).png](https://commons.wikimedia.org/wiki/File:Koshiate_%28Sword_Hangers%29.png) — Japanese sword, Tachi

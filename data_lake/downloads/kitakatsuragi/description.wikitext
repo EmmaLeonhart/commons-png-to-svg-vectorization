@@ -1,0 +1,10 @@
+{{Information
+|Description=Kitakatsuragi District in Nara prefecture 
+|Source=Japanese wiki  [http://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:%E5%8C%85%E6%8B%AC%E8%87%AA%E6%B2%BB%E4%BD%93%E5%8C%BA%E7%94%BB%E5%9B%B3_29000.svg] and rework
+|Date=2009-05-25 21:25 (UTC)
+|Author=[[:ja: 利用者:Lincun]],  [[User:Krisgrotius|Krisgrotius]] ([[User talk:Krisgrotius|<span class="signature-talk">talk</span>]])
+|Permission=GNU Free Documentation License
+|other_versions=
+}}
+{{GFDL|migration=relicense}}
+[[Category:Maps of districts in Nara prefecture]]
