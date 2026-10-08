@@ -110,7 +110,7 @@ def main():
              f'## To vectorize ({len(files)})', '']
     for f in sorted(files, key=str.lower):
         arts = ', '.join(sorted(a for a in files[f] if a))
-        lines.append(f'- [ ] [File:{f}](https://commons.wikimedia.org/wiki/File:{urllib.parse.quote(f.replace(" ", "_"))}) — {arts}')
+        lines.append(f'- [File:{f}](https://commons.wikimedia.org/wiki/File:{urllib.parse.quote(f.replace(" ", "_"))}) — {arts}')
     lines += ['', f'## Unresolved names ({len(unresolved)})', '',
               'Cut off in the list and not matched uniquely on Commons. NEEDS-INVESTIGATION.', '']
     for n in sorted(unresolved, key=str.lower):
