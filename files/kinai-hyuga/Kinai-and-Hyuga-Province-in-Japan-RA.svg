@@ -284,25 +284,25 @@
   </g>
 </g>
   <rect id="label-panel" x="936" y="208" width="464" height="251" fill="#ffffff" fill-opacity="0.5"/>
-  <g id="labels" style="font-family:'Noto Serif CJK JP', 'Noto Serif JP', serif;font-weight:600;fill:#000000;stroke:#ffffff;stroke-width:6;stroke-linejoin:round;paint-order:stroke">
-    <text id="label-izumo-ja" x="652" y="360" style="font-size:73.6px;text-anchor:middle;letter-spacing:34px">出雲</text>
-    <text id="label-izumo" x="637" y="435" style="font-size:74.7px;text-anchor:middle;letter-spacing:6.75px">Izumo</text>
-    <text id="label-kinai-ja" x="1165" y="296" style="font-size:74.6px;text-anchor:middle;letter-spacing:31px">畿内</text>
-    <text id="label-kinai" x="1157" y="370" style="font-size:71.3px;text-anchor:middle;letter-spacing:11.5px">Kinai</text>
-    <text id="label-kinai-count" x="1150" y="433" style="font-size:62.2px;text-anchor:middle;letter-spacing:0.67px">(5 Provinces)</text>
-    <text id="label-hyuga-ja" x="468" y="1039" style="font-size:72.4px;text-anchor:middle;letter-spacing:32px">日向</text>
-    <text id="label-hyuga" x="454" y="1113" style="font-size:72.0px;text-anchor:middle;letter-spacing:10.75px">Hyuga</text>
-    <text id="label-hyuga-alt" x="452" y="1186" style="font-size:71.1px;text-anchor:middle;letter-spacing:8.15px">(Himuka)</text>
-    <text id="num-1" x="1200" y="536" style="font-size:58.0px;text-anchor:middle">1</text>
-    <text id="num-2" x="1139" y="556" style="font-size:56.6px;text-anchor:middle">2</text>
-    <text id="num-3" x="1184" y="605" style="font-size:55.3px;text-anchor:middle">3</text>
-    <text id="num-4" x="1135" y="635" style="font-size:55.3px;text-anchor:middle">4</text>
-    <text id="num-5" x="1222" y="676" style="font-size:56.6px;text-anchor:middle">5</text>
-    <text id="legend-title" x="1061" y="945" style="font-size:77.3px;text-anchor:middle;letter-spacing:11.25px">KINAI</text>
-    <text id="legend-1" x="760" y="1023" style="font-size:74.5px;text-anchor:start;letter-spacing:-1.07px">1 Yamashiro 山城</text>
-    <text id="legend-2" x="762" y="1102" style="font-size:74.6px;text-anchor:start;letter-spacing:1.4px">2 Settsu 摂津</text>
-    <text id="legend-3" x="762" y="1179" style="font-size:72.4px;text-anchor:start;letter-spacing:1.36px">3 Kawachi 河内</text>
-    <text id="legend-4" x="763" y="1258" style="font-size:74.7px;text-anchor:start;letter-spacing:1.11px">4 Izumi 和泉</text>
-    <text id="legend-5" x="763" y="1335" style="font-size:72.4px;text-anchor:start;letter-spacing:2.5px">5 Yamato 大和</text>
+  <g id="labels" style="font-family:'Noto Serif CJK JP', 'Noto Serif JP', serif;font-weight:600;fill:#000000;stroke:#ffffff;stroke-width:8;stroke-linejoin:round;paint-order:stroke">
+    <text id="label-izumo-ja" x="636" y="359" style="font-size:71.4px;text-anchor:middle;letter-spacing:9.0px">出雲</text>
+    <text id="label-izumo" x="634" y="434" style="font-size:72.0px;text-anchor:middle;letter-spacing:1.25px">Izumo</text>
+    <text id="label-kinai-ja" x="1149" y="295" style="font-size:72.4px;text-anchor:middle;letter-spacing:4.0px">畿内</text>
+    <text id="label-kinai" x="1151" y="369" style="font-size:68.8px;text-anchor:middle;letter-spacing:5.25px">Kinai</text>
+    <text id="label-kinai-count" x="1150" y="432" style="font-size:60.2px;text-anchor:middle;letter-spacing:-0.75px">(5 Provinces)</text>
+    <text id="label-hyuga-ja" x="452" y="1038" style="font-size:70.2px;text-anchor:middle;letter-spacing:6.0px">日向</text>
+    <text id="label-hyuga" x="448" y="1112" style="font-size:70.0px;text-anchor:middle;letter-spacing:4.5px">Hyuga</text>
+    <text id="label-hyuga-alt" x="448" y="1185" style="font-size:69.1px;text-anchor:middle;letter-spacing:5.29px">(Himuka)</text>
+    <text id="num-1" x="1200" y="535" style="font-size:55.2px;text-anchor:middle">1</text>
+    <text id="num-2" x="1139" y="555" style="font-size:53.8px;text-anchor:middle">2</text>
+    <text id="num-3" x="1184" y="604" style="font-size:52.6px;text-anchor:middle">3</text>
+    <text id="num-4" x="1135" y="634" style="font-size:52.6px;text-anchor:middle">4</text>
+    <text id="num-5" x="1222" y="675" style="font-size:53.8px;text-anchor:middle">5</text>
+    <text id="legend-title" x="1056" y="944" style="font-size:74.6px;text-anchor:middle;letter-spacing:5.75px">KINAI</text>
+    <text id="legend-1" x="775" y="1022" style="font-size:72.3px;text-anchor:start;letter-spacing:-2.0px">1 Yamashiro 山城</text>
+    <text id="legend-2" x="777" y="1101" style="font-size:72.4px;text-anchor:start;letter-spacing:-0.3px">2 Settsu 摂津</text>
+    <text id="legend-3" x="777" y="1178" style="font-size:70.2px;text-anchor:start;letter-spacing:0.09px">3 Kawachi 河内</text>
+    <text id="legend-4" x="778" y="1257" style="font-size:72.5px;text-anchor:start;letter-spacing:-0.78px">4 Izumi 和泉</text>
+    <text id="legend-5" x="778" y="1334" style="font-size:70.2px;text-anchor:start;letter-spacing:1.0px">5 Yamato 大和</text>
   </g>
 </svg>

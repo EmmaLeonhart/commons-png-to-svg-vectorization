@@ -35,25 +35,25 @@ WEIGHT = 600
 # (id, x, baseline y, font size, letter-spacing, anchor, text); sizes and spacing fitted
 # to the PNG's ink boxes (scratch fit, Chrome + Noto Serif JP)
 LABELS = [
-    ('label-izumo-ja', 652, 360, 73.6, 34, 'middle', '出雲'),
-    ('label-izumo', 637, 435, 74.7, 6.75, 'middle', 'Izumo'),
-    ('label-kinai-ja', 1165, 296, 74.6, 31, 'middle', '畿内'),
-    ('label-kinai', 1157, 370, 71.3, 11.5, 'middle', 'Kinai'),
-    ('label-kinai-count', 1150, 433, 62.2, 0.67, 'middle', '(5 Provinces)'),
-    ('label-hyuga-ja', 468, 1039, 72.4, 32, 'middle', '日向'),
-    ('label-hyuga', 454, 1113, 72.0, 10.75, 'middle', 'Hyuga'),
-    ('label-hyuga-alt', 452, 1186, 71.1, 8.15, 'middle', '(Himuka)'),
-    ('num-1', 1200, 536, 58.0, 0, 'middle', '1'),
-    ('num-2', 1139, 556, 56.6, 0, 'middle', '2'),
-    ('num-3', 1184, 605, 55.3, 0, 'middle', '3'),
-    ('num-4', 1135, 635, 55.3, 0, 'middle', '4'),
-    ('num-5', 1222, 676, 56.6, 0, 'middle', '5'),
-    ('legend-title', 1061, 945, 77.3, 11.25, 'middle', 'KINAI'),
-    ('legend-1', 760, 1023, 74.5, -1.07, 'start', '1 Yamashiro 山城'),
-    ('legend-2', 762, 1102, 74.6, 1.4, 'start', '2 Settsu 摂津'),
-    ('legend-3', 762, 1179, 72.4, 1.36, 'start', '3 Kawachi 河内'),
-    ('legend-4', 763, 1258, 74.7, 1.11, 'start', '4 Izumi 和泉'),
-    ('legend-5', 763, 1335, 72.4, 2.5, 'start', '5 Yamato 大和'),
+    ('label-izumo-ja', 636, 359, 71.4, 9.0, 'middle', '出雲'),
+    ('label-izumo', 634, 434, 72.0, 1.25, 'middle', 'Izumo'),
+    ('label-kinai-ja', 1149, 295, 72.4, 4.0, 'middle', '畿内'),
+    ('label-kinai', 1151, 369, 68.8, 5.25, 'middle', 'Kinai'),
+    ('label-kinai-count', 1150, 432, 60.2, -0.75, 'middle', '(5 Provinces)'),
+    ('label-hyuga-ja', 452, 1038, 70.2, 6.0, 'middle', '日向'),
+    ('label-hyuga', 448, 1112, 70.0, 4.5, 'middle', 'Hyuga'),
+    ('label-hyuga-alt', 448, 1185, 69.1, 5.29, 'middle', '(Himuka)'),
+    ('num-1', 1200, 535, 55.2, 0, 'middle', '1'),
+    ('num-2', 1139, 555, 53.8, 0, 'middle', '2'),
+    ('num-3', 1184, 604, 52.6, 0, 'middle', '3'),
+    ('num-4', 1135, 634, 52.6, 0, 'middle', '4'),
+    ('num-5', 1222, 675, 53.8, 0, 'middle', '5'),
+    ('legend-title', 1056, 944, 74.6, 5.75, 'middle', 'KINAI'),
+    ('legend-1', 775, 1022, 72.3, -2.0, 'start', '1 Yamashiro 山城'),
+    ('legend-2', 777, 1101, 72.4, -0.3, 'start', '2 Settsu 摂津'),
+    ('legend-3', 777, 1178, 70.2, 0.09, 'start', '3 Kawachi 河内'),
+    ('legend-4', 778, 1257, 72.5, -0.78, 'start', '4 Izumi 和泉'),
+    ('legend-5', 778, 1334, 70.2, 1.0, 'start', '5 Yamato 大和'),
 ]
 
 
@@ -99,7 +99,7 @@ def main():
     etree.SubElement(svg, Q('rect'), id='label-panel', x='936', y='208', width='464', height='251',
                      fill='#ffffff', **{'fill-opacity': '0.5'})
     labels = etree.SubElement(svg, Q('g'), id='labels', style=(
-        f'font-family:{FONT};font-weight:{WEIGHT};fill:#000000;stroke:#ffffff;stroke-width:6;'
+        f'font-family:{FONT};font-weight:{WEIGHT};fill:#000000;stroke:#ffffff;stroke-width:8;'
         'stroke-linejoin:round;paint-order:stroke'))
     for lid, x, y, size, spacing, anchor, text in LABELS:
         style = f'font-size:{size}px;text-anchor:{anchor}'
