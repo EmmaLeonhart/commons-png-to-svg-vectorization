@@ -4,7 +4,7 @@ PNG files from `data_lake/wikipedia-png-search-results.txt`, resolved against
 Commons by `tools/build_queue.py`. One line per file; delete a line when the file
 is done (record it in devlog.md). Prefer rebuilding from a vector source over tracing.
 
-## To vectorize (552)
+## To vectorize (551)
 
 Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed images (174).
 
@@ -69,7 +69,7 @@ Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed image
 - [File:Excerpt tree.png](https://commons.wikimedia.org/wiki/File:Excerpt_tree.png) — Template:Excerpt/doc
 - [File:Family crest hanawachigai.png](https://commons.wikimedia.org/wiki/File:Family_crest_hanawachigai.png) — Mon (emblem) — NOT REBUILDABLE without tracing: the notched flower is freeform. File:Japanese Crest Hana Wachigai.svg is a different (inverted) design, not its vector version.
 - [File:Flag of California (1924–1953).png](https://commons.wikimedia.org/wiki/File:Flag_of_California_%281924%E2%80%931953%29.png) — Template:Country data California
-- [File:Flag of the Indonesian Marine Corps.png](https://commons.wikimedia.org/wiki/File:Flag_of_the_Indonesian_Marine_Corps.png) — Template:Country data Indonesia
+- [File:Flag of the Indonesian Marine Corps.png](https://commons.wikimedia.org/wiki/File:Flag_of_the_Indonesian_Marine_Corps.png) — Template:Country data Indonesia — NEEDS-INVESTIGATION: rebuildable from File:Korps Marinir.svg (recoloured) on a measured field and border, but the emblem lettering in that SVG is outlined paths; it would need re-creating as <textPath> text for the vector-text rule.
 - [File:Flag of the Japan Air Self-Defense Force (1955-1957).png](https://commons.wikimedia.org/wiki/File:Flag_of_the_Japan_Air_Self-Defense_Force_%281955-1957%29.png) — Template:Country data Japan — NEEDS-DECISION (user): field is trivial, but the emblem in the PNG is a simpler, older drawing than File:JASDF emblem (outline).svg (Sodacan); using that SVG in flat gold would change the design visibly. Acceptable?
 - [File:Flag of the King of Korea (1856–1871).png](https://commons.wikimedia.org/wiki/File:Flag_of_the_King_of_Korea_%281856%E2%80%931871%29.png) — Template:Country data Joseon, Template:Country data Korea
 - [File:Flag of the Mexican Maritime Search and Rescue.png](https://commons.wikimedia.org/wiki/File:Flag_of_the_Mexican_Maritime_Search_and_Rescue.png) — Template:Country data Mexico
@@ -79,38 +79,37 @@ Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed image
 - [File:Flag of the United Arab Emirates Navy.png](https://commons.wikimedia.org/wiki/File:Flag_of_the_United_Arab_Emirates_Navy.png) — Template:Country data United Arab Emirates
 - [File:Fukuchiyama Toyuke-daijinja map.png](https://commons.wikimedia.org/wiki/File:Fukuchiyama_Toyuke-daijinja_map.png) — Toyouke Shrine (Fukuchiyama)
 - [File:GaelicGamesProjectLogo.png](https://commons.wikimedia.org/wiki/File:GaelicGamesProjectLogo.png) — Module:Portal/images/g
-- [File:Gion Daimyojin.png](https://commons.wikimedia.org/wiki/File:Gion_Daimyojin.png) — Susanoo-no-Mikoto
-- [File:God of Daishogun.png](https://commons.wikimedia.org/wiki/File:God_of_Daishogun.png) — Daishōgun (directional deity)
-- [File:God of Hyobi.png](https://commons.wikimedia.org/wiki/File:God_of_Hyobi.png) — Eight Directional Deities, Hyōbijin
-- [File:God of Ooban.png](https://commons.wikimedia.org/wiki/File:God_of_Ooban.png) — Eight Directional Deities, Ōbanjin
-- [File:God of Saikei.png](https://commons.wikimedia.org/wiki/File:God_of_Saikei.png) — Eight Directional Deities, Saigyōshin
-- [File:God of Saisatsu.png](https://commons.wikimedia.org/wiki/File:God_of_Saisatsu.png) — Eight Directional Deities, Saisetsujin
-- [File:God of Taion.png](https://commons.wikimedia.org/wiki/File:God_of_Taion.png) — Eight Directional Deities, Taionjin
-- [File:God of Taisai.png](https://commons.wikimedia.org/wiki/File:God_of_Taisai.png) — Eight Directional Deities, Taisaijin
-- [File:God of Toshitoku.png](https://commons.wikimedia.org/wiki/File:God_of_Toshitoku.png) — Directional deity, Toshitoku-shin
+- [File:Gion Daimyojin.png](https://commons.wikimedia.org/wiki/File:Gion_Daimyojin.png) — Susanoo-no-Mikoto — NOT REBUILDABLE without tracing: woodblock / line-art figure drawing (flat colours, but freeform art).
+- [File:God of Daishogun.png](https://commons.wikimedia.org/wiki/File:God_of_Daishogun.png) — Daishōgun (directional deity) — NOT REBUILDABLE without tracing: woodblock / line-art figure drawing (flat colours, but freeform art).
+- [File:God of Hyobi.png](https://commons.wikimedia.org/wiki/File:God_of_Hyobi.png) — Eight Directional Deities, Hyōbijin — NOT REBUILDABLE without tracing: woodblock / line-art figure drawing (flat colours, but freeform art).
+- [File:God of Ooban.png](https://commons.wikimedia.org/wiki/File:God_of_Ooban.png) — Eight Directional Deities, Ōbanjin — NOT REBUILDABLE without tracing: woodblock / line-art figure drawing (flat colours, but freeform art).
+- [File:God of Saikei.png](https://commons.wikimedia.org/wiki/File:God_of_Saikei.png) — Eight Directional Deities, Saigyōshin — NOT REBUILDABLE without tracing: woodblock / line-art figure drawing (flat colours, but freeform art).
+- [File:God of Saisatsu.png](https://commons.wikimedia.org/wiki/File:God_of_Saisatsu.png) — Eight Directional Deities, Saisetsujin — NOT REBUILDABLE without tracing: woodblock / line-art figure drawing (flat colours, but freeform art).
+- [File:God of Taion.png](https://commons.wikimedia.org/wiki/File:God_of_Taion.png) — Eight Directional Deities, Taionjin — NOT REBUILDABLE without tracing: woodblock / line-art figure drawing (flat colours, but freeform art).
+- [File:God of Taisai.png](https://commons.wikimedia.org/wiki/File:God_of_Taisai.png) — Eight Directional Deities, Taisaijin — NOT REBUILDABLE without tracing: woodblock / line-art figure drawing (flat colours, but freeform art).
+- [File:God of Toshitoku.png](https://commons.wikimedia.org/wiki/File:God_of_Toshitoku.png) — Directional deity, Toshitoku-shin — NOT REBUILDABLE without tracing: woodblock / line-art figure drawing (flat colours, but freeform art).
 - [File:Gongen Zukuri.png](https://commons.wikimedia.org/wiki/File:Gongen_Zukuri.png) — Gongen, Ishi-no-ma-zukuri
 - [File:Greater Macedonia.png](https://commons.wikimedia.org/wiki/File:Greater_Macedonia.png) — Module:Portal/images/m
-- [File:Hakusan Myori Daigongen.png](https://commons.wikimedia.org/wiki/File:Hakusan_Myori_Daigongen.png) — Hakusan Gongen
-- [File:Harisainyo.png](https://commons.wikimedia.org/wiki/File:Harisainyo.png) — Gozu Tennō, Harisai-sho, Kushinadahime
+- [File:Hakusan Myori Daigongen.png](https://commons.wikimedia.org/wiki/File:Hakusan_Myori_Daigongen.png) — Hakusan Gongen — NOT REBUILDABLE without tracing: woodblock / line-art figure drawing (flat colours, but freeform art).
+- [File:Harisainyo.png](https://commons.wikimedia.org/wiki/File:Harisainyo.png) — Gozu Tennō, Harisai-sho, Kushinadahime — NOT REBUILDABLE without tracing: woodblock / line-art figure drawing (flat colours, but freeform art).
 - [File:Harushima Iki.png](https://commons.wikimedia.org/wiki/File:Harushima_Iki.png) — Iki Island
 - [File:Higashimuro District Map.png](https://commons.wikimedia.org/wiki/File:Higashimuro_District_Map.png) — Higashimuro District, Wakayama
 - [File:Historical expanse of Ainu.png](https://commons.wikimedia.org/wiki/File:Historical_expanse_of_Ainu.png) — Talk:Jōmon period
-- [File:Icona catastrofi.png](https://commons.wikimedia.org/wiki/File:Icona_catastrofi.png) — Module:Portal/images/t
+- [File:Icona catastrofi.png](https://commons.wikimedia.org/wiki/File:Icona_catastrofi.png) — Module:Portal/images/t — NOT REBUILDABLE without tracing: woodblock / line-art figure drawing (flat colours, but freeform art).
 - [File:Idioma osetio.png](https://commons.wikimedia.org/wiki/File:Idioma_osetio.png) — Module:Portal/images/o
 - [File:Ikushimatarushimajinja.png](https://commons.wikimedia.org/wiki/File:Ikushimatarushimajinja.png) — Ikushimatarushima Shrine
 - [File:Indigenous of Asia.png](https://commons.wikimedia.org/wiki/File:Indigenous_of_Asia.png) — Help:Multilingual support
 - [File:Indonesian Road Sign d9a.png](https://commons.wikimedia.org/wiki/File:Indonesian_Road_Sign_d9a.png) — Module:Road data/extra
-- [File:Istanbul public transport - Nostaljik Tramvay symbol.png](https://commons.wikimedia.org/wiki/File:Istanbul_public_transport_-_Nostaljik_Tramvay_symbol.png) — Template:Rail-interchange
 - [File:Itsukushima-island.png](https://commons.wikimedia.org/wiki/File:Itsukushima-island.png) — Talk:Itsukushima
-- [File:Izuna Gongen.png](https://commons.wikimedia.org/wiki/File:Izuna_Gongen.png) — Izuna Gongen
+- [File:Izuna Gongen.png](https://commons.wikimedia.org/wiki/File:Izuna_Gongen.png) — Izuna Gongen — NOT REBUILDABLE without tracing: woodblock / line-art figure drawing (flat colours, but freeform art).
 - [File:Japan Chubu Region large.png](https://commons.wikimedia.org/wiki/File:Japan_Chubu_Region_large.png) — Eastern Japan
 - [File:Japan ferry sign.png](https://commons.wikimedia.org/wiki/File:Japan_ferry_sign.png) — Module:Road data/extra
 - [File:Japan large.png](https://commons.wikimedia.org/wiki/File:Japan_large.png) — Category:Regions of Japan by Prefecture
 - [File:Japanese flag during the Kenmu Restoration.png](https://commons.wikimedia.org/wiki/File:Japanese_flag_during_the_Kenmu_Restoration.png) — Kenmu Restoration
 - [File:Kagoshima-geo-stub.png](https://commons.wikimedia.org/wiki/File:Kagoshima-geo-stub.png) — Template:Kagoshima — already has a vector version: File:Flag map of Kagoshima Prefecture.svg (tag the PNG {{Vector version available}}).
 - [File:Kaikatennou oujintennou.png](https://commons.wikimedia.org/wiki/File:Kaikatennou_oujintennou.png) — Hikoimasu no Ōkimi
-- [File:Kajikimen (鹿食免).png](https://commons.wikimedia.org/wiki/File:Kajikimen_%28%E9%B9%BF%E9%A3%9F%E5%85%8D%29.png) — Ofuda, Suwa-taisha
-- [File:Kashikodokoro Jogyosha and Ohaguruma 04.png](https://commons.wikimedia.org/wiki/File:Kashikodokoro_Jogyosha_and_Ohaguruma_04.png) — Kashiko-dokoro Riding Car
+- [File:Kajikimen (鹿食免).png](https://commons.wikimedia.org/wiki/File:Kajikimen_%28%E9%B9%BF%E9%A3%9F%E5%85%8D%29.png) — Ofuda, Suwa-taisha — NOT REBUILDABLE without tracing: woodblock / line-art figure drawing (flat colours, but freeform art).
+- [File:Kashikodokoro Jogyosha and Ohaguruma 04.png](https://commons.wikimedia.org/wiki/File:Kashikodokoro_Jogyosha_and_Ohaguruma_04.png) — Kashiko-dokoro Riding Car — NOT REBUILDABLE without tracing: woodblock / line-art figure drawing (flat colours, but freeform art).
 - [File:Kata jangangjangang.png](https://commons.wikimedia.org/wiki/File:Kata_jangangjangang.png) — Help:Multilingual support
 - [File:Katana (common shema).png](https://commons.wikimedia.org/wiki/File:Katana_%28common_shema%29.png) — Japanese sword, Katana
 - [File:KAWI LETTER OM.png](https://commons.wikimedia.org/wiki/File:KAWI_LETTER_OM.png) — Om

@@ -1,0 +1,14 @@
+{{Information
+|Description=
+{{de|1= Liniensymbol der Nostalgie-Straßenbahnlinie (Nostaljik Tramvay) in Istanbul}}
+{{en|1= Line symbol of the nostalgic tramway (Nostaljik Tramvay) in Istanbul}} 
+|Source={{Own}}
+|Date=2010-02
+|Author= [[:de:User:Chumwa|Maximilian Dörrbecker]] ([[:de:User:Chumwa|Chumwa]])
+|Permission={{self|cc-by-sa-2.5}}
+|other_versions=
+{{User:Chumwa/OtherVersions - Public transport Maps - Istanbul}}
+}}
+
+[[Category:User:Maximilian Dörrbecker]]
+[[Category:Istanbul transportation signs (2010 series)]]

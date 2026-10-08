@@ -116,3 +116,6 @@
   colour. Staged in upload/.
 - **File:Former Ensign of Myanmar Air Force.png → SVG**: its source SVG with the field recoloured, 0.14% of pixels
   differ. Staged in upload/.
+- **File:Istanbul public transport - Nostaljik Tramvay symbol.png → SVG**: disc + "NT" text, ink box exact.
+  15 woodblock/line-art figure drawings marked NOT REBUILDABLE; Indonesian Marine Corps flag parked
+  (source emblem's lettering is paths).
