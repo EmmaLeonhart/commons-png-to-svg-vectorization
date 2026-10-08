@@ -23,3 +23,11 @@
 - **File:Kochi-geo-stub.png → SVG** (`files/kochi-geo-stub/`) with `tools/rebuild_flagmap.py`
   (Kochi géolocalisation.svg land minus neighbours, Flag of Kochi Prefecture.svg). IoU 0.909,
   flag agreement 99.9%. The tool now fits on a ≤500 px copy for large PNGs.
+
+## 2026-10-08
+
+- Finished SVGs are now staged in `upload/<slug>/` (user's rule). Kinai, Ushu, Wakayama
+  and Kochi copied there.
+- `tools/rebuild_flagmap.py`: solid-silhouette mode (`#rrggbb` instead of a flag), separate
+  x/y scales, debris and speck removal. Renders are now transparent.
+- Shadow picture of Gunma prefecture.png: attempted, parked as NEEDS-INVESTIGATION (see queue.md).

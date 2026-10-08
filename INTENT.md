@@ -30,11 +30,15 @@ time, producing SVG replacements suitable for upload.
   losing work"). Things may be deleted from scratch/, but only after they are committed
   so history keeps them.
 - **Commit and push as work goes**; do not leave work uncommitted.
+- **Completed vectorizations go into `upload/`**, as a rule: user, 2026-10-08, "directory
+  should have our completed vectorizations put into it as a rule". One subfolder per file
+  (`upload/<slug>/<name>.svg`). `upload/` also holds the user's own material (e.g.
+  `upload/inochi-daigengu/` photos); leave that alone.
 
 ## Open questions
 
-- Upload: does the user upload the SVGs to Commons, or should that be prepared
-  (description pages, `{{Vector version available}}`)? NEEDS-DECISION (user).
+- Upload: finished SVGs are staged in `upload/`. Whether description pages should be
+  drafted alongside them is still open. NEEDS-DECISION (user).
 - Licence of rebuilt flag maps: the best vector outlines (Flappiefh's géolocalisation maps)
   are CC BY-SA 4.0, so SVGs built on them can't stay PD like the PNGs. Use them anyway,
   or look for PD outlines first? NEEDS-DECISION (user). Assumption until then: use them

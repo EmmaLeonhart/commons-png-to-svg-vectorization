@@ -17,6 +17,7 @@ as an SVG, one file at a time.
 
 - `queue.md`: files still to do (built by `tools/build_queue.py` from the list in
   `data_lake/`).
+- `upload/<slug>/`: finished SVGs, ready to upload (every completed file is copied here).
 - `files/<slug>/`: one folder per finished file, holding the SVG, the `build.py` that
   generates it, and `notes.md` (source, licence, method).
 - `data_lake/`: the input list and downloaded originals (`data_lake/downloads/`).
