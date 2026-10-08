@@ -112,3 +112,5 @@
 - **Flag of the Kingdom of Württemberg (1806 - 1816).png** (three stripes; only the two antialiased boundary rows
   differ) and **G01/G05/G10/G50/G100.png** (green bars, pixel-identical) → SVG. Staged in upload/.
 - `tools/render_svg.py`: URL-encodes the file name (non-ASCII names rendered blank).
+- **File:EdinburghTramsGeneric.png → SVG**: disc + four fitted bands with the PNG's stacking; IoU 0.92–0.999 per
+  colour. Staged in upload/.

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1000" height="909" viewBox="0 0 1000 909">
+  <title>Edinburgh Trams symbol</title>
+  <defs><clipPath id="disc"><ellipse cx="495.25" cy="457.01" rx="387.94" ry="387.72" transform="rotate(47.10 495.25 457.01)"/></clipPath></defs>
+  <ellipse cx="495.25" cy="457.01" rx="387.94" ry="387.72" transform="rotate(47.10 495.25 457.01)" fill="#949393"/>
+  <g clip-path="url(#disc)">
+    <path id="red1" d="M1674.19,1417.78 L-809.21,-265.31 L-773.35,-318.22 L1710.05,1364.87Z" fill="#8a0d04"/>
+    <path id="white0" d="M-662.19,1434.73 L1762.50,-331.88 L1793.49,-289.35 L-631.20,1477.26Z" fill="#ffffff"/>
+    <path id="white1" d="M1784.68,1194.72 L-716.87,-461.22 L-689.22,-502.98 L1812.33,1152.96Z" fill="#ffffff"/>
+    <path id="red0" d="M-786.47,1192.07 L1664.23,-538.30 L1704.71,-480.97 L-745.99,1249.40Z" fill="#8a0d04"/>
+  </g>
+</svg>

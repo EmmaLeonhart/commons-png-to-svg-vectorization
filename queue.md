@@ -4,7 +4,7 @@ PNG files from `data_lake/wikipedia-png-search-results.txt`, resolved against
 Commons by `tools/build_queue.py`. One line per file; delete a line when the file
 is done (record it in devlog.md). Prefer rebuilding from a vector source over tracing.
 
-## To vectorize (554)
+## To vectorize (553)
 
 Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed images (174).
 
@@ -59,7 +59,6 @@ Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed image
 - [File:East Asia Cutout Projection.png](https://commons.wikimedia.org/wiki/File:East_Asia_Cutout_Projection.png) — Module:Portal/images/e, Module:Portal/images/e/sandbox
 - [File:Eastern Europe (Robinson projection).png](https://commons.wikimedia.org/wiki/File:Eastern_Europe_%28Robinson_projection%29.png) — Module:Portal/images/e, Module:Portal/images/e/sandbox
 - [File:EcoviaLogo.png](https://commons.wikimedia.org/wiki/File:EcoviaLogo.png) — Template:Rail-interchange
-- [File:EdinburghTramsGeneric.png](https://commons.wikimedia.org/wiki/File:EdinburghTramsGeneric.png) — Template:Rail-interchange
 - [File:Enabling Visual Editor.png](https://commons.wikimedia.org/wiki/File:Enabling_Visual_Editor.png) — Help:VisualEditor
 - [File:Ensign of the United States Revenue-Marine (1799).png](https://commons.wikimedia.org/wiki/File:Ensign_of_the_United_States_Revenue-Marine_%281799%29.png) — Template:Country data United States
 - [File:Ensign of the United States Revenue-Marine (1815).png](https://commons.wikimedia.org/wiki/File:Ensign_of_the_United_States_Revenue-Marine_%281815%29.png) — Template:Country data United States

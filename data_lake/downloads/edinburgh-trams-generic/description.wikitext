@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=A symbol intended to represent [[Edinburgh Trams]], for use on maps & diagrams etc - it's loosely based on the shape and colours of the graphical portion of the system's official logo.}}
+|date=2015-04-13 00:22:15
+|source={{own}}
+|author=[[User:G-13114|G-13114]]
+|permission= {{PD-shape}}
+|other_versions=
+|other_fields=
+}}
+
+[[Category:Railway logos]]
+[[Category:Edinburgh Trams logos]]
+[[Category:Rapid transit icons of the United Kingdom]]
+[[Category:Logos of Scotland]]
