@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Cube icon image with transparent edges and red/green/blue faces, 64x64pixels}}
+|date=2016-09-01
+|source={{own}}
+|author=[[User:David Koller|David Koller]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Icon images that should use vector graphics]]
+[[Category:Cube]]
+[[Category:Blue, green, red]]

@@ -1,0 +1,18 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Emblem of the Japan Air Self-Defense Force}} {{ja|航空自衛隊の紋章}} {{fr|Emblème de la force aérienne d'autodéfense japonaise}}
+|date=2001-12-31
+|source=[http://www.mod.go.jp/asdf/English_page/ JASDF]<br>[[:File:JASDF emblem.png|Image]]
+|author=[[w:Japan|Japan]]<br> vectored by [[User:FOX 52|FOX 52]]
+|permission={{PD-Japan-exempt|type=logos and emblems}}{{insignia}}
+|other versions=[[:File:JASDF emblem.png|PNG.file]]
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Air force of Japan]]
+[[Category:Coats of arms of Japan]]
+[[Category:SVG coats of arms of Japan]]
+[[Category:Emblems of the Japan Self-Defense Forces]]
+[[Category:Insignia of the JASDF|1]]

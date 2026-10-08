@@ -1,0 +1,13 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Flag of the Japan Air Self-Defense Force (1957-1972)}}
+|date=2016-10-08
+|source={{own}}{{AttribSVG|JASDF emblem.svg|FOX 52}}
+|author=[[User:Sodacan|Sodacan]]
+|permission={{PD-Japan-exempt|type=flags}}{{self|cc-by-sa-4.0}}
+|other versions=
+}}
+
+[[Category:Flags of the Japan Air Self-Defense Force]]
+[[Category:SVG historical flags of Japan]]
+[[Category:SVG air force flags of Japan]]

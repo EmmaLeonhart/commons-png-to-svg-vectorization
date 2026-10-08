@@ -4,7 +4,7 @@ PNG files from `data_lake/wikipedia-png-search-results.txt`, resolved against
 Commons by `tools/build_queue.py`. One line per file; delete a line when the file
 is done (record it in devlog.md). Prefer rebuilding from a vector source over tracing.
 
-## To vectorize (871)
+## To vectorize (869)
 
 - [File:1873 Seikanron Debate Saigo Takamori Ukiyo-e by Suzuki Toshimoto.png](https://commons.wikimedia.org/wiki/File:1873_Seikanron_Debate_Saigo_Takamori_Ukiyo-e_by_Suzuki_Toshimoto.png) — Saigō Takamori
 - [File:1bc1a.png](https://commons.wikimedia.org/wiki/File:1bc1a.png) — Help:Multilingual support
@@ -48,7 +48,6 @@ is done (record it in devlog.md). Prefer rebuilding from a vector source over tr
 - [File:Birth and death rate of japan 1950-2019.png](https://commons.wikimedia.org/wiki/File:Birth_and_death_rate_of_japan_1950-2019.png) — Yang Fire Horse
 - [File:Birth Places of Chinese Philosophers.png](https://commons.wikimedia.org/wiki/File:Birth_Places_of_Chinese_Philosophers.png) — Taoism
 - [File:Blackpool Transport simple logo.png](https://commons.wikimedia.org/wiki/File:Blackpool_Transport_simple_logo.png) — Template:Rail-interchange
-- [File:Blank 50px.png](https://commons.wikimedia.org/wiki/File:Blank_50px.png) — Template:Top icon/doc
 - [File:Blasó de Mallorca.png](https://commons.wikimedia.org/wiki/File:Blas%C3%B3_de_Mallorca.png) — Template:Coat of arms
 - [File:Blue Ridge Parkway shield.png](https://commons.wikimedia.org/wiki/File:Blue_Ridge_Parkway_shield.png) — Module:Road data/strings/USA/regional/Trails
 - [File:Bluetank.png](https://commons.wikimedia.org/wiki/File:Bluetank.png) — Module:Portal/images/w
@@ -112,7 +111,6 @@ is done (record it in devlog.md). Prefer rebuilding from a vector source over tr
 - [File:Cross of Herat - Psalter Pahlavi Inscription.png](https://commons.wikimedia.org/wiki/File:Cross_of_Herat_-_Psalter_Pahlavi_Inscription.png) — Help:Multilingual support
 - [File:Crystal Clear app file-manager.png](https://commons.wikimedia.org/wiki/File:Crystal_Clear_app_file-manager.png) — Help:Archiving a talk page
 - [File:Crystal Clear device cdrom unmount.png](https://commons.wikimedia.org/wiki/File:Crystal_Clear_device_cdrom_unmount.png) — Module:Portal/images/s, Module:Portal/images/s/sandbox
-- [File:Cube NoEdges RGBfaces 64px.png](https://commons.wikimedia.org/wiki/File:Cube_NoEdges_RGBfaces_64px.png) — Template:External media
 - [File:Culto do chá p25.png](https://commons.wikimedia.org/wiki/File:Culto_do_ch%C3%A1_p25.png) — Saichō
 - [File:Dacia around 60-44 BC during Burebista, including campaigns - French.png](https://commons.wikimedia.org/wiki/File:Dacia_around_60-44_BC_during_Burebista%2C_including_campaigns_-_French.png) — Module:Portal/images/d
 - [File:Daihua sanqiong YKLP-13401a.png](https://commons.wikimedia.org/wiki/File:Daihua_sanqiong_YKLP-13401a.png) — Daihua
@@ -173,8 +171,8 @@ is done (record it in devlog.md). Prefer rebuilding from a vector source over tr
 - [File:Flag of California (1924–1953).png](https://commons.wikimedia.org/wiki/File:Flag_of_California_%281924%E2%80%931953%29.png) — Template:Country data California
 - [File:Flag of the California State Military Reserve.png](https://commons.wikimedia.org/wiki/File:Flag_of_the_California_State_Military_Reserve.png) — Template:Country data California
 - [File:Flag of the Indonesian Marine Corps.png](https://commons.wikimedia.org/wiki/File:Flag_of_the_Indonesian_Marine_Corps.png) — Template:Country data Indonesia
-- [File:Flag of the Japan Air Self-Defense Force (1955-1957).png](https://commons.wikimedia.org/wiki/File:Flag_of_the_Japan_Air_Self-Defense_Force_%281955-1957%29.png) — Template:Country data Japan
-- [File:Flag of the King of Joseon (1876).png](https://commons.wikimedia.org/wiki/File:Flag_of_the_King_of_Joseon_%281876%29.png) — Template:Country data Joseon, Template:Country data Korea
+- [File:Flag of the Japan Air Self-Defense Force (1955-1957).png](https://commons.wikimedia.org/wiki/File:Flag_of_the_Japan_Air_Self-Defense_Force_%281955-1957%29.png) — Template:Country data Japan — NEEDS-DECISION (user): field is trivial, but the emblem in the PNG is a simpler, older drawing than File:JASDF emblem (outline).svg (Sodacan); using that SVG in flat gold would change the design visibly. Acceptable?
+- [File:Flag of the King of Joseon (1876).png](https://commons.wikimedia.org/wiki/File:Flag_of_the_King_of_Joseon_%281876%29.png) — Template:Country data Joseon, Template:Country data Korea — NOT REBUILDABLE without tracing: detailed dragon drawing with no vector source.
 - [File:Flag of the King of Korea (1856–1871).png](https://commons.wikimedia.org/wiki/File:Flag_of_the_King_of_Korea_%281856%E2%80%931871%29.png) — Template:Country data Joseon, Template:Country data Korea
 - [File:Flag of the Kingdom of Württemberg (1806 - 1816).png](https://commons.wikimedia.org/wiki/File:Flag_of_the_Kingdom_of_W%C3%BCrttemberg_%281806_-_1816%29.png) — Template:Country data Württemberg
 - [File:Flag of the Lithuanian Armed Forces (obverse).png](https://commons.wikimedia.org/wiki/File:Flag_of_the_Lithuanian_Armed_Forces_%28obverse%29.png) — Template:Country data Lithuania

@@ -14,10 +14,13 @@ def render(src, out, scale=1.0):
     src, out = Path(src).resolve(), Path(out).resolve()
     s = src.read_text(encoding='utf8')
     head = re.search(r'<svg\b[^>]*>', s, re.S).group(0)
-    wa = re.search(r'\swidth="([^"]+)"', head).group(1)
-    ha = re.search(r'\sheight="([^"]+)"', head).group(1)
+    wm = re.search(r'\swidth="([^"]+)"', head)
+    hm = re.search(r'\sheight="([^"]+)"', head)
     vb = re.search(r'\sviewBox="([^"]+)"', head)
-    if vb and re.search(r'[a-z%]', wa + ha):  # mm, cm, % ...: size by the viewBox instead
+    wa, ha = (wm.group(1) if wm else '%'), (hm.group(1) if hm else '%')
+    if not vb and not (wm and hm):
+        wa, ha = '300', '150'  # the browser default for an unsized SVG
+    if vb and re.search(r'[a-z%]', wa + ha):  # missing, mm, cm, % ...: size by the viewBox instead
         w, h = [float(v) for v in re.split(r'[\s,]+', vb.group(1).strip())[2:4]]
     else:
         w, h = float(re.sub(r'[^\d.]', '', wa)), float(re.sub(r'[^\d.]', '', ha))

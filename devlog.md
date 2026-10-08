@@ -73,3 +73,8 @@
 - **File:Flag of the Uzbek Soviet Socialist Republic(1927-1929).png → SVG**
   (`files/uzbek-ssr-flag-1927/`): red field, two RTL Arabic-script `<text>` lines and one Cyrillic.
   The Arabic transcription should be confirmed by a reader before upload.
+- **File:Cube NoEdges RGBfaces 64px.png → SVG** (three polygons; 84/4096 edge pixels differ) and
+  **File:Blank 50px.png → SVG** (one white rect, pixel-identical). Staged in upload/.
+- Flag of the JASDF (1955-1957): NEEDS-DECISION (its emblem is an older, simpler drawing than the
+  available SVG). Flag of the King of Joseon (1876): NOT REBUILDABLE (dragon artwork).
+- `tools/render_svg.py`: sizes SVGs without width/height by their viewBox.
