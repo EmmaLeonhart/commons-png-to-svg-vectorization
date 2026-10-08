@@ -4,13 +4,11 @@ PNG files from `data_lake/wikipedia-png-search-results.txt`, resolved against
 Commons by `tools/build_queue.py`. One line per file; delete a line when the file
 is done (record it in devlog.md). Prefer rebuilding from a vector source over tracing.
 
-## To vectorize (864)
+## To vectorize (565)
 
-- [File:1873 Seikanron Debate Saigo Takamori Ukiyo-e by Suzuki Toshimoto.png](https://commons.wikimedia.org/wiki/File:1873_Seikanron_Debate_Saigo_Takamori_Ukiyo-e_by_Suzuki_Toshimoto.png) — Saigō Takamori
+Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed images (174).
+
 - [File:1bc1a.png](https://commons.wikimedia.org/wiki/File:1bc1a.png) — Help:Multilingual support
-- [File:2006 Quarter Proof.png](https://commons.wikimedia.org/wiki/File:2006_Quarter_Proof.png) — Template:Gallery/doc
-- [File:2014 ATB Quarter Obv.png](https://commons.wikimedia.org/wiki/File:2014_ATB_Quarter_Obv.png) — Help:Pictures
-- [File:2017 Northern Lunar Calendar.png](https://commons.wikimedia.org/wiki/File:2017_Northern_Lunar_Calendar.png) — Ancient Egyptian Lunar Calendar
 - [File:23 Graz.png](https://commons.wikimedia.org/wiki/File:23_Graz.png) — Template:Rail-interchange
 - [File:24directions.png](https://commons.wikimedia.org/wiki/File:24directions.png) — Eight Directional Deities
 - [File:45 record.png](https://commons.wikimedia.org/wiki/File:45_record.png) — Module:Portal/images/r
@@ -18,45 +16,25 @@ is done (record it in devlog.md). Prefer rebuilding from a vector source over tr
 - [File:Abkhazia stub.png](https://commons.wikimedia.org/wiki/File:Abkhazia_stub.png) — Template talk:Portal
 - [File:Abusir map.png](https://commons.wikimedia.org/wiki/File:Abusir_map.png) — Solar Temple of Niuserre
 - [File:ADLaM.png](https://commons.wikimedia.org/wiki/File:ADLaM.png) — Help:Multilingual support
-- [File:Admiral-Togo-Heihachiro-Flagship-Mikasa-c1905.png](https://commons.wikimedia.org/wiki/File:Admiral-Togo-Heihachiro-Flagship-Mikasa-c1905.png) — Tōgō Heihachirō
-- [File:Aerial image of Tokyo Imperial Palace.png](https://commons.wikimedia.org/wiki/File:Aerial_image_of_Tokyo_Imperial_Palace.png) — Tokyo Imperial Palace
-- [File:AFL Trophy alt.png](https://commons.wikimedia.org/wiki/File:AFL_Trophy_alt.png) — Module:Portal/images/a
 - [File:Agency for Cultural Affairs Organizational chart 20230327.png](https://commons.wikimedia.org/wiki/File:Agency_for_Cultural_Affairs_Organizational_chart_20230327.png) — Agency for Cultural Affairs
-- [File:Agenesia de vagina2.png](https://commons.wikimedia.org/wiki/File:Agenesia_de_vagina2.png) — MediaWiki:Bad image list
 - [File:Ahom rendering.png](https://commons.wikimedia.org/wiki/File:Ahom_rendering.png) — Help:Multilingual support
-- [File:Ainu-iomante-bear-spirit-sending-ceremony-by-Hirasawa-Byozan-1875.png](https://commons.wikimedia.org/wiki/File:Ainu-iomante-bear-spirit-sending-ceremony-by-Hirasawa-Byozan-1875.png) — Bashoukeoisei, Iomante
-- [File:AjaxMassDelete FlowChart.png](https://commons.wikimedia.org/wiki/File:AjaxMassDelete_FlowChart.png) — (file-title list), File:AjaxMassDelete FlowChart.png, Help:VisualFileChange.js
-- [File:Alamein.png](https://commons.wikimedia.org/wiki/File:Alamein.png) — Template:WikiProject軍事史テンプレ
-- [File:Amaterasu.png](https://commons.wikimedia.org/wiki/File:Amaterasu.png) — Magatama
 - [File:Amateur radio compact icon.png](https://commons.wikimedia.org/wiki/File:Amateur_radio_compact_icon.png) — Module:Portal/images/a, Template talk:Portal
-- [File:AnneauxBorromeensFace.png](https://commons.wikimedia.org/wiki/File:AnneauxBorromeensFace.png) — Ōmiwa Shrine
 - [File:Aomori Tsugaru-block.png](https://commons.wikimedia.org/wiki/File:Aomori_Tsugaru-block.png) — Tsugaru region
 - [File:Aplodontia rufa distribution map.png](https://commons.wikimedia.org/wiki/File:Aplodontia_rufa_distribution_map.png) — Template:Automatic taxobox/doc
 - [File:Appalachian region of United States.png](https://commons.wikimedia.org/wiki/File:Appalachian_region_of_United_States.png) — Module:Portal/images/a
 - [File:Arms of Bahrain.png](https://commons.wikimedia.org/wiki/File:Arms_of_Bahrain.png) — Template:Coat of arms
-- [File:Arrowred.png](https://commons.wikimedia.org/wiki/File:Arrowred.png) — Talk:Amoghasiddhi, Talk:Tsukuyomi-no-Mikoto
-- [File:Asubha Body Contemplation.png](https://commons.wikimedia.org/wiki/File:Asubha_Body_Contemplation.png) — Satipatthana
-- [File:Atago Gongen.png](https://commons.wikimedia.org/wiki/File:Atago_Gongen.png) — Atago Faith
 - [File:ATC DASH Bus Logo 2025.png](https://commons.wikimedia.org/wiki/File:ATC_DASH_Bus_Logo_2025.png) — Template:Rail-interchange
 - [File:Atsuta Hongu oyobi Setsu-Matsu-sha no Zu.png](https://commons.wikimedia.org/wiki/File:Atsuta_Hongu_oyobi_Setsu-Matsu-sha_no_Zu.png) — Hakkengū, Shimotsuchikamano Shrine
 - [File:Aviacionavion.png](https://commons.wikimedia.org/wiki/File:Aviacionavion.png) — Module:Portal/images/a
-- [File:Bad Title Example.png](https://commons.wikimedia.org/wiki/File:Bad_Title_Example.png) — Template:HTML lists, Template:Image label begin, Template:Infobox company/doc
 - [File:Bali Ba.png](https://commons.wikimedia.org/wiki/File:Bali_Ba.png) — Template:Contains special characters
-- [File:Baltoro Glacier, Pakistan 2012.png](https://commons.wikimedia.org/wiki/File:Baltoro_Glacier%2C_Pakistan_2012.png) — Module:Portal/images/g
 - [File:Bamum King Njoya (4).png](https://commons.wikimedia.org/wiki/File:Bamum_King_Njoya_%284%29.png) — Help:Multilingual support
 - [File:Bangkok Monorail Logo.png](https://commons.wikimedia.org/wiki/File:Bangkok_Monorail_Logo.png) — Template:Rail-interchange
 - [File:Birth and death rate of japan 1950-2019.png](https://commons.wikimedia.org/wiki/File:Birth_and_death_rate_of_japan_1950-2019.png) — Yang Fire Horse
-- [File:Birth Places of Chinese Philosophers.png](https://commons.wikimedia.org/wiki/File:Birth_Places_of_Chinese_Philosophers.png) — Taoism
 - [File:Blackpool Transport simple logo.png](https://commons.wikimedia.org/wiki/File:Blackpool_Transport_simple_logo.png) — Template:Rail-interchange
 - [File:Blasó de Mallorca.png](https://commons.wikimedia.org/wiki/File:Blas%C3%B3_de_Mallorca.png) — Template:Coat of arms
 - [File:Blue Ridge Parkway shield.png](https://commons.wikimedia.org/wiki/File:Blue_Ridge_Parkway_shield.png) — Module:Road data/strings/USA/regional/Trails
-- [File:Bluetank.png](https://commons.wikimedia.org/wiki/File:Bluetank.png) — Module:Portal/images/w
 - [File:BodhGayaCetiya silhouette.png](https://commons.wikimedia.org/wiki/File:BodhGayaCetiya_silhouette.png) — Template:Buddhist-temple-stub
 - [File:Bohai Sea map.png](https://commons.wikimedia.org/wiki/File:Bohai_Sea_map.png) — Bohai Sea
-- [File:Boingball.png](https://commons.wikimedia.org/wiki/File:Boingball.png) — Module:Portal/images/a
-- [File:Bombay-Docks-aftermath1.png](https://commons.wikimedia.org/wiki/File:Bombay-Docks-aftermath1.png) — Template:Infobox event/doc
-- [File:Bombing of Ujiyamada Map, Central City.png](https://commons.wikimedia.org/wiki/File:Bombing_of_Ujiyamada_Map%2C_Central_City.png) — Ujiyamada Air Raid
-- [File:Bombing of Ujiyamada Map, Shima Peninsula.png](https://commons.wikimedia.org/wiki/File:Bombing_of_Ujiyamada_Map%2C_Shima_Peninsula.png) — Ujiyamada Air Raid
 - [File:Bonji-I.png](https://commons.wikimedia.org/wiki/File:Bonji-I.png) — Jūniten
 - [File:Bonji-Ii.png](https://commons.wikimedia.org/wiki/File:Bonji-Ii.png) — Jūniten
 - [File:BonjiA.png](https://commons.wikimedia.org/wiki/File:BonjiA.png) — Jūniten, Template:Buddhist-text-stub
@@ -70,455 +48,169 @@ is done (record it in devlog.md). Prefer rebuilding from a vector source over tr
 - [File:BonjiVaa.png](https://commons.wikimedia.org/wiki/File:BonjiVaa.png) — Jūniten
 - [File:BonjiVai.png](https://commons.wikimedia.org/wiki/File:BonjiVai.png) — Jūniten
 - [File:BonjiYam.png](https://commons.wikimedia.org/wiki/File:BonjiYam.png) — Jūniten
-- [File:BoNM - United Nations Hires.png](https://commons.wikimedia.org/wiki/File:BoNM_-_United_Nations_Hires.png) — Template:Awards, decorations, and medals of Wikipedia
-- [File:Bowing-clapping-bowing.png](https://commons.wikimedia.org/wiki/File:Bowing-clapping-bowing.png) — Hakushu (Shinto)
-- [File:BronzepzpcbgA.png](https://commons.wikimedia.org/wiki/File:BronzepzpcbgA.png) — Template:Awards, decorations, and medals of Wikipedia
-- [File:BS Bismarck.png](https://commons.wikimedia.org/wiki/File:BS_Bismarck.png) — Module:Portal/images/b, Module:Portal/images/b/sandbox
-- [File:Buddhism Symbol.png](https://commons.wikimedia.org/wiki/File:Buddhism_Symbol.png) — Template:Buddhism topics
-- [File:Calif al Muizz Misr Cairo 969 CE.png](https://commons.wikimedia.org/wiki/File:Calif_al_Muizz_Misr_Cairo_969_CE.png) — Module:Portal/images/f
-- [File:Canadian football.png](https://commons.wikimedia.org/wiki/File:Canadian_football.png) — Module:Portal/images/c, Module:Portal/images/c/sandbox
-- [File:Canpoligeoicon.png](https://commons.wikimedia.org/wiki/File:Canpoligeoicon.png) — Module:Portal/images/e, Module:Portal/images/e/sandbox
 - [File:Category-diagram.png](https://commons.wikimedia.org/wiki/File:Category-diagram.png) — Help:Categories
-- [File:Ceremony of the Enthronement of His Majesty the Emperor at the Seiden5.png](https://commons.wikimedia.org/wiki/File:Ceremony_of_the_Enthronement_of_His_Majesty_the_Emperor_at_the_Seiden5.png) — Imperial decrees
-- [File:CFfacadePlacedelOpera.png](https://commons.wikimedia.org/wiki/File:CFfacadePlacedelOpera.png) — Paris
 - [File:Ch-1422a.png](https://commons.wikimedia.org/wiki/File:Ch-1422a.png) — Template:Country data Old Swiss Confederacy
 - [File:Cherokee Lowercase.png](https://commons.wikimedia.org/wiki/File:Cherokee_Lowercase.png) — Help:Multilingual support
-- [File:Cherry crashing into primordial Earth2.png](https://commons.wikimedia.org/wiki/File:Cherry_crashing_into_primordial_Earth2.png) — Template:Awards, decorations, and medals of Wikipedia
-- [File:Chicken Eyeglasses categories.png](https://commons.wikimedia.org/wiki/File:Chicken_Eyeglasses_categories.png) — Help:Categories, Help:Category
-- [File:Chintaku Reifu (鎮宅霊符).png](https://commons.wikimedia.org/wiki/File:Chintaku_Reifu_%28%E9%8E%AE%E5%AE%85%E9%9C%8A%E7%AC%A6%29.png) — Ofuda
-- [File:Choco chip cookie.png](https://commons.wikimedia.org/wiki/File:Choco_chip_cookie.png) — Template:Awards, decorations, and medals of Wikipedia
-- [File:Chugoku-Region-Shikoku-Japan-ISS-Space.png](https://commons.wikimedia.org/wiki/File:Chugoku-Region-Shikoku-Japan-ISS-Space.png) — Seto Inland Sea, Shikoku
-- [File:CIE1931simple.png](https://commons.wikimedia.org/wiki/File:CIE1931simple.png) — Category:Colors, Template:Color-stub
-- [File:Citation toolbar named ref.png](https://commons.wikimedia.org/wiki/File:Citation_toolbar_named_ref.png) — Help:Footnotes
-- [File:Cite web named ref 01.png](https://commons.wikimedia.org/wiki/File:Cite_web_named_ref_01.png) — Help:Footnotes
-- [File:Citoid in VisualEditor Screen Shot 2015-04-02.png](https://commons.wikimedia.org/wiki/File:Citoid_in_VisualEditor_Screen_Shot_2015-04-02.png) — Help:VisualEditor
-- [File:Citoid results in VisualEditor Screen Shot 2015-04-02.png](https://commons.wikimedia.org/wiki/File:Citoid_results_in_VisualEditor_Screen_Shot_2015-04-02.png) — Help:VisualEditor
-- [File:Climate change icon.png](https://commons.wikimedia.org/wiki/File:Climate_change_icon.png) — Module:Portal/images/c, Module:Portal/images/c/sandbox
-- [File:Clock Tower - Palace of Westminster, London - May 2007 icon.png](https://commons.wikimedia.org/wiki/File:Clock_Tower_-_Palace_of_Westminster%2C_London_-_May_2007_icon.png) — Module:Portal/images/l
-- [File:Closeup of unshaved female genitalia.png](https://commons.wikimedia.org/wiki/File:Closeup_of_unshaved_female_genitalia.png) — MediaWiki:Bad image list
-- [File:Coat of arms of La Paz.png](https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_La_Paz.png) — Template:Coat of arms
-- [File:Coat of arms of Moldavia 1646.png](https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Moldavia_1646.png) — Template:Country data Moldavia
-- [File:Coat of Arms of St Petersburg (1780).png](https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_St_Petersburg_%281780%29.png) — Template:Coat of arms
-- [File:Coat of arms of Wallachia under Alexander Ypsilantis, 1781.png](https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Wallachia_under_Alexander_Ypsilantis%2C_1781.png) — Template:Country data Wallachia
-- [File:Coat of arms of Wallachia under Grigore II Ghica.png](https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Wallachia_under_Grigore_II_Ghica.png) — Template:Country data Wallachia
-- [File:Coat of arms of Wirral Metropolitan Borough Council.png](https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Wirral_Metropolitan_Borough_Council.png) — Template:Coat of arms
-- [File:CodeEditorAssist screenshot.png](https://commons.wikimedia.org/wiki/File:CodeEditorAssist_screenshot.png) — User:Nardog/CodeEditorAssist
 - [File:COL-city icon.png](https://commons.wikimedia.org/wiki/File:COL-city_icon.png) — Module:Portal/images/c/sandbox, Template talk:Portal
-- [File:ColorfulFireworks.png](https://commons.wikimedia.org/wiki/File:ColorfulFireworks.png) — Chikugo River Fireworks Festival
 - [File:CompareTropicalYears.png](https://commons.wikimedia.org/wiki/File:CompareTropicalYears.png) — Sothic year
-- [File:Constitution Pg1of4 AC icon cut.png](https://commons.wikimedia.org/wiki/File:Constitution_Pg1of4_AC_icon_cut.png) — Module:Portal/images/u
 - [File:Cricket no pic.png](https://commons.wikimedia.org/wiki/File:Cricket_no_pic.png) — (file-title list), File:Cricket no pic.png, Module:InfoboxImage/data, Module:InfoboxImage/doc, Module:InfoboxImage/sandbox
 - [File:Cross of Herat - Psalter Pahlavi Inscription.png](https://commons.wikimedia.org/wiki/File:Cross_of_Herat_-_Psalter_Pahlavi_Inscription.png) — Help:Multilingual support
-- [File:Crystal Clear app file-manager.png](https://commons.wikimedia.org/wiki/File:Crystal_Clear_app_file-manager.png) — Help:Archiving a talk page
-- [File:Crystal Clear device cdrom unmount.png](https://commons.wikimedia.org/wiki/File:Crystal_Clear_device_cdrom_unmount.png) — Module:Portal/images/s, Module:Portal/images/s/sandbox
-- [File:Culto do chá p25.png](https://commons.wikimedia.org/wiki/File:Culto_do_ch%C3%A1_p25.png) — Saichō
-- [File:Dacia around 60-44 BC during Burebista, including campaigns - French.png](https://commons.wikimedia.org/wiki/File:Dacia_around_60-44_BC_during_Burebista%2C_including_campaigns_-_French.png) — Module:Portal/images/d
-- [File:Daihua sanqiong YKLP-13401a.png](https://commons.wikimedia.org/wiki/File:Daihua_sanqiong_YKLP-13401a.png) — Daihua
 - [File:Dakiine.png](https://commons.wikimedia.org/wiki/File:Dakiine.png) — Fujishiro Suzuki clan
 - [File:Deir el Bahari-map.png](https://commons.wikimedia.org/wiki/File:Deir_el_Bahari-map.png) — Mortuary Temple of Mentuhotep II
-- [File:Dionisie Eclesiarhul - Coat of arms of Wallachia, 1795.png](https://commons.wikimedia.org/wiki/File:Dionisie_Eclesiarhul_-_Coat_of_arms_of_Wallachia%2C_1795.png) — Template:Country data Wallachia
 - [File:DiscussionTools Show new comment 2022 en.png](https://commons.wikimedia.org/wiki/File:DiscussionTools_Show_new_comment_2022_en.png) — Help:Talk pages
-- [File:Distribution of Yosumi tombs.png](https://commons.wikimedia.org/wiki/File:Distribution_of_Yosumi_tombs.png) — X-shaped Burial Mound
-- [File:Doggy style sex.png](https://commons.wikimedia.org/wiki/File:Doggy_style_sex.png) — MediaWiki:Bad image list
 - [File:Dolmen in Japan and Jeju.png](https://commons.wikimedia.org/wiki/File:Dolmen_in_Japan_and_Jeju.png) — Toraijin
-- [File:Dolmen in Korea.png](https://commons.wikimedia.org/wiki/File:Dolmen_in_Korea.png) — Toraijin
 - [File:DPM icon.png](https://commons.wikimedia.org/wiki/File:DPM_icon.png) — Template:Rail-interchange
-- [File:Dragon by Kano Koi (Kenpukuji Ina).png](https://commons.wikimedia.org/wiki/File:Dragon_by_Kano_Koi_%28Kenpukuji_Ina%29.png) — Kenpuku-ji
 - [File:Dravidische Sprachen.png](https://commons.wikimedia.org/wiki/File:Dravidische_Sprachen.png) — Module:Portal/images/d
-- [File:DrustveneNauke.png](https://commons.wikimedia.org/wiki/File:DrustveneNauke.png) — Module:Portal/images/s/sandbox
-- [File:Earth Day Flag.png](https://commons.wikimedia.org/wiki/File:Earth_Day_Flag.png) — Module:Portal/images/e, Module:Portal/images/e/sandbox
 - [File:East Asia Cutout Projection.png](https://commons.wikimedia.org/wiki/File:East_Asia_Cutout_Projection.png) — Module:Portal/images/e, Module:Portal/images/e/sandbox
 - [File:Eastern Europe (Robinson projection).png](https://commons.wikimedia.org/wiki/File:Eastern_Europe_%28Robinson_projection%29.png) — Module:Portal/images/e, Module:Portal/images/e/sandbox
-- [File:Echo Notifications new message indicator.png](https://commons.wikimedia.org/wiki/File:Echo_Notifications_new_message_indicator.png) — Help:Notifications/FAQ
 - [File:EcoviaLogo.png](https://commons.wikimedia.org/wiki/File:EcoviaLogo.png) — Template:Rail-interchange
 - [File:EdinburghTramsGeneric.png](https://commons.wikimedia.org/wiki/File:EdinburghTramsGeneric.png) — Template:Rail-interchange
-- [File:Edit conflict screenshot.png](https://commons.wikimedia.org/wiki/File:Edit_conflict_screenshot.png) — Help:Edit conflict
-- [File:Edo hori.png](https://commons.wikimedia.org/wiki/File:Edo_hori.png) — Sōgamae
-- [File:Ejaculation educational seq 4.png](https://commons.wikimedia.org/wiki/File:Ejaculation_educational_seq_4.png) — MediaWiki:Bad image list
-- [File:Ejaculation educational seq 6.png](https://commons.wikimedia.org/wiki/File:Ejaculation_educational_seq_6.png) — MediaWiki:Bad image list
-- [File:Emblem of arms of Wallachia under Șerban Cantacuzino, 1683.png](https://commons.wikimedia.org/wiki/File:Emblem_of_arms_of_Wallachia_under_%C8%98erban_Cantacuzino%2C_1683.png) — Template:Country data Wallachia
-- [File:Emblem of Wallachia under Alexandru Coconul, 1624.png](https://commons.wikimedia.org/wiki/File:Emblem_of_Wallachia_under_Alexandru_Coconul%2C_1624.png) — Template:Country data Wallachia
-- [File:Emblem of Wallachia under Radu Leon, 1667.png](https://commons.wikimedia.org/wiki/File:Emblem_of_Wallachia_under_Radu_Leon%2C_1667.png) — Template:Country data Wallachia
-- [File:Emblem of Wallachia under Radu Paisie (Dimitrije Ljubavić's Molitvenik, Jan 10, 1545).png](https://commons.wikimedia.org/wiki/File:Emblem_of_Wallachia_under_Radu_Paisie_%28Dimitrije_Ljubavi%C4%87%27s_Molitvenik%2C_Jan_10%2C_1545%29.png) — Template:Country data Wallachia
-- [File:Emperor Komei Portrait by Koyama Shotaro 1902.png](https://commons.wikimedia.org/wiki/File:Emperor_Komei_Portrait_by_Koyama_Shotaro_1902.png) — Sokutai
-- [File:Emperor-Go-Daigo-by-Ogata-Gekko-1904.png](https://commons.wikimedia.org/wiki/File:Emperor-Go-Daigo-by-Ogata-Gekko-1904.png) — Kenmu Restoration, List of the Fifteen Shrines of the Kenmu Restoration, Template:Fifteen Shrines of the Kenmu Restoration
-- [File:Emperor-Jinmu-from-series-Mirror-of-Famous-Generals-of-Great-Japan.png](https://commons.wikimedia.org/wiki/File:Emperor-Jinmu-from-series-Mirror-of-Famous-Generals-of-Great-Japan.png) — Jimmu's Eastern Expedition
-- [File:Emperor-Meiji-Empress-Shoken-Meiji-Shrine-c1926.png](https://commons.wikimedia.org/wiki/File:Emperor-Meiji-Empress-Shoken-Meiji-Shrine-c1926.png) — Meiji Jingu
-- [File:Empress Kishi and Emperor Go-Daigo.png](https://commons.wikimedia.org/wiki/File:Empress_Kishi_and_Emperor_Go-Daigo.png) — Saionji Kishi
 - [File:Enabling Visual Editor.png](https://commons.wikimedia.org/wiki/File:Enabling_Visual_Editor.png) — Help:VisualEditor
-- [File:English Wikipedia Vector (2022) Alert Menu Example.png](https://commons.wikimedia.org/wiki/File:English_Wikipedia_Vector_%282022%29_Alert_Menu_Example.png) — Help:Talk pages
-- [File:Enmaten Mandala.png](https://commons.wikimedia.org/wiki/File:Enmaten_Mandala.png) — Dakini
 - [File:Ensign of the United States Revenue-Marine (1799).png](https://commons.wikimedia.org/wiki/File:Ensign_of_the_United_States_Revenue-Marine_%281799%29.png) — Template:Country data United States
 - [File:Ensign of the United States Revenue-Marine (1815).png](https://commons.wikimedia.org/wiki/File:Ensign_of_the_United_States_Revenue-Marine_%281815%29.png) — Template:Country data United States
 - [File:Ensign of the United States Revenue-Marine (1836).png](https://commons.wikimedia.org/wiki/File:Ensign_of_the_United_States_Revenue-Marine_%281836%29.png) — Template:Country data United States
 - [File:Ensign of the United States Revenue-Marine (1841).png](https://commons.wikimedia.org/wiki/File:Ensign_of_the_United_States_Revenue-Marine_%281841%29.png) — Template:Country data United States
 - [File:Ensign of the United States Revenue-Marine (1867).png](https://commons.wikimedia.org/wiki/File:Ensign_of_the_United_States_Revenue-Marine_%281867%29.png) — Template:Country data United States
 - [File:Ensign of the United States Revenue-Marine (1868).png](https://commons.wikimedia.org/wiki/File:Ensign_of_the_United_States_Revenue-Marine_%281868%29.png) — Template:Country data United States
-- [File:Enthronement Ceremony of Emperor Kōmei.png](https://commons.wikimedia.org/wiki/File:Enthronement_Ceremony_of_Emperor_K%C5%8Dmei.png) — Enthronement of the Japanese emperor, The succession to the throne
-- [File:Excerpt of Yegun's Epitaph.png](https://commons.wikimedia.org/wiki/File:Excerpt_of_Yegun%27s_Epitaph.png) — Toraijin
 - [File:Excerpt tree.png](https://commons.wikimedia.org/wiki/File:Excerpt_tree.png) — Template:Excerpt/doc
 - [File:Family crest hanawachigai.png](https://commons.wikimedia.org/wiki/File:Family_crest_hanawachigai.png) — Mon (emblem) — NOT REBUILDABLE without tracing: the notched flower is freeform. File:Japanese Crest Hana Wachigai.svg is a different (inverted) design, not its vector version.
-- [File:Female butt.png](https://commons.wikimedia.org/wiki/File:Female_butt.png) — MediaWiki:Bad image list
-- [File:Femdom at Eros Pyramide.png](https://commons.wikimedia.org/wiki/File:Femdom_at_Eros_Pyramide.png) — MediaWiki:Bad image list
-- [File:Fifties jukebox.png](https://commons.wikimedia.org/wiki/File:Fifties_jukebox.png) — Module:Portal/images/other
-- [File:Fishing Zhuangzi.png](https://commons.wikimedia.org/wiki/File:Fishing_Zhuangzi.png) — Taoism
-- [File:Fixed sidebar.png](https://commons.wikimedia.org/wiki/File:Fixed_sidebar.png) — Help:User style
-- [File:Flag of California (1909).png](https://commons.wikimedia.org/wiki/File:Flag_of_California_%281909%29.png) — Template:Country data California
-- [File:Flag of California (1911–1924).png](https://commons.wikimedia.org/wiki/File:Flag_of_California_%281911%E2%80%931924%29.png) — Template:Country data California
-- [File:Flag of California (1912).png](https://commons.wikimedia.org/wiki/File:Flag_of_California_%281912%29.png) — Template:Country data California
 - [File:Flag of California (1924–1953).png](https://commons.wikimedia.org/wiki/File:Flag_of_California_%281924%E2%80%931953%29.png) — Template:Country data California
-- [File:Flag of the California State Military Reserve.png](https://commons.wikimedia.org/wiki/File:Flag_of_the_California_State_Military_Reserve.png) — Template:Country data California
 - [File:Flag of the Indonesian Marine Corps.png](https://commons.wikimedia.org/wiki/File:Flag_of_the_Indonesian_Marine_Corps.png) — Template:Country data Indonesia
 - [File:Flag of the Japan Air Self-Defense Force (1955-1957).png](https://commons.wikimedia.org/wiki/File:Flag_of_the_Japan_Air_Self-Defense_Force_%281955-1957%29.png) — Template:Country data Japan — NEEDS-DECISION (user): field is trivial, but the emblem in the PNG is a simpler, older drawing than File:JASDF emblem (outline).svg (Sodacan); using that SVG in flat gold would change the design visibly. Acceptable?
-- [File:Flag of the King of Joseon (1876).png](https://commons.wikimedia.org/wiki/File:Flag_of_the_King_of_Joseon_%281876%29.png) — Template:Country data Joseon, Template:Country data Korea — NOT REBUILDABLE without tracing: detailed dragon drawing with no vector source.
 - [File:Flag of the King of Korea (1856–1871).png](https://commons.wikimedia.org/wiki/File:Flag_of_the_King_of_Korea_%281856%E2%80%931871%29.png) — Template:Country data Joseon, Template:Country data Korea
 - [File:Flag of the Kingdom of Württemberg (1806 - 1816).png](https://commons.wikimedia.org/wiki/File:Flag_of_the_Kingdom_of_W%C3%BCrttemberg_%281806_-_1816%29.png) — Template:Country data Württemberg
-- [File:Flag of the Lithuanian Armed Forces (obverse).png](https://commons.wikimedia.org/wiki/File:Flag_of_the_Lithuanian_Armed_Forces_%28obverse%29.png) — Template:Country data Lithuania
 - [File:Flag of the Mexican Maritime Search and Rescue.png](https://commons.wikimedia.org/wiki/File:Flag_of_the_Mexican_Maritime_Search_and_Rescue.png) — Template:Country data Mexico
 - [File:Flag of the Royal Moroccan Air Force.png](https://commons.wikimedia.org/wiki/File:Flag_of_the_Royal_Moroccan_Air_Force.png) — Template:Country data Morocco
 - [File:Flag of the South African Army (1966–1973).png](https://commons.wikimedia.org/wiki/File:Flag_of_the_South_African_Army_%281966%E2%80%931973%29.png) — Template:Country data South Africa
 - [File:Flag of the Sri Lankan Army.png](https://commons.wikimedia.org/wiki/File:Flag_of_the_Sri_Lankan_Army.png) — Template:Country data Sri Lanka
 - [File:Flag of the United Arab Emirates Navy.png](https://commons.wikimedia.org/wiki/File:Flag_of_the_United_Arab_Emirates_Navy.png) — Template:Country data United Arab Emirates
-- [File:Flag of the United States Marine Corps (1914-1939).png](https://commons.wikimedia.org/wiki/File:Flag_of_the_United_States_Marine_Corps_%281914-1939%29.png) — Template:Country data United States
-- [File:Flanquette (grey scales).png](https://commons.wikimedia.org/wiki/File:Flanquette_%28grey_scales%29.png) — MediaWiki:Bad image list
-- [File:Floater script screenshot.png](https://commons.wikimedia.org/wiki/File:Floater_script_screenshot.png) — Template:Infobox Wikipedia user script/doc
-- [File:FNic7yqaIAYd4RS.png](https://commons.wikimedia.org/wiki/File:FNic7yqaIAYd4RS.png) — Kotohira-gū Tokyo Branch
-- [File:Footjob раком.png](https://commons.wikimedia.org/wiki/File:Footjob_%D1%80%D0%B0%D0%BA%D0%BE%D0%BC.png) — MediaWiki:Bad image list
-- [File:Forced Orgasm on-stage.png](https://commons.wikimedia.org/wiki/File:Forced_Orgasm_on-stage.png) — MediaWiki:Bad image list
 - [File:Former Ensign of Myanmar Air Force.png](https://commons.wikimedia.org/wiki/File:Former_Ensign_of_Myanmar_Air_Force.png) — Template:Country data Myanmar
-- [File:Foto francis.xpz.png](https://commons.wikimedia.org/wiki/File:Foto_francis.xpz.png) — Template:Infobox artist/doc
-- [File:Fujishima Shrine (藤島社).png](https://commons.wikimedia.org/wiki/File:Fujishima_Shrine_%28%E8%97%A4%E5%B3%B6%E7%A4%BE%29.png) — Fujishima Shrine (Suwa Region), Moriya
 - [File:Fukuchiyama Toyuke-daijinja map.png](https://commons.wikimedia.org/wiki/File:Fukuchiyama_Toyuke-daijinja_map.png) — Toyouke Shrine (Fukuchiyama)
-- [File:G-Zone 1.png](https://commons.wikimedia.org/wiki/File:G-Zone_1.png) — MediaWiki:Bad image list
 - [File:G01.png](https://commons.wikimedia.org/wiki/File:G01.png) — Awa Village
 - [File:G05.png](https://commons.wikimedia.org/wiki/File:G05.png) — Awa Village
 - [File:G10.png](https://commons.wikimedia.org/wiki/File:G10.png) — Awa Village
 - [File:G100.png](https://commons.wikimedia.org/wiki/File:G100.png) — Awa Village
 - [File:G50.png](https://commons.wikimedia.org/wiki/File:G50.png) — Awa Village
 - [File:GaelicGamesProjectLogo.png](https://commons.wikimedia.org/wiki/File:GaelicGamesProjectLogo.png) — Module:Portal/images/g
-- [File:Gangaramaya Temple SL2.png](https://commons.wikimedia.org/wiki/File:Gangaramaya_Temple_SL2.png) — Kannon
-- [File:GazouBoshu.png](https://commons.wikimedia.org/wiki/File:GazouBoshu.png) — Fukaya Festival
-- [File:Gene Wiki logo.png](https://commons.wikimedia.org/wiki/File:Gene_Wiki_logo.png) — Module:Portal/images/g
-- [File:George Washington Presidential $1 Coin obverse.png](https://commons.wikimedia.org/wiki/File:George_Washington_Presidential_%241_Coin_obverse.png) — Help:Pictures, Template:Gallery/doc
-- [File:GIMP screenshot.png](https://commons.wikimedia.org/wiki/File:GIMP_screenshot.png) — Template:Infobox software/doc
 - [File:Gion Daimyojin.png](https://commons.wikimedia.org/wiki/File:Gion_Daimyojin.png) — Susanoo-no-Mikoto
-- [File:GO game.png](https://commons.wikimedia.org/wiki/File:GO_game.png) — Module:Portal/images/g
 - [File:God of Daishogun.png](https://commons.wikimedia.org/wiki/File:God_of_Daishogun.png) — Daishōgun (directional deity)
 - [File:God of Hyobi.png](https://commons.wikimedia.org/wiki/File:God_of_Hyobi.png) — Eight Directional Deities, Hyōbijin
 - [File:God of Ooban.png](https://commons.wikimedia.org/wiki/File:God_of_Ooban.png) — Eight Directional Deities, Ōbanjin
-- [File:God of Saiha.png](https://commons.wikimedia.org/wiki/File:God_of_Saiha.png) — Eight Directional Deities, Saiha Shin
 - [File:God of Saikei.png](https://commons.wikimedia.org/wiki/File:God_of_Saikei.png) — Eight Directional Deities, Saigyōshin
 - [File:God of Saisatsu.png](https://commons.wikimedia.org/wiki/File:God_of_Saisatsu.png) — Eight Directional Deities, Saisetsujin
 - [File:God of Taion.png](https://commons.wikimedia.org/wiki/File:God_of_Taion.png) — Eight Directional Deities, Taionjin
 - [File:God of Taisai.png](https://commons.wikimedia.org/wiki/File:God_of_Taisai.png) — Eight Directional Deities, Taisaijin
 - [File:God of Toshitoku.png](https://commons.wikimedia.org/wiki/File:God_of_Toshitoku.png) — Directional deity, Toshitoku-shin
-- [File:Gokishichido Seven Circuits Japan Map.png](https://commons.wikimedia.org/wiki/File:Gokishichido_Seven_Circuits_Japan_Map.png) — Template:Sōja shrines — NEEDS-INVESTIGATION: drawn on a variant of Provinces of Japan.svg; a uniform-scale fit leaves Kyushu and Tōhoku offset in opposite directions (scratch/locator/goki/). Next: find the author\'s base SVG or fit an affine transform.
-- [File:Gold temple icon.png](https://commons.wikimedia.org/wiki/File:Gold_temple_icon.png) — Template:Infobox religious building
-- [File:Golden W Award2.png](https://commons.wikimedia.org/wiki/File:Golden_W_Award2.png) — Template:Awards, decorations, and medals of Wikipedia
 - [File:Gongen Zukuri.png](https://commons.wikimedia.org/wiki/File:Gongen_Zukuri.png) — Gongen, Ishi-no-ma-zukuri
 - [File:Greater Macedonia.png](https://commons.wikimedia.org/wiki/File:Greater_Macedonia.png) — Module:Portal/images/m
-- [File:Greek deity head icon.png](https://commons.wikimedia.org/wiki/File:Greek_deity_head_icon.png) — Template:WikiProject文化遺産保護制度, Template:WikiProject文化遺産保護制度カテゴリ
-- [File:HairedHumanScrotum.png](https://commons.wikimedia.org/wiki/File:HairedHumanScrotum.png) — MediaWiki:Bad image list
 - [File:Hakusan Myori Daigongen.png](https://commons.wikimedia.org/wiki/File:Hakusan_Myori_Daigongen.png) — Hakusan Gongen
 - [File:Harisainyo.png](https://commons.wikimedia.org/wiki/File:Harisainyo.png) — Gozu Tennō, Harisai-sho, Kushinadahime
-- [File:HarrNishaan.png](https://commons.wikimedia.org/wiki/File:HarrNishaan.png) — Module:Portal/images/r
 - [File:Harushima Iki.png](https://commons.wikimedia.org/wiki/File:Harushima_Iki.png) — Iki Island
-- [File:Hatajirushi3.png](https://commons.wikimedia.org/wiki/File:Hatajirushi3.png) — Takeminakata
-- [File:Heike-Nokyo-Chapter-12-Lotus-Sutra.png](https://commons.wikimedia.org/wiki/File:Heike-Nokyo-Chapter-12-Lotus-Sutra.png) — Heike Nokyo
-- [File:Helmet logo for Underwater Diving portal.png](https://commons.wikimedia.org/wiki/File:Helmet_logo_for_Underwater_Diving_portal.png) — Module:Portal/images/u
 - [File:Higashimuro District Map.png](https://commons.wikimedia.org/wiki/File:Higashimuro_District_Map.png) — Higashimuro District, Wakayama
-- [File:Highway and Railway Map of India OSM.png](https://commons.wikimedia.org/wiki/File:Highway_and_Railway_Map_of_India_OSM.png) — Module:Portal/images/t
-- [File:Hikami-Yama-no-zu.png](https://commons.wikimedia.org/wiki/File:Hikami-Yama-no-zu.png) — Hikami Anego Shrine
-- [File:Hikohohodemi otokowa.png](https://commons.wikimedia.org/wiki/File:Hikohohodemi_otokowa.png) — Hoori, Umisachi and Yamasachi
-- [File:Himeji-Castle-Painting-Early-Meiji-Period.png](https://commons.wikimedia.org/wiki/File:Himeji-Castle-Painting-Early-Meiji-Period.png) — Himeji Castle
-- [File:Hiroo Fukuda cropped 1 Hiroo Fukuda 201611.png](https://commons.wikimedia.org/wiki/File:Hiroo_Fukuda_cropped_1_Hiroo_Fukuda_201611.png) — Toru Funamura
 - [File:Historical expanse of Ainu.png](https://commons.wikimedia.org/wiki/File:Historical_expanse_of_Ainu.png) — Talk:Jōmon period
-- [File:History of Korea-576.png](https://commons.wikimedia.org/wiki/File:History_of_Korea-576.png) — Susanoo-no-Mikoto
-- [File:Hoheikosho-at-Koishikawa-Arsenal-c1920.png](https://commons.wikimedia.org/wiki/File:Hoheikosho-at-Koishikawa-Arsenal-c1920.png) — Meiji Restoration
-- [File:Hokoji-heimenzu.png](https://commons.wikimedia.org/wiki/File:Hokoji-heimenzu.png) — Great Buddha Hall of Hōkō-ji
-- [File:Hokora in Mount Moriya (守屋山上の祠).png](https://commons.wikimedia.org/wiki/File:Hokora_in_Mount_Moriya_%28%E5%AE%88%E5%B1%8B%E5%B1%B1%E4%B8%8A%E3%81%AE%E7%A5%A0%29.png) — Moritaku-no-Kami
-- [File:Houtou-shitori-tottori.png](https://commons.wikimedia.org/wiki/File:Houtou-shitori-tottori.png) — Shidori Shrine (Tottori)
-- [File:How to edit a page Edit box.png](https://commons.wikimedia.org/wiki/File:How_to_edit_a_page_Edit_box.png) — Help:Editing
-- [File:Human Penis.png](https://commons.wikimedia.org/wiki/File:Human_Penis.png) — MediaWiki:Bad image list
-- [File:HumanVulva-PolishText-PhiloVivero.png](https://commons.wikimedia.org/wiki/File:HumanVulva-PolishText-PhiloVivero.png) — MediaWiki:Bad image list
-- [File:Hōkan Miroku Statue Colored.png](https://commons.wikimedia.org/wiki/File:H%C5%8Dkan_Miroku_Statue_Colored.png) — Toraijin
-- [File:Hōkōji Daibutsu Kaempfer.png](https://commons.wikimedia.org/wiki/File:H%C5%8Dk%C5%8Dji_Daibutsu_Kaempfer.png) — Great Buddha of Tōdaiji
 - [File:Icona catastrofi.png](https://commons.wikimedia.org/wiki/File:Icona_catastrofi.png) — Module:Portal/images/t
 - [File:Idioma osetio.png](https://commons.wikimedia.org/wiki/File:Idioma_osetio.png) — Module:Portal/images/o
-- [File:IJA Paratroopers Teishin Shudan in Palembang Feb 1942.png](https://commons.wikimedia.org/wiki/File:IJA_Paratroopers_Teishin_Shudan_in_Palembang_Feb_1942.png) — Airborne Parachute Unit, Divine Soldiers of the Sky
 - [File:Ikushimatarushimajinja.png](https://commons.wikimedia.org/wiki/File:Ikushimatarushimajinja.png) — Ikushimatarushima Shrine
-- [File:ImageMapEdit-en.png](https://commons.wikimedia.org/wiki/File:ImageMapEdit-en.png) — Help:Pictures
-- [File:Inarimae Kofun Group in residential area.png](https://commons.wikimedia.org/wiki/File:Inarimae_Kofun_Group_in_residential_area.png) — Inarimae Kofun Cluster
-- [File:India - administrative map.png](https://commons.wikimedia.org/wiki/File:India_-_administrative_map.png) — Module:Portal/images/i
 - [File:Indigenous of Asia.png](https://commons.wikimedia.org/wiki/File:Indigenous_of_Asia.png) — Help:Multilingual support
 - [File:Indonesian Road Sign d9a.png](https://commons.wikimedia.org/wiki/File:Indonesian_Road_Sign_d9a.png) — Module:Road data/extra
-- [File:InsertAnyChar screenshot.png](https://commons.wikimedia.org/wiki/File:InsertAnyChar_screenshot.png) — User:Nardog/InsertAnyChar
-- [File:Intergluteal cleft.png](https://commons.wikimedia.org/wiki/File:Intergluteal_cleft.png) — MediaWiki:Bad image list
-- [File:IPAInput screenshot.png](https://commons.wikimedia.org/wiki/File:IPAInput_screenshot.png) — User:Nardog/IPAInput
-- [File:IPhone5white.png](https://commons.wikimedia.org/wiki/File:IPhone5white.png) — Module:Portal/images/other
-- [File:Isaacnewton.png](https://commons.wikimedia.org/wiki/File:Isaacnewton.png) — Isaac Newton's occult studies
-- [File:Ise-Grand-Shrine-Emperor-Meiji-Sadahide-Utagawa-1869.png](https://commons.wikimedia.org/wiki/File:Ise-Grand-Shrine-Emperor-Meiji-Sadahide-Utagawa-1869.png) — Ise Grand Shrine
 - [File:Istanbul public transport - Nostaljik Tramvay symbol.png](https://commons.wikimedia.org/wiki/File:Istanbul_public_transport_-_Nostaljik_Tramvay_symbol.png) — Template:Rail-interchange
 - [File:Itsukushima-island.png](https://commons.wikimedia.org/wiki/File:Itsukushima-island.png) — Talk:Itsukushima
 - [File:Izuna Gongen.png](https://commons.wikimedia.org/wiki/File:Izuna_Gongen.png) — Izuna Gongen
 - [File:Japan Chubu Region large.png](https://commons.wikimedia.org/wiki/File:Japan_Chubu_Region_large.png) — Eastern Japan
 - [File:Japan ferry sign.png](https://commons.wikimedia.org/wiki/File:Japan_ferry_sign.png) — Module:Road data/extra
 - [File:Japan large.png](https://commons.wikimedia.org/wiki/File:Japan_large.png) — Category:Regions of Japan by Prefecture
-- [File:Japan Map CIA 2021.png](https://commons.wikimedia.org/wiki/File:Japan_Map_CIA_2021.png) — Module:Location map/data/Japan/doc
-- [File:Japan Relief Map of Land and Seabed.png](https://commons.wikimedia.org/wiki/File:Japan_Relief_Map_of_Land_and_Seabed.png) — Japanese archipelago
-- [File:Japan yashima.png](https://commons.wikimedia.org/wiki/File:Japan_yashima.png) — Age of the Gods, Izanagi, Kuniumi
-- [File:Japanese Fairy Book - Ozaki - 247.png](https://commons.wikimedia.org/wiki/File:Japanese_Fairy_Book_-_Ozaki_-_247.png) — Momotarō
 - [File:Japanese flag during the Kenmu Restoration.png](https://commons.wikimedia.org/wiki/File:Japanese_flag_during_the_Kenmu_Restoration.png) — Kenmu Restoration
-- [File:Japanese Kyudoka Draws Daikyu Longbow (no caption).png](https://commons.wikimedia.org/wiki/File:Japanese_Kyudoka_Draws_Daikyu_Longbow_%28no_caption%29.png) — Kyūdō
-- [File:Japanese-Kuge-Nobleman-1873-by-Shinichi-Suzuki.png](https://commons.wikimedia.org/wiki/File:Japanese-Kuge-Nobleman-1873-by-Shinichi-Suzuki.png) — Kuge
-- [File:Jimbo medal3.png](https://commons.wikimedia.org/wiki/File:Jimbo_medal3.png) — Template:Awards, decorations, and medals of Wikipedia
-- [File:Jinja-Honcho-1966-2.png](https://commons.wikimedia.org/wiki/File:Jinja-Honcho-1966-2.png) — Shinto Association of Spiritual Leadership
-- [File:John George Caradja's seal, 1818.png](https://commons.wikimedia.org/wiki/File:John_George_Caradja%27s_seal%2C_1818.png) — Template:Country data Wallachia
-- [File:John Wesley clipped.png](https://commons.wikimedia.org/wiki/File:John_Wesley_clipped.png) — Module:Portal/images/m
-- [File:JuEnDamaByodoinWP.png](https://commons.wikimedia.org/wiki/File:JuEnDamaByodoinWP.png) — Byōdō-in
-- [File:Juzenji.png](https://commons.wikimedia.org/wiki/File:Juzenji.png) — Jūzenji
-- [File:Kabuki.png](https://commons.wikimedia.org/wiki/File:Kabuki.png) — Conservation Techniques for Cultural Properties
-- [File:Kaemon Takashima.png](https://commons.wikimedia.org/wiki/File:Kaemon_Takashima.png) — Kaemon Takashima
 - [File:Kagoshima-geo-stub.png](https://commons.wikimedia.org/wiki/File:Kagoshima-geo-stub.png) — Template:Kagoshima — already has a vector version: File:Flag map of Kagoshima Prefecture.svg (tag the PNG {{Vector version available}}).
-- [File:Kagura-Dance-Shinto-1914.png](https://commons.wikimedia.org/wiki/File:Kagura-Dance-Shinto-1914.png) — Kagura
-- [File:Kagura-den of Rokugo-jinja.png](https://commons.wikimedia.org/wiki/File:Kagura-den_of_Rokugo-jinja.png) — Rokugō Shrine
 - [File:Kaikatennou oujintennou.png](https://commons.wikimedia.org/wiki/File:Kaikatennou_oujintennou.png) — Hikoimasu no Ōkimi
-- [File:Kaisenhama taiko.png](https://commons.wikimedia.org/wiki/File:Kaisenhama_taiko.png) — Futon Daiko
 - [File:Kajikimen (鹿食免).png](https://commons.wikimedia.org/wiki/File:Kajikimen_%28%E9%B9%BF%E9%A3%9F%E5%85%8D%29.png) — Ofuda, Suwa-taisha
-- [File:Kamisha-koezu (上社古絵図).png](https://commons.wikimedia.org/wiki/File:Kamisha-koezu_%28%E4%B8%8A%E7%A4%BE%E5%8F%A4%E7%B5%B5%E5%9B%B3%29.png) — Suwa-taisha
-- [File:Kanko-no-OKazaki-1.png](https://commons.wikimedia.org/wiki/File:Kanko-no-OKazaki-1.png) — Kabutoyama Kofun (Okazaki)
-- [File:Kannon by Kano Koi (Kenpukuji Ina).png](https://commons.wikimedia.org/wiki/File:Kannon_by_Kano_Koi_%28Kenpukuji_Ina%29.png) — Kenpuku-ji
-- [File:Kanri01.png](https://commons.wikimedia.org/wiki/File:Kanri01.png) — Kōtōkan, Shinninkan
-- [File:Karl Johanssvamp, Iduns kokbok.png](https://commons.wikimedia.org/wiki/File:Karl_Johanssvamp%2C_Iduns_kokbok.png) — Module:Portal/images/f
-- [File:Karte grabstätten theben west.png](https://commons.wikimedia.org/wiki/File:Karte_grabst%C3%A4tten_theben_west.png) — Million-year house
 - [File:Kashikodokoro Jogyosha and Ohaguruma 04.png](https://commons.wikimedia.org/wiki/File:Kashikodokoro_Jogyosha_and_Ohaguruma_04.png) — Kashiko-dokoro Riding Car
 - [File:Kata jangangjangang.png](https://commons.wikimedia.org/wiki/File:Kata_jangangjangang.png) — Help:Multilingual support
 - [File:Katana (common shema).png](https://commons.wikimedia.org/wiki/File:Katana_%28common_shema%29.png) — Japanese sword, Katana
-- [File:Katayama shrine from Tōkaidō meisho zue.png](https://commons.wikimedia.org/wiki/File:Katayama_shrine_from_T%C5%8Dkaid%C5%8D_meisho_zue.png) — Katayama Shrine (Kameyama)
 - [File:KAWI LETTER OM.png](https://commons.wikimedia.org/wiki/File:KAWI_LETTER_OM.png) — Om
-- [File:Kazoku-Japanese-Nobility-Group.png](https://commons.wikimedia.org/wiki/File:Kazoku-Japanese-Nobility-Group.png) — Kazoku
 - [File:Kharosthi font rendering sample.png](https://commons.wikimedia.org/wiki/File:Kharosthi_font_rendering_sample.png) — Help:Multilingual support
-- [File:Kimigayo-Anthem-Japan-Sheet-Music-1888.png](https://commons.wikimedia.org/wiki/File:Kimigayo-Anthem-Japan-Sheet-Music-1888.png) — Kimigayo
-- [File:King of Na gold seal face.png](https://commons.wikimedia.org/wiki/File:King_of_Na_gold_seal_face.png) — King of Na gold seal — NOT REBUILDABLE: a photograph of the seal (PD-Art); the linked SVG is the imprint, a different image.
-- [File:King of Na gold seal knob top.png](https://commons.wikimedia.org/wiki/File:King_of_Na_gold_seal_knob_top.png) — King of Na gold seal
 - [File:Kitakatsuragi District in Nara prefecture Ja.png](https://commons.wikimedia.org/wiki/File:Kitakatsuragi_District_in_Nara_prefecture_Ja.png) — Kitakatsuragi District, Nara
-- [File:Kitatogawa 2daimetaikodai.png](https://commons.wikimedia.org/wiki/File:Kitatogawa_2daimetaikodai.png) — Futon Daiko
 - [File:Kolkata bus.png](https://commons.wikimedia.org/wiki/File:Kolkata_bus.png) — Template:Rail-interchange
 - [File:Kongo Cosmogram - blank.png](https://commons.wikimedia.org/wiki/File:Kongo_Cosmogram_-_blank.png) — Template:Kongo religion sidebar
 - [File:Koshiate (Sword Hangers).png](https://commons.wikimedia.org/wiki/File:Koshiate_%28Sword_Hangers%29.png) — Japanese sword, Tachi
 - [File:Koshur in Sharada Script.png](https://commons.wikimedia.org/wiki/File:Koshur_in_Sharada_Script.png) — Help:Multilingual support
-- [File:Kosodate-jizo (Saku, Nagano).png](https://commons.wikimedia.org/wiki/File:Kosodate-jizo_%28Saku%2C_Nagano%29.png) — Kosodate Jizō
-- [File:Koujin yama.png](https://commons.wikimedia.org/wiki/File:Koujin_yama.png) — Ofuda
 - [File:Kounoke kamon.png](https://commons.wikimedia.org/wiki/File:Kounoke_kamon.png) — Kōno clan
 - [File:Kyoto-geo-stub.png](https://commons.wikimedia.org/wiki/File:Kyoto-geo-stub.png) — Template:Kyoto-geo-stub
-- [File:Kyushu-Japan-ISS-Space.png](https://commons.wikimedia.org/wiki/File:Kyushu-Japan-ISS-Space.png) — Kyushu
-- [File:Kyushumap-en.png](https://commons.wikimedia.org/wiki/File:Kyushumap-en.png) — Kyushu
 - [File:Kōfukuji plan.png](https://commons.wikimedia.org/wiki/File:K%C5%8Dfukuji_plan.png) — Kōfuku-ji
 - [File:L14 C.png](https://commons.wikimedia.org/wiki/File:L14_C.png) — Template:Rail-interchange
-- [File:Lambang Kota Tangerang.png](https://commons.wikimedia.org/wiki/File:Lambang_Kota_Tangerang.png) — Template:Coat of arms
-- [File:Lanterns.png](https://commons.wikimedia.org/wiki/File:Lanterns.png) — Atago Shrine (Kameoka)
-- [File:Letter from Viceroy of Portuguese India Duarte de Menezes to Toyotomi Hideyoshi 1588.png](https://commons.wikimedia.org/wiki/File:Letter_from_Viceroy_of_Portuguese_India_Duarte_de_Menezes_to_Toyotomi_Hideyoshi_1588.png) — Tangible Cultural Property (Japan)
 - [File:LFW2008 2403.png](https://commons.wikimedia.org/wiki/File:LFW2008_2403.png) — Template:Contains special characters
 - [File:Linear B Sample.png](https://commons.wikimedia.org/wiki/File:Linear_B_Sample.png) — Help:Multilingual support
-- [File:Location map Ryukyu Islands.png](https://commons.wikimedia.org/wiki/File:Location_map_Ryukyu_Islands.png) — Talk:Gusuku Sites and Related Properties of the Kingdom of Ryukyu — NOT REBUILDABLE: raster topographic relief from maps-for-free.com; the listed SVG is a different map. Only tracing would vectorize it (ruled out). Checked: Ryukyu cultural regions.svg embeds this same relief raster (render diff 7.2), so it is not a vector source.
-- [File:Location-of-Liancourt-rocks-en.png](https://commons.wikimedia.org/wiki/File:Location-of-Liancourt-rocks-en.png) — Template:Infobox islands/doc
 - [File:Lontara script.png](https://commons.wikimedia.org/wiki/File:Lontara_script.png) — Help:Multilingual support
-- [File:Macedonian Police insignia.png](https://commons.wikimedia.org/wiki/File:Macedonian_Police_insignia.png) — Template:Coat of arms
-- [File:Magatama.png](https://commons.wikimedia.org/wiki/File:Magatama.png) — Glossary of Shinto, Jōmon period, Magatama
-- [File:Mai-blow.png](https://commons.wikimedia.org/wiki/File:Mai-blow.png) — MediaWiki:Bad image list
 - [File:Malayalam Om.png](https://commons.wikimedia.org/wiki/File:Malayalam_Om.png) — Om
 - [File:Manual tab only - visual editor - citations.png](https://commons.wikimedia.org/wiki/File:Manual_tab_only_-_visual_editor_-_citations.png) — Help:VisualEditor
-- [File:Map Asia physical (continental).png](https://commons.wikimedia.org/wiki/File:Map_Asia_physical_%28continental%29.png) — (file-title list), File:Map Asia physical (continental).png, Module:Location map/data/Continental Asia
-- [File:Map Canada political-geo.png](https://commons.wikimedia.org/wiki/File:Map_Canada_political-geo.png) — Module:Portal/images/c, Module:Portal/images/c/sandbox
 - [File:Map Icon - Hotel.png](https://commons.wikimedia.org/wiki/File:Map_Icon_-_Hotel.png) — Module:Portal/images/h, Module:Portal/images/h/sandbox
 - [File:Map Kumano Kodo (ja).png](https://commons.wikimedia.org/wiki/File:Map_Kumano_Kodo_%28ja%29.png) — Kiiji
 - [File:Map Kumano Kodo.png](https://commons.wikimedia.org/wiki/File:Map_Kumano_Kodo.png) — Kumano Kodō
-- [File:Map of California NA.png](https://commons.wikimedia.org/wiki/File:Map_of_California_NA.png) — Module:Location map/data/USA California/doc
 - [File:Map of Suwa Shrine, Kamisha Honmiya (English).png](https://commons.wikimedia.org/wiki/File:Map_of_Suwa_Shrine%2C_Kamisha_Honmiya_%28English%29.png) — Suwa-taisha
-- [File:Map-of-Japan-1183-Heian-Genpei-War.png](https://commons.wikimedia.org/wiki/File:Map-of-Japan-1183-Heian-Genpei-War.png) — Minamoto clan, Taira clan
-- [File:Map-of-the-Kyuden-Tokyo-Imperial-Palace-2019.png](https://commons.wikimedia.org/wiki/File:Map-of-the-Kyuden-Tokyo-Imperial-Palace-2019.png) — Tokyo Imperial Palace
 - [File:Map-okinawa-pref.png](https://commons.wikimedia.org/wiki/File:Map-okinawa-pref.png) — Okinawa
-- [File:MapL.png](https://commons.wikimedia.org/wiki/File:MapL.png) — Module:Portal/images/g
 - [File:Maru ni Sasa Rindō inverted.png](https://commons.wikimedia.org/wiki/File:Maru_ni_Sasa_Rind%C5%8D_inverted.png) — Ishikawa Kazumasa
 - [File:Marunimitsukashiwa.png](https://commons.wikimedia.org/wiki/File:Marunimitsukashiwa.png) — Ishizu Shrine, Yamato Okunitama Shrine, Mima
 - [File:Marunitsurukashiwa.png](https://commons.wikimedia.org/wiki/File:Marunitsurukashiwa.png) — Nahe Shrine, Takefutsu Nishinomiya Shrine
-- [File:Masanao-kyoto-rat-netsuke.png](https://commons.wikimedia.org/wiki/File:Masanao-kyoto-rat-netsuke.png) — Netsuke
-- [File:MassDeleteOTRS.png](https://commons.wikimedia.org/wiki/File:MassDeleteOTRS.png) — (file-title list), File:MassDeleteOTRS.png, Help:VisualFileChange.js
-- [File:Master-Swordsmith-Goro-Masamune-Ukiyo-e.png](https://commons.wikimedia.org/wiki/File:Master-Swordsmith-Goro-Masamune-Ukiyo-e.png) — Katana
 - [File:Matsuura-gun.png](https://commons.wikimedia.org/wiki/File:Matsuura-gun.png) — Matsura-gun
-- [File:MDL1.png](https://commons.wikimedia.org/wiki/File:MDL1.png) — Template:Coat of arms
 - [File:Megamihōri-no-in (売神祝印) seal imprint.png](https://commons.wikimedia.org/wiki/File:Megamih%C5%8Dri-no-in_%28%E5%A3%B2%E7%A5%9E%E7%A5%9D%E5%8D%B0%29_seal_imprint.png) — Suwa-taisha
 - [File:Melanesian Cultural Area.png](https://commons.wikimedia.org/wiki/File:Melanesian_Cultural_Area.png) — Module:Portal/images/m — NEEDS-DECISION (user): base (World2Hires filled mercator.svg) and ~25 labels are rebuildable, but the region blob is hand-drawn with no source; recreating it means fitting a smooth curve to the PNG's outline (tracing a simple shape). OK or not?
-- [File:Members of French Military Mission to Japan in 1867.png](https://commons.wikimedia.org/wiki/File:Members_of_French_Military_Mission_to_Japan_in_1867.png) — Tokugawa Yoshinobu
-- [File:Memorial tower for Lord Suwa Teruun Yorishige.png](https://commons.wikimedia.org/wiki/File:Memorial_tower_for_Lord_Suwa_Teruun_Yorishige.png) — Suwa Yorishige (Nanboku-chō period)
-- [File:Metrorioicon.png](https://commons.wikimedia.org/wiki/File:Metrorioicon.png) — Template:Rail-interchange
 - [File:Micronesian Cultural Area.png](https://commons.wikimedia.org/wiki/File:Micronesian_Cultural_Area.png) — Module:Portal/images/m — NEEDS-DECISION (user): base (World2Hires filled mercator.svg) and ~25 labels are rebuildable, but the region blob is hand-drawn with no source; recreating it means fitting a smooth curve to the PNG's outline (tracing a simple shape). OK or not?
 - [File:Midtown line GO logo.png](https://commons.wikimedia.org/wiki/File:Midtown_line_GO_logo.png) — Template:Rail-interchange
-- [File:Minamoto-no-Tametomo-by-Kuniyoshi-Utagawa.png](https://commons.wikimedia.org/wiki/File:Minamoto-no-Tametomo-by-Kuniyoshi-Utagawa.png) — Minamoto no Tametomo, Utagawa Kuniyoshi
 - [File:Minor edit.png](https://commons.wikimedia.org/wiki/File:Minor_edit.png) — Help:Editing
-- [File:MirceaCelBatranSeal1390.png](https://commons.wikimedia.org/wiki/File:MirceaCelBatranSeal1390.png) — Template:Country data Wallachia
 - [File:Mitsu Zaru inverted.png](https://commons.wikimedia.org/wiki/File:Mitsu_Zaru_inverted.png) — Mon (emblem)
-- [File:Mobile view problem climate change.png](https://commons.wikimedia.org/wiki/File:Mobile_view_problem_climate_change.png) — (file-title list), File:Mobile view problem climate change.png, Module:Random slideshow/doc, Template:Random slideshow/doc
 - [File:Modre symbol Omkara.png](https://commons.wikimedia.org/wiki/File:Modre_symbol_Omkara.png) — Om
 - [File:Mon- Izumo taisha.png](https://commons.wikimedia.org/wiki/File:Mon-_Izumo_taisha.png) — Izumo Taisha Matsuyama Shrine
-- [File:Monodevelop-main-window.png](https://commons.wikimedia.org/wiki/File:Monodevelop-main-window.png) — Template:Infobox programming language/doc
-- [File:Monterey Bay Map (cropped).png](https://commons.wikimedia.org/wiki/File:Monterey_Bay_Map_%28cropped%29.png) — Module:Portal/images/m
 - [File:Moriya Family Tree - 守矢氏系図.png](https://commons.wikimedia.org/wiki/File:Moriya_Family_Tree_-_%E5%AE%88%E7%9F%A2%E6%B0%8F%E7%B3%BB%E5%9B%B3.png) — Chikatō-no-Kami, Itsuhayahime-no-Mikoto, Izuhayao-no-Mikoto, Katakurabe no Mikoto, Kodamahiko-no-Mikoto, Moritachi no Kami, Moritaku-no-Kami, Moriya clan, Tamaru-hime, Yagata no Sukune no Kami
 - [File:Moromi.png](https://commons.wikimedia.org/wiki/File:Moromi.png) — Module:Portal/images/a
 - [File:Mouse icon vector.png](https://commons.wikimedia.org/wiki/File:Mouse_icon_vector.png) — Module:Portal/images/h, Module:Portal/images/h/sandbox
-- [File:Mule (PSF).png](https://commons.wikimedia.org/wiki/File:Mule_%28PSF%29.png) — Template:Multiple image/doc
-- [File:Murasaki-Shikibu-composing-Genji-Monogatari.png](https://commons.wikimedia.org/wiki/File:Murasaki-Shikibu-composing-Genji-Monogatari.png) — Minamoto clan
-- [File:Mutsuhito-Emperor-Meiji-1873.png](https://commons.wikimedia.org/wiki/File:Mutsuhito-Emperor-Meiji-1873.png) — Meiji Restoration
-- [File:Myoan-Eisai-Kennin-ji-Portrait.png](https://commons.wikimedia.org/wiki/File:Myoan-Eisai-Kennin-ji-Portrait.png) — (file-title list), File:Myoan-Eisai-Kennin-ji-Portrait.png, Kamakura Buddhism
 - [File:Nagashima Iki.png](https://commons.wikimedia.org/wiki/File:Nagashima_Iki.png) — Iki Island
 - [File:Nagikama.png](https://commons.wikimedia.org/wiki/File:Nagikama.png) — Takeminakata
-- [File:Naiku Map in Japanese.png](https://commons.wikimedia.org/wiki/File:Naiku_Map_in_Japanese.png) — Kōtai Jingū
 - [File:Nakano Inugoya dog shelters 1696.png](https://commons.wikimedia.org/wiki/File:Nakano_Inugoya_dog_shelters_1696.png) — Tokugawa Tsunayoshi
 - [File:Name muhammad in sylheti nagari.png](https://commons.wikimedia.org/wiki/File:Name_muhammad_in_sylheti_nagari.png) — Help:Multilingual support
 - [File:Nara Toichi-gun.png](https://commons.wikimedia.org/wiki/File:Nara_Toichi-gun.png) — Toichi district
-- [File:NarmerPalette-CloseUpOfProcession-ROM.png](https://commons.wikimedia.org/wiki/File:NarmerPalette-CloseUpOfProcession-ROM.png) — Horus Procession
-- [File:Naruko Yanagiwara.png](https://commons.wikimedia.org/wiki/File:Naruko_Yanagiwara.png) — Yanagiwara Naruko
 - [File:Naval jack of the United States (1975–1976).png](https://commons.wikimedia.org/wiki/File:Naval_jack_of_the_United_States_%281975%E2%80%931976%29.png) — Template:Country data United States Navy
 - [File:NaviMumbaiMetro-Logo.png](https://commons.wikimedia.org/wiki/File:NaviMumbaiMetro-Logo.png) — Template:Rail-interchange
 - [File:Nbfr logo.png](https://commons.wikimedia.org/wiki/File:Nbfr_logo.png) — Template:Country data Russia
-- [File:NCAAFootball transparent.png](https://commons.wikimedia.org/wiki/File:NCAAFootball_transparent.png) — Module:Portal/images/c, Module:Portal/images/c/sandbox
 - [File:Neulicht.Botein.P1162773.png](https://commons.wikimedia.org/wiki/File:Neulicht.Botein.P1162773.png) — Acronychic
-- [File:Neuro logo.png](https://commons.wikimedia.org/wiki/File:Neuro_logo.png) — Module:Portal/images/n
 - [File:New Tai Lue script sample.png](https://commons.wikimedia.org/wiki/File:New_Tai_Lue_script_sample.png) — Help:Multilingual support
-- [File:Niigata Gokoku Shrine 20070815.png](https://commons.wikimedia.org/wiki/File:Niigata_Gokoku_Shrine_20070815.png) — Niigata Gokoku Shrine
-- [File:Niiname-sai.png](https://commons.wikimedia.org/wiki/File:Niiname-sai.png) — Niiname-no-Matsuri
-- [File:Ninigi.png](https://commons.wikimedia.org/wiki/File:Ninigi.png) — Ninigi-no-Mikoto
 - [File:NO IMAGE YET square.png](https://commons.wikimedia.org/wiki/File:NO_IMAGE_YET_square.png) — (file-title list), File:NO IMAGE YET square.png, Module:InfoboxImage/data, Module:InfoboxImage/doc, Module:InfoboxImage/sandbox
 - [File:NO IMAGE YET.png](https://commons.wikimedia.org/wiki/File:NO_IMAGE_YET.png) — (file-title list), File:NO IMAGE YET.png, Module:InfoboxImage/data, Module:InfoboxImage/doc, Module:InfoboxImage/sandbox
-- [File:No. 2 - Picture of Cintamanicakra (如意輪觀音 or 如意轮观音; Ruyilun Guanyin) in a Chinese Buddhist tract on the Nilakantha Dharani, or Great Compassion Mantra (大悲咒; Dàbēi zhòu), corresponding to line 2.png](https://commons.wikimedia.org/wiki/File:No._2_-_Picture_of_Cintamanicakra_%28%E5%A6%82%E6%84%8F%E8%BC%AA%E8%A7%80%E9%9F%B3_or_%E5%A6%82%E6%84%8F%E8%BD%AE%E8%A7%82%E9%9F%B3%3B_Ruyilun_Guanyin%29_in_a_Chinese_Buddhist_tract_on_the_Nilakantha_Dharani%2C_or_Great_Compassion_Mantra_%28%E5%A4%A7%E6%82%B2%E5%92%92%3B_D%C3%A0b%C4%93i_zh%C3%B2u%29%2C_corresponding_to_line_2.png) — Cintāmaṇicakra
-- [File:Nocover-upload.png](https://commons.wikimedia.org/wiki/File:Nocover-upload.png) — (file-title list), File:Nocover-upload.png, Module:InfoboxImage/data, Module:InfoboxImage/doc, Module:InfoboxImage/sandbox
 - [File:NoDVDcover copy.png](https://commons.wikimedia.org/wiki/File:NoDVDcover_copy.png) — (file-title list), File:NoDVDcover copy.png, Module:InfoboxImage/data, Module:InfoboxImage/doc, Module:InfoboxImage/sandbox
 - [File:Nonotonoto.png](https://commons.wikimedia.org/wiki/File:Nonotonoto.png) — Help:Multilingual support
 - [File:North Texas Stacked Wordmark.png](https://commons.wikimedia.org/wiki/File:North_Texas_Stacked_Wordmark.png) — Module:Portal/images/u
-- [File:Notification for failed login attempt.png](https://commons.wikimedia.org/wiki/File:Notification_for_failed_login_attempt.png) — Help:Notifications
-- [File:Notifications - Changed rights - January 2016.png](https://commons.wikimedia.org/wiki/File:Notifications_-_Changed_rights_-_January_2016.png) — Help:Notifications
 - [File:Notifications - Email received - January 2016.png](https://commons.wikimedia.org/wiki/File:Notifications_-_Email_received_-_January_2016.png) — Help:Notifications
 - [File:Notifications - Failed Mention - August 2016.png](https://commons.wikimedia.org/wiki/File:Notifications_-_Failed_Mention_-_August_2016.png) — Help:Notifications
 - [File:Notifications - First milestone - August 2016.png](https://commons.wikimedia.org/wiki/File:Notifications_-_First_milestone_-_August_2016.png) — Help:Notifications
 - [File:Notifications - Successful Mention - August 2016.png](https://commons.wikimedia.org/wiki/File:Notifications_-_Successful_Mention_-_August_2016.png) — Help:Notifications
-- [File:Notifications - Thanked edit - January 2016.png](https://commons.wikimedia.org/wiki/File:Notifications_-_Thanked_edit_-_January_2016.png) — Help:Notifications
 - [File:Notifications - Welcome - January 2016.png](https://commons.wikimedia.org/wiki/File:Notifications_-_Welcome_-_January_2016.png) — Help:Notifications
 - [File:Notifications - Wikidata connection.png](https://commons.wikimedia.org/wiki/File:Notifications_-_Wikidata_connection.png) — Help:Notifications
-- [File:Notifications-Flyout-Screenshot-Closeup-07-31-2013.png](https://commons.wikimedia.org/wiki/File:Notifications-Flyout-Screenshot-Closeup-07-31-2013.png) — Help:Notifications/FAQ
 - [File:Null.png](https://commons.wikimedia.org/wiki/File:Null.png) — (file-title list), File:Null.png, Module:InfoboxImage/data, Module:InfoboxImage/doc, Module:InfoboxImage/sandbox
-- [File:Nuvola apps atlantik.png](https://commons.wikimedia.org/wiki/File:Nuvola_apps_atlantik.png) — Module:Portal/images/p
-- [File:Nuvola apps kbackgammon.png](https://commons.wikimedia.org/wiki/File:Nuvola_apps_kbackgammon.png) — Module:Portal/images/g
-- [File:Nuvola apps ksim.png](https://commons.wikimedia.org/wiki/File:Nuvola_apps_ksim.png) — Module:Portal/images/e, Module:Portal/images/e/sandbox
 - [File:O-dot.png](https://commons.wikimedia.org/wiki/File:O-dot.png) — Template:Contains special characters
-- [File:Oda-Nobunaga-by-Utagawa-Kuniyoshi.png](https://commons.wikimedia.org/wiki/File:Oda-Nobunaga-by-Utagawa-Kuniyoshi.png) — Utagawa Kuniyoshi
-- [File:Ogasawara islands.png](https://commons.wikimedia.org/wiki/File:Ogasawara_islands.png) — Japanese archipelago
 - [File:Ogham Sample.png](https://commons.wikimedia.org/wiki/File:Ogham_Sample.png) — Help:Multilingual support
-- [File:Okumura Masanobu - Taking the Evening Cool by Ryōgoku Bridge.png](https://commons.wikimedia.org/wiki/File:Okumura_Masanobu_-_Taking_the_Evening_Cool_by_Ry%C5%8Dgoku_Bridge.png) — Ukiyo-e
 - [File:Old Persian mi.png](https://commons.wikimedia.org/wiki/File:Old_Persian_mi.png) — Template:Contains special characters
-- [File:Old silver coin with family crest of Minamoto clan (Seiwa Genji), Edo period.png](https://commons.wikimedia.org/wiki/File:Old_silver_coin_with_family_crest_of_Minamoto_clan_%28Seiwa_Genji%29%2C_Edo_period.png) — Minamoto clan
 - [File:Om in Cham script.png](https://commons.wikimedia.org/wiki/File:Om_in_Cham_script.png) — Om
 - [File:Om siddham2.png](https://commons.wikimedia.org/wiki/File:Om_siddham2.png) — Bīja
-- [File:Omsk coat of arms 2014.png](https://commons.wikimedia.org/wiki/File:Omsk_coat_of_arms_2014.png) — Template:Coat of arms
-- [File:On the Lamentation of the Empress.png](https://commons.wikimedia.org/wiki/File:On_the_Lamentation_of_the_Empress.png) — Saionji Kishi
 - [File:One chef's hat.png](https://commons.wikimedia.org/wiki/File:One_chef%27s_hat.png) — Module:Portal/images/c, Module:Portal/images/c/sandbox
-- [File:Origin of Iwato Kagura Dance Amaterasu by Toyokuni III (Kunisada) 1856.png](https://commons.wikimedia.org/wiki/File:Origin_of_Iwato_Kagura_Dance_Amaterasu_by_Toyokuni_III_%28Kunisada%29_1856.png) — Amano-Iwato, Amaterasu, Aso Shrine, Kamigami, Kashiko-dokoro Mikagura, Takamagahara, Ukiyo-e
-- [File:Original Ribbon.png](https://commons.wikimedia.org/wiki/File:Original_Ribbon.png) — Template:Awards, decorations, and medals of Wikipedia
 - [File:Orion-Sternkarte.png](https://commons.wikimedia.org/wiki/File:Orion-Sternkarte.png) — Sah (constellation), Seba-en-Sah, Seba-en-Sopdet
 - [File:Oshima Iki.png](https://commons.wikimedia.org/wiki/File:Oshima_Iki.png) — Iki Island
-- [File:Ototachibanahime.png](https://commons.wikimedia.org/wiki/File:Ototachibanahime.png) — Tachibanahime-no-Mikoto
 - [File:Ottoman Turkish in Nastaliq (vertical).png](https://commons.wikimedia.org/wiki/File:Ottoman_Turkish_in_Nastaliq_%28vertical%29.png) — Template:Contains special characters
-- [File:P social sciences-lightblue.png](https://commons.wikimedia.org/wiki/File:P_social_sciences-lightblue.png) — Module:Portal/images/s/sandbox
-- [File:Pagename explanation.png](https://commons.wikimedia.org/wiki/File:Pagename_explanation.png) — Help:Page name
 - [File:Pagename explanation2.png](https://commons.wikimedia.org/wiki/File:Pagename_explanation2.png) — Help:Page name
-- [File:Palermo-Stemma da Il blasone in Sicilia (Tav 82).png](https://commons.wikimedia.org/wiki/File:Palermo-Stemma_da_Il_blasone_in_Sicilia_%28Tav_82%29.png) — Template:Coat of arms
 - [File:Panam Sports flag.png](https://commons.wikimedia.org/wiki/File:Panam_Sports_flag.png) — Module:Country alias/data
-- [File:Paris plan jms.png](https://commons.wikimedia.org/wiki/File:Paris_plan_jms.png) — Paris
-- [File:PB Kraków CoA.png](https://commons.wikimedia.org/wiki/File:PB_Krak%C3%B3w_CoA.png) — Template:Coat of arms
-- [File:Penis syphilis.png](https://commons.wikimedia.org/wiki/File:Penis_syphilis.png) — MediaWiki:Bad image list
 - [File:Perform batch task.png](https://commons.wikimedia.org/wiki/File:Perform_batch_task.png) — Help:VisualFileChange.js
 - [File:Phaistos-A23.png](https://commons.wikimedia.org/wiki/File:Phaistos-A23.png) — Help:Multilingual support
-- [File:Photo-TokyoAirRaids-1945-3-10-Destroyed Nakamise-4.png](https://commons.wikimedia.org/wiki/File:Photo-TokyoAirRaids-1945-3-10-Destroyed_Nakamise-4.png) — Sensō-ji
-- [File:Piss drinking.png](https://commons.wikimedia.org/wiki/File:Piss_drinking.png) — MediaWiki:Bad image list
-- [File:Placeholder barnstar ribbon.png](https://commons.wikimedia.org/wiki/File:Placeholder_barnstar_ribbon.png) — (file-title list), File:Placeholder barnstar ribbon.png, Module:InfoboxImage/data, Module:InfoboxImage/doc, Module:InfoboxImage/sandbox
-- [File:Plasmodium falciparum 01.png](https://commons.wikimedia.org/wiki/File:Plasmodium_falciparum_01.png) — Template:Taxonbar/doc
-- [File:Pleuroceras ammonite with no background.png](https://commons.wikimedia.org/wiki/File:Pleuroceras_ammonite_with_no_background.png) — Module:Portal/images/p
 - [File:Pleurodeles walti dis.png](https://commons.wikimedia.org/wiki/File:Pleurodeles_walti_dis.png) — Template:Taxobox/doc
-- [File:Plzen small CoA.png](https://commons.wikimedia.org/wiki/File:Plzen_small_CoA.png) — Template:Coat of arms
-- [File:PNG transparency demonstration 1.png](https://commons.wikimedia.org/wiki/File:PNG_transparency_demonstration_1.png) — Help:Pictures, Template:Image frame/doc, Template:Multiple image/doc
-- [File:PNG transparency demonstration 2.png](https://commons.wikimedia.org/wiki/File:PNG_transparency_demonstration_2.png) — Template:Multiple image/doc
-- [File:Polynesia.png](https://commons.wikimedia.org/wiki/File:Polynesia.png) — Module:Portal/images/p
-- [File:Portrait of Emperor Kanmu.png](https://commons.wikimedia.org/wiki/File:Portrait_of_Emperor_Kanmu.png) — Emperor Kanmu
-- [File:Portrait-Kaibara-Ekiken-(cropped)-c1700.png](https://commons.wikimedia.org/wiki/File:Portrait-Kaibara-Ekiken-%28cropped%29-c1700.png) — Kaibara Ekken
 - [File:Position Alpha Cmi.png](https://commons.wikimedia.org/wiki/File:Position_Alpha_Cmi.png) — Imi-chet-Sopdet
 - [File:Position Beta Cma.png](https://commons.wikimedia.org/wiki/File:Position_Beta_Cma.png) — Tepi-a-Sopdet
 - [File:Position of Ashibe Port Iki City.png](https://commons.wikimedia.org/wiki/File:Position_of_Ashibe_Port_Iki_City.png) — Iki Island
-- [File:PR icon.png](https://commons.wikimedia.org/wiki/File:PR_icon.png) — Module:Portal/images/p
-- [File:Prince Morimasa.png](https://commons.wikimedia.org/wiki/File:Prince_Morimasa.png) — Daijosai
-- [File:Princess Hachikazuki and Prince Saisho pledge their love.png](https://commons.wikimedia.org/wiki/File:Princess_Hachikazuki_and_Prince_Saisho_pledge_their_love.png) — Hachikazuki
-- [File:Project Trains no image.png](https://commons.wikimedia.org/wiki/File:Project_Trains_no_image.png) — (file-title list), File:Project Trains no image.png, Module:InfoboxImage/data, Module:InfoboxImage/doc, Module:InfoboxImage/sandbox
-- [File:Pronunciation of the name of the letter ⟨e⟩ in European languages.png](https://commons.wikimedia.org/wiki/File:Pronunciation_of_the_name_of_the_letter_%E2%9F%A8e%E2%9F%A9_in_European_languages.png) — E
-- [File:PRT.png](https://commons.wikimedia.org/wiki/File:PRT.png) — Template:Coat of arms
-- [File:Psychedelic dingbats.png](https://commons.wikimedia.org/wiki/File:Psychedelic_dingbats.png) — Template:Category header
-- [File:Pyramidi aavikolla.png](https://commons.wikimedia.org/wiki/File:Pyramidi_aavikolla.png) — Module:Portal/images/a
-- [File:Qubrathamranshrine.png](https://commons.wikimedia.org/wiki/File:Qubrathamranshrine.png) — Shrine
 - [File:R01.png](https://commons.wikimedia.org/wiki/File:R01.png) — Awa Village
 - [File:R05.png](https://commons.wikimedia.org/wiki/File:R05.png) — Awa Village
 - [File:R10.png](https://commons.wikimedia.org/wiki/File:R10.png) — Awa Village
 - [File:R50.png](https://commons.wikimedia.org/wiki/File:R50.png) — Awa Village
-- [File:Rainbow trout.png](https://commons.wikimedia.org/wiki/File:Rainbow_trout.png) — (file-title list), File:Rainbow trout.png, Template:Multiple image/doc
-- [File:Raphe1.png](https://commons.wikimedia.org/wiki/File:Raphe1.png) — MediaWiki:Bad image list
-- [File:Red feces.png](https://commons.wikimedia.org/wiki/File:Red_feces.png) — MediaWiki:Bad image list
-- [File:RefRenamer screenshot.png](https://commons.wikimedia.org/wiki/File:RefRenamer_screenshot.png) — User:Nardog/RefRenamer
 - [File:Regionen japans.png](https://commons.wikimedia.org/wiki/File:Regionen_japans.png) — Template:Continued Top 100 Japanese Castles
-- [File:Relief map of California.png](https://commons.wikimedia.org/wiki/File:Relief_map_of_California.png) — (file-title list), File:Relief map of California.png, Module:Location map/data/USA California, Module:Location map/data/USA California/doc
-- [File:Relief Map of Caribbean.png](https://commons.wikimedia.org/wiki/File:Relief_Map_of_Caribbean.png) — Module:Portal/images/c, Module:Portal/images/c/sandbox
-- [File:Religion in Japan by prefecture, 1996 statistics.png](https://commons.wikimedia.org/wiki/File:Religion_in_Japan_by_prefecture%2C_1996_statistics.png) — (file-title list), File:Religion in Japan by prefecture, 1996 statistics.png
-- [File:Remich coat of arms.png](https://commons.wikimedia.org/wiki/File:Remich_coat_of_arms.png) — Template:Coat of arms
-- [File:Replace this image - temple.png](https://commons.wikimedia.org/wiki/File:Replace_this_image_-_temple.png) — (file-title list), File:Replace this image - temple.png, Module:InfoboxImage/data, Module:InfoboxImage/doc, Module:InfoboxImage/sandbox
 - [File:Replace this image butterfly.png](https://commons.wikimedia.org/wiki/File:Replace_this_image_butterfly.png) — (file-title list), File:Replace this image butterfly.png, Module:InfoboxImage/data, Module:InfoboxImage/doc, Module:InfoboxImage/sandbox, Template:Infobox instrument/doc
-- [File:Reply tool version 2b screenshot.png](https://commons.wikimedia.org/wiki/File:Reply_tool_version_2b_screenshot.png) — Help:Talk pages
 - [File:Resolution angle.png](https://commons.wikimedia.org/wiki/File:Resolution_angle.png) — (file-title list), File:Resolution angle.png, Module:InfoboxImage/data, Module:InfoboxImage/doc, Module:InfoboxImage/sandbox
-- [File:Ribbon numeral 2.png](https://commons.wikimedia.org/wiki/File:Ribbon_numeral_2.png) — Template:Multiple image/doc
-- [File:Ribbon numeral 3.png](https://commons.wikimedia.org/wiki/File:Ribbon_numeral_3.png) — Template:Multiple image/doc
-- [File:Ribbon numeral 4.png](https://commons.wikimedia.org/wiki/File:Ribbon_numeral_4.png) — Template:Multiple image/doc
-- [File:Rokugo-Jinja, Shaden.png](https://commons.wikimedia.org/wiki/File:Rokugo-Jinja%2C_Shaden.png) — Rokugō Shrine
-- [File:Rokugo-Jinja, Shinmon.png](https://commons.wikimedia.org/wiki/File:Rokugo-Jinja%2C_Shinmon.png) — Rokugō Shrine
-- [File:RokugoJinja Shinbashi.png](https://commons.wikimedia.org/wiki/File:RokugoJinja_Shinbashi.png) — Rokugō Shrine
-- [File:RokugoJinja,Keidaisha.png](https://commons.wikimedia.org/wiki/File:RokugoJinja%2CKeidaisha.png) — Rokugō Shrine
-- [File:Roman horse.png](https://commons.wikimedia.org/wiki/File:Roman_horse.png) — Archaeological excavation
-- [File:Romano celtic temple004.png](https://commons.wikimedia.org/wiki/File:Romano_celtic_temple004.png) — Archaeological excavation
-- [File:ROU CJ Cluj-Napoca CoA.png](https://commons.wikimedia.org/wiki/File:ROU_CJ_Cluj-Napoca_CoA.png) — Template:Coat of arms
-- [File:ROU TM Timisoara CoA1.png](https://commons.wikimedia.org/wiki/File:ROU_TM_Timisoara_CoA1.png) — Template:Coat of arms
 - [File:RSAFinfoboxflag.png](https://commons.wikimedia.org/wiki/File:RSAFinfoboxflag.png) — Template:Country data Singapore
-- [File:Ryukyu Invasion Phase1.png](https://commons.wikimedia.org/wiki/File:Ryukyu_Invasion_Phase1.png) — Invasion of Ryukyu
-- [File:Ryukyu Invasion Phase2.png](https://commons.wikimedia.org/wiki/File:Ryukyu_Invasion_Phase2.png) — Invasion of Ryukyu
-- [File:Ryukyu Invasion Phase3.png](https://commons.wikimedia.org/wiki/File:Ryukyu_Invasion_Phase3.png) — Invasion of Ryukyu
-- [File:Ryukyu Invasion Phase4.png](https://commons.wikimedia.org/wiki/File:Ryukyu_Invasion_Phase4.png) — Invasion of Ryukyu
-- [File:Ryukyu Invasion Phase5.png](https://commons.wikimedia.org/wiki/File:Ryukyu_Invasion_Phase5.png) — Invasion of Ryukyu
-- [File:Ryukyu Invasion Phase6.png](https://commons.wikimedia.org/wiki/File:Ryukyu_Invasion_Phase6.png) — Invasion of Ryukyu
-- [File:Ryukyu Invasion Phase7.png](https://commons.wikimedia.org/wiki/File:Ryukyu_Invasion_Phase7.png) — Invasion of Ryukyu
-- [File:Ryukyu Invasion Phase8.png](https://commons.wikimedia.org/wiki/File:Ryukyu_Invasion_Phase8.png) — Invasion of Ryukyu
 - [File:SAFinfoboxflag.png](https://commons.wikimedia.org/wiki/File:SAFinfoboxflag.png) — Template:Country data Singapore
-- [File:Saigo Takamori Portrait by Tokonami Masayoshi 1887.png](https://commons.wikimedia.org/wiki/File:Saigo_Takamori_Portrait_by_Tokonami_Masayoshi_1887.png) — Saigō Takamori
-- [File:Saigo Takamori Woodblock Print Portrait by Hasegawa Sadanobu II 1877.png](https://commons.wikimedia.org/wiki/File:Saigo_Takamori_Woodblock_Print_Portrait_by_Hasegawa_Sadanobu_II_1877.png) — Saigō Takamori
-- [File:Samurai on horseback.png](https://commons.wikimedia.org/wiki/File:Samurai_on_horseback.png) — Yabusame
-- [File:Samurai with tachi.png](https://commons.wikimedia.org/wiki/File:Samurai_with_tachi.png) — Katana
-- [File:Samurai-Edo-Customs-1798-Shiji-no-Yukikai.png](https://commons.wikimedia.org/wiki/File:Samurai-Edo-Customs-1798-Shiji-no-Yukikai.png) — Buke
-- [File:Sarutahiko Ōkami crop from Wittig collection.png](https://commons.wikimedia.org/wiki/File:Sarutahiko_%C5%8Ckami_crop_from_Wittig_collection.png) — Sarutahiko Shrine, Sarutahiko Ōkami, Template:Sarutahiko Faith
-- [File:Satellite image of Honshu in May 2003.png](https://commons.wikimedia.org/wiki/File:Satellite_image_of_Honshu_in_May_2003.png) — Honshu
-- [File:Satellite image of Shikoku in April 2018.png](https://commons.wikimedia.org/wiki/File:Satellite_image_of_Shikoku_in_April_2018.png) — Shikoku
-- [File:Scottish clan map.png](https://commons.wikimedia.org/wiki/File:Scottish_clan_map.png) — Module:Portal/images/c, Module:Portal/images/c/sandbox
-- [File:Screenshot delete log of enwiki on Jun 26 2019.png](https://commons.wikimedia.org/wiki/File:Screenshot_delete_log_of_enwiki_on_Jun_26_2019.png) — Help:Log
-- [File:Seal of Sikkim color.png](https://commons.wikimedia.org/wiki/File:Seal_of_Sikkim_color.png) — Module:Portal/images/s, Module:Portal/images/s/sandbox
-- [File:Seal of the United States Department of the Navy (1879-1957).png](https://commons.wikimedia.org/wiki/File:Seal_of_the_United_States_Department_of_the_Navy_%281879-1957%29.png) — Template:Country data United States Navy
 - [File:Seeman douman.png](https://commons.wikimedia.org/wiki/File:Seeman_douman.png) — Abe no Seimei
-- [File:Semfac01.png](https://commons.wikimedia.org/wiki/File:Semfac01.png) — MediaWiki:Bad image list
-- [File:SemfacUpdate01.png](https://commons.wikimedia.org/wiki/File:SemfacUpdate01.png) — MediaWiki:Bad image list
-- [File:Set of Snookerballs.png](https://commons.wikimedia.org/wiki/File:Set_of_Snookerballs.png) — Template:Defn/doc, Template:Term/doc
-- [File:Seven Lucky Gods (Shichi fukujin) in Treasure Ship by Utagawa Toyokuni I c1806.png](https://commons.wikimedia.org/wiki/File:Seven_Lucky_Gods_%28Shichi_fukujin%29_in_Treasure_Ship_by_Utagawa_Toyokuni_I_c1806.png) — Seven Lucky Gods
-- [File:Seven-Lucky-Gods-of-Japan-Hokusai-七福神.png](https://commons.wikimedia.org/wiki/File:Seven-Lucky-Gods-of-Japan-Hokusai-%E4%B8%83%E7%A6%8F%E7%A5%9E.png) — Seven Lucky Gods
-- [File:Sexuality pearl necklace small.png](https://commons.wikimedia.org/wiki/File:Sexuality_pearl_necklace_small.png) — MediaWiki:Bad image list
-- [File:Sf-userbox.png](https://commons.wikimedia.org/wiki/File:Sf-userbox.png) — Module:Portal/images/s, Module:Portal/images/s/sandbox, Template talk:Portal
 - [File:Shadow picture of Ehime prefecture.png](https://commons.wikimedia.org/wiki/File:Shadow_picture_of_Ehime_prefecture.png) — Category:Important Cultural Property of Japan in Ehime prefecture — NEEDS-INVESTIGATION: Natural Earth rebuild needs-detailed-source (IoU 0.5314); needs a detailed boundary source (scratch/shadow/).
 - [File:Shadow picture of Fukui prefecture.png](https://commons.wikimedia.org/wiki/File:Shadow_picture_of_Fukui_prefecture.png) — Template:Fukui — NEEDS-INVESTIGATION: Natural Earth rebuild below-threshold (IoU 0.7917); needs a detailed boundary source (scratch/shadow/).
 - [File:Shadow picture of Gunma prefecture.png](https://commons.wikimedia.org/wiki/File:Shadow_picture_of_Gunma_prefecture.png) — Category:Important Cultural Property of Japan in Gunma prefecture, Template:Gunma — NEEDS-INVESTIGATION: Natural Earth rebuild below-threshold (IoU 0.7415); needs a detailed boundary source (scratch/shadow/).
@@ -556,71 +248,28 @@ is done (record it in devlog.md). Prefer rebuilding from a vector source over tr
 - [File:Shadow picture of Yamagata prefecture.png](https://commons.wikimedia.org/wiki/File:Shadow_picture_of_Yamagata_prefecture.png) — Category:Important Cultural Property of Japan in Yamagata prefecture — NEEDS-INVESTIGATION: Natural Earth rebuild draft-too-smooth (IoU 0.9601); needs a detailed boundary source (scratch/shadow/).
 - [File:Shadow picture of Yamaguchi prefecture.png](https://commons.wikimedia.org/wiki/File:Shadow_picture_of_Yamaguchi_prefecture.png) — Category:Important Cultural Property of Japan in Yamaguchi prefecture — NEEDS-INVESTIGATION: Natural Earth rebuild needs-detailed-source (IoU 0.7769); needs a detailed boundary source (scratch/shadow/).
 - [File:Shadow picture of Yamanashi prefecture.png](https://commons.wikimedia.org/wiki/File:Shadow_picture_of_Yamanashi_prefecture.png) — Category:Important Cultural Property of Japan in Yamanashi prefecture, Template:Yamanashi — NEEDS-INVESTIGATION: Natural Earth rebuild draft-too-smooth (IoU 0.9714); needs a detailed boundary source (scratch/shadow/).
-- [File:Shakuhachi-2.png](https://commons.wikimedia.org/wiki/File:Shakuhachi-2.png) — Shakuhachi
-- [File:Sherrin-transparent.png](https://commons.wikimedia.org/wiki/File:Sherrin-transparent.png) — Module:Portal/images/a
-- [File:Shidami Kofungun Map 2017.png](https://commons.wikimedia.org/wiki/File:Shidami_Kofungun_Map_2017.png) — Shidami Kofun group
 - [File:Shield Coat of arms of East Timor.png](https://commons.wikimedia.org/wiki/File:Shield_Coat_of_arms_of_East_Timor.png) — Template:Coat of arms
-- [File:Shimane Goko-vill Takeshima.png](https://commons.wikimedia.org/wiki/File:Shimane_Goko-vill_Takeshima.png) — History of the Oki Islands
 - [File:Shinkai Sansha Jinja map.png](https://commons.wikimedia.org/wiki/File:Shinkai_Sansha_Jinja_map.png) — Shinkai Sansha Shrine
-- [File:ShinranShonin.png](https://commons.wikimedia.org/wiki/File:ShinranShonin.png) — (file-title list), File:ShinranShonin.png, Kamakura Buddhism
 - [File:Shiogama Jinja plan.png](https://commons.wikimedia.org/wiki/File:Shiogama_Jinja_plan.png) — (file-title list), File:Shiogama Jinja plan.png
 - [File:Shiogama-zakura inverted.png](https://commons.wikimedia.org/wiki/File:Shiogama-zakura_inverted.png) — (file-title list), File:Shiogama-zakura inverted.png
-- [File:Shitennō-ji main hall and pagoda.png](https://commons.wikimedia.org/wiki/File:Shitenn%C5%8D-ji_main_hall_and_pagoda.png) — Shitennō-ji
 - [File:Shu logo.png](https://commons.wikimedia.org/wiki/File:Shu_logo.png) — Module:Portal/images/s, Module:Portal/images/s/sandbox
-- [File:Sida-aids.png](https://commons.wikimedia.org/wiki/File:Sida-aids.png) — Module:Portal/images/v
 - [File:Sikaku.png](https://commons.wikimedia.org/wiki/File:Sikaku.png) — Category:Qualifications by Country, Category:Qualifications in Japan
 - [File:SingaporeArmyinfoboxflag.png](https://commons.wikimedia.org/wiki/File:SingaporeArmyinfoboxflag.png) — Template:Country data Singapore
 - [File:Size of Lake Suwa.png](https://commons.wikimedia.org/wiki/File:Size_of_Lake_Suwa.png) — Takeminakata
-- [File:Skibsflaget fra Mariakirken i Lübeck.png](https://commons.wikimedia.org/wiki/File:Skibsflaget_fra_Mariakirken_i_L%C3%BCbeck.png) — Template:Country data Kalmar Union
-- [File:Small snub icosicosidodecahedron.png](https://commons.wikimedia.org/wiki/File:Small_snub_icosicosidodecahedron.png) — Module:Portal/images/p
-- [File:Sokutai in Heian period.png](https://commons.wikimedia.org/wiki/File:Sokutai_in_Heian_period.png) — Sokutai
-- [File:Stanford logo.png](https://commons.wikimedia.org/wiki/File:Stanford_logo.png) — Module:Portal/images/s, Module:Portal/images/s/sandbox
 - [File:Stema TR.png](https://commons.wikimedia.org/wiki/File:Stema_TR.png) — Template:Coat of arms
 - [File:Stormfrontlogo.png](https://commons.wikimedia.org/wiki/File:Stormfrontlogo.png) — MediaWiki:Bad image list
 - [File:Sugeng rawuh tuladha.png](https://commons.wikimedia.org/wiki/File:Sugeng_rawuh_tuladha.png) — Help:Multilingual support
-- [File:Sukunemizu-shitori-tottori.png](https://commons.wikimedia.org/wiki/File:Sukunemizu-shitori-tottori.png) — Shidori Shrine (Tottori)
 - [File:Sunda Sa.png](https://commons.wikimedia.org/wiki/File:Sunda_Sa.png) — Template:Contains special characters
-- [File:Susanoo-no-Mikoto-slays-Yamata-no-Orochi-in-Izumo-By-Tsukioka-Yoshitoshi.png](https://commons.wikimedia.org/wiki/File:Susanoo-no-Mikoto-slays-Yamata-no-Orochi-in-Izumo-By-Tsukioka-Yoshitoshi.png) — Kumano Taisha, Kushinadahime
 - [File:Suwa Hosshō Banner - 諏訪法性旗.png](https://commons.wikimedia.org/wiki/File:Suwa_Hossh%C5%8D_Banner_-_%E8%AB%8F%E8%A8%AA%E6%B3%95%E6%80%A7%E6%97%97.png) — Takeminakata
-- [File:Suwa Kamisha Tettō.png](https://commons.wikimedia.org/wiki/File:Suwa_Kamisha_Tett%C5%8D.png) — Suwa-taisha, Takeminakata
 - [File:Swasti Prapti ring Wikipédia Basa Bali.png](https://commons.wikimedia.org/wiki/File:Swasti_Prapti_ring_Wikip%C3%A9dia_Basa_Bali.png) — Help:Multilingual support
-- [File:Tagalog in Baybayin script postkudlit.png](https://commons.wikimedia.org/wiki/File:Tagalog_in_Baybayin_script_postkudlit.png) — Help:Multilingual support
-- [File:Taira-Clan-Warriors-Ukiyoe-Utagawa-Yoshitora.png](https://commons.wikimedia.org/wiki/File:Taira-Clan-Warriors-Ukiyoe-Utagawa-Yoshitora.png) — Taira clan
-- [File:Taiwan-Grand-Shrine-Jingu-Map-1920s.png](https://commons.wikimedia.org/wiki/File:Taiwan-Grand-Shrine-Jingu-Map-1920s.png) — Taiwan Grand Shrine
-- [File:Takarabune by Hiroshige.png](https://commons.wikimedia.org/wiki/File:Takarabune_by_Hiroshige.png) — Japanese New Year, Seven Lucky Gods
-- [File:Takehara kofun.png](https://commons.wikimedia.org/wiki/File:Takehara_kofun.png) — Decorated kofun
-- [File:Takemikazuchi-pins-Namazu-with-Kaname-ishi-spirit-stone-1855.png](https://commons.wikimedia.org/wiki/File:Takemikazuchi-pins-Namazu-with-Kaname-ishi-spirit-stone-1855.png) — Namazu, Takemikazuchi
-- [File:Talisman Against Disease.png](https://commons.wikimedia.org/wiki/File:Talisman_Against_Disease.png) — Ofuda
 - [File:Talk tab location - Minerva - en.png](https://commons.wikimedia.org/wiki/File:Talk_tab_location_-_Minerva_-_en.png) — Help:Talk pages
 - [File:Talk tab location - Vector 2022 - en.png](https://commons.wikimedia.org/wiki/File:Talk_tab_location_-_Vector_2022_-_en.png) — Help:Talk pages
 - [File:Tangut Sample.png](https://commons.wikimedia.org/wiki/File:Tangut_Sample.png) — Help:Multilingual support
-- [File:Tanko-Armor-Kofun-Period-by-Sugiyama-Sueo.png](https://commons.wikimedia.org/wiki/File:Tanko-Armor-Kofun-Period-by-Sugiyama-Sueo.png) — Tankō
-- [File:TARDIS-trans.png](https://commons.wikimedia.org/wiki/File:TARDIS-trans.png) — Module:Portal/images/d
-- [File:Taxonbar layout placement on English Wikipedia - Cuckoo wasp.png](https://commons.wikimedia.org/wiki/File:Taxonbar_layout_placement_on_English_Wikipedia_-_Cuckoo_wasp.png) — Template:Taxonbar/doc
 - [File:Tenmaya logo.png](https://commons.wikimedia.org/wiki/File:Tenmaya_logo.png) — Template:商業施設/書式
-- [File:Tenno Shrines in Tatebayashi at old map.png](https://commons.wikimedia.org/wiki/File:Tenno_Shrines_in_Tatebayashi_at_old_map.png) — Gozu Tennō Faith in Tatebayashi
-- [File:Tenno Shrines in Tatebayashi at OSM.png](https://commons.wikimedia.org/wiki/File:Tenno_Shrines_in_Tatebayashi_at_OSM.png) — Gozu Tennō Faith in Tatebayashi
-- [File:Tenrikyomeiji.png](https://commons.wikimedia.org/wiki/File:Tenrikyomeiji.png) — Tenrikyo
-- [File:Terra.png](https://commons.wikimedia.org/wiki/File:Terra.png) — Module:Portal/images/g
 - [File:Tessen.png](https://commons.wikimedia.org/wiki/File:Tessen.png) — Nomi Shrine (Q11646130), Nomii Shrine (Takatsuki)
 - [File:THA AFF 2020.png](https://commons.wikimedia.org/wiki/File:THA_AFF_2020.png) — Template:Country data Thailand
 - [File:The Condensed Lifetime Chronologies of Yamato Takeru and Miyazuhime.png](https://commons.wikimedia.org/wiki/File:The_Condensed_Lifetime_Chronologies_of_Yamato_Takeru_and_Miyazuhime.png) — Atsuta Shrine
-- [File:The Earth seen from Apollo 17 with transparent background.png](https://commons.wikimedia.org/wiki/File:The_Earth_seen_from_Apollo_17_with_transparent_background.png) — Module:Portal/images/c/sandbox, Module:Portal/images/e, Module:Portal/images/e/sandbox
-- [File:The Great Wave off Kanagawa-cutout.png](https://commons.wikimedia.org/wiki/File:The_Great_Wave_off_Kanagawa-cutout.png) — Template:Japan-art-stub
 - [File:The Letter "i" in Different European Languages.png](https://commons.wikimedia.org/wiki/File:The_Letter_%22i%22_in_Different_European_Languages.png) — I
-- [File:The Matterhorn as seen from Zermatt.png](https://commons.wikimedia.org/wiki/File:The_Matterhorn_as_seen_from_Zermatt.png) — Module:Portal/images/m
-- [File:The Origin of Iwato Kagura Triptych (Amaterasu) by Utagawa Kunisada c1844.png](https://commons.wikimedia.org/wiki/File:The_Origin_of_Iwato_Kagura_Triptych_%28Amaterasu%29_by_Utagawa_Kunisada_c1844.png) — Amaterasu
-- [File:The placement of main shrine buildings in Atsuta Jingu Shrine, 2015.png](https://commons.wikimedia.org/wiki/File:The_placement_of_main_shrine_buildings_in_Atsuta_Jingu_Shrine%2C_2015.png) — Atsuta Shrine
-- [File:Thomas Edward Gordon Lake Victoria, Great Pamir, May 2nd, 1874.png](https://commons.wikimedia.org/wiki/File:Thomas_Edward_Gordon_Lake_Victoria%2C_Great_Pamir%2C_May_2nd%2C_1874.png) — Template:Infobox ethnic group/doc
-- [File:Tiger by Kano Koi (Kenpukuji Ina).png](https://commons.wikimedia.org/wiki/File:Tiger_by_Kano_Koi_%28Kenpukuji_Ina%29.png) — Kenpuku-ji
-- [File:Torii of Itsukushima.png](https://commons.wikimedia.org/wiki/File:Torii_of_Itsukushima.png) — Template:Shinto-stub
-- [File:Toshigami (Otoshi-no-kami).png](https://commons.wikimedia.org/wiki/File:Toshigami_%28Otoshi-no-kami%29.png) — Toshigami
-- [File:Touki Ryushichi 1926a 21.png](https://commons.wikimedia.org/wiki/File:Touki_Ryushichi_1926a_21.png) — Kujukuri Plain
-- [File:Toyama Chukyoin(1).png](https://commons.wikimedia.org/wiki/File:Toyama_Chukyoin%281%29.png) — Toyama Chukyoin
-- [File:Toyonaka stone.png](https://commons.wikimedia.org/wiki/File:Toyonaka_stone.png) — Module:Portal/images/o
-- [File:Toyotomi Hideyoshi c1598 Kodai-ji Temple.png](https://commons.wikimedia.org/wiki/File:Toyotomi_Hideyoshi_c1598_Kodai-ji_Temple.png) — Sesshō and Kampaku
-- [File:Toyotomi mon.png](https://commons.wikimedia.org/wiki/File:Toyotomi_mon.png) — Tokugawa shogunate
-- [File:TransilvaniaSigilium1550.png](https://commons.wikimedia.org/wiki/File:TransilvaniaSigilium1550.png) — Template:Country data Transylvania
 - [File:TransJakarta BRT Corridor 1 Icon.png](https://commons.wikimedia.org/wiki/File:TransJakarta_BRT_Corridor_1_Icon.png) — Template:Rail-interchange
 - [File:TransJakarta BRT Corridor 10 Icon.png](https://commons.wikimedia.org/wiki/File:TransJakarta_BRT_Corridor_10_Icon.png) — Template:Rail-interchange
 - [File:TransJakarta BRT Corridor 11 Icon.png](https://commons.wikimedia.org/wiki/File:TransJakarta_BRT_Corridor_11_Icon.png) — Template:Rail-interchange
@@ -652,42 +301,24 @@ is done (record it in devlog.md). Prefer rebuilding from a vector source over tr
 - [File:TransJakarta roundel 7F.png](https://commons.wikimedia.org/wiki/File:TransJakarta_roundel_7F.png) — Template:Rail-interchange
 - [File:TransJakarta roundel 9N.png](https://commons.wikimedia.org/wiki/File:TransJakarta_roundel_9N.png) — Template:Rail-interchange
 - [File:TransJakarta roundel L13E.png](https://commons.wikimedia.org/wiki/File:TransJakarta_roundel_L13E.png) — Template:Rail-interchange
-- [File:TransmetroMetrorrey.png](https://commons.wikimedia.org/wiki/File:TransmetroMetrorrey.png) — Template:Rail-interchange
 - [File:Tree of life kircher plain.png](https://commons.wikimedia.org/wiki/File:Tree_of_life_kircher_plain.png) — Module:Portal/images/e, Module:Portal/images/e/sandbox
 - [File:TrenLigeroCDMX.png](https://commons.wikimedia.org/wiki/File:TrenLigeroCDMX.png) — Template:Rail-interchange
-- [File:Tsushima island en.png](https://commons.wikimedia.org/wiki/File:Tsushima_island_en.png) — Tsushima Island
 - [File:Tua Tham.png](https://commons.wikimedia.org/wiki/File:Tua_Tham.png) — Help:Multilingual support
-- [File:Tumulus and ancient shrines distribution map of South Nagoya during the tumulus period.png](https://commons.wikimedia.org/wiki/File:Tumulus_and_ancient_shrines_distribution_map_of_South_Nagoya_during_the_tumulus_period.png) — Hikami Anego Shrine
-- [File:Ugaya otokowa.png](https://commons.wikimedia.org/wiki/File:Ugaya_otokowa.png) — Ugayafukiaezu
-- [File:Uluru sketch portal ipau.png](https://commons.wikimedia.org/wiki/File:Uluru_sketch_portal_ipau.png) — Module:Portal/images/i
 - [File:Umashimaji by Kikuchi Yōsai.png](https://commons.wikimedia.org/wiki/File:Umashimaji_by_Kikuchi_Y%C5%8Dsai.png) — Umashimaji
-- [File:United States penny, obverse, 2002.png](https://commons.wikimedia.org/wiki/File:United_States_penny%2C_obverse%2C_2002.png) — Module:Portal/images/n
 - [File:Unwatched page in Vector.png](https://commons.wikimedia.org/wiki/File:Unwatched_page_in_Vector.png) — Help:Watchlist
 - [File:Urquiza U 60px.png](https://commons.wikimedia.org/wiki/File:Urquiza_U_60px.png) — Template:Rail-interchange
-- [File:Usahachiman1928.png](https://commons.wikimedia.org/wiki/File:Usahachiman1928.png) — Usa Jingū
-- [File:Vampire Smiley.png](https://commons.wikimedia.org/wiki/File:Vampire_Smiley.png) — Module:Portal/images/h/sandbox, Module:Portal/images/s, Module:Portal/images/s/sandbox
-- [File:Vector toolbar search-replace button.png](https://commons.wikimedia.org/wiki/File:Vector_toolbar_search-replace_button.png) — Help:Preferences
-- [File:View history - Create permalink - February 2025.png](https://commons.wikimedia.org/wiki/File:View_history_-_Create_permalink_-_February_2025.png) — Help:Page history
-- [File:View History - marked screenshot - February 2025.png](https://commons.wikimedia.org/wiki/File:View_History_-_marked_screenshot_-_February_2025.png) — Help:Page history
-- [File:Vincent Van Gogh - The Potato Eaters.png](https://commons.wikimedia.org/wiki/File:Vincent_Van_Gogh_-_The_Potato_Eaters.png) — Template:Infobox artwork/doc
 - [File:Visual editor citoid convert button.png](https://commons.wikimedia.org/wiki/File:Visual_editor_citoid_convert_button.png) — Help:VisualEditor
 - [File:VisualEditor - Apply changes.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Apply_changes.png) — Help:VisualEditor
 - [File:VisualEditor - Category editing 2.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Category_editing_2.png) — Help:VisualEditor
 - [File:VisualEditor - Category editing 3.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Category_editing_3.png) — Help:VisualEditor
 - [File:VisualEditor - editing existing mathematical formula.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_editing_existing_mathematical_formula.png) — Help:VisualEditor
 - [File:VisualEditor - Editing references - Add parameter.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Editing_references_-_Add_parameter.png) — Help:VisualEditor
-- [File:VisualEditor - Editing References - Cite Web.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Editing_References_-_Cite_Web.png) — Help:VisualEditor
-- [File:VisualEditor - Editing references 1.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Editing_references_1.png) — Help:VisualEditor
 - [File:VisualEditor - Editing references 11.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Editing_references_11.png) — Help:VisualEditor
 - [File:VisualEditor - Editing references 20.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Editing_references_20.png) — Help:VisualEditor
 - [File:VisualEditor - Editing references 5.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Editing_references_5.png) — Help:VisualEditor
 - [File:VisualEditor - Editing references 6.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Editing_references_6.png) — Help:VisualEditor
 - [File:VisualEditor - Editing references 9.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Editing_references_9.png) — Help:VisualEditor
-- [File:VisualEditor - Gallery2.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Gallery2.png) — Help:VisualEditor
 - [File:VisualEditor - Gallery3.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Gallery3.png) — Help:VisualEditor
-- [File:VisualEditor - Media editing 2.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Media_editing_2.png) — Help:VisualEditor
-- [File:VisualEditor - Media editing 3.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Media_editing_3.png) — Help:VisualEditor
-- [File:VisualEditor - Media editing 6.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Media_editing_6.png) — Help:VisualEditor
 - [File:VisualEditor - Media editing 7.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Media_editing_7.png) — Help:VisualEditor
 - [File:VisualEditor - Media editing 8.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Media_editing_8.png) — Help:VisualEditor
 - [File:VisualEditor - Section edit links-en.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Section_edit_links-en.png) — Help:VisualEditor
@@ -702,12 +333,8 @@ is done (record it in devlog.md). Prefer rebuilding from a vector source over tr
 - [File:VisualEditor Apply Changes-en.png](https://commons.wikimedia.org/wiki/File:VisualEditor_Apply_Changes-en.png) — Help:VisualEditor
 - [File:VisualEditor category editing-en.png](https://commons.wikimedia.org/wiki/File:VisualEditor_category_editing-en.png) — Help:VisualEditor
 - [File:VisualEditor category item-en.png](https://commons.wikimedia.org/wiki/File:VisualEditor_category_item-en.png) — Help:VisualEditor
-- [File:VisualEditor Cite menu re-use tab.png](https://commons.wikimedia.org/wiki/File:VisualEditor_Cite_menu_re-use_tab.png) — Help:VisualEditor
 - [File:VisualEditor citoid Cite button.png](https://commons.wikimedia.org/wiki/File:VisualEditor_citoid_Cite_button.png) — Help:VisualEditor
-- [File:VisualEditor Citoid Inspector-en.png](https://commons.wikimedia.org/wiki/File:VisualEditor_Citoid_Inspector-en.png) — Help:VisualEditor
 - [File:VisualEditor edit tab-en.png](https://commons.wikimedia.org/wiki/File:VisualEditor_edit_tab-en.png) — Help:VisualEditor
-- [File:VisualEditor editing poem 1.png](https://commons.wikimedia.org/wiki/File:VisualEditor_editing_poem_1.png) — Help:VisualEditor
-- [File:VisualEditor editing poem 2.png](https://commons.wikimedia.org/wiki/File:VisualEditor_editing_poem_2.png) — Help:VisualEditor
 - [File:VisualEditor empty table.png](https://commons.wikimedia.org/wiki/File:VisualEditor_empty_table.png) — Help:VisualEditor
 - [File:VisualEditor Formula Insert Menu-en.png](https://commons.wikimedia.org/wiki/File:VisualEditor_Formula_Insert_Menu-en.png) — Help:VisualEditor
 - [File:VisualEditor formula-en.png](https://commons.wikimedia.org/wiki/File:VisualEditor_formula-en.png) — Help:VisualEditor
@@ -725,19 +352,12 @@ is done (record it in devlog.md). Prefer rebuilding from a vector source over tr
 - [File:VisualEditor Media Insert Menu-en.png](https://commons.wikimedia.org/wiki/File:VisualEditor_Media_Insert_Menu-en.png) — Help:VisualEditor
 - [File:VisualEditor MediaWiki theme clear icon bitmap.png](https://commons.wikimedia.org/wiki/File:VisualEditor_MediaWiki_theme_clear_icon_bitmap.png) — Help:VisualEditor
 - [File:VisualEditor More Settings-en.png](https://commons.wikimedia.org/wiki/File:VisualEditor_More_Settings-en.png) — Help:VisualEditor
-- [File:VisualEditor Page Settings Edit Links-en.png](https://commons.wikimedia.org/wiki/File:VisualEditor_Page_Settings_Edit_Links-en.png) — Help:VisualEditor
 - [File:VisualEditor page settings item-en.png](https://commons.wikimedia.org/wiki/File:VisualEditor_page_settings_item-en.png) — Help:VisualEditor
 - [File:VisualEditor Page Settings Redirects-en.png](https://commons.wikimedia.org/wiki/File:VisualEditor_Page_Settings_Redirects-en.png) — Help:VisualEditor
 - [File:VisualEditor Page Settings TOC-en.png](https://commons.wikimedia.org/wiki/File:VisualEditor_Page_Settings_TOC-en.png) — Help:VisualEditor
 - [File:VisualEditor Page Settings-en.png](https://commons.wikimedia.org/wiki/File:VisualEditor_Page_Settings-en.png) — Help:VisualEditor
 - [File:VisualEditor Reference List Insert Menu-en.png](https://commons.wikimedia.org/wiki/File:VisualEditor_Reference_List_Insert_Menu-en.png) — Help:VisualEditor
-- [File:VisualEditor save dialog-en.png](https://commons.wikimedia.org/wiki/File:VisualEditor_save_dialog-en.png) — Help:VisualEditor
 - [File:VisualEditor table editing add and remove columns.png](https://commons.wikimedia.org/wiki/File:VisualEditor_table_editing_add_and_remove_columns.png) — Help:VisualEditor
-- [File:VisualEditor tables merge cells.png](https://commons.wikimedia.org/wiki/File:VisualEditor_tables_merge_cells.png) — Help:VisualEditor
-- [File:VisualEditor tables post-merge cell.png](https://commons.wikimedia.org/wiki/File:VisualEditor_tables_post-merge_cell.png) — Help:VisualEditor
-- [File:VisualEditor tables select one cell.png](https://commons.wikimedia.org/wiki/File:VisualEditor_tables_select_one_cell.png) — Help:VisualEditor
-- [File:VisualEditor tables split cells.png](https://commons.wikimedia.org/wiki/File:VisualEditor_tables_split_cells.png) — Help:VisualEditor
-- [File:VisualEditor tables type inside a cell.png](https://commons.wikimedia.org/wiki/File:VisualEditor_tables_type_inside_a_cell.png) — Help:VisualEditor
 - [File:VisualEditor Template Insert Menu-en.png](https://commons.wikimedia.org/wiki/File:VisualEditor_Template_Insert_Menu-en.png) — Help:VisualEditor
 - [File:VisualEditor template not visible context menu.png](https://commons.wikimedia.org/wiki/File:VisualEditor_template_not_visible_context_menu.png) — Help:VisualEditor
 - [File:VisualEditor template not visible.png](https://commons.wikimedia.org/wiki/File:VisualEditor_template_not_visible.png) — Help:VisualEditor
@@ -749,6 +369,172 @@ is done (record it in devlog.md). Prefer rebuilding from a vector source over tr
 - [File:VisualEditor Toolbar Headings-en.png](https://commons.wikimedia.org/wiki/File:VisualEditor_Toolbar_Headings-en.png) — Help:VisualEditor
 - [File:VisualEditor Toolbar Lists and indentation-en.png](https://commons.wikimedia.org/wiki/File:VisualEditor_Toolbar_Lists_and_indentation-en.png) — Help:VisualEditor
 - [File:VisualEditor toolbar-en.png](https://commons.wikimedia.org/wiki/File:VisualEditor_toolbar-en.png) — Help:Edit toolbar, Help:VisualEditor
+- [File:Volcanism of Canada flag.png](https://commons.wikimedia.org/wiki/File:Volcanism_of_Canada_flag.png) — Module:Portal/images/v
+- [File:W-asia.png](https://commons.wikimedia.org/wiki/File:W-asia.png) — Module:Portal/images/w
+- [File:Wakamiyajima Iki.png](https://commons.wikimedia.org/wiki/File:Wakamiyajima_Iki.png) — Iki Island
+- [File:Wakan Sansai Zue - Hitatare.png](https://commons.wikimedia.org/wiki/File:Wakan_Sansai_Zue_-_Hitatare.png) — Hitatare
+- [File:Watched page in Vector.png](https://commons.wikimedia.org/wiki/File:Watched_page_in_Vector.png) — Help:Watchlist
+- [File:Wiki search namespaces.png](https://commons.wikimedia.org/wiki/File:Wiki_search_namespaces.png) — Help:Searching
+- [File:Wiki-mam-intcs-simple.png](https://commons.wikimedia.org/wiki/File:Wiki-mam-intcs-simple.png) — MediaWiki:Bad image list
+- [File:Wikidata article on English Wikipedia as of Nov 3 2023 Below.png](https://commons.wikimedia.org/wiki/File:Wikidata_article_on_English_Wikipedia_as_of_Nov_3_2023_Below.png) — Talk:Wikidata
+- [File:Wikidata article on English Wikipedia as of Nov 3 2023 Header.png](https://commons.wikimedia.org/wiki/File:Wikidata_article_on_English_Wikipedia_as_of_Nov_3_2023_Header.png) — Talk:Wikidata
+- [File:WikiEditor-heading menu-en.png](https://commons.wikimedia.org/wiki/File:WikiEditor-heading_menu-en.png) — Help:Edit toolbar
+- [File:Wikipedia VisualEditor Table Properties.png](https://commons.wikimedia.org/wiki/File:Wikipedia_VisualEditor_Table_Properties.png) — Help:Sortable tables
+- [File:Wikipedia-The Missing Manual I replacement2.png](https://commons.wikimedia.org/wiki/File:Wikipedia-The_Missing_Manual_I_replacement2.png) — Help:Talk pages
+- [File:World map green.png](https://commons.wikimedia.org/wiki/File:World_map_green.png) — Module:Portal/images/a
+- [File:WP alert new messages.png](https://commons.wikimedia.org/wiki/File:WP_alert_new_messages.png) — Help:Notifications/FAQ
+- [File:XinXiu.png](https://commons.wikimedia.org/wiki/File:XinXiu.png) — Heart (Chinese constellation)
+- [File:Yamanashi Koma-gun.png](https://commons.wikimedia.org/wiki/File:Yamanashi_Koma-gun.png) — Koma District
+- [File:Yamanashi Yamanashi-gun.png](https://commons.wikimedia.org/wiki/File:Yamanashi_Yamanashi-gun.png) — Yamanashi District
+- [File:Кха чампа.png](https://commons.wikimedia.org/wiki/File:%D0%9A%D1%85%D0%B0_%D1%87%D0%B0%D0%BC%D0%BF%D0%B0.png) — Help:Multilingual support
+- [File:一文字（丸に一文字）紋.png](https://commons.wikimedia.org/wiki/File:%E4%B8%80%E6%96%87%E5%AD%97%EF%BC%88%E4%B8%B8%E3%81%AB%E4%B8%80%E6%96%87%E5%AD%97%EF%BC%89%E7%B4%8B.png) — Nasu clan
+- [File:三本杉（さんぼんすぎ）.png](https://commons.wikimedia.org/wiki/File:%E4%B8%89%E6%9C%AC%E6%9D%89%EF%BC%88%E3%81%95%E3%82%93%E3%81%BC%E3%82%93%E3%81%99%E3%81%8E%EF%BC%89.png) — Miwa clan
+- [File:井桁に唐花菱.png](https://commons.wikimedia.org/wiki/File:%E4%BA%95%E6%A1%81%E3%81%AB%E5%94%90%E8%8A%B1%E8%8F%B1.png) — Imai Clan (Suwa)
+- [File:吉田神社境内図.png](https://commons.wikimedia.org/wiki/File:%E5%90%89%E7%94%B0%E7%A5%9E%E7%A4%BE%E5%A2%83%E5%86%85%E5%9B%B3.png) — Traffic Shrine
+- [File:大山道.png](https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E5%B1%B1%E9%81%93.png) — Ōyama Afuri Shrine
+- [File:大洋.png](https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E6%B4%8B.png) — Module:Portal/images/o — NEEDS-INVESTIGATION: says "a variation of World Map Blank.svg", but both revisions of that file are Robinson and do not match (the PNG has no Robinson edge; Fiji sits inside the frame). Find the 2008 base (possibly another file at the time).
+- [File:室宮山古墳 復原図.png](https://commons.wikimedia.org/wiki/File:%E5%AE%A4%E5%AE%AE%E5%B1%B1%E5%8F%A4%E5%A2%B3_%E5%BE%A9%E5%8E%9F%E5%9B%B3.png) — Muro Miyayama Kofun
+- [File:平安宮 中和院位置.png](https://commons.wikimedia.org/wiki/File:%E5%B9%B3%E5%AE%89%E5%AE%AE_%E4%B8%AD%E5%92%8C%E9%99%A2%E4%BD%8D%E7%BD%AE.png) — Chukain Temple
+- [File:断夫山古墳 周濠復原図.png](https://commons.wikimedia.org/wiki/File:%E6%96%AD%E5%A4%AB%E5%B1%B1%E5%8F%A4%E5%A2%B3_%E5%91%A8%E6%BF%A0%E5%BE%A9%E5%8E%9F%E5%9B%B3.png) — Danpusan Kofun
+- [File:月形杏葉（つきがた ぎょうよう）.png](https://commons.wikimedia.org/wiki/File:%E6%9C%88%E5%BD%A2%E6%9D%8F%E8%91%89%EF%BC%88%E3%81%A4%E3%81%8D%E3%81%8C%E3%81%9F_%E3%81%8E%E3%82%87%E3%81%86%E3%82%88%E3%81%86%EF%BC%89.png) — Jōdo-shū
+- [File:福岡城曲輪分界図.png](https://commons.wikimedia.org/wiki/File:%E7%A6%8F%E5%B2%A1%E5%9F%8E%E6%9B%B2%E8%BC%AA%E5%88%86%E7%95%8C%E5%9B%B3.png) — Sōgamae
+- [File:荼枳尼（大悲胎藏大曼荼羅 仁和寺版） - Dakinis (Ninna-ji Taizō Mandala).png](https://commons.wikimedia.org/wiki/File:%E8%8D%BC%E6%9E%B3%E5%B0%BC%EF%BC%88%E5%A4%A7%E6%82%B2%E8%83%8E%E8%97%8F%E5%A4%A7%E6%9B%BC%E8%8D%BC%E7%BE%85_%E4%BB%81%E5%92%8C%E5%AF%BA%E7%89%88%EF%BC%89_-_Dakinis_%28Ninna-ji_Taiz%C5%8D_Mandala%29.png) — Dakini
+- [File:2006 Quarter Proof.png](https://commons.wikimedia.org/wiki/File:2006_Quarter_Proof.png) — Template:Gallery/doc
+- [File:2017 Northern Lunar Calendar.png](https://commons.wikimedia.org/wiki/File:2017_Northern_Lunar_Calendar.png) — Ancient Egyptian Lunar Calendar
+- [File:AFL Trophy alt.png](https://commons.wikimedia.org/wiki/File:AFL_Trophy_alt.png) — Module:Portal/images/a
+- [File:AjaxMassDelete FlowChart.png](https://commons.wikimedia.org/wiki/File:AjaxMassDelete_FlowChart.png) — (file-title list), File:AjaxMassDelete FlowChart.png, Help:VisualFileChange.js
+- [File:Alamein.png](https://commons.wikimedia.org/wiki/File:Alamein.png) — Template:WikiProject軍事史テンプレ
+- [File:AnneauxBorromeensFace.png](https://commons.wikimedia.org/wiki/File:AnneauxBorromeensFace.png) — Ōmiwa Shrine
+- [File:Atago Gongen.png](https://commons.wikimedia.org/wiki/File:Atago_Gongen.png) — Atago Faith
+- [File:Bad Title Example.png](https://commons.wikimedia.org/wiki/File:Bad_Title_Example.png) — Template:HTML lists, Template:Image label begin, Template:Infobox company/doc
+- [File:Bombing of Ujiyamada Map, Central City.png](https://commons.wikimedia.org/wiki/File:Bombing_of_Ujiyamada_Map%2C_Central_City.png) — Ujiyamada Air Raid
+- [File:Bombing of Ujiyamada Map, Shima Peninsula.png](https://commons.wikimedia.org/wiki/File:Bombing_of_Ujiyamada_Map%2C_Shima_Peninsula.png) — Ujiyamada Air Raid
+- [File:BS Bismarck.png](https://commons.wikimedia.org/wiki/File:BS_Bismarck.png) — Module:Portal/images/b, Module:Portal/images/b/sandbox
+- [File:Buddhism Symbol.png](https://commons.wikimedia.org/wiki/File:Buddhism_Symbol.png) — Template:Buddhism topics
+- [File:Cherry crashing into primordial Earth2.png](https://commons.wikimedia.org/wiki/File:Cherry_crashing_into_primordial_Earth2.png) — Template:Awards, decorations, and medals of Wikipedia
+- [File:Chicken Eyeglasses categories.png](https://commons.wikimedia.org/wiki/File:Chicken_Eyeglasses_categories.png) — Help:Categories, Help:Category
+- [File:Chintaku Reifu (鎮宅霊符).png](https://commons.wikimedia.org/wiki/File:Chintaku_Reifu_%28%E9%8E%AE%E5%AE%85%E9%9C%8A%E7%AC%A6%29.png) — Ofuda
+- [File:Citation toolbar named ref.png](https://commons.wikimedia.org/wiki/File:Citation_toolbar_named_ref.png) — Help:Footnotes
+- [File:Cite web named ref 01.png](https://commons.wikimedia.org/wiki/File:Cite_web_named_ref_01.png) — Help:Footnotes
+- [File:Climate change icon.png](https://commons.wikimedia.org/wiki/File:Climate_change_icon.png) — Module:Portal/images/c, Module:Portal/images/c/sandbox
+- [File:Coat of Arms of St Petersburg (1780).png](https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_St_Petersburg_%281780%29.png) — Template:Coat of arms
+- [File:Crystal Clear device cdrom unmount.png](https://commons.wikimedia.org/wiki/File:Crystal_Clear_device_cdrom_unmount.png) — Module:Portal/images/s, Module:Portal/images/s/sandbox
+- [File:Distribution of Yosumi tombs.png](https://commons.wikimedia.org/wiki/File:Distribution_of_Yosumi_tombs.png) — X-shaped Burial Mound
+- [File:Dolmen in Korea.png](https://commons.wikimedia.org/wiki/File:Dolmen_in_Korea.png) — Toraijin
+- [File:Earth Day Flag.png](https://commons.wikimedia.org/wiki/File:Earth_Day_Flag.png) — Module:Portal/images/e, Module:Portal/images/e/sandbox
+- [File:Echo Notifications new message indicator.png](https://commons.wikimedia.org/wiki/File:Echo_Notifications_new_message_indicator.png) — Help:Notifications/FAQ
+- [File:Ejaculation educational seq 4.png](https://commons.wikimedia.org/wiki/File:Ejaculation_educational_seq_4.png) — MediaWiki:Bad image list
+- [File:Ejaculation educational seq 6.png](https://commons.wikimedia.org/wiki/File:Ejaculation_educational_seq_6.png) — MediaWiki:Bad image list
+- [File:Emblem of Wallachia under Radu Paisie (Dimitrije Ljubavić's Molitvenik, Jan 10, 1545).png](https://commons.wikimedia.org/wiki/File:Emblem_of_Wallachia_under_Radu_Paisie_%28Dimitrije_Ljubavi%C4%87%27s_Molitvenik%2C_Jan_10%2C_1545%29.png) — Template:Country data Wallachia
+- [File:English Wikipedia Vector (2022) Alert Menu Example.png](https://commons.wikimedia.org/wiki/File:English_Wikipedia_Vector_%282022%29_Alert_Menu_Example.png) — Help:Talk pages
+- [File:Enmaten Mandala.png](https://commons.wikimedia.org/wiki/File:Enmaten_Mandala.png) — Dakini
+- [File:Excerpt of Yegun's Epitaph.png](https://commons.wikimedia.org/wiki/File:Excerpt_of_Yegun%27s_Epitaph.png) — Toraijin
+- [File:Femdom at Eros Pyramide.png](https://commons.wikimedia.org/wiki/File:Femdom_at_Eros_Pyramide.png) — MediaWiki:Bad image list
+- [File:Fifties jukebox.png](https://commons.wikimedia.org/wiki/File:Fifties_jukebox.png) — Module:Portal/images/other
+- [File:Fishing Zhuangzi.png](https://commons.wikimedia.org/wiki/File:Fishing_Zhuangzi.png) — Taoism
+- [File:Fixed sidebar.png](https://commons.wikimedia.org/wiki/File:Fixed_sidebar.png) — Help:User style
+- [File:Flag of California (1909).png](https://commons.wikimedia.org/wiki/File:Flag_of_California_%281909%29.png) — Template:Country data California
+- [File:Flag of California (1911–1924).png](https://commons.wikimedia.org/wiki/File:Flag_of_California_%281911%E2%80%931924%29.png) — Template:Country data California
+- [File:Flag of California (1912).png](https://commons.wikimedia.org/wiki/File:Flag_of_California_%281912%29.png) — Template:Country data California
+- [File:Flag of the California State Military Reserve.png](https://commons.wikimedia.org/wiki/File:Flag_of_the_California_State_Military_Reserve.png) — Template:Country data California
+- [File:Flag of the King of Joseon (1876).png](https://commons.wikimedia.org/wiki/File:Flag_of_the_King_of_Joseon_%281876%29.png) — Template:Country data Joseon, Template:Country data Korea — NOT REBUILDABLE without tracing: detailed dragon drawing with no vector source.
+- [File:Flag of the Lithuanian Armed Forces (obverse).png](https://commons.wikimedia.org/wiki/File:Flag_of_the_Lithuanian_Armed_Forces_%28obverse%29.png) — Template:Country data Lithuania
+- [File:Flag of the United States Marine Corps (1914-1939).png](https://commons.wikimedia.org/wiki/File:Flag_of_the_United_States_Marine_Corps_%281914-1939%29.png) — Template:Country data United States
+- [File:G-Zone 1.png](https://commons.wikimedia.org/wiki/File:G-Zone_1.png) — MediaWiki:Bad image list
+- [File:GO game.png](https://commons.wikimedia.org/wiki/File:GO_game.png) — Module:Portal/images/g
+- [File:God of Saiha.png](https://commons.wikimedia.org/wiki/File:God_of_Saiha.png) — Eight Directional Deities, Saiha Shin
+- [File:Gokishichido Seven Circuits Japan Map.png](https://commons.wikimedia.org/wiki/File:Gokishichido_Seven_Circuits_Japan_Map.png) — Template:Sōja shrines — NEEDS-INVESTIGATION: drawn on a variant of Provinces of Japan.svg; a uniform-scale fit leaves Kyushu and Tōhoku offset in opposite directions (scratch/locator/goki/). Next: find the author\'s base SVG or fit an affine transform.
+- [File:Gold temple icon.png](https://commons.wikimedia.org/wiki/File:Gold_temple_icon.png) — Template:Infobox religious building
+- [File:Highway and Railway Map of India OSM.png](https://commons.wikimedia.org/wiki/File:Highway_and_Railway_Map_of_India_OSM.png) — Module:Portal/images/t
+- [File:Hikami-Yama-no-zu.png](https://commons.wikimedia.org/wiki/File:Hikami-Yama-no-zu.png) — Hikami Anego Shrine
+- [File:Hikohohodemi otokowa.png](https://commons.wikimedia.org/wiki/File:Hikohohodemi_otokowa.png) — Hoori, Umisachi and Yamasachi
+- [File:Hokoji-heimenzu.png](https://commons.wikimedia.org/wiki/File:Hokoji-heimenzu.png) — Great Buddha Hall of Hōkō-ji
+- [File:How to edit a page Edit box.png](https://commons.wikimedia.org/wiki/File:How_to_edit_a_page_Edit_box.png) — Help:Editing
+- [File:Hōkōji Daibutsu Kaempfer.png](https://commons.wikimedia.org/wiki/File:H%C5%8Dk%C5%8Dji_Daibutsu_Kaempfer.png) — Great Buddha of Tōdaiji
+- [File:India - administrative map.png](https://commons.wikimedia.org/wiki/File:India_-_administrative_map.png) — Module:Portal/images/i
+- [File:IPhone5white.png](https://commons.wikimedia.org/wiki/File:IPhone5white.png) — Module:Portal/images/other
+- [File:Japan Map CIA 2021.png](https://commons.wikimedia.org/wiki/File:Japan_Map_CIA_2021.png) — Module:Location map/data/Japan/doc
+- [File:Japan yashima.png](https://commons.wikimedia.org/wiki/File:Japan_yashima.png) — Age of the Gods, Izanagi, Kuniumi
+- [File:John George Caradja's seal, 1818.png](https://commons.wikimedia.org/wiki/File:John_George_Caradja%27s_seal%2C_1818.png) — Template:Country data Wallachia
+- [File:Kanri01.png](https://commons.wikimedia.org/wiki/File:Kanri01.png) — Kōtōkan, Shinninkan
+- [File:Karte grabstätten theben west.png](https://commons.wikimedia.org/wiki/File:Karte_grabst%C3%A4tten_theben_west.png) — Million-year house
+- [File:Katayama shrine from Tōkaidō meisho zue.png](https://commons.wikimedia.org/wiki/File:Katayama_shrine_from_T%C5%8Dkaid%C5%8D_meisho_zue.png) — Katayama Shrine (Kameyama)
+- [File:Kazoku-Japanese-Nobility-Group.png](https://commons.wikimedia.org/wiki/File:Kazoku-Japanese-Nobility-Group.png) — Kazoku
+- [File:Koujin yama.png](https://commons.wikimedia.org/wiki/File:Koujin_yama.png) — Ofuda
+- [File:Lambang Kota Tangerang.png](https://commons.wikimedia.org/wiki/File:Lambang_Kota_Tangerang.png) — Template:Coat of arms
+- [File:Macedonian Police insignia.png](https://commons.wikimedia.org/wiki/File:Macedonian_Police_insignia.png) — Template:Coat of arms
+- [File:Map of California NA.png](https://commons.wikimedia.org/wiki/File:Map_of_California_NA.png) — Module:Location map/data/USA California/doc
+- [File:Map-of-Japan-1183-Heian-Genpei-War.png](https://commons.wikimedia.org/wiki/File:Map-of-Japan-1183-Heian-Genpei-War.png) — Minamoto clan, Taira clan
+- [File:Map-of-the-Kyuden-Tokyo-Imperial-Palace-2019.png](https://commons.wikimedia.org/wiki/File:Map-of-the-Kyuden-Tokyo-Imperial-Palace-2019.png) — Tokyo Imperial Palace
+- [File:MassDeleteOTRS.png](https://commons.wikimedia.org/wiki/File:MassDeleteOTRS.png) — (file-title list), File:MassDeleteOTRS.png, Help:VisualFileChange.js
+- [File:Metrorioicon.png](https://commons.wikimedia.org/wiki/File:Metrorioicon.png) — Template:Rail-interchange
+- [File:Mobile view problem climate change.png](https://commons.wikimedia.org/wiki/File:Mobile_view_problem_climate_change.png) — (file-title list), File:Mobile view problem climate change.png, Module:Random slideshow/doc, Template:Random slideshow/doc
+- [File:Monterey Bay Map (cropped).png](https://commons.wikimedia.org/wiki/File:Monterey_Bay_Map_%28cropped%29.png) — Module:Portal/images/m
+- [File:Mule (PSF).png](https://commons.wikimedia.org/wiki/File:Mule_%28PSF%29.png) — Template:Multiple image/doc
+- [File:Naiku Map in Japanese.png](https://commons.wikimedia.org/wiki/File:Naiku_Map_in_Japanese.png) — Kōtai Jingū
+- [File:Nocover-upload.png](https://commons.wikimedia.org/wiki/File:Nocover-upload.png) — (file-title list), File:Nocover-upload.png, Module:InfoboxImage/data, Module:InfoboxImage/doc, Module:InfoboxImage/sandbox
+- [File:Notification for failed login attempt.png](https://commons.wikimedia.org/wiki/File:Notification_for_failed_login_attempt.png) — Help:Notifications
+- [File:Notifications - Changed rights - January 2016.png](https://commons.wikimedia.org/wiki/File:Notifications_-_Changed_rights_-_January_2016.png) — Help:Notifications
+- [File:Notifications - Thanked edit - January 2016.png](https://commons.wikimedia.org/wiki/File:Notifications_-_Thanked_edit_-_January_2016.png) — Help:Notifications
+- [File:Ototachibanahime.png](https://commons.wikimedia.org/wiki/File:Ototachibanahime.png) — Tachibanahime-no-Mikoto
+- [File:P social sciences-lightblue.png](https://commons.wikimedia.org/wiki/File:P_social_sciences-lightblue.png) — Module:Portal/images/s/sandbox
+- [File:Pagename explanation.png](https://commons.wikimedia.org/wiki/File:Pagename_explanation.png) — Help:Page name
+- [File:Paris plan jms.png](https://commons.wikimedia.org/wiki/File:Paris_plan_jms.png) — Paris
+- [File:Penis syphilis.png](https://commons.wikimedia.org/wiki/File:Penis_syphilis.png) — MediaWiki:Bad image list
+- [File:Placeholder barnstar ribbon.png](https://commons.wikimedia.org/wiki/File:Placeholder_barnstar_ribbon.png) — (file-title list), File:Placeholder barnstar ribbon.png, Module:InfoboxImage/data, Module:InfoboxImage/doc, Module:InfoboxImage/sandbox
+- [File:Plzen small CoA.png](https://commons.wikimedia.org/wiki/File:Plzen_small_CoA.png) — Template:Coat of arms
+- [File:PNG transparency demonstration 2.png](https://commons.wikimedia.org/wiki/File:PNG_transparency_demonstration_2.png) — Template:Multiple image/doc
+- [File:Polynesia.png](https://commons.wikimedia.org/wiki/File:Polynesia.png) — Module:Portal/images/p
+- [File:Portrait-Kaibara-Ekiken-(cropped)-c1700.png](https://commons.wikimedia.org/wiki/File:Portrait-Kaibara-Ekiken-%28cropped%29-c1700.png) — Kaibara Ekken
+- [File:Project Trains no image.png](https://commons.wikimedia.org/wiki/File:Project_Trains_no_image.png) — (file-title list), File:Project Trains no image.png, Module:InfoboxImage/data, Module:InfoboxImage/doc, Module:InfoboxImage/sandbox
+- [File:Pronunciation of the name of the letter ⟨e⟩ in European languages.png](https://commons.wikimedia.org/wiki/File:Pronunciation_of_the_name_of_the_letter_%E2%9F%A8e%E2%9F%A9_in_European_languages.png) — E
+- [File:PRT.png](https://commons.wikimedia.org/wiki/File:PRT.png) — Template:Coat of arms
+- [File:Qubrathamranshrine.png](https://commons.wikimedia.org/wiki/File:Qubrathamranshrine.png) — Shrine
+- [File:Religion in Japan by prefecture, 1996 statistics.png](https://commons.wikimedia.org/wiki/File:Religion_in_Japan_by_prefecture%2C_1996_statistics.png) — (file-title list), File:Religion in Japan by prefecture, 1996 statistics.png
+- [File:Remich coat of arms.png](https://commons.wikimedia.org/wiki/File:Remich_coat_of_arms.png) — Template:Coat of arms
+- [File:Replace this image - temple.png](https://commons.wikimedia.org/wiki/File:Replace_this_image_-_temple.png) — (file-title list), File:Replace this image - temple.png, Module:InfoboxImage/data, Module:InfoboxImage/doc, Module:InfoboxImage/sandbox
+- [File:Ryukyu Invasion Phase5.png](https://commons.wikimedia.org/wiki/File:Ryukyu_Invasion_Phase5.png) — Invasion of Ryukyu
+- [File:Ryukyu Invasion Phase6.png](https://commons.wikimedia.org/wiki/File:Ryukyu_Invasion_Phase6.png) — Invasion of Ryukyu
+- [File:Ryukyu Invasion Phase7.png](https://commons.wikimedia.org/wiki/File:Ryukyu_Invasion_Phase7.png) — Invasion of Ryukyu
+- [File:Ryukyu Invasion Phase8.png](https://commons.wikimedia.org/wiki/File:Ryukyu_Invasion_Phase8.png) — Invasion of Ryukyu
+- [File:Samurai on horseback.png](https://commons.wikimedia.org/wiki/File:Samurai_on_horseback.png) — Yabusame
+- [File:Samurai with tachi.png](https://commons.wikimedia.org/wiki/File:Samurai_with_tachi.png) — Katana
+- [File:Scottish clan map.png](https://commons.wikimedia.org/wiki/File:Scottish_clan_map.png) — Module:Portal/images/c, Module:Portal/images/c/sandbox
+- [File:Seal of the United States Department of the Navy (1879-1957).png](https://commons.wikimedia.org/wiki/File:Seal_of_the_United_States_Department_of_the_Navy_%281879-1957%29.png) — Template:Country data United States Navy
+- [File:Shakuhachi-2.png](https://commons.wikimedia.org/wiki/File:Shakuhachi-2.png) — Shakuhachi
+- [File:Sida-aids.png](https://commons.wikimedia.org/wiki/File:Sida-aids.png) — Module:Portal/images/v
+- [File:Talisman Against Disease.png](https://commons.wikimedia.org/wiki/File:Talisman_Against_Disease.png) — Ofuda
+- [File:Taxonbar layout placement on English Wikipedia - Cuckoo wasp.png](https://commons.wikimedia.org/wiki/File:Taxonbar_layout_placement_on_English_Wikipedia_-_Cuckoo_wasp.png) — Template:Taxonbar/doc
+- [File:Tenno Shrines in Tatebayashi at OSM.png](https://commons.wikimedia.org/wiki/File:Tenno_Shrines_in_Tatebayashi_at_OSM.png) — Gozu Tennō Faith in Tatebayashi
+- [File:Tenrikyomeiji.png](https://commons.wikimedia.org/wiki/File:Tenrikyomeiji.png) — Tenrikyo
+- [File:The placement of main shrine buildings in Atsuta Jingu Shrine, 2015.png](https://commons.wikimedia.org/wiki/File:The_placement_of_main_shrine_buildings_in_Atsuta_Jingu_Shrine%2C_2015.png) — Atsuta Shrine
+- [File:Touki Ryushichi 1926a 21.png](https://commons.wikimedia.org/wiki/File:Touki_Ryushichi_1926a_21.png) — Kujukuri Plain
+- [File:Toyotomi mon.png](https://commons.wikimedia.org/wiki/File:Toyotomi_mon.png) — Tokugawa shogunate
+- [File:TransilvaniaSigilium1550.png](https://commons.wikimedia.org/wiki/File:TransilvaniaSigilium1550.png) — Template:Country data Transylvania
+- [File:TransmetroMetrorrey.png](https://commons.wikimedia.org/wiki/File:TransmetroMetrorrey.png) — Template:Rail-interchange
+- [File:Tsushima island en.png](https://commons.wikimedia.org/wiki/File:Tsushima_island_en.png) — Tsushima Island
+- [File:Tumulus and ancient shrines distribution map of South Nagoya during the tumulus period.png](https://commons.wikimedia.org/wiki/File:Tumulus_and_ancient_shrines_distribution_map_of_South_Nagoya_during_the_tumulus_period.png) — Hikami Anego Shrine
+- [File:Ugaya otokowa.png](https://commons.wikimedia.org/wiki/File:Ugaya_otokowa.png) — Ugayafukiaezu
+- [File:Uluru sketch portal ipau.png](https://commons.wikimedia.org/wiki/File:Uluru_sketch_portal_ipau.png) — Module:Portal/images/i
+- [File:Usahachiman1928.png](https://commons.wikimedia.org/wiki/File:Usahachiman1928.png) — Usa Jingū
+- [File:Vector toolbar search-replace button.png](https://commons.wikimedia.org/wiki/File:Vector_toolbar_search-replace_button.png) — Help:Preferences
+- [File:View history - Create permalink - February 2025.png](https://commons.wikimedia.org/wiki/File:View_history_-_Create_permalink_-_February_2025.png) — Help:Page history
+- [File:VisualEditor - Editing References - Cite Web.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Editing_References_-_Cite_Web.png) — Help:VisualEditor
+- [File:VisualEditor - Editing references 1.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Editing_references_1.png) — Help:VisualEditor
+- [File:VisualEditor - Gallery2.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Gallery2.png) — Help:VisualEditor
+- [File:VisualEditor - Media editing 3.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Media_editing_3.png) — Help:VisualEditor
+- [File:VisualEditor - Media editing 6.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Media_editing_6.png) — Help:VisualEditor
+- [File:VisualEditor Cite menu re-use tab.png](https://commons.wikimedia.org/wiki/File:VisualEditor_Cite_menu_re-use_tab.png) — Help:VisualEditor
+- [File:VisualEditor Citoid Inspector-en.png](https://commons.wikimedia.org/wiki/File:VisualEditor_Citoid_Inspector-en.png) — Help:VisualEditor
+- [File:VisualEditor editing poem 1.png](https://commons.wikimedia.org/wiki/File:VisualEditor_editing_poem_1.png) — Help:VisualEditor
+- [File:VisualEditor editing poem 2.png](https://commons.wikimedia.org/wiki/File:VisualEditor_editing_poem_2.png) — Help:VisualEditor
+- [File:VisualEditor Page Settings Edit Links-en.png](https://commons.wikimedia.org/wiki/File:VisualEditor_Page_Settings_Edit_Links-en.png) — Help:VisualEditor
+- [File:VisualEditor save dialog-en.png](https://commons.wikimedia.org/wiki/File:VisualEditor_save_dialog-en.png) — Help:VisualEditor
+- [File:VisualEditor tables merge cells.png](https://commons.wikimedia.org/wiki/File:VisualEditor_tables_merge_cells.png) — Help:VisualEditor
+- [File:VisualEditor tables post-merge cell.png](https://commons.wikimedia.org/wiki/File:VisualEditor_tables_post-merge_cell.png) — Help:VisualEditor
+- [File:VisualEditor tables select one cell.png](https://commons.wikimedia.org/wiki/File:VisualEditor_tables_select_one_cell.png) — Help:VisualEditor
+- [File:VisualEditor tables split cells.png](https://commons.wikimedia.org/wiki/File:VisualEditor_tables_split_cells.png) — Help:VisualEditor
+- [File:VisualEditor tables type inside a cell.png](https://commons.wikimedia.org/wiki/File:VisualEditor_tables_type_inside_a_cell.png) — Help:VisualEditor
 - [File:VisualEditor-context menu-link tool.png](https://commons.wikimedia.org/wiki/File:VisualEditor-context_menu-link_tool.png) — Help:VisualEditor
 - [File:VisualEditor-link tool-external link.png](https://commons.wikimedia.org/wiki/File:VisualEditor-link_tool-external_link.png) — Help:VisualEditor
 - [File:VisualEditor-link tool-search results.png](https://commons.wikimedia.org/wiki/File:VisualEditor-link_tool-search_results.png) — Help:VisualEditor
@@ -758,18 +544,289 @@ is done (record it in devlog.md). Prefer rebuilding from a vector source over tr
 - [File:VisualFileChange queryMore.png](https://commons.wikimedia.org/wiki/File:VisualFileChange_queryMore.png) — Help:VisualFileChange.js
 - [File:VisualFileChange selectDialog.png](https://commons.wikimedia.org/wiki/File:VisualFileChange_selectDialog.png) — Help:VisualFileChange.js
 - [File:VisualFileChange startDialog.png](https://commons.wikimedia.org/wiki/File:VisualFileChange_startDialog.png) — Help:VisualFileChange.js
-- [File:Volcanism of Canada flag.png](https://commons.wikimedia.org/wiki/File:Volcanism_of_Canada_flag.png) — Module:Portal/images/v
 - [File:Vorarlberg.png](https://commons.wikimedia.org/wiki/File:Vorarlberg.png) — Template:Rail-interchange
-- [File:Vulva and penis.png](https://commons.wikimedia.org/wiki/File:Vulva_and_penis.png) — MediaWiki:Bad image list
-- [File:W-asia.png](https://commons.wikimedia.org/wiki/File:W-asia.png) — Module:Portal/images/w
-- [File:Wakamiyajima Iki.png](https://commons.wikimedia.org/wiki/File:Wakamiyajima_Iki.png) — Iki Island
-- [File:Wakan Sansai Zue - Hitatare.png](https://commons.wikimedia.org/wiki/File:Wakan_Sansai_Zue_-_Hitatare.png) — Hitatare
-- [File:Walden Pond, Massachusetts on June 27, 2012.png](https://commons.wikimedia.org/wiki/File:Walden_Pond%2C_Massachusetts_on_June_27%2C_2012.png) — Module:Portal/images/l
 - [File:Wappen Preußen.png](https://commons.wikimedia.org/wiki/File:Wappen_Preu%C3%9Fen.png) — Template:Coat of arms
 - [File:Wappen Schlesiens.png](https://commons.wikimedia.org/wiki/File:Wappen_Schlesiens.png) — Template:Coat of arms
-- [File:Watched page in Vector.png](https://commons.wikimedia.org/wiki/File:Watched_page_in_Vector.png) — Help:Watchlist
 - [File:West Lake Map.png](https://commons.wikimedia.org/wiki/File:West_Lake_Map.png) — Lingyin Temple
-- [File:Wiki search namespaces.png](https://commons.wikimedia.org/wiki/File:Wiki_search_namespaces.png) — Help:Searching
+- [File:WikiEditor-advanced menu-en.png](https://commons.wikimedia.org/wiki/File:WikiEditor-advanced_menu-en.png) — Help:Edit toolbar, Help:Editing
+- [File:WikiEditor-reference toolbar menu-en.png](https://commons.wikimedia.org/wiki/File:WikiEditor-reference_toolbar_menu-en.png) — Help:Introduction to referencing with Wiki Markup/3
+- [File:WikiEditor-toolbar-en.png](https://commons.wikimedia.org/wiki/File:WikiEditor-toolbar-en.png) — Help:Edit toolbar
+- [File:Wikipedia article in VisualEditor 2018-02-12.png](https://commons.wikimedia.org/wiki/File:Wikipedia_article_in_VisualEditor_2018-02-12.png) — Help:Editing
+- [File:Wikipedia Main Page.png](https://commons.wikimedia.org/wiki/File:Wikipedia_Main_Page.png) — Template:Infobox website/doc
+- [File:Wikipedia watchlist.png](https://commons.wikimedia.org/wiki/File:Wikipedia_watchlist.png) — Help:Watchlist
+- [File:Yasaka Shrine Kyoto.png](https://commons.wikimedia.org/wiki/File:Yasaka_Shrine_Kyoto.png) — Yasaka Shrine
+- [File:ZhoushiTaijitu.png](https://commons.wikimedia.org/wiki/File:ZhoushiTaijitu.png) — Taoism
+- [File:ミシャグジの分布.png](https://commons.wikimedia.org/wiki/File:%E3%83%9F%E3%82%B7%E3%83%A3%E3%82%B0%E3%82%B8%E3%81%AE%E5%88%86%E5%B8%83.png) — Mishaguji
+- [File:三角縁神獣鏡の部分名称.png](https://commons.wikimedia.org/wiki/File:%E4%B8%89%E8%A7%92%E7%B8%81%E7%A5%9E%E7%8D%A3%E9%8F%A1%E3%81%AE%E9%83%A8%E5%88%86%E5%90%8D%E7%A7%B0.png) — Triangular-Rimmed Divine Beast Mirror
+- [File:二本松孝蔵.png](https://commons.wikimedia.org/wiki/File:%E4%BA%8C%E6%9C%AC%E6%9D%BE%E5%AD%9D%E8%94%B5.png) — Kōzō Nihonmatsu
+- [File:仙佛奇蹤 卷七 竺道生.png](https://commons.wikimedia.org/wiki/File:%E4%BB%99%E4%BD%9B%E5%A5%87%E8%B9%A4_%E5%8D%B7%E4%B8%83_%E7%AB%BA%E9%81%93%E7%94%9F.png) — Mahāyāna Mahāparinirvāṇa Sūtra
+- [File:伊丹郷町の範囲.png](https://commons.wikimedia.org/wiki/File:%E4%BC%8A%E4%B8%B9%E9%83%B7%E7%94%BA%E3%81%AE%E7%AF%84%E5%9B%B2.png) — Sōgamae
+- [File:地下式横穴墓の模式図.png](https://commons.wikimedia.org/wiki/File:%E5%9C%B0%E4%B8%8B%E5%BC%8F%E6%A8%AA%E7%A9%B4%E5%A2%93%E3%81%AE%E6%A8%A1%E5%BC%8F%E5%9B%B3.png) — Ikime Kofun Cluster, Underground Horizontal Yokoanabo
+- [File:太田天神山古墳 概略図.png](https://commons.wikimedia.org/wiki/File:%E5%A4%AA%E7%94%B0%E5%A4%A9%E7%A5%9E%E5%B1%B1%E5%8F%A4%E5%A2%B3_%E6%A6%82%E7%95%A5%E5%9B%B3.png) — Ōta Tenjinyama Kofun
+- [File:官幣中社諏訪上社 - Kanpei Chūsha Suwa Kamisha.png](https://commons.wikimedia.org/wiki/File:%E5%AE%98%E5%B9%A3%E4%B8%AD%E7%A4%BE%E8%AB%8F%E8%A8%AA%E4%B8%8A%E7%A4%BE_-_Kanpei_Ch%C5%ABsha_Suwa_Kamisha.png) — Suwa-taisha
+- [File:性命圭旨 觀音密呪圖.png](https://commons.wikimedia.org/wiki/File:%E6%80%A7%E5%91%BD%E5%9C%AD%E6%97%A8_%E8%A7%80%E9%9F%B3%E5%AF%86%E5%91%AA%E5%9C%96.png) — Kannon
+- [File:板石積石棺墓（地下式板石積石室墓）.png](https://commons.wikimedia.org/wiki/File:%E6%9D%BF%E7%9F%B3%E7%A9%8D%E7%9F%B3%E6%A3%BA%E5%A2%93%EF%BC%88%E5%9C%B0%E4%B8%8B%E5%BC%8F%E6%9D%BF%E7%9F%B3%E7%A9%8D%E7%9F%B3%E5%AE%A4%E5%A2%93%EF%BC%89.png) — Stone slab tomb
+- [File:河内名所図会 交野神社.png](https://commons.wikimedia.org/wiki/File:%E6%B2%B3%E5%86%85%E5%90%8D%E6%89%80%E5%9B%B3%E4%BC%9A_%E4%BA%A4%E9%87%8E%E7%A5%9E%E7%A4%BE.png) — Katano Shrine
+- [File:河内名所図会 枚方萬年寺.png](https://commons.wikimedia.org/wiki/File:%E6%B2%B3%E5%86%85%E5%90%8D%E6%89%80%E5%9B%B3%E4%BC%9A_%E6%9E%9A%E6%96%B9%E8%90%AC%E5%B9%B4%E5%AF%BA.png) — Okami Shrine (Hirakata)
+- [File:海柘榴市の所在地.png](https://commons.wikimedia.org/wiki/File:%E6%B5%B7%E6%9F%98%E6%A6%B4%E5%B8%82%E3%81%AE%E6%89%80%E5%9C%A8%E5%9C%B0.png) — Tsubaki Market
+- [File:異形鉄器.png](https://commons.wikimedia.org/wiki/File:%E7%95%B0%E5%BD%A2%E9%89%84%E5%99%A8.png) — Irregular ironware
+- [File:立石土壙墓.png](https://commons.wikimedia.org/wiki/File:%E7%AB%8B%E7%9F%B3%E5%9C%9F%E5%A3%99%E5%A2%93.png) — Standing Pit Tomb
+- [File:賢所乗御車図面.png](https://commons.wikimedia.org/wiki/File:%E8%B3%A2%E6%89%80%E4%B9%97%E5%BE%A1%E8%BB%8A%E5%9B%B3%E9%9D%A2.png) — Kashiko-dokoro Riding Car
+- [File:평양신사배치도.png](https://commons.wikimedia.org/wiki/File:%ED%8F%89%EC%96%91%EC%8B%A0%EC%82%AC%EB%B0%B0%EC%B9%98%EB%8F%84.png) — Heijō Shrine
+
+## Likely raster originals (299)
+
+Photos, paintings, 3D renders and screenshots by colour analysis of a 300 px thumbnail, plus files
+named as screenshots. Not traced. Review: a few exceptions (e.g. text-only placeholder images) can still be rebuilt.
+
+- [File:1873 Seikanron Debate Saigo Takamori Ukiyo-e by Suzuki Toshimoto.png](https://commons.wikimedia.org/wiki/File:1873_Seikanron_Debate_Saigo_Takamori_Ukiyo-e_by_Suzuki_Toshimoto.png) — Saigō Takamori
+- [File:2014 ATB Quarter Obv.png](https://commons.wikimedia.org/wiki/File:2014_ATB_Quarter_Obv.png) — Help:Pictures
+- [File:Admiral-Togo-Heihachiro-Flagship-Mikasa-c1905.png](https://commons.wikimedia.org/wiki/File:Admiral-Togo-Heihachiro-Flagship-Mikasa-c1905.png) — Tōgō Heihachirō
+- [File:Aerial image of Tokyo Imperial Palace.png](https://commons.wikimedia.org/wiki/File:Aerial_image_of_Tokyo_Imperial_Palace.png) — Tokyo Imperial Palace
+- [File:Agenesia de vagina2.png](https://commons.wikimedia.org/wiki/File:Agenesia_de_vagina2.png) — MediaWiki:Bad image list
+- [File:Ainu-iomante-bear-spirit-sending-ceremony-by-Hirasawa-Byozan-1875.png](https://commons.wikimedia.org/wiki/File:Ainu-iomante-bear-spirit-sending-ceremony-by-Hirasawa-Byozan-1875.png) — Bashoukeoisei, Iomante
+- [File:Amaterasu.png](https://commons.wikimedia.org/wiki/File:Amaterasu.png) — Magatama
+- [File:Arrowred.png](https://commons.wikimedia.org/wiki/File:Arrowred.png) — Talk:Amoghasiddhi, Talk:Tsukuyomi-no-Mikoto
+- [File:Asubha Body Contemplation.png](https://commons.wikimedia.org/wiki/File:Asubha_Body_Contemplation.png) — Satipatthana
+- [File:Baltoro Glacier, Pakistan 2012.png](https://commons.wikimedia.org/wiki/File:Baltoro_Glacier%2C_Pakistan_2012.png) — Module:Portal/images/g
+- [File:Birth Places of Chinese Philosophers.png](https://commons.wikimedia.org/wiki/File:Birth_Places_of_Chinese_Philosophers.png) — Taoism
+- [File:Bluetank.png](https://commons.wikimedia.org/wiki/File:Bluetank.png) — Module:Portal/images/w
+- [File:Boingball.png](https://commons.wikimedia.org/wiki/File:Boingball.png) — Module:Portal/images/a
+- [File:Bombay-Docks-aftermath1.png](https://commons.wikimedia.org/wiki/File:Bombay-Docks-aftermath1.png) — Template:Infobox event/doc
+- [File:BoNM - United Nations Hires.png](https://commons.wikimedia.org/wiki/File:BoNM_-_United_Nations_Hires.png) — Template:Awards, decorations, and medals of Wikipedia
+- [File:Bowing-clapping-bowing.png](https://commons.wikimedia.org/wiki/File:Bowing-clapping-bowing.png) — Hakushu (Shinto)
+- [File:BronzepzpcbgA.png](https://commons.wikimedia.org/wiki/File:BronzepzpcbgA.png) — Template:Awards, decorations, and medals of Wikipedia
+- [File:Calif al Muizz Misr Cairo 969 CE.png](https://commons.wikimedia.org/wiki/File:Calif_al_Muizz_Misr_Cairo_969_CE.png) — Module:Portal/images/f
+- [File:Canadian football.png](https://commons.wikimedia.org/wiki/File:Canadian_football.png) — Module:Portal/images/c, Module:Portal/images/c/sandbox
+- [File:Canpoligeoicon.png](https://commons.wikimedia.org/wiki/File:Canpoligeoicon.png) — Module:Portal/images/e, Module:Portal/images/e/sandbox
+- [File:Ceremony of the Enthronement of His Majesty the Emperor at the Seiden5.png](https://commons.wikimedia.org/wiki/File:Ceremony_of_the_Enthronement_of_His_Majesty_the_Emperor_at_the_Seiden5.png) — Imperial decrees
+- [File:CFfacadePlacedelOpera.png](https://commons.wikimedia.org/wiki/File:CFfacadePlacedelOpera.png) — Paris
+- [File:Choco chip cookie.png](https://commons.wikimedia.org/wiki/File:Choco_chip_cookie.png) — Template:Awards, decorations, and medals of Wikipedia
+- [File:Chugoku-Region-Shikoku-Japan-ISS-Space.png](https://commons.wikimedia.org/wiki/File:Chugoku-Region-Shikoku-Japan-ISS-Space.png) — Seto Inland Sea, Shikoku
+- [File:CIE1931simple.png](https://commons.wikimedia.org/wiki/File:CIE1931simple.png) — Category:Colors, Template:Color-stub
+- [File:Citoid in VisualEditor Screen Shot 2015-04-02.png](https://commons.wikimedia.org/wiki/File:Citoid_in_VisualEditor_Screen_Shot_2015-04-02.png) — Help:VisualEditor
+- [File:Citoid results in VisualEditor Screen Shot 2015-04-02.png](https://commons.wikimedia.org/wiki/File:Citoid_results_in_VisualEditor_Screen_Shot_2015-04-02.png) — Help:VisualEditor
+- [File:Clock Tower - Palace of Westminster, London - May 2007 icon.png](https://commons.wikimedia.org/wiki/File:Clock_Tower_-_Palace_of_Westminster%2C_London_-_May_2007_icon.png) — Module:Portal/images/l
+- [File:Closeup of unshaved female genitalia.png](https://commons.wikimedia.org/wiki/File:Closeup_of_unshaved_female_genitalia.png) — MediaWiki:Bad image list
+- [File:Coat of arms of La Paz.png](https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_La_Paz.png) — Template:Coat of arms
+- [File:Coat of arms of Moldavia 1646.png](https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Moldavia_1646.png) — Template:Country data Moldavia
+- [File:Coat of arms of Wallachia under Alexander Ypsilantis, 1781.png](https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Wallachia_under_Alexander_Ypsilantis%2C_1781.png) — Template:Country data Wallachia
+- [File:Coat of arms of Wallachia under Grigore II Ghica.png](https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Wallachia_under_Grigore_II_Ghica.png) — Template:Country data Wallachia
+- [File:Coat of arms of Wirral Metropolitan Borough Council.png](https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Wirral_Metropolitan_Borough_Council.png) — Template:Coat of arms
+- [File:CodeEditorAssist screenshot.png](https://commons.wikimedia.org/wiki/File:CodeEditorAssist_screenshot.png) — User:Nardog/CodeEditorAssist
+- [File:ColorfulFireworks.png](https://commons.wikimedia.org/wiki/File:ColorfulFireworks.png) — Chikugo River Fireworks Festival
+- [File:Constitution Pg1of4 AC icon cut.png](https://commons.wikimedia.org/wiki/File:Constitution_Pg1of4_AC_icon_cut.png) — Module:Portal/images/u
+- [File:Crystal Clear app file-manager.png](https://commons.wikimedia.org/wiki/File:Crystal_Clear_app_file-manager.png) — Help:Archiving a talk page
+- [File:Culto do chá p25.png](https://commons.wikimedia.org/wiki/File:Culto_do_ch%C3%A1_p25.png) — Saichō
+- [File:Dacia around 60-44 BC during Burebista, including campaigns - French.png](https://commons.wikimedia.org/wiki/File:Dacia_around_60-44_BC_during_Burebista%2C_including_campaigns_-_French.png) — Module:Portal/images/d
+- [File:Daihua sanqiong YKLP-13401a.png](https://commons.wikimedia.org/wiki/File:Daihua_sanqiong_YKLP-13401a.png) — Daihua
+- [File:Dionisie Eclesiarhul - Coat of arms of Wallachia, 1795.png](https://commons.wikimedia.org/wiki/File:Dionisie_Eclesiarhul_-_Coat_of_arms_of_Wallachia%2C_1795.png) — Template:Country data Wallachia
+- [File:Doggy style sex.png](https://commons.wikimedia.org/wiki/File:Doggy_style_sex.png) — MediaWiki:Bad image list
+- [File:Dragon by Kano Koi (Kenpukuji Ina).png](https://commons.wikimedia.org/wiki/File:Dragon_by_Kano_Koi_%28Kenpukuji_Ina%29.png) — Kenpuku-ji
+- [File:DrustveneNauke.png](https://commons.wikimedia.org/wiki/File:DrustveneNauke.png) — Module:Portal/images/s/sandbox
+- [File:Edit conflict screenshot.png](https://commons.wikimedia.org/wiki/File:Edit_conflict_screenshot.png) — Help:Edit conflict
+- [File:Edo hori.png](https://commons.wikimedia.org/wiki/File:Edo_hori.png) — Sōgamae
+- [File:Emblem of arms of Wallachia under Șerban Cantacuzino, 1683.png](https://commons.wikimedia.org/wiki/File:Emblem_of_arms_of_Wallachia_under_%C8%98erban_Cantacuzino%2C_1683.png) — Template:Country data Wallachia
+- [File:Emblem of Wallachia under Alexandru Coconul, 1624.png](https://commons.wikimedia.org/wiki/File:Emblem_of_Wallachia_under_Alexandru_Coconul%2C_1624.png) — Template:Country data Wallachia
+- [File:Emblem of Wallachia under Radu Leon, 1667.png](https://commons.wikimedia.org/wiki/File:Emblem_of_Wallachia_under_Radu_Leon%2C_1667.png) — Template:Country data Wallachia
+- [File:Emperor Komei Portrait by Koyama Shotaro 1902.png](https://commons.wikimedia.org/wiki/File:Emperor_Komei_Portrait_by_Koyama_Shotaro_1902.png) — Sokutai
+- [File:Emperor-Go-Daigo-by-Ogata-Gekko-1904.png](https://commons.wikimedia.org/wiki/File:Emperor-Go-Daigo-by-Ogata-Gekko-1904.png) — Kenmu Restoration, List of the Fifteen Shrines of the Kenmu Restoration, Template:Fifteen Shrines of the Kenmu Restoration
+- [File:Emperor-Jinmu-from-series-Mirror-of-Famous-Generals-of-Great-Japan.png](https://commons.wikimedia.org/wiki/File:Emperor-Jinmu-from-series-Mirror-of-Famous-Generals-of-Great-Japan.png) — Jimmu's Eastern Expedition
+- [File:Emperor-Meiji-Empress-Shoken-Meiji-Shrine-c1926.png](https://commons.wikimedia.org/wiki/File:Emperor-Meiji-Empress-Shoken-Meiji-Shrine-c1926.png) — Meiji Jingu
+- [File:Empress Kishi and Emperor Go-Daigo.png](https://commons.wikimedia.org/wiki/File:Empress_Kishi_and_Emperor_Go-Daigo.png) — Saionji Kishi
+- [File:Enthronement Ceremony of Emperor Kōmei.png](https://commons.wikimedia.org/wiki/File:Enthronement_Ceremony_of_Emperor_K%C5%8Dmei.png) — Enthronement of the Japanese emperor, The succession to the throne
+- [File:Female butt.png](https://commons.wikimedia.org/wiki/File:Female_butt.png) — MediaWiki:Bad image list
+- [File:Flanquette (grey scales).png](https://commons.wikimedia.org/wiki/File:Flanquette_%28grey_scales%29.png) — MediaWiki:Bad image list
+- [File:Floater script screenshot.png](https://commons.wikimedia.org/wiki/File:Floater_script_screenshot.png) — Template:Infobox Wikipedia user script/doc
+- [File:FNic7yqaIAYd4RS.png](https://commons.wikimedia.org/wiki/File:FNic7yqaIAYd4RS.png) — Kotohira-gū Tokyo Branch
+- [File:Footjob раком.png](https://commons.wikimedia.org/wiki/File:Footjob_%D1%80%D0%B0%D0%BA%D0%BE%D0%BC.png) — MediaWiki:Bad image list
+- [File:Forced Orgasm on-stage.png](https://commons.wikimedia.org/wiki/File:Forced_Orgasm_on-stage.png) — MediaWiki:Bad image list
+- [File:Foto francis.xpz.png](https://commons.wikimedia.org/wiki/File:Foto_francis.xpz.png) — Template:Infobox artist/doc
+- [File:Fujishima Shrine (藤島社).png](https://commons.wikimedia.org/wiki/File:Fujishima_Shrine_%28%E8%97%A4%E5%B3%B6%E7%A4%BE%29.png) — Fujishima Shrine (Suwa Region), Moriya
+- [File:Gangaramaya Temple SL2.png](https://commons.wikimedia.org/wiki/File:Gangaramaya_Temple_SL2.png) — Kannon
+- [File:GazouBoshu.png](https://commons.wikimedia.org/wiki/File:GazouBoshu.png) — Fukaya Festival
+- [File:Gene Wiki logo.png](https://commons.wikimedia.org/wiki/File:Gene_Wiki_logo.png) — Module:Portal/images/g
+- [File:George Washington Presidential $1 Coin obverse.png](https://commons.wikimedia.org/wiki/File:George_Washington_Presidential_%241_Coin_obverse.png) — Help:Pictures, Template:Gallery/doc
+- [File:GIMP screenshot.png](https://commons.wikimedia.org/wiki/File:GIMP_screenshot.png) — Template:Infobox software/doc
+- [File:Golden W Award2.png](https://commons.wikimedia.org/wiki/File:Golden_W_Award2.png) — Template:Awards, decorations, and medals of Wikipedia
+- [File:Greek deity head icon.png](https://commons.wikimedia.org/wiki/File:Greek_deity_head_icon.png) — Template:WikiProject文化遺産保護制度, Template:WikiProject文化遺産保護制度カテゴリ
+- [File:HairedHumanScrotum.png](https://commons.wikimedia.org/wiki/File:HairedHumanScrotum.png) — MediaWiki:Bad image list
+- [File:HarrNishaan.png](https://commons.wikimedia.org/wiki/File:HarrNishaan.png) — Module:Portal/images/r
+- [File:Hatajirushi3.png](https://commons.wikimedia.org/wiki/File:Hatajirushi3.png) — Takeminakata
+- [File:Heike-Nokyo-Chapter-12-Lotus-Sutra.png](https://commons.wikimedia.org/wiki/File:Heike-Nokyo-Chapter-12-Lotus-Sutra.png) — Heike Nokyo
+- [File:Helmet logo for Underwater Diving portal.png](https://commons.wikimedia.org/wiki/File:Helmet_logo_for_Underwater_Diving_portal.png) — Module:Portal/images/u
+- [File:Himeji-Castle-Painting-Early-Meiji-Period.png](https://commons.wikimedia.org/wiki/File:Himeji-Castle-Painting-Early-Meiji-Period.png) — Himeji Castle
+- [File:Hiroo Fukuda cropped 1 Hiroo Fukuda 201611.png](https://commons.wikimedia.org/wiki/File:Hiroo_Fukuda_cropped_1_Hiroo_Fukuda_201611.png) — Toru Funamura
+- [File:History of Korea-576.png](https://commons.wikimedia.org/wiki/File:History_of_Korea-576.png) — Susanoo-no-Mikoto
+- [File:Hoheikosho-at-Koishikawa-Arsenal-c1920.png](https://commons.wikimedia.org/wiki/File:Hoheikosho-at-Koishikawa-Arsenal-c1920.png) — Meiji Restoration
+- [File:Hokora in Mount Moriya (守屋山上の祠).png](https://commons.wikimedia.org/wiki/File:Hokora_in_Mount_Moriya_%28%E5%AE%88%E5%B1%8B%E5%B1%B1%E4%B8%8A%E3%81%AE%E7%A5%A0%29.png) — Moritaku-no-Kami
+- [File:Houtou-shitori-tottori.png](https://commons.wikimedia.org/wiki/File:Houtou-shitori-tottori.png) — Shidori Shrine (Tottori)
+- [File:Human Penis.png](https://commons.wikimedia.org/wiki/File:Human_Penis.png) — MediaWiki:Bad image list
+- [File:HumanVulva-PolishText-PhiloVivero.png](https://commons.wikimedia.org/wiki/File:HumanVulva-PolishText-PhiloVivero.png) — MediaWiki:Bad image list
+- [File:Hōkan Miroku Statue Colored.png](https://commons.wikimedia.org/wiki/File:H%C5%8Dkan_Miroku_Statue_Colored.png) — Toraijin
+- [File:IJA Paratroopers Teishin Shudan in Palembang Feb 1942.png](https://commons.wikimedia.org/wiki/File:IJA_Paratroopers_Teishin_Shudan_in_Palembang_Feb_1942.png) — Airborne Parachute Unit, Divine Soldiers of the Sky
+- [File:ImageMapEdit-en.png](https://commons.wikimedia.org/wiki/File:ImageMapEdit-en.png) — Help:Pictures
+- [File:Inarimae Kofun Group in residential area.png](https://commons.wikimedia.org/wiki/File:Inarimae_Kofun_Group_in_residential_area.png) — Inarimae Kofun Cluster
+- [File:InsertAnyChar screenshot.png](https://commons.wikimedia.org/wiki/File:InsertAnyChar_screenshot.png) — User:Nardog/InsertAnyChar
+- [File:Intergluteal cleft.png](https://commons.wikimedia.org/wiki/File:Intergluteal_cleft.png) — MediaWiki:Bad image list
+- [File:IPAInput screenshot.png](https://commons.wikimedia.org/wiki/File:IPAInput_screenshot.png) — User:Nardog/IPAInput
+- [File:Isaacnewton.png](https://commons.wikimedia.org/wiki/File:Isaacnewton.png) — Isaac Newton's occult studies
+- [File:Ise-Grand-Shrine-Emperor-Meiji-Sadahide-Utagawa-1869.png](https://commons.wikimedia.org/wiki/File:Ise-Grand-Shrine-Emperor-Meiji-Sadahide-Utagawa-1869.png) — Ise Grand Shrine
+- [File:Japan Relief Map of Land and Seabed.png](https://commons.wikimedia.org/wiki/File:Japan_Relief_Map_of_Land_and_Seabed.png) — Japanese archipelago
+- [File:Japanese Fairy Book - Ozaki - 247.png](https://commons.wikimedia.org/wiki/File:Japanese_Fairy_Book_-_Ozaki_-_247.png) — Momotarō
+- [File:Japanese Kyudoka Draws Daikyu Longbow (no caption).png](https://commons.wikimedia.org/wiki/File:Japanese_Kyudoka_Draws_Daikyu_Longbow_%28no_caption%29.png) — Kyūdō
+- [File:Japanese-Kuge-Nobleman-1873-by-Shinichi-Suzuki.png](https://commons.wikimedia.org/wiki/File:Japanese-Kuge-Nobleman-1873-by-Shinichi-Suzuki.png) — Kuge
+- [File:Jimbo medal3.png](https://commons.wikimedia.org/wiki/File:Jimbo_medal3.png) — Template:Awards, decorations, and medals of Wikipedia
+- [File:Jinja-Honcho-1966-2.png](https://commons.wikimedia.org/wiki/File:Jinja-Honcho-1966-2.png) — Shinto Association of Spiritual Leadership
+- [File:John Wesley clipped.png](https://commons.wikimedia.org/wiki/File:John_Wesley_clipped.png) — Module:Portal/images/m
+- [File:JuEnDamaByodoinWP.png](https://commons.wikimedia.org/wiki/File:JuEnDamaByodoinWP.png) — Byōdō-in
+- [File:Juzenji.png](https://commons.wikimedia.org/wiki/File:Juzenji.png) — Jūzenji
+- [File:Kabuki.png](https://commons.wikimedia.org/wiki/File:Kabuki.png) — Conservation Techniques for Cultural Properties
+- [File:Kaemon Takashima.png](https://commons.wikimedia.org/wiki/File:Kaemon_Takashima.png) — Kaemon Takashima
+- [File:Kagura-Dance-Shinto-1914.png](https://commons.wikimedia.org/wiki/File:Kagura-Dance-Shinto-1914.png) — Kagura
+- [File:Kagura-den of Rokugo-jinja.png](https://commons.wikimedia.org/wiki/File:Kagura-den_of_Rokugo-jinja.png) — Rokugō Shrine
+- [File:Kaisenhama taiko.png](https://commons.wikimedia.org/wiki/File:Kaisenhama_taiko.png) — Futon Daiko
+- [File:Kamisha-koezu (上社古絵図).png](https://commons.wikimedia.org/wiki/File:Kamisha-koezu_%28%E4%B8%8A%E7%A4%BE%E5%8F%A4%E7%B5%B5%E5%9B%B3%29.png) — Suwa-taisha
+- [File:Kanko-no-OKazaki-1.png](https://commons.wikimedia.org/wiki/File:Kanko-no-OKazaki-1.png) — Kabutoyama Kofun (Okazaki)
+- [File:Kannon by Kano Koi (Kenpukuji Ina).png](https://commons.wikimedia.org/wiki/File:Kannon_by_Kano_Koi_%28Kenpukuji_Ina%29.png) — Kenpuku-ji
+- [File:Karl Johanssvamp, Iduns kokbok.png](https://commons.wikimedia.org/wiki/File:Karl_Johanssvamp%2C_Iduns_kokbok.png) — Module:Portal/images/f
+- [File:Kimigayo-Anthem-Japan-Sheet-Music-1888.png](https://commons.wikimedia.org/wiki/File:Kimigayo-Anthem-Japan-Sheet-Music-1888.png) — Kimigayo
+- [File:King of Na gold seal face.png](https://commons.wikimedia.org/wiki/File:King_of_Na_gold_seal_face.png) — King of Na gold seal — NOT REBUILDABLE: a photograph of the seal (PD-Art); the linked SVG is the imprint, a different image.
+- [File:King of Na gold seal knob top.png](https://commons.wikimedia.org/wiki/File:King_of_Na_gold_seal_knob_top.png) — King of Na gold seal
+- [File:Kitatogawa 2daimetaikodai.png](https://commons.wikimedia.org/wiki/File:Kitatogawa_2daimetaikodai.png) — Futon Daiko
+- [File:Kosodate-jizo (Saku, Nagano).png](https://commons.wikimedia.org/wiki/File:Kosodate-jizo_%28Saku%2C_Nagano%29.png) — Kosodate Jizō
+- [File:Kyushu-Japan-ISS-Space.png](https://commons.wikimedia.org/wiki/File:Kyushu-Japan-ISS-Space.png) — Kyushu
+- [File:Kyushumap-en.png](https://commons.wikimedia.org/wiki/File:Kyushumap-en.png) — Kyushu
+- [File:Lanterns.png](https://commons.wikimedia.org/wiki/File:Lanterns.png) — Atago Shrine (Kameoka)
+- [File:Letter from Viceroy of Portuguese India Duarte de Menezes to Toyotomi Hideyoshi 1588.png](https://commons.wikimedia.org/wiki/File:Letter_from_Viceroy_of_Portuguese_India_Duarte_de_Menezes_to_Toyotomi_Hideyoshi_1588.png) — Tangible Cultural Property (Japan)
+- [File:Location map Ryukyu Islands.png](https://commons.wikimedia.org/wiki/File:Location_map_Ryukyu_Islands.png) — Talk:Gusuku Sites and Related Properties of the Kingdom of Ryukyu — NOT REBUILDABLE: raster topographic relief from maps-for-free.com; the listed SVG is a different map. Only tracing would vectorize it (ruled out). Checked: Ryukyu cultural regions.svg embeds this same relief raster (render diff 7.2), so it is not a vector source.
+- [File:Location-of-Liancourt-rocks-en.png](https://commons.wikimedia.org/wiki/File:Location-of-Liancourt-rocks-en.png) — Template:Infobox islands/doc
+- [File:Magatama.png](https://commons.wikimedia.org/wiki/File:Magatama.png) — Glossary of Shinto, Jōmon period, Magatama
+- [File:Mai-blow.png](https://commons.wikimedia.org/wiki/File:Mai-blow.png) — MediaWiki:Bad image list
+- [File:Map Asia physical (continental).png](https://commons.wikimedia.org/wiki/File:Map_Asia_physical_%28continental%29.png) — (file-title list), File:Map Asia physical (continental).png, Module:Location map/data/Continental Asia
+- [File:Map Canada political-geo.png](https://commons.wikimedia.org/wiki/File:Map_Canada_political-geo.png) — Module:Portal/images/c, Module:Portal/images/c/sandbox
+- [File:MapL.png](https://commons.wikimedia.org/wiki/File:MapL.png) — Module:Portal/images/g
+- [File:Masanao-kyoto-rat-netsuke.png](https://commons.wikimedia.org/wiki/File:Masanao-kyoto-rat-netsuke.png) — Netsuke
+- [File:Master-Swordsmith-Goro-Masamune-Ukiyo-e.png](https://commons.wikimedia.org/wiki/File:Master-Swordsmith-Goro-Masamune-Ukiyo-e.png) — Katana
+- [File:MDL1.png](https://commons.wikimedia.org/wiki/File:MDL1.png) — Template:Coat of arms
+- [File:Members of French Military Mission to Japan in 1867.png](https://commons.wikimedia.org/wiki/File:Members_of_French_Military_Mission_to_Japan_in_1867.png) — Tokugawa Yoshinobu
+- [File:Memorial tower for Lord Suwa Teruun Yorishige.png](https://commons.wikimedia.org/wiki/File:Memorial_tower_for_Lord_Suwa_Teruun_Yorishige.png) — Suwa Yorishige (Nanboku-chō period)
+- [File:Minamoto-no-Tametomo-by-Kuniyoshi-Utagawa.png](https://commons.wikimedia.org/wiki/File:Minamoto-no-Tametomo-by-Kuniyoshi-Utagawa.png) — Minamoto no Tametomo, Utagawa Kuniyoshi
+- [File:MirceaCelBatranSeal1390.png](https://commons.wikimedia.org/wiki/File:MirceaCelBatranSeal1390.png) — Template:Country data Wallachia
+- [File:Monodevelop-main-window.png](https://commons.wikimedia.org/wiki/File:Monodevelop-main-window.png) — Template:Infobox programming language/doc
+- [File:Murasaki-Shikibu-composing-Genji-Monogatari.png](https://commons.wikimedia.org/wiki/File:Murasaki-Shikibu-composing-Genji-Monogatari.png) — Minamoto clan
+- [File:Mutsuhito-Emperor-Meiji-1873.png](https://commons.wikimedia.org/wiki/File:Mutsuhito-Emperor-Meiji-1873.png) — Meiji Restoration
+- [File:Myoan-Eisai-Kennin-ji-Portrait.png](https://commons.wikimedia.org/wiki/File:Myoan-Eisai-Kennin-ji-Portrait.png) — (file-title list), File:Myoan-Eisai-Kennin-ji-Portrait.png, Kamakura Buddhism
+- [File:NarmerPalette-CloseUpOfProcession-ROM.png](https://commons.wikimedia.org/wiki/File:NarmerPalette-CloseUpOfProcession-ROM.png) — Horus Procession
+- [File:Naruko Yanagiwara.png](https://commons.wikimedia.org/wiki/File:Naruko_Yanagiwara.png) — Yanagiwara Naruko
+- [File:NCAAFootball transparent.png](https://commons.wikimedia.org/wiki/File:NCAAFootball_transparent.png) — Module:Portal/images/c, Module:Portal/images/c/sandbox
+- [File:Neuro logo.png](https://commons.wikimedia.org/wiki/File:Neuro_logo.png) — Module:Portal/images/n
+- [File:Niigata Gokoku Shrine 20070815.png](https://commons.wikimedia.org/wiki/File:Niigata_Gokoku_Shrine_20070815.png) — Niigata Gokoku Shrine
+- [File:Niiname-sai.png](https://commons.wikimedia.org/wiki/File:Niiname-sai.png) — Niiname-no-Matsuri
+- [File:Ninigi.png](https://commons.wikimedia.org/wiki/File:Ninigi.png) — Ninigi-no-Mikoto
+- [File:No. 2 - Picture of Cintamanicakra (如意輪觀音 or 如意轮观音; Ruyilun Guanyin) in a Chinese Buddhist tract on the Nilakantha Dharani, or Great Compassion Mantra (大悲咒; Dàbēi zhòu), corresponding to line 2.png](https://commons.wikimedia.org/wiki/File:No._2_-_Picture_of_Cintamanicakra_%28%E5%A6%82%E6%84%8F%E8%BC%AA%E8%A7%80%E9%9F%B3_or_%E5%A6%82%E6%84%8F%E8%BD%AE%E8%A7%82%E9%9F%B3%3B_Ruyilun_Guanyin%29_in_a_Chinese_Buddhist_tract_on_the_Nilakantha_Dharani%2C_or_Great_Compassion_Mantra_%28%E5%A4%A7%E6%82%B2%E5%92%92%3B_D%C3%A0b%C4%93i_zh%C3%B2u%29%2C_corresponding_to_line_2.png) — Cintāmaṇicakra
+- [File:Notifications-Flyout-Screenshot-Closeup-07-31-2013.png](https://commons.wikimedia.org/wiki/File:Notifications-Flyout-Screenshot-Closeup-07-31-2013.png) — Help:Notifications/FAQ
+- [File:Nuvola apps atlantik.png](https://commons.wikimedia.org/wiki/File:Nuvola_apps_atlantik.png) — Module:Portal/images/p
+- [File:Nuvola apps kbackgammon.png](https://commons.wikimedia.org/wiki/File:Nuvola_apps_kbackgammon.png) — Module:Portal/images/g
+- [File:Nuvola apps ksim.png](https://commons.wikimedia.org/wiki/File:Nuvola_apps_ksim.png) — Module:Portal/images/e, Module:Portal/images/e/sandbox
+- [File:Oda-Nobunaga-by-Utagawa-Kuniyoshi.png](https://commons.wikimedia.org/wiki/File:Oda-Nobunaga-by-Utagawa-Kuniyoshi.png) — Utagawa Kuniyoshi
+- [File:Ogasawara islands.png](https://commons.wikimedia.org/wiki/File:Ogasawara_islands.png) — Japanese archipelago
+- [File:Okumura Masanobu - Taking the Evening Cool by Ryōgoku Bridge.png](https://commons.wikimedia.org/wiki/File:Okumura_Masanobu_-_Taking_the_Evening_Cool_by_Ry%C5%8Dgoku_Bridge.png) — Ukiyo-e
+- [File:Old silver coin with family crest of Minamoto clan (Seiwa Genji), Edo period.png](https://commons.wikimedia.org/wiki/File:Old_silver_coin_with_family_crest_of_Minamoto_clan_%28Seiwa_Genji%29%2C_Edo_period.png) — Minamoto clan
+- [File:Omsk coat of arms 2014.png](https://commons.wikimedia.org/wiki/File:Omsk_coat_of_arms_2014.png) — Template:Coat of arms
+- [File:On the Lamentation of the Empress.png](https://commons.wikimedia.org/wiki/File:On_the_Lamentation_of_the_Empress.png) — Saionji Kishi
+- [File:Origin of Iwato Kagura Dance Amaterasu by Toyokuni III (Kunisada) 1856.png](https://commons.wikimedia.org/wiki/File:Origin_of_Iwato_Kagura_Dance_Amaterasu_by_Toyokuni_III_%28Kunisada%29_1856.png) — Amano-Iwato, Amaterasu, Aso Shrine, Kamigami, Kashiko-dokoro Mikagura, Takamagahara, Ukiyo-e
+- [File:Original Ribbon.png](https://commons.wikimedia.org/wiki/File:Original_Ribbon.png) — Template:Awards, decorations, and medals of Wikipedia
+- [File:Palermo-Stemma da Il blasone in Sicilia (Tav 82).png](https://commons.wikimedia.org/wiki/File:Palermo-Stemma_da_Il_blasone_in_Sicilia_%28Tav_82%29.png) — Template:Coat of arms
+- [File:PB Kraków CoA.png](https://commons.wikimedia.org/wiki/File:PB_Krak%C3%B3w_CoA.png) — Template:Coat of arms
+- [File:Photo-TokyoAirRaids-1945-3-10-Destroyed Nakamise-4.png](https://commons.wikimedia.org/wiki/File:Photo-TokyoAirRaids-1945-3-10-Destroyed_Nakamise-4.png) — Sensō-ji
+- [File:Piss drinking.png](https://commons.wikimedia.org/wiki/File:Piss_drinking.png) — MediaWiki:Bad image list
+- [File:Plasmodium falciparum 01.png](https://commons.wikimedia.org/wiki/File:Plasmodium_falciparum_01.png) — Template:Taxonbar/doc
+- [File:Pleuroceras ammonite with no background.png](https://commons.wikimedia.org/wiki/File:Pleuroceras_ammonite_with_no_background.png) — Module:Portal/images/p
+- [File:PNG transparency demonstration 1.png](https://commons.wikimedia.org/wiki/File:PNG_transparency_demonstration_1.png) — Help:Pictures, Template:Image frame/doc, Template:Multiple image/doc
+- [File:Portrait of Emperor Kanmu.png](https://commons.wikimedia.org/wiki/File:Portrait_of_Emperor_Kanmu.png) — Emperor Kanmu
+- [File:PR icon.png](https://commons.wikimedia.org/wiki/File:PR_icon.png) — Module:Portal/images/p
+- [File:Prince Morimasa.png](https://commons.wikimedia.org/wiki/File:Prince_Morimasa.png) — Daijosai
+- [File:Princess Hachikazuki and Prince Saisho pledge their love.png](https://commons.wikimedia.org/wiki/File:Princess_Hachikazuki_and_Prince_Saisho_pledge_their_love.png) — Hachikazuki
+- [File:Psychedelic dingbats.png](https://commons.wikimedia.org/wiki/File:Psychedelic_dingbats.png) — Template:Category header
+- [File:Pyramidi aavikolla.png](https://commons.wikimedia.org/wiki/File:Pyramidi_aavikolla.png) — Module:Portal/images/a
+- [File:Rainbow trout.png](https://commons.wikimedia.org/wiki/File:Rainbow_trout.png) — (file-title list), File:Rainbow trout.png, Template:Multiple image/doc
+- [File:Raphe1.png](https://commons.wikimedia.org/wiki/File:Raphe1.png) — MediaWiki:Bad image list
+- [File:Red feces.png](https://commons.wikimedia.org/wiki/File:Red_feces.png) — MediaWiki:Bad image list
+- [File:RefRenamer screenshot.png](https://commons.wikimedia.org/wiki/File:RefRenamer_screenshot.png) — User:Nardog/RefRenamer
+- [File:Relief map of California.png](https://commons.wikimedia.org/wiki/File:Relief_map_of_California.png) — (file-title list), File:Relief map of California.png, Module:Location map/data/USA California, Module:Location map/data/USA California/doc
+- [File:Relief Map of Caribbean.png](https://commons.wikimedia.org/wiki/File:Relief_Map_of_Caribbean.png) — Module:Portal/images/c, Module:Portal/images/c/sandbox
+- [File:Reply tool version 2b screenshot.png](https://commons.wikimedia.org/wiki/File:Reply_tool_version_2b_screenshot.png) — Help:Talk pages
+- [File:Ribbon numeral 2.png](https://commons.wikimedia.org/wiki/File:Ribbon_numeral_2.png) — Template:Multiple image/doc
+- [File:Ribbon numeral 3.png](https://commons.wikimedia.org/wiki/File:Ribbon_numeral_3.png) — Template:Multiple image/doc
+- [File:Ribbon numeral 4.png](https://commons.wikimedia.org/wiki/File:Ribbon_numeral_4.png) — Template:Multiple image/doc
+- [File:Rokugo-Jinja, Shaden.png](https://commons.wikimedia.org/wiki/File:Rokugo-Jinja%2C_Shaden.png) — Rokugō Shrine
+- [File:Rokugo-Jinja, Shinmon.png](https://commons.wikimedia.org/wiki/File:Rokugo-Jinja%2C_Shinmon.png) — Rokugō Shrine
+- [File:RokugoJinja Shinbashi.png](https://commons.wikimedia.org/wiki/File:RokugoJinja_Shinbashi.png) — Rokugō Shrine
+- [File:RokugoJinja,Keidaisha.png](https://commons.wikimedia.org/wiki/File:RokugoJinja%2CKeidaisha.png) — Rokugō Shrine
+- [File:Roman horse.png](https://commons.wikimedia.org/wiki/File:Roman_horse.png) — Archaeological excavation
+- [File:Romano celtic temple004.png](https://commons.wikimedia.org/wiki/File:Romano_celtic_temple004.png) — Archaeological excavation
+- [File:ROU CJ Cluj-Napoca CoA.png](https://commons.wikimedia.org/wiki/File:ROU_CJ_Cluj-Napoca_CoA.png) — Template:Coat of arms
+- [File:ROU TM Timisoara CoA1.png](https://commons.wikimedia.org/wiki/File:ROU_TM_Timisoara_CoA1.png) — Template:Coat of arms
+- [File:Ryukyu Invasion Phase1.png](https://commons.wikimedia.org/wiki/File:Ryukyu_Invasion_Phase1.png) — Invasion of Ryukyu
+- [File:Ryukyu Invasion Phase2.png](https://commons.wikimedia.org/wiki/File:Ryukyu_Invasion_Phase2.png) — Invasion of Ryukyu
+- [File:Ryukyu Invasion Phase3.png](https://commons.wikimedia.org/wiki/File:Ryukyu_Invasion_Phase3.png) — Invasion of Ryukyu
+- [File:Ryukyu Invasion Phase4.png](https://commons.wikimedia.org/wiki/File:Ryukyu_Invasion_Phase4.png) — Invasion of Ryukyu
+- [File:Saigo Takamori Portrait by Tokonami Masayoshi 1887.png](https://commons.wikimedia.org/wiki/File:Saigo_Takamori_Portrait_by_Tokonami_Masayoshi_1887.png) — Saigō Takamori
+- [File:Saigo Takamori Woodblock Print Portrait by Hasegawa Sadanobu II 1877.png](https://commons.wikimedia.org/wiki/File:Saigo_Takamori_Woodblock_Print_Portrait_by_Hasegawa_Sadanobu_II_1877.png) — Saigō Takamori
+- [File:Samurai-Edo-Customs-1798-Shiji-no-Yukikai.png](https://commons.wikimedia.org/wiki/File:Samurai-Edo-Customs-1798-Shiji-no-Yukikai.png) — Buke
+- [File:Sarutahiko Ōkami crop from Wittig collection.png](https://commons.wikimedia.org/wiki/File:Sarutahiko_%C5%8Ckami_crop_from_Wittig_collection.png) — Sarutahiko Shrine, Sarutahiko Ōkami, Template:Sarutahiko Faith
+- [File:Satellite image of Honshu in May 2003.png](https://commons.wikimedia.org/wiki/File:Satellite_image_of_Honshu_in_May_2003.png) — Honshu
+- [File:Satellite image of Shikoku in April 2018.png](https://commons.wikimedia.org/wiki/File:Satellite_image_of_Shikoku_in_April_2018.png) — Shikoku
+- [File:Screenshot delete log of enwiki on Jun 26 2019.png](https://commons.wikimedia.org/wiki/File:Screenshot_delete_log_of_enwiki_on_Jun_26_2019.png) — Help:Log
+- [File:Seal of Sikkim color.png](https://commons.wikimedia.org/wiki/File:Seal_of_Sikkim_color.png) — Module:Portal/images/s, Module:Portal/images/s/sandbox
+- [File:Semfac01.png](https://commons.wikimedia.org/wiki/File:Semfac01.png) — MediaWiki:Bad image list
+- [File:SemfacUpdate01.png](https://commons.wikimedia.org/wiki/File:SemfacUpdate01.png) — MediaWiki:Bad image list
+- [File:Set of Snookerballs.png](https://commons.wikimedia.org/wiki/File:Set_of_Snookerballs.png) — Template:Defn/doc, Template:Term/doc
+- [File:Seven Lucky Gods (Shichi fukujin) in Treasure Ship by Utagawa Toyokuni I c1806.png](https://commons.wikimedia.org/wiki/File:Seven_Lucky_Gods_%28Shichi_fukujin%29_in_Treasure_Ship_by_Utagawa_Toyokuni_I_c1806.png) — Seven Lucky Gods
+- [File:Seven-Lucky-Gods-of-Japan-Hokusai-七福神.png](https://commons.wikimedia.org/wiki/File:Seven-Lucky-Gods-of-Japan-Hokusai-%E4%B8%83%E7%A6%8F%E7%A5%9E.png) — Seven Lucky Gods
+- [File:Sexuality pearl necklace small.png](https://commons.wikimedia.org/wiki/File:Sexuality_pearl_necklace_small.png) — MediaWiki:Bad image list
+- [File:Sf-userbox.png](https://commons.wikimedia.org/wiki/File:Sf-userbox.png) — Module:Portal/images/s, Module:Portal/images/s/sandbox, Template talk:Portal
+- [File:Sherrin-transparent.png](https://commons.wikimedia.org/wiki/File:Sherrin-transparent.png) — Module:Portal/images/a
+- [File:Shidami Kofungun Map 2017.png](https://commons.wikimedia.org/wiki/File:Shidami_Kofungun_Map_2017.png) — Shidami Kofun group
+- [File:Shimane Goko-vill Takeshima.png](https://commons.wikimedia.org/wiki/File:Shimane_Goko-vill_Takeshima.png) — History of the Oki Islands
+- [File:ShinranShonin.png](https://commons.wikimedia.org/wiki/File:ShinranShonin.png) — (file-title list), File:ShinranShonin.png, Kamakura Buddhism
+- [File:Shitennō-ji main hall and pagoda.png](https://commons.wikimedia.org/wiki/File:Shitenn%C5%8D-ji_main_hall_and_pagoda.png) — Shitennō-ji
+- [File:Skibsflaget fra Mariakirken i Lübeck.png](https://commons.wikimedia.org/wiki/File:Skibsflaget_fra_Mariakirken_i_L%C3%BCbeck.png) — Template:Country data Kalmar Union
+- [File:Small snub icosicosidodecahedron.png](https://commons.wikimedia.org/wiki/File:Small_snub_icosicosidodecahedron.png) — Module:Portal/images/p
+- [File:Sokutai in Heian period.png](https://commons.wikimedia.org/wiki/File:Sokutai_in_Heian_period.png) — Sokutai
+- [File:Stanford logo.png](https://commons.wikimedia.org/wiki/File:Stanford_logo.png) — Module:Portal/images/s, Module:Portal/images/s/sandbox
+- [File:Sukunemizu-shitori-tottori.png](https://commons.wikimedia.org/wiki/File:Sukunemizu-shitori-tottori.png) — Shidori Shrine (Tottori)
+- [File:Susanoo-no-Mikoto-slays-Yamata-no-Orochi-in-Izumo-By-Tsukioka-Yoshitoshi.png](https://commons.wikimedia.org/wiki/File:Susanoo-no-Mikoto-slays-Yamata-no-Orochi-in-Izumo-By-Tsukioka-Yoshitoshi.png) — Kumano Taisha, Kushinadahime
+- [File:Suwa Kamisha Tettō.png](https://commons.wikimedia.org/wiki/File:Suwa_Kamisha_Tett%C5%8D.png) — Suwa-taisha, Takeminakata
+- [File:Tagalog in Baybayin script postkudlit.png](https://commons.wikimedia.org/wiki/File:Tagalog_in_Baybayin_script_postkudlit.png) — Help:Multilingual support
+- [File:Taira-Clan-Warriors-Ukiyoe-Utagawa-Yoshitora.png](https://commons.wikimedia.org/wiki/File:Taira-Clan-Warriors-Ukiyoe-Utagawa-Yoshitora.png) — Taira clan
+- [File:Taiwan-Grand-Shrine-Jingu-Map-1920s.png](https://commons.wikimedia.org/wiki/File:Taiwan-Grand-Shrine-Jingu-Map-1920s.png) — Taiwan Grand Shrine
+- [File:Takarabune by Hiroshige.png](https://commons.wikimedia.org/wiki/File:Takarabune_by_Hiroshige.png) — Japanese New Year, Seven Lucky Gods
+- [File:Takehara kofun.png](https://commons.wikimedia.org/wiki/File:Takehara_kofun.png) — Decorated kofun
+- [File:Takemikazuchi-pins-Namazu-with-Kaname-ishi-spirit-stone-1855.png](https://commons.wikimedia.org/wiki/File:Takemikazuchi-pins-Namazu-with-Kaname-ishi-spirit-stone-1855.png) — Namazu, Takemikazuchi
+- [File:Tanko-Armor-Kofun-Period-by-Sugiyama-Sueo.png](https://commons.wikimedia.org/wiki/File:Tanko-Armor-Kofun-Period-by-Sugiyama-Sueo.png) — Tankō
+- [File:TARDIS-trans.png](https://commons.wikimedia.org/wiki/File:TARDIS-trans.png) — Module:Portal/images/d
+- [File:Tenno Shrines in Tatebayashi at old map.png](https://commons.wikimedia.org/wiki/File:Tenno_Shrines_in_Tatebayashi_at_old_map.png) — Gozu Tennō Faith in Tatebayashi
+- [File:Terra.png](https://commons.wikimedia.org/wiki/File:Terra.png) — Module:Portal/images/g
+- [File:The Earth seen from Apollo 17 with transparent background.png](https://commons.wikimedia.org/wiki/File:The_Earth_seen_from_Apollo_17_with_transparent_background.png) — Module:Portal/images/c/sandbox, Module:Portal/images/e, Module:Portal/images/e/sandbox
+- [File:The Great Wave off Kanagawa-cutout.png](https://commons.wikimedia.org/wiki/File:The_Great_Wave_off_Kanagawa-cutout.png) — Template:Japan-art-stub
+- [File:The Matterhorn as seen from Zermatt.png](https://commons.wikimedia.org/wiki/File:The_Matterhorn_as_seen_from_Zermatt.png) — Module:Portal/images/m
+- [File:The Origin of Iwato Kagura Triptych (Amaterasu) by Utagawa Kunisada c1844.png](https://commons.wikimedia.org/wiki/File:The_Origin_of_Iwato_Kagura_Triptych_%28Amaterasu%29_by_Utagawa_Kunisada_c1844.png) — Amaterasu
+- [File:Thomas Edward Gordon Lake Victoria, Great Pamir, May 2nd, 1874.png](https://commons.wikimedia.org/wiki/File:Thomas_Edward_Gordon_Lake_Victoria%2C_Great_Pamir%2C_May_2nd%2C_1874.png) — Template:Infobox ethnic group/doc
+- [File:Tiger by Kano Koi (Kenpukuji Ina).png](https://commons.wikimedia.org/wiki/File:Tiger_by_Kano_Koi_%28Kenpukuji_Ina%29.png) — Kenpuku-ji
+- [File:Torii of Itsukushima.png](https://commons.wikimedia.org/wiki/File:Torii_of_Itsukushima.png) — Template:Shinto-stub
+- [File:Toshigami (Otoshi-no-kami).png](https://commons.wikimedia.org/wiki/File:Toshigami_%28Otoshi-no-kami%29.png) — Toshigami
+- [File:Toyama Chukyoin(1).png](https://commons.wikimedia.org/wiki/File:Toyama_Chukyoin%281%29.png) — Toyama Chukyoin
+- [File:Toyonaka stone.png](https://commons.wikimedia.org/wiki/File:Toyonaka_stone.png) — Module:Portal/images/o
+- [File:Toyotomi Hideyoshi c1598 Kodai-ji Temple.png](https://commons.wikimedia.org/wiki/File:Toyotomi_Hideyoshi_c1598_Kodai-ji_Temple.png) — Sesshō and Kampaku
+- [File:United States penny, obverse, 2002.png](https://commons.wikimedia.org/wiki/File:United_States_penny%2C_obverse%2C_2002.png) — Module:Portal/images/n
+- [File:Vampire Smiley.png](https://commons.wikimedia.org/wiki/File:Vampire_Smiley.png) — Module:Portal/images/h/sandbox, Module:Portal/images/s, Module:Portal/images/s/sandbox
+- [File:View History - marked screenshot - February 2025.png](https://commons.wikimedia.org/wiki/File:View_History_-_marked_screenshot_-_February_2025.png) — Help:Page history
+- [File:Vincent Van Gogh - The Potato Eaters.png](https://commons.wikimedia.org/wiki/File:Vincent_Van_Gogh_-_The_Potato_Eaters.png) — Template:Infobox artwork/doc
+- [File:VisualEditor - Media editing 2.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Media_editing_2.png) — Help:VisualEditor
+- [File:Vulva and penis.png](https://commons.wikimedia.org/wiki/File:Vulva_and_penis.png) — MediaWiki:Bad image list
+- [File:Walden Pond, Massachusetts on June 27, 2012.png](https://commons.wikimedia.org/wiki/File:Walden_Pond%2C_Massachusetts_on_June_27%2C_2012.png) — Module:Portal/images/l
 - [File:Wiki-analsex.png](https://commons.wikimedia.org/wiki/File:Wiki-analsex.png) — MediaWiki:Bad image list
 - [File:Wiki-bukkake-2.png](https://commons.wikimedia.org/wiki/File:Wiki-bukkake-2.png) — MediaWiki:Bad image list
 - [File:Wiki-doublepen.png](https://commons.wikimedia.org/wiki/File:Wiki-doublepen.png) — MediaWiki:Bad image list
@@ -778,7 +835,6 @@ is done (record it in devlog.md). Prefer rebuilding from a vector source over tr
 - [File:Wiki-fr0t2.png](https://commons.wikimedia.org/wiki/File:Wiki-fr0t2.png) — MediaWiki:Bad image list
 - [File:Wiki-frot1.png](https://commons.wikimedia.org/wiki/File:Wiki-frot1.png) — MediaWiki:Bad image list
 - [File:Wiki-gokkun.png](https://commons.wikimedia.org/wiki/File:Wiki-gokkun.png) — MediaWiki:Bad image list
-- [File:Wiki-mam-intcs-simple.png](https://commons.wikimedia.org/wiki/File:Wiki-mam-intcs-simple.png) — MediaWiki:Bad image list
 - [File:Wiki-mam-intcs.png](https://commons.wikimedia.org/wiki/File:Wiki-mam-intcs.png) — MediaWiki:Bad image list
 - [File:Wiki-oral-scrotum.png](https://commons.wikimedia.org/wiki/File:Wiki-oral-scrotum.png) — MediaWiki:Bad image list
 - [File:Wiki-pegging.png](https://commons.wikimedia.org/wiki/File:Wiki-pegging.png) — MediaWiki:Bad image list
@@ -786,34 +842,17 @@ is done (record it in devlog.md). Prefer rebuilding from a vector source over tr
 - [File:Wiki-sball.png](https://commons.wikimedia.org/wiki/File:Wiki-sball.png) — MediaWiki:Bad image list
 - [File:Wikibukkake new.png](https://commons.wikimedia.org/wiki/File:Wikibukkake_new.png) — MediaWiki:Bad image list
 - [File:Wikibukkake.png](https://commons.wikimedia.org/wiki/File:Wikibukkake.png) — MediaWiki:Bad image list
-- [File:Wikidata article on English Wikipedia as of Nov 3 2023 Below.png](https://commons.wikimedia.org/wiki/File:Wikidata_article_on_English_Wikipedia_as_of_Nov_3_2023_Below.png) — Talk:Wikidata
-- [File:Wikidata article on English Wikipedia as of Nov 3 2023 Header.png](https://commons.wikimedia.org/wiki/File:Wikidata_article_on_English_Wikipedia_as_of_Nov_3_2023_Header.png) — Talk:Wikidata
-- [File:WikiEditor-advanced menu-en.png](https://commons.wikimedia.org/wiki/File:WikiEditor-advanced_menu-en.png) — Help:Edit toolbar, Help:Editing
-- [File:WikiEditor-heading menu-en.png](https://commons.wikimedia.org/wiki/File:WikiEditor-heading_menu-en.png) — Help:Edit toolbar
-- [File:WikiEditor-reference toolbar menu-en.png](https://commons.wikimedia.org/wiki/File:WikiEditor-reference_toolbar_menu-en.png) — Help:Introduction to referencing with Wiki Markup/3
-- [File:WikiEditor-toolbar-en.png](https://commons.wikimedia.org/wiki/File:WikiEditor-toolbar-en.png) — Help:Edit toolbar
 - [File:Wikilove2.png](https://commons.wikimedia.org/wiki/File:Wikilove2.png) — Template:Awards, decorations, and medals of Wikipedia
 - [File:Wikipedesketch.png](https://commons.wikimedia.org/wiki/File:Wikipedesketch.png) — (file-title list), File:Wikipedesketch.png, Help:Files, Help:Pictures
-- [File:Wikipedia article in VisualEditor 2018-02-12.png](https://commons.wikimedia.org/wiki/File:Wikipedia_article_in_VisualEditor_2018-02-12.png) — Help:Editing
-- [File:Wikipedia Main Page.png](https://commons.wikimedia.org/wiki/File:Wikipedia_Main_Page.png) — Template:Infobox website/doc
-- [File:Wikipedia VisualEditor Table Properties.png](https://commons.wikimedia.org/wiki/File:Wikipedia_VisualEditor_Table_Properties.png) — Help:Sortable tables
-- [File:Wikipedia watchlist.png](https://commons.wikimedia.org/wiki/File:Wikipedia_watchlist.png) — Help:Watchlist
-- [File:Wikipedia-The Missing Manual I replacement2.png](https://commons.wikimedia.org/wiki/File:Wikipedia-The_Missing_Manual_I_replacement2.png) — Help:Talk pages
 - [File:Wikipetan-manga.png](https://commons.wikimedia.org/wiki/File:Wikipetan-manga.png) — Module:Portal/images/c, Module:Portal/images/c/sandbox
 - [File:WikiThanks.png](https://commons.wikimedia.org/wiki/File:WikiThanks.png) — Talk:Igenoyama Kofun
 - [File:Wind God and Thunder God Screens by Tawaraya Sotatsu hi-res.png](https://commons.wikimedia.org/wiki/File:Wind_God_and_Thunder_God_Screens_by_Tawaraya_Sotatsu_hi-res.png) — Conservation Techniques for Cultural Properties, Kennin-ji, Raijin
 - [File:WMAP 2012.png](https://commons.wikimedia.org/wiki/File:WMAP_2012.png) — Module:Portal/images/c, Module:Portal/images/c/sandbox
 - [File:Womens-soccer-icon.png](https://commons.wikimedia.org/wiki/File:Womens-soccer-icon.png) — Module:Portal/images/w
-- [File:World map green.png](https://commons.wikimedia.org/wiki/File:World_map_green.png) — Module:Portal/images/a
-- [File:WP alert new messages.png](https://commons.wikimedia.org/wiki/File:WP_alert_new_messages.png) — Help:Notifications/FAQ
-- [File:XinXiu.png](https://commons.wikimedia.org/wiki/File:XinXiu.png) — Heart (Chinese constellation)
 - [File:Xuastvanift SI D1 (SI 3159).png](https://commons.wikimedia.org/wiki/File:Xuastvanift_SI_D1_%28SI_3159%29.png) — Xuastvanift
 - [File:Xyz.png](https://commons.wikimedia.org/wiki/File:Xyz.png) — Template:Infobox writer/doc
 - [File:Yachikubo Kofun, 3D-P.png](https://commons.wikimedia.org/wiki/File:Yachikubo_Kofun%2C_3D-P.png) — Kofun interior gallery
-- [File:Yamanashi Koma-gun.png](https://commons.wikimedia.org/wiki/File:Yamanashi_Koma-gun.png) — Koma District
-- [File:Yamanashi Yamanashi-gun.png](https://commons.wikimedia.org/wiki/File:Yamanashi_Yamanashi-gun.png) — Yamanashi District
 - [File:Yamato-Takeru-with-Sword-Kusanagi-no-Tsurugi-by-Ogata-Gekko.png](https://commons.wikimedia.org/wiki/File:Yamato-Takeru-with-Sword-Kusanagi-no-Tsurugi-by-Ogata-Gekko.png) — Kusanagi no Tsurugi
-- [File:Yasaka Shrine Kyoto.png](https://commons.wikimedia.org/wiki/File:Yasaka_Shrine_Kyoto.png) — Yasaka Shrine
 - [File:Yasaka Shrine on old map at Ashikaga-cho, Tatebayashi.png](https://commons.wikimedia.org/wiki/File:Yasaka_Shrine_on_old_map_at_Ashikaga-cho%2C_Tatebayashi.png) — Gozu Tennō Faith in Tatebayashi
 - [File:Yasaka Shrine on old map at SotoBangi, Tatebayashi.png](https://commons.wikimedia.org/wiki/File:Yasaka_Shrine_on_old_map_at_SotoBangi%2C_Tatebayashi.png) — Gozu Tennō Faith in Tatebayashi
 - [File:Yasaka Shrine on old map at SotoKahoshi, Tatebayashi.png](https://commons.wikimedia.org/wiki/File:Yasaka_Shrine_on_old_map_at_SotoKahoshi%2C_Tatebayashi.png) — Gozu Tennō Faith in Tatebayashi
@@ -822,53 +861,22 @@ is done (record it in devlog.md). Prefer rebuilding from a vector source over tr
 - [File:Yata no Kagami, artist impression.png](https://commons.wikimedia.org/wiki/File:Yata_no_Kagami%2C_artist_impression.png) — Large flower mirror, Three Palace Sanctuaries, Yata no Kagami
 - [File:Yokohama-Sumo-Wrestler-Defeating-a-Foreigner-1861-Ipposai-Yoshifuji.png](https://commons.wikimedia.org/wiki/File:Yokohama-Sumo-Wrestler-Defeating-a-Foreigner-1861-Ipposai-Yoshifuji.png) — Sonnō jōi
 - [File:Yumi-Hajime-Kyudo-by-Torii-Kiyonaga-1787.png](https://commons.wikimedia.org/wiki/File:Yumi-Hajime-Kyudo-by-Torii-Kiyonaga-1787.png) — Kyūdō
-- [File:ZhoushiTaijitu.png](https://commons.wikimedia.org/wiki/File:ZhoushiTaijitu.png) — Taoism
 - [File:Крихітний.png](https://commons.wikimedia.org/wiki/File:%D0%9A%D1%80%D0%B8%D1%85%D1%96%D1%82%D0%BD%D0%B8%D0%B9.png) — MediaWiki:Bad image list
-- [File:Кха чампа.png](https://commons.wikimedia.org/wiki/File:%D0%9A%D1%85%D0%B0_%D1%87%D0%B0%D0%BC%D0%BF%D0%B0.png) — Help:Multilingual support
 - [File:コンドーム装着手順.png](https://commons.wikimedia.org/wiki/File:%E3%82%B3%E3%83%B3%E3%83%89%E3%83%BC%E3%83%A0%E8%A3%85%E7%9D%80%E6%89%8B%E9%A0%86.png) — MediaWiki:Bad image list
-- [File:ミシャグジの分布.png](https://commons.wikimedia.org/wiki/File:%E3%83%9F%E3%82%B7%E3%83%A3%E3%82%B0%E3%82%B8%E3%81%AE%E5%88%86%E5%B8%83.png) — Mishaguji
-- [File:一文字（丸に一文字）紋.png](https://commons.wikimedia.org/wiki/File:%E4%B8%80%E6%96%87%E5%AD%97%EF%BC%88%E4%B8%B8%E3%81%AB%E4%B8%80%E6%96%87%E5%AD%97%EF%BC%89%E7%B4%8B.png) — Nasu clan
-- [File:三本杉（さんぼんすぎ）.png](https://commons.wikimedia.org/wiki/File:%E4%B8%89%E6%9C%AC%E6%9D%89%EF%BC%88%E3%81%95%E3%82%93%E3%81%BC%E3%82%93%E3%81%99%E3%81%8E%EF%BC%89.png) — Miwa clan
 - [File:三種の神器 1200x1200.png](https://commons.wikimedia.org/wiki/File:%E4%B8%89%E7%A8%AE%E3%81%AE%E7%A5%9E%E5%99%A8_1200x1200.png) — Amaterasu, Kusanagi no Tsurugi
-- [File:三角縁神獣鏡の部分名称.png](https://commons.wikimedia.org/wiki/File:%E4%B8%89%E8%A7%92%E7%B8%81%E7%A5%9E%E7%8D%A3%E9%8F%A1%E3%81%AE%E9%83%A8%E5%88%86%E5%90%8D%E7%A7%B0.png) — Triangular-Rimmed Divine Beast Mirror
-- [File:二本松孝蔵.png](https://commons.wikimedia.org/wiki/File:%E4%BA%8C%E6%9C%AC%E6%9D%BE%E5%AD%9D%E8%94%B5.png) — Kōzō Nihonmatsu
-- [File:井桁に唐花菱.png](https://commons.wikimedia.org/wiki/File:%E4%BA%95%E6%A1%81%E3%81%AB%E5%94%90%E8%8A%B1%E8%8F%B1.png) — Imai Clan (Suwa)
-- [File:仙佛奇蹤 卷七 竺道生.png](https://commons.wikimedia.org/wiki/File:%E4%BB%99%E4%BD%9B%E5%A5%87%E8%B9%A4_%E5%8D%B7%E4%B8%83_%E7%AB%BA%E9%81%93%E7%94%9F.png) — Mahāyāna Mahāparinirvāṇa Sūtra
-- [File:伊丹郷町の範囲.png](https://commons.wikimedia.org/wiki/File:%E4%BC%8A%E4%B8%B9%E9%83%B7%E7%94%BA%E3%81%AE%E7%AF%84%E5%9B%B2.png) — Sōgamae
 - [File:修繕工場西面外観.png](https://commons.wikimedia.org/wiki/File:%E4%BF%AE%E7%B9%95%E5%B7%A5%E5%A0%B4%E8%A5%BF%E9%9D%A2%E5%A4%96%E8%A6%B3.png) — Sites of Japan's Meiji Industrial Revolution: Iron and Steel, Shipbuilding and Coal Mining
 - [File:八幡山古墳1948.png](https://commons.wikimedia.org/wiki/File:%E5%85%AB%E5%B9%A1%E5%B1%B1%E5%8F%A4%E5%A2%B31948.png) — Hachimanyama Kofun (Gyoda)
-- [File:吉田神社境内図.png](https://commons.wikimedia.org/wiki/File:%E5%90%89%E7%94%B0%E7%A5%9E%E7%A4%BE%E5%A2%83%E5%86%85%E5%9B%B3.png) — Traffic Shrine
-- [File:地下式横穴墓の模式図.png](https://commons.wikimedia.org/wiki/File:%E5%9C%B0%E4%B8%8B%E5%BC%8F%E6%A8%AA%E7%A9%B4%E5%A2%93%E3%81%AE%E6%A8%A1%E5%BC%8F%E5%9B%B3.png) — Ikime Kofun Cluster, Underground Horizontal Yokoanabo
-- [File:大山道.png](https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E5%B1%B1%E9%81%93.png) — Ōyama Afuri Shrine
-- [File:大洋.png](https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E6%B4%8B.png) — Module:Portal/images/o — NEEDS-INVESTIGATION: says "a variation of World Map Blank.svg", but both revisions of that file are Robinson and do not match (the PNG has no Robinson edge; Fiji sits inside the frame). Find the 2008 base (possibly another file at the time).
-- [File:太田天神山古墳 概略図.png](https://commons.wikimedia.org/wiki/File:%E5%A4%AA%E7%94%B0%E5%A4%A9%E7%A5%9E%E5%B1%B1%E5%8F%A4%E5%A2%B3_%E6%A6%82%E7%95%A5%E5%9B%B3.png) — Ōta Tenjinyama Kofun
 - [File:威儀の者(Military officer).png](https://commons.wikimedia.org/wiki/File:%E5%A8%81%E5%84%80%E3%81%AE%E8%80%85%28Military_officer%29.png) — Enthronement of the Japanese emperor
-- [File:官幣中社諏訪上社 - Kanpei Chūsha Suwa Kamisha.png](https://commons.wikimedia.org/wiki/File:%E5%AE%98%E5%B9%A3%E4%B8%AD%E7%A4%BE%E8%AB%8F%E8%A8%AA%E4%B8%8A%E7%A4%BE_-_Kanpei_Ch%C5%ABsha_Suwa_Kamisha.png) — Suwa-taisha
-- [File:室宮山古墳 復原図.png](https://commons.wikimedia.org/wiki/File:%E5%AE%A4%E5%AE%AE%E5%B1%B1%E5%8F%A4%E5%A2%B3_%E5%BE%A9%E5%8E%9F%E5%9B%B3.png) — Muro Miyayama Kofun
 - [File:山那神社のケヤキ.png](https://commons.wikimedia.org/wiki/File:%E5%B1%B1%E9%82%A3%E7%A5%9E%E7%A4%BE%E3%81%AE%E3%82%B1%E3%83%A4%E3%82%AD.png) — Yana Shrine (Q11471014)
-- [File:平安宮 中和院位置.png](https://commons.wikimedia.org/wiki/File:%E5%B9%B3%E5%AE%89%E5%AE%AE_%E4%B8%AD%E5%92%8C%E9%99%A2%E4%BD%8D%E7%BD%AE.png) — Chukain Temple
 - [File:御城御庭絵図.png](https://commons.wikimedia.org/wiki/File:%E5%BE%A1%E5%9F%8E%E5%BE%A1%E5%BA%AD%E7%B5%B5%E5%9B%B3.png) — Nagoya Castle
 - [File:御椅子.png](https://commons.wikimedia.org/wiki/File:%E5%BE%A1%E6%A4%85%E5%AD%90.png) — Daijosai
-- [File:性命圭旨 觀音密呪圖.png](https://commons.wikimedia.org/wiki/File:%E6%80%A7%E5%91%BD%E5%9C%AD%E6%97%A8_%E8%A7%80%E9%9F%B3%E5%AF%86%E5%91%AA%E5%9C%96.png) — Kannon
-- [File:断夫山古墳 周濠復原図.png](https://commons.wikimedia.org/wiki/File:%E6%96%AD%E5%A4%AB%E5%B1%B1%E5%8F%A4%E5%A2%B3_%E5%91%A8%E6%BF%A0%E5%BE%A9%E5%8E%9F%E5%9B%B3.png) — Danpusan Kofun
 - [File:旧鍛冶工場東面外観.png](https://commons.wikimedia.org/wiki/File:%E6%97%A7%E9%8D%9B%E5%86%B6%E5%B7%A5%E5%A0%B4%E6%9D%B1%E9%9D%A2%E5%A4%96%E8%A6%B3.png) — Sites of Japan's Meiji Industrial Revolution: Iron and Steel, Shipbuilding and Coal Mining
 - [File:普天満宮 (1970年の空中写真).png](https://commons.wikimedia.org/wiki/File:%E6%99%AE%E5%A4%A9%E6%BA%80%E5%AE%AE_%281970%E5%B9%B4%E3%81%AE%E7%A9%BA%E4%B8%AD%E5%86%99%E7%9C%9F%29.png) — Futemma-gū
-- [File:月形杏葉（つきがた ぎょうよう）.png](https://commons.wikimedia.org/wiki/File:%E6%9C%88%E5%BD%A2%E6%9D%8F%E8%91%89%EF%BC%88%E3%81%A4%E3%81%8D%E3%81%8C%E3%81%9F_%E3%81%8E%E3%82%87%E3%81%86%E3%82%88%E3%81%86%EF%BC%89.png) — Jōdo-shū
 - [File:朱塗剣璽案.png](https://commons.wikimedia.org/wiki/File:%E6%9C%B1%E5%A1%97%E5%89%A3%E7%92%BD%E6%A1%88.png) — Daijosai
-- [File:板石積石棺墓（地下式板石積石室墓）.png](https://commons.wikimedia.org/wiki/File:%E6%9D%BF%E7%9F%B3%E7%A9%8D%E7%9F%B3%E6%A3%BA%E5%A2%93%EF%BC%88%E5%9C%B0%E4%B8%8B%E5%BC%8F%E6%9D%BF%E7%9F%B3%E7%A9%8D%E7%9F%B3%E5%AE%A4%E5%A2%93%EF%BC%89.png) — Stone slab tomb
-- [File:河内名所図会 交野神社.png](https://commons.wikimedia.org/wiki/File:%E6%B2%B3%E5%86%85%E5%90%8D%E6%89%80%E5%9B%B3%E4%BC%9A_%E4%BA%A4%E9%87%8E%E7%A5%9E%E7%A4%BE.png) — Katano Shrine
-- [File:河内名所図会 枚方萬年寺.png](https://commons.wikimedia.org/wiki/File:%E6%B2%B3%E5%86%85%E5%90%8D%E6%89%80%E5%9B%B3%E4%BC%9A_%E6%9E%9A%E6%96%B9%E8%90%AC%E5%B9%B4%E5%AF%BA.png) — Okami Shrine (Hirakata)
-- [File:海柘榴市の所在地.png](https://commons.wikimedia.org/wiki/File:%E6%B5%B7%E6%9F%98%E6%A6%B4%E5%B8%82%E3%81%AE%E6%89%80%E5%9C%A8%E5%9C%B0.png) — Tsubaki Market
-- [File:異形鉄器.png](https://commons.wikimedia.org/wiki/File:%E7%95%B0%E5%BD%A2%E9%89%84%E5%99%A8.png) — Irregular ironware
-- [File:福岡城曲輪分界図.png](https://commons.wikimedia.org/wiki/File:%E7%A6%8F%E5%B2%A1%E5%9F%8E%E6%9B%B2%E8%BC%AA%E5%88%86%E7%95%8C%E5%9B%B3.png) — Sōgamae
-- [File:立石土壙墓.png](https://commons.wikimedia.org/wiki/File:%E7%AB%8B%E7%9F%B3%E5%9C%9F%E5%A3%99%E5%A2%93.png) — Standing Pit Tomb
 - [File:經文緯武 (1858) 東方日報.png](https://commons.wikimedia.org/wiki/File:%E7%B6%93%E6%96%87%E7%B7%AF%E6%AD%A6_%281858%29_%E6%9D%B1%E6%96%B9%E6%97%A5%E5%A0%B1.png) — Talk:Tokugawa shogunate, Tokugawa shogunate
-- [File:荼枳尼（大悲胎藏大曼荼羅 仁和寺版） - Dakinis (Ninna-ji Taizō Mandala).png](https://commons.wikimedia.org/wiki/File:%E8%8D%BC%E6%9E%B3%E5%B0%BC%EF%BC%88%E5%A4%A7%E6%82%B2%E8%83%8E%E8%97%8F%E5%A4%A7%E6%9B%BC%E8%8D%BC%E7%BE%85_%E4%BB%81%E5%92%8C%E5%AF%BA%E7%89%88%EF%BC%89_-_Dakinis_%28Ninna-ji_Taiz%C5%8D_Mandala%29.png) — Dakini
 - [File:衛門(gatekeeper).png](https://commons.wikimedia.org/wiki/File:%E8%A1%9B%E9%96%80%28gatekeeper%29.png) — Enthronement of the Japanese emperor
 - [File:諏方社事 - Suwa-sha no Koto.png](https://commons.wikimedia.org/wiki/File:%E8%AB%8F%E6%96%B9%E7%A4%BE%E4%BA%8B_-_Suwa-sha_no_Koto.png) — Takeminakata
-- [File:賢所乗御車図面.png](https://commons.wikimedia.org/wiki/File:%E8%B3%A2%E6%89%80%E4%B9%97%E5%BE%A1%E8%BB%8A%E5%9B%B3%E9%9D%A2.png) — Kashiko-dokoro Riding Car
 - [File:錦軟障（にしきのぜじよう）.png](https://commons.wikimedia.org/wiki/File:%E9%8C%A6%E8%BB%9F%E9%9A%9C%EF%BC%88%E3%81%AB%E3%81%97%E3%81%8D%E3%81%AE%E3%81%9C%E3%81%98%E3%82%88%E3%81%86%EF%BC%89.png) — Daijosai
-- [File:평양신사배치도.png](https://commons.wikimedia.org/wiki/File:%ED%8F%89%EC%96%91%EC%8B%A0%EC%82%AC%EB%B0%B0%EC%B9%98%EB%8F%84.png) — Heijō Shrine
 - [File:평양신사측면전경.png](https://commons.wikimedia.org/wiki/File:%ED%8F%89%EC%96%91%EC%8B%A0%EC%82%AC%EC%B8%A1%EB%A9%B4%EC%A0%84%EA%B2%BD.png) — Heijō Shrine
 
 ## Already vectorized on Commons (255)

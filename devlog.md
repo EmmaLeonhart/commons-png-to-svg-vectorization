@@ -93,3 +93,6 @@
 - **File:Moriya Family Tree (English).png → SVG** (`files/moriya-family-tree-english/`): 19 exact 5 px
   lines and 28 `<text>` lines fitted to the PNG's ink boxes (new `scratch/fit_text_lines.py`).
   Staged in upload/.
+- `tools/visual_triage.py`: colour-complexity check of every remaining file's thumbnail. queue.md now
+  lists flat graphics first, then mixed images; photo-like images and screenshots moved to a
+  "Likely raster originals" section for review (not traced, not deleted).
