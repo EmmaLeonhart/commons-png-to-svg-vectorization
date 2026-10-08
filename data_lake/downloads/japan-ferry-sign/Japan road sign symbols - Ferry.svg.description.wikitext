@@ -1,0 +1,19 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Japanese Road Sign Pictogram - Ferry}}
+{{ja|1=日本の道路標識ピクトグラム-フェリー}}
+|date=2021-10-13
+|source={{Derived from|File:Japan ferry sign.png|display=50}}
+|author=[[User:SilverJapan2006|SilverJapan2006]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+
+{{PD-Japan-exempt|type=road signs}}
+
+[[Category:Symbols of road signs of Japan]]
+[[Category:SVG pictograms]]
+[[Category:SVG ferry icons]]
+[[Category:Plain black SVG watercraft icons]]

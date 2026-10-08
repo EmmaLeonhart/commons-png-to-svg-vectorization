@@ -1,0 +1,17 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Japanese road sign "Ferry"}}
+{{ja|1=日本の道路標識。渡し船}}
+|date=2021-10-13
+|source=[[:File:Japan_ferry_sign.png]]
+|author=SVG version by [[User:SilverJapan2006|SilverJapan2006]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-Japan-exempt|type=road signs}}
+
+[[Category:SVG road signs in Japan]]
+[[Category:Blue and white road signs in Japan]]
+[[Category:Ferry road signs]]

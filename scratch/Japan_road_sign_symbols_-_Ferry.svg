@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="449.76379"
+   height="278.56253"
+   viewBox="0 0 119 73.703003"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="Japan road sign symbols - Ferry.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="213.5"
+     inkscape:cy="197.5"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     units="px" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect858"
+       style="fill:#000000;fill-opacity:1;stroke-width:0.690068;stroke-linecap:square"
+       d="m 1,38.94827 h 116.71125 c -0.11034,21.91622 -10.92292,33.8546 -10.92292,33.8546 H 19.404954 Z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="rect845"
+       style="fill:none;stroke:#000000;stroke-width:3.17939;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 28.475,25.182099 h 8.626 l 5.341,-10.066587 23.634,4.18e-4 14.743,10.066 15.862,1.69e-4 11.04,18.157831 -90.223,4.9e-4 z"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       id="rect3339"
+       style="fill:#000000;fill-opacity:1;stroke-width:3.11471;stroke-linecap:square"
+       d="M 66.79525,1.1 H 80.99988 V 26.771283 H 57.695 Z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="rect3681"
+       style="fill:#000000;fill-opacity:1;stroke-width:2.99951;stroke-linecap:square"
+       d="M 49.254132,2.62793 V 13.725614 H 45.499 Z"
+       sodipodi:nodetypes="cccc" />
+  </g>
+</svg>

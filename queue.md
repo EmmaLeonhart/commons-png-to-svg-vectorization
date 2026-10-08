@@ -4,7 +4,7 @@ PNG files from `data_lake/wikipedia-png-search-results.txt`, resolved against
 Commons by `tools/build_queue.py`. One line per file; delete a line when the file
 is done (record it in devlog.md). Prefer rebuilding from a vector source over tracing.
 
-## To vectorize (550)
+## To vectorize (549)
 
 Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed images (174).
 
@@ -102,7 +102,6 @@ Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed image
 - [File:Itsukushima-island.png](https://commons.wikimedia.org/wiki/File:Itsukushima-island.png) — Talk:Itsukushima
 - [File:Izuna Gongen.png](https://commons.wikimedia.org/wiki/File:Izuna_Gongen.png) — Izuna Gongen — NOT REBUILDABLE without tracing: woodblock / line-art figure drawing (flat colours, but freeform art).
 - [File:Japan Chubu Region large.png](https://commons.wikimedia.org/wiki/File:Japan_Chubu_Region_large.png) — Eastern Japan
-- [File:Japan ferry sign.png](https://commons.wikimedia.org/wiki/File:Japan_ferry_sign.png) — Module:Road data/extra
 - [File:Japan large.png](https://commons.wikimedia.org/wiki/File:Japan_large.png) — Category:Regions of Japan by Prefecture
 - [File:Japanese flag during the Kenmu Restoration.png](https://commons.wikimedia.org/wiki/File:Japanese_flag_during_the_Kenmu_Restoration.png) — Kenmu Restoration
 - [File:Kagoshima-geo-stub.png](https://commons.wikimedia.org/wiki/File:Kagoshima-geo-stub.png) — Template:Kagoshima — already has a vector version: File:Flag map of Kagoshima Prefecture.svg (tag the PNG {{Vector version available}}).
@@ -864,11 +863,12 @@ named as screenshots. Not traced. Review: a few exceptions (e.g. text-only place
 - [File:錦軟障（にしきのぜじよう）.png](https://commons.wikimedia.org/wiki/File:%E9%8C%A6%E8%BB%9F%E9%9A%9C%EF%BC%88%E3%81%AB%E3%81%97%E3%81%8D%E3%81%AE%E3%81%9C%E3%81%98%E3%82%88%E3%81%86%EF%BC%89.png) — Daijosai
 - [File:평양신사측면전경.png](https://commons.wikimedia.org/wiki/File:%ED%8F%89%EC%96%91%EC%8B%A0%EC%82%AC%EC%B8%A1%EB%A9%B4%EC%A0%84%EA%B2%BD.png) — Heijō Shrine
 
-## Already vectorized on Commons (255)
+## Already vectorized on Commons (256)
 
 No rebuild needed; at most the PNG needs `{{Vector version available|...}}`. Built from
 `tools/same_name_svg.json` and `tools/triage.json`.
 
+- [File:Japan ferry sign.png](https://commons.wikimedia.org/wiki/File:Japan_ferry_sign.png) — Module:Road data/extra — vector exists: File:Japanese road sign (Ferry).svg (the same official sign, PD-Japan-exempt; drawn in 2021, after this PNG)
 - [File:Flag of the United States (23px).png](https://commons.wikimedia.org/wiki/File:Flag_of_the_United_States_%2823px%29.png) — Template:Country data United States — vector exists: File:Flag of the United States.svg. This PNG is a deliberately pixel-hinted 23 px icon derived from it; vectorizing it would undo its purpose.
 - [File:MTLogo2.png](https://commons.wikimedia.org/wiki/File:MTLogo2.png) — Module:Portal/images/m — vector exists: File:MTLogo1.svg (same artwork; mean diff 2.6 after a 1.5 px offset)
 - [File:Tamil distribution.png](https://commons.wikimedia.org/wiki/File:Tamil_distribution.png) — Module:Portal/images/t — vector exists: File:Tamil speakers map.svg (the PNG matches its render, mean diff 4.3)
