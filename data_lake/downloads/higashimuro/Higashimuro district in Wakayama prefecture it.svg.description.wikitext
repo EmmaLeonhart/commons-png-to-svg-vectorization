@@ -1,0 +1,16 @@
+== {{int:filedesc}} ==
+== Details ==
+{{Information
+|Description= Higashimuro district in Wakayama prefecture with rōmaji text. In italian.
+|Source=Modified image :[[w:ja:画像:包括自治体区画図|30000.svg 画像:包括自治体区画図 30000.svg on ja.wiki]],   author : [[w:ja:利用者:Lincun|Lincun]]
+|Date= 2007-11-28
+|Author= [[User:DanGarb|DanGarb]]
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{Self|GFDL|migration=relicense}}
+
+[[Category:Maps of districts in Wakayama prefecture]]
+[[Category:SVG administrative maps of Japan in Italian]]

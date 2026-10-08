@@ -93,7 +93,7 @@ Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed image
 - [File:Hakusan Myori Daigongen.png](https://commons.wikimedia.org/wiki/File:Hakusan_Myori_Daigongen.png) — Hakusan Gongen — NOT REBUILDABLE without tracing: woodblock / line-art figure drawing (flat colours, but freeform art).
 - [File:Harisainyo.png](https://commons.wikimedia.org/wiki/File:Harisainyo.png) — Gozu Tennō, Harisai-sho, Kushinadahime — NOT REBUILDABLE without tracing: woodblock / line-art figure drawing (flat colours, but freeform art).
 - [File:Harushima Iki.png](https://commons.wikimedia.org/wiki/File:Harushima_Iki.png) — Iki Island
-- [File:Higashimuro District Map.png](https://commons.wikimedia.org/wiki/File:Higashimuro_District_Map.png) — Higashimuro District, Wakayama
+- [File:Higashimuro District Map.png](https://commons.wikimedia.org/wiki/File:Higashimuro_District_Map.png) — Higashimuro District, Wakayama — NEEDS-INVESTIGATION: own 2006 drawing of the pre-merger municipalities; File:Higashimuro district in Wakayama prefecture it.svg is a different, post-merger map. Next: try MLIT N03 boundaries for 2006 (pre-merger) fitted with rebuild_flagmap, plus the four labels as text.
 - [File:Historical expanse of Ainu.png](https://commons.wikimedia.org/wiki/File:Historical_expanse_of_Ainu.png) — Talk:Jōmon period
 - [File:Icona catastrofi.png](https://commons.wikimedia.org/wiki/File:Icona_catastrofi.png) — Module:Portal/images/t — NOT REBUILDABLE without tracing: woodblock / line-art figure drawing (flat colours, but freeform art).
 - [File:Idioma osetio.png](https://commons.wikimedia.org/wiki/File:Idioma_osetio.png) — Module:Portal/images/o
