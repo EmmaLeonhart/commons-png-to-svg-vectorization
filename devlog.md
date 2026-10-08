@@ -122,3 +122,5 @@
 - **File:Indonesian Road Sign d9a.png → SVG** with the new `tools/fit_polygons.py` (corner-fitting for straight-edged
   pictograms): 0.92% of pixels differ, 1.4 KB. INTENT records the assumption. Staged in upload/.
 - Japan ferry sign.png: File:Japanese road sign (Ferry).svg is the same official sign; moved to "Already vectorized".
+- **File:Japanese flag during the Kenmu Restoration.png → SVG**: Imperial Seal chrysanthemum (recoloured) on a measured
+  nobori banner; 0.9% of pixels differ. Staged in upload/.

@@ -1,0 +1,42 @@
+=={{int:filedesc}}==
+{{Information
+|description=
+{{ar|ختم إمبراطور اليابان.}}
+{{ja|{{W|菊花紋章||ja}}}}
+{{de|{{W|Nationales und Kaiserliches Siegel Japans||de}}}}
+{{et|{{W|Jaapani vapp||et}}}}
+{{en|{{W|Imperial Seal of Japan}}}}
+{{es|[[:es:Emblema de la flor de crisantemo|Sello imperial de Japón]]}}
+{{fr|{{W|Sceau impérial du Japon||fr}}}}
+{{hu|{{W|Japán címere||hu}}}}
+{{id|{{W|Lambang Negara dan Kekaisaran Jepang||id}}}}
+{{it|[[:it:Stemma del Giappone|Stemma imperiale del Giappone]]}}
+{{mn|{{W|Япон||mn}} эзэн хааны сүлд}}
+{{pt|{{W|Selo Imperial do Japão||pt}}}}
+{{ru|{{W|Императорская печать Японии||ru}}}}
+{{sl|Državni grb [[:sl:Japonska|Japonske]]}}
+{{uk|{{W|Емблема Імператора Японії||uk}}}}
+{{vi|國徽[[:vi:Nhật Bản|日本]] / Quốc huy [[:vi:Hoàng gia huy Nhật Bản|Nhật Bản]]}}
+|source=Inspired by [[:File:Japan coa kiku.png]]
+|date=2006-01-07
+|author={{U|Philip Nilsson}}
+|other versions=
+<gallery showfilename>
+ Imperial seal of Japan.png
+ Japanese Imperial Seal.svg
+ Japan coa kiku.png
+</gallery>
+|other fields={{Igen|T|+|s=s}}
+}}
+
+=={{int:license-header}}==
+{{PD-Japan-exempt|type=logos and emblems}}
+{{PD-EdictGov}}
+{{PDreview|1={{U|Jappalang}}|2=2011-01-17|3=}}
+{{Insignia}}
+
+
+[[Category:Circled mon]]
+[[Category:Emperor Kōmei]]
+[[Category:Imperial crest of Japan; 16-fold Chrysanthemum]]
+[[Category:SVG imperial crest of Japan| ]]

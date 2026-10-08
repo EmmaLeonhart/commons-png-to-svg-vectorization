@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="607" height="1052" viewBox="0 0 607 1052">
+  <title>Japanese flag during the Kenmu Restoration</title>
+  <rect id="pole" x="67.5" y="0" width="18.5" height="1042" fill="#421f09"/>
+  <rect id="bar" x="67" y="2" width="539" height="18" fill="#421f09"/>
+  <rect id="banner" x="97" y="31" width="440" height="852" fill="#ffffff"/>
+  <g id="loops" style="fill:#ffffff;stroke:#ada097;stroke-width:1.5;stroke-dasharray:3,2">
+    <rect x="67" y="30" width="45" height="15"/>
+    <rect x="67" y="100" width="45" height="15"/>
+    <rect x="67" y="170" width="45" height="15"/>
+    <rect x="67" y="240" width="45" height="15"/>
+    <rect x="67" y="309" width="45" height="15"/>
+    <rect x="67" y="379" width="45" height="15"/>
+    <rect x="67" y="449" width="45" height="15"/>
+    <rect x="67" y="519" width="45" height="15"/>
+    <rect x="67" y="589" width="45" height="15"/>
+    <rect x="67" y="658" width="45" height="15"/>
+    <rect x="67" y="728" width="45" height="15"/>
+    <rect x="67" y="798" width="45" height="15"/>
+    <rect x="67" y="868" width="45" height="15"/>
+    <rect x="96" y="1" width="16" height="44"/>
+    <rect x="167" y="1" width="16" height="44"/>
+    <rect x="238" y="1" width="16" height="44"/>
+    <rect x="309" y="1" width="16" height="44"/>
+    <rect x="380" y="1" width="16" height="44"/>
+    <rect x="451" y="1" width="16" height="44"/>
+    <rect x="522" y="1" width="16" height="44"/>
+  </g>
+  <g id="chrysanthemum" transform="translate(317,310) scale(1.4845)">
+    <use xlink:href="#o" transform="rotate(11.25)"/>
+    <g id="o" stroke="#ffd700" stroke-width="0.9" fill="#c6ac01"><g id="q"><g id="s"><g id="r">
+      <path id="p" d="m0 0 81-16c22 0 22 32 0 32z"/>
+      <use xlink:href="#p" transform="rotate(22.5)"/>
+    </g><use xlink:href="#r" transform="rotate(45)"/>
+    </g><use xlink:href="#s" transform="rotate(90)"/>
+    </g><use xlink:href="#q" transform="rotate(180)"/>
+    <circle r="13"/>
+    </g>
+  </g>
+</svg>
