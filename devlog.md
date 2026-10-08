@@ -126,3 +126,5 @@
   nobori banner; 0.9% of pixels differ. Staged in upload/.
 - **File:Kitakatsuragi District in Nara prefecture Ja.png → SVG**: the 2008 revision of Map of Nara Prefecture Ja.svg with
   the district's four municipal paths recoloured; 1.8% of pixels differ. Staged in upload/.
+- **File:Gongen Zukuri.png → SVG**: axis rectangles, merged exact line segments, 66 pillar circles; 0.39% of pixels differ.
+  Staged in upload/.

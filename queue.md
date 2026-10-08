@@ -4,7 +4,7 @@ PNG files from `data_lake/wikipedia-png-search-results.txt`, resolved against
 Commons by `tools/build_queue.py`. One line per file; delete a line when the file
 is done (record it in devlog.md). Prefer rebuilding from a vector source over tracing.
 
-## To vectorize (547)
+## To vectorize (546)
 
 Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed images (174).
 
@@ -88,7 +88,6 @@ Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed image
 - [File:God of Taion.png](https://commons.wikimedia.org/wiki/File:God_of_Taion.png) — Eight Directional Deities, Taionjin — NOT REBUILDABLE without tracing: woodblock / line-art figure drawing (flat colours, but freeform art).
 - [File:God of Taisai.png](https://commons.wikimedia.org/wiki/File:God_of_Taisai.png) — Eight Directional Deities, Taisaijin — NOT REBUILDABLE without tracing: woodblock / line-art figure drawing (flat colours, but freeform art).
 - [File:God of Toshitoku.png](https://commons.wikimedia.org/wiki/File:God_of_Toshitoku.png) — Directional deity, Toshitoku-shin — NOT REBUILDABLE without tracing: woodblock / line-art figure drawing (flat colours, but freeform art).
-- [File:Gongen Zukuri.png](https://commons.wikimedia.org/wiki/File:Gongen_Zukuri.png) — Gongen, Ishi-no-ma-zukuri
 - [File:Greater Macedonia.png](https://commons.wikimedia.org/wiki/File:Greater_Macedonia.png) — Module:Portal/images/m
 - [File:Hakusan Myori Daigongen.png](https://commons.wikimedia.org/wiki/File:Hakusan_Myori_Daigongen.png) — Hakusan Gongen — NOT REBUILDABLE without tracing: woodblock / line-art figure drawing (flat colours, but freeform art).
 - [File:Harisainyo.png](https://commons.wikimedia.org/wiki/File:Harisainyo.png) — Gozu Tennō, Harisai-sho, Kushinadahime — NOT REBUILDABLE without tracing: woodblock / line-art figure drawing (flat colours, but freeform art).
