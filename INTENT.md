@@ -35,6 +35,10 @@ time, producing SVG replacements suitable for upload.
 
 - Upload: does the user upload the SVGs to Commons, or should that be prepared
   (description pages, `{{Vector version available}}`)? NEEDS-DECISION (user).
+- Licence of rebuilt flag maps: the best vector outlines (Flappiefh's géolocalisation maps)
+  are CC BY-SA 4.0, so SVGs built on them can't stay PD like the PNGs. Use them anyway,
+  or look for PD outlines first? NEEDS-DECISION (user). Assumption until then: use them
+  and record the licence in each notes.md.
 - Which wiki the search list was run on: its article titles are on neither en.wikipedia
   nor Commons. Filenames are resolved against Commons instead.
 

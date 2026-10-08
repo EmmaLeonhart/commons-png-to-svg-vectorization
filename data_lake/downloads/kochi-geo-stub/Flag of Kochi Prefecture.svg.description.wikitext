@@ -1,0 +1,21 @@
+== {{int:filedesc}} ==
+{{Information
+|other versions={{DerivativeVersions|Emblem of Kochi Prefecture.svg}}
+|description={{en|Flag of [[Kochi prefecture]], [[Japan]]}}
+|date=2021-11-05
+|source={{Own}} ({{original text|1=Own work. The logo was announced on [http://www.pref.kochi.jp/~kouhou/kids/ April 15, 1953]|nobold=1}})
+|Source={{using}}[https://www.pref.kochi.lg.jp/soshiki/110301/h21-kennsyou.html] Specifications given by the Kochi Prefecture General Affairs Department Administrative Management Division
+|Date=2021-11-05
+|Author= * Kochi prefecture administration
+*Vectorized by {{ut|Mike Rohsopht}}
+|Permission={{Insignia}}
+{{PD-textlogo}}
+|other_versions=
+|other fields={{Igen|T|+|s=em}}
+}}
+
+[[Category:Kochi Prefectural Government]]
+[[Category:Culture of Kochi prefecture| symbol flag]]
+[[Category:Maroon and white flags of Japan|Kochi]]
+[[Category:SVG flags of prefectures of Japan|Kochi]]
+[[Category:White on flags with red fields]]

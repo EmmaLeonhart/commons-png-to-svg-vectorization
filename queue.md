@@ -4,7 +4,7 @@ PNG files from `data_lake/wikipedia-png-search-results.txt`, resolved against
 Commons by `tools/build_queue.py`. One line per file; delete a line when the file
 is done (record it in devlog.md). Prefer rebuilding from a vector source over tracing.
 
-## To vectorize (1138)
+## To vectorize (1137)
 
 - [File:1873 Seikanron Debate Saigo Takamori Ukiyo-e by Suzuki Toshimoto.png](https://commons.wikimedia.org/wiki/File:1873_Seikanron_Debate_Saigo_Takamori_Ukiyo-e_by_Suzuki_Toshimoto.png) — Saigō Takamori
 - [File:1bc1a.png](https://commons.wikimedia.org/wiki/File:1bc1a.png) — Help:Multilingual support
@@ -436,7 +436,6 @@ is done (record it in devlog.md). Prefer rebuilding from a vector source over tr
 - [File:King of Na gold seal knob top.png](https://commons.wikimedia.org/wiki/File:King_of_Na_gold_seal_knob_top.png) — King of Na gold seal
 - [File:Kitakatsuragi District in Nara prefecture Ja.png](https://commons.wikimedia.org/wiki/File:Kitakatsuragi_District_in_Nara_prefecture_Ja.png) — Kitakatsuragi District, Nara
 - [File:Kitatogawa 2daimetaikodai.png](https://commons.wikimedia.org/wiki/File:Kitatogawa_2daimetaikodai.png) — Futon Daiko
-- [File:Kochi-geo-stub.png](https://commons.wikimedia.org/wiki/File:Kochi-geo-stub.png) — Template:Kōchi Prefecture
 - [File:Kolkata bus.png](https://commons.wikimedia.org/wiki/File:Kolkata_bus.png) — Template:Rail-interchange
 - [File:Kon.png](https://commons.wikimedia.org/wiki/File:Kon.png) — Na Jia
 - [File:Kongo Cosmogram - blank.png](https://commons.wikimedia.org/wiki/File:Kongo_Cosmogram_-_blank.png) — Template:Kongo religion sidebar

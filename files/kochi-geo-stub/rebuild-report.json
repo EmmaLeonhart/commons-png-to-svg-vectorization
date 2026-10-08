@@ -1,0 +1,9 @@
+{
+ "silhouette_iou": 0.9091,
+ "flag_agreement": 0.9991,
+ "outline": null,
+ "flag_colours": [
+  "#7b171c",
+  "#ffffff"
+ ]
+}

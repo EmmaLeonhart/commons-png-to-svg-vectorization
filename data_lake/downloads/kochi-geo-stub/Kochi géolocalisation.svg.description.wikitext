@@ -1,0 +1,21 @@
+== {{int:filedesc}} ==
+{{Information
+|Description=
+{{fr|1=Carte administrative vierge de la [[w:fr:préfecture de Kōchi|préfecture de Kōchi]].}}
+{{en|1=Blank administrative map of the  [[w:Kōchi prefecture|Kōchi prefecture]].}}<br/>
+|Source={{own}}
+Sources of data :
+*[http://OpenStreetMap.org OpenStreetMap.org] ;
+*[http://www.gsi.go.jp/ENGLISH/ Japan GSI].
+|Date=2016-10-26
+|Author=[[User:Flappiefh|Flappiefh]]
+|Permission=
+|other_versions=
+<gallery>
+File:Kochi géolocalisation relief.svg | Blank physical map
+</gallery>
+}}
+{{Atelier graphique carte}}
+== {{int:license-header}} ==
+{{self|cc-by-sa-4.0}}
+[[Category:Location maps of Kochi prefecture]]

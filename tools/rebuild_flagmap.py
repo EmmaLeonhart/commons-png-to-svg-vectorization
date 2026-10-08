@@ -213,16 +213,21 @@ def main():
     target_p, outline, gid, flag, out = sys.argv[1:6]
     WORK.mkdir(parents=True, exist_ok=True)
     img = Image.open(target_p).convert('RGBA')
+    W, H = img.size
+    f = min(1.0, 500 / max(W, H))  # fit on a copy at most 500 px across
+    if f < 1:
+        img = img.resize((round(W * f), round(H * f)), Image.LANCZOS)
     target = np.array(img)
-    H, W = target.shape[:2]
     alpha = target[..., 3] > 128
     vb, ds = region_paths(Path(outline), gid)
     iou, a, bx, by = fit_silhouette(alpha, vb, ds)
+    a, bx, by = a / f, bx / f, by / f
 
     from scipy import ndimage as nd
     inside = nd.binary_erosion(alpha, iterations=3)
     fvb, finner = flag_info(Path(flag))
     agree, fa, fx, fy, fcols = fit_flag(target, inside, fvb, finner)
+    fa, fx, fy = fa / f, fx / f, fy / f
 
     ring = alpha & ~nd.binary_erosion(alpha, iterations=2)
     rc = target[ring][:, :3].astype(int)

@@ -20,3 +20,6 @@
   Silhouette IoU 0.946. Licence question recorded (outline source is CC BY-SA 4.0).
 - `tools/render_svg.py` now sizes SVGs with mm/cm dimensions by their viewBox.
 - Kagoshima-geo-stub.png: an SVG flag map already exists; noted in queue.md.
+- **File:Kochi-geo-stub.png → SVG** (`files/kochi-geo-stub/`) with `tools/rebuild_flagmap.py`
+  (Kochi géolocalisation.svg land minus neighbours, Flag of Kochi Prefecture.svg). IoU 0.909,
+  flag agreement 99.9%. The tool now fits on a ≤500 px copy for large PNGs.
