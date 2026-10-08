@@ -73,7 +73,9 @@ inscription, geometric diagrams, family trees) are drawn directly from measured 
 straight runs from aliased line art, equal-angle sectors, text set in a matching font. That is
 construction, not tracing.
 Raster-based PNGs (photos, artworks, terrain relief) are marked not rebuildable rather than
-traced. Tools must stay memory-bounded: two jobs were stopped by the harness for low memory
+traced. Assumption: freeform drawings (woodblock prints, line-art figures, brush calligraphy,
+organic crests) also count as tracing-only, even when flat-coloured, so they are marked, not
+vectorized. Correct this if line art should be traced after all. Tools must stay memory-bounded: two jobs were stopped by the harness for low memory
 caused by unbounded steps (since fixed).
 
 ## Log
