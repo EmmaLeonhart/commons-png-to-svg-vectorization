@@ -84,57 +84,73 @@ def id_render(base, land_fill, scale, work):
     return idx, units
 
 
-def register(target, idx, scale):
+def register(target, idx, scale, min_frac=0.08):
+    """Find (agreement, s, ox, oy): PNG pixel (u, v) -> base units (ox + s*u, oy + s*v)."""
+    import itertools
     T = target.astype(int)
-    common = Counter(map(tuple, T[::3, ::3].reshape(-1, 3).tolist())).most_common(2)
-    land_px = idx > 0
-    # the two commonest colours are taken to be land and sea (which is which is tried both
-    # ways); everything else (highlights, lines, text) is ignored when matching
-    c1, c2 = (np.abs(T - np.array(c[0])).sum(2) < 20 for c in common)
-    near_top = c1
-    best = None
     H, W = T.shape[:2]
+    common = Counter(map(tuple, T[::3, ::3].reshape(-1, 3).tolist())).most_common(2)
+    c1, c2 = (np.abs(T - np.array(c[0])).sum(2) < 20 for c in common)
+    notdark = T.sum(2) > 250
+    # candidate land(+1)/sea(-1) labellings of the PNG; 0 = ignore
+    labellings = [
+        np.where(c2, 1, 0) - np.where(c1, 1, 0),             # commonest = sea, 2nd = land
+        np.where(c1, 1, 0) - np.where(c2, 1, 0),             # commonest = land, 2nd = sea
+        np.where(~c1 & notdark, 1, 0) - np.where(c1, 1, 0),  # commonest = sea, rest = land
+    ]
+    land_px = idx > 0
     src_lo = np.array(Image.fromarray(land_px.astype(np.uint8) * 255).resize(
         (land_px.shape[1] // scale, land_px.shape[0] // scale), Image.BILINEAR)).astype(float) / 127.5 - 1
-    for polarity in (1, -1):
-        tgt = (np.where(c1, -1.0, 0.0) + np.where(c2, 1.0, 0.0)) * polarity
-        lo, hi = 0.02, max(src_lo.shape) / max(H, W) * 1.05
-        for s in np.geomspace(lo, hi, 120):
+    Sh, Sw = src_lo.shape
+    lo = min_frac * Sw / W
+    hi = min(Sw / W, Sh / H)
+    cands = []
+    for li, tgt in enumerate(labellings):
+        n_land, n_sea = (tgt > 0).sum(), (tgt < 0).sum()
+        if n_land < 0.02 * H * W or n_sea < 0.02 * H * W:
+            continue
+        # balance the two classes so neither can win alone
+        bal = np.where(tgt > 0, 0.5 / n_land, 0) + np.where(tgt < 0, -0.5 / n_sea, 0)
+        per = []
+        for s in np.geomspace(lo, hi, 90):
             n_w, n_h = max(4, round(W * s)), max(4, round(H * s))
-            if n_w > src_lo.shape[1] or n_h > src_lo.shape[0]:
+            if n_w > Sw or n_h > Sh:
                 continue
-            t = np.array(Image.fromarray((tgt + 1).astype(np.float32)).resize((n_w, n_h), Image.BILINEAR)) - 1
-            P = (src_lo.shape[0] + n_h, src_lo.shape[1] + n_w)
-            F = irfft2(rfft2(src_lo, P) * np.conj(rfft2(t, P)), P)
-            F = F[:src_lo.shape[0] - n_h + 1, :src_lo.shape[1] - n_w + 1]
+            t = np.array(Image.fromarray(bal.astype(np.float32)).resize((n_w, n_h), Image.BILINEAR))
+            P = (Sh + n_h, Sw + n_w)
+            F = irfft2(rfft2(src_lo, P) * np.conj(rfft2(t, P)), P)[:Sh - n_h + 1, :Sw - n_w + 1]
             i = np.unravel_index(np.argmax(F), F.shape)
-            sc = F[i] / (n_w * n_h)
-            if best is None or sc > best[0]:
-                best = (sc, s, i[1], i[0], polarity)
-    _, s, ox, oy, polarity = best
-    tgt = (np.where(c1, -1, 0) + np.where(c2, 1, 0)) * polarity
-    vv, uu = np.mgrid[0:H:max(1, H // 400), 0:W:max(1, W // 400)]
-    t = tgt[vv, uu]
-    keep = t != 0
-    vv, uu, t = vv[keep], uu[keep], t[keep]
+            per.append((F[i] * (W * H) / (n_w * n_h), s, i[1], i[0], li))
+        cands += sorted(per, reverse=True)[:3]
 
-    def score(s, ox, oy):
-        x = ((ox + s * uu) * scale).astype(int)
-        y = ((oy + s * vv) * scale).astype(int)
-        ok = (x >= 0) & (y >= 0) & (x < land_px.shape[1]) & (y < land_px.shape[0])
-        v = np.where(land_px[y.clip(0, land_px.shape[0] - 1), x.clip(0, land_px.shape[1] - 1)] & ok, 1, -1)
-        return (v == t).mean()
+    def scorer(tgt):
+        vv, uu = np.mgrid[0:H:max(1, H // 400), 0:W:max(1, W // 400)]
+        t = tgt[vv, uu]
+        keep = t != 0
+        vv, uu, t = vv[keep], uu[keep], t[keep]
 
-    import itertools
-    cur = (score(s, ox, oy), s, ox, oy)
-    for it in range(4):
-        f = 3 ** it
-        for ds, dx, dy in itertools.product(np.linspace(-0.04, 0.04, 9) * s / f, np.linspace(-2, 2, 9) / f, np.linspace(-2, 2, 9) / f):
-            sc = score(cur[1] + ds, cur[2] + dx, cur[3] + dy)
-            if sc > cur[0]:
-                best_local = (sc, cur[1] + ds, cur[2] + dx, cur[3] + dy)
-                cur = best_local
-    return cur, polarity
+        def score(s, ox, oy):
+            x = ((ox + s * uu) * scale).astype(int)
+            y = ((oy + s * vv) * scale).astype(int)
+            ok = (x >= 0) & (y >= 0) & (x < land_px.shape[1]) & (y < land_px.shape[0])
+            v = np.where(land_px[y.clip(0, land_px.shape[0] - 1), x.clip(0, land_px.shape[1] - 1)] & ok, 1, -1)
+            return 0.5 * ((v[t > 0] == 1).mean() + (v[t < 0] == -1).mean())
+        return score
+
+    best = None
+    for _, s, ox, oy, li in cands:
+        score = scorer(labellings[li])
+        cur = (score(s, ox, oy), s, ox, oy)
+        for it in range(4):
+            f = 3 ** it
+            for ds, dx, dy in itertools.product(np.linspace(-0.04, 0.04, 9) * s / f,
+                                                np.linspace(-2, 2, 9) / f, np.linspace(-2, 2, 9) / f):
+                sc = score(cur[1] + ds, cur[2] + dx, cur[3] + dy)
+                if sc > cur[0]:
+                    cur = (sc, cur[1] + ds, cur[2] + dx, cur[3] + dy)
+        if best is None or cur[0] > best[0]:
+            best = cur
+    return best
 
 
 def dist(a, b):
@@ -205,7 +221,7 @@ def main():
     work = Path(a.work); work.mkdir(parents=True, exist_ok=True)
     target = np.array(Image.open(a.target).convert('RGB'))
     idx, units = id_render(Path(a.base), a.land_fill, a.scale, work)
-    xf, _ = register(target, idx, a.scale)
+    xf = register(target, idx, a.scale)
     fills, outlines, sea, land, coast, border = sample_colours(target, idx, xf, a.scale)
 
     # antialiasing shifts thin-line colours; keep the base map's own colour when close

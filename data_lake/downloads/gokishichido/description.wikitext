@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Map of the Gokishichidō (五畿七道, "five provinces and seven circuits"). It was the name for ancient administrative units organized in Japan during the Asuka period (AD 538–710). These units did not survive as administrative structures beyond the Muromachi period (1336–1573), but they did remain important geographical entities until the 19th century. Kinai (畿内, capital region) is a name for the five ancient provinces around the capital Nara and Heian-kyō.}}
+{{ja|1=五畿七道の地図と畿内。}}
+|date=2022-07-03
+|source={{own}}
+|author=[[User:Artanisen|Artanisen]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Maps of the provinces of Japan]]
+[[Category:Maps of Kansai region]]

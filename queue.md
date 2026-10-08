@@ -321,7 +321,7 @@ is done (record it in devlog.md). Prefer rebuilding from a vector source over tr
 - [File:God of Taion.png](https://commons.wikimedia.org/wiki/File:God_of_Taion.png) — Eight Directional Deities, Taionjin
 - [File:God of Taisai.png](https://commons.wikimedia.org/wiki/File:God_of_Taisai.png) — Eight Directional Deities, Taisaijin
 - [File:God of Toshitoku.png](https://commons.wikimedia.org/wiki/File:God_of_Toshitoku.png) — Directional deity, Toshitoku-shin
-- [File:Gokishichido Seven Circuits Japan Map.png](https://commons.wikimedia.org/wiki/File:Gokishichido_Seven_Circuits_Japan_Map.png) — Template:Sōja shrines
+- [File:Gokishichido Seven Circuits Japan Map.png](https://commons.wikimedia.org/wiki/File:Gokishichido_Seven_Circuits_Japan_Map.png) — Template:Sōja shrines — NEEDS-INVESTIGATION: drawn on a variant of Provinces of Japan.svg; a uniform-scale fit leaves Kyushu and Tōhoku offset in opposite directions (scratch/locator/goki/). Next: find the author\'s base SVG or fit an affine transform.
 - [File:Gold temple icon.png](https://commons.wikimedia.org/wiki/File:Gold_temple_icon.png) — Template:Infobox religious building
 - [File:Golden W Award2.png](https://commons.wikimedia.org/wiki/File:Golden_W_Award2.png) — Template:Awards, decorations, and medals of Wikipedia
 - [File:Gon.png](https://commons.wikimedia.org/wiki/File:Gon.png) — Na Jia
