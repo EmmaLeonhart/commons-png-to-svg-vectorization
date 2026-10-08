@@ -42,3 +42,5 @@
   Aichi, Aomori, Chiba, Fukuoka, Fukushima, Gifu (IoU 0.945–0.981), staged in upload/.
   The batch was stopped by Claude Code after 10 of 41 because the machine ran low on memory;
   the other 31 are still queued. Ehime, Fukui, Gunma, Hiroshima fell below 0.93.
+- **File:Oki islands in Shimane prefecture.png → SVG** (`files/oki-islands/`): source relief SVG
+  plus three `<text>` labels, each within 1 px of the original. Staged in upload/.

@@ -1,0 +1,18 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ja|1=島根県における隠岐諸島の位置。}}
+|date=2018
+|source=[[:File:Shimane géolocalisation relief.svg]]
+|author=Flappiefh
+Sources of data :
+*NASA Shuttle Radar Topography Mission (SRTM3 v.2) (public domain) ;<br/>
+*[http://OpenStreetMap.org OpenStreetMap.org] ;
+*[http://www.gsi.go.jp/ENGLISH/ Japan GSI].
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{cc-by-sa-4.0}}
+
+[[Category:Maps of the Oki Islands]]

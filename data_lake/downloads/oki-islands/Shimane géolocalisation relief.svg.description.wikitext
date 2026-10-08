@@ -1,0 +1,25 @@
+== {{int:filedesc}} ==
+{{Information
+|Description=
+{{fr|1=Carte physique vierge de la [[w:fr:préfecture de Shimane|préfecture de Shimane]].}}
+{{en|1=Blank physical map of the  [[w:Shimane prefecture|Shimane prefecture]].}}<br/>
+|Source={{own}}
+Sources of data :
+*NASA Shuttle Radar Topography Mission (SRTM3 v.2) (public domain) ;<br/>
+*[http://OpenStreetMap.org OpenStreetMap.org] ;
+*[http://www.gsi.go.jp/ENGLISH/ Japan GSI].
+|Date=2016-10-29
+|Author=[[User:Flappiefh|Flappiefh]]
+|Permission=
+|other_versions=
+<gallery>
+File:Shimane géolocalisation.svg | Blank administrative map
+</gallery>
+}}
+{{Atelier graphique carte}}
+== {{int:license-header}} ==
+{{self|cc-by-sa-4.0}}
+[[Category:Location maps of Shimane prefecture]]
+[[Category:Topographic maps of Shimane prefecture]]
+[[Category:Relief location maps of Japan]]
+[[Category:Topographic maps of Japan by series (Relief map A)]]

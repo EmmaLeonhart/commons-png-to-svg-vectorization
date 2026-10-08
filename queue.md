@@ -4,7 +4,7 @@ PNG files from `data_lake/wikipedia-png-search-results.txt`, resolved against
 Commons by `tools/build_queue.py`. One line per file; delete a line when the file
 is done (record it in devlog.md). Prefer rebuilding from a vector source over tracing.
 
-## To vectorize (880)
+## To vectorize (879)
 
 - [File:1873 Seikanron Debate Saigo Takamori Ukiyo-e by Suzuki Toshimoto.png](https://commons.wikimedia.org/wiki/File:1873_Seikanron_Debate_Saigo_Takamori_Ukiyo-e_by_Suzuki_Toshimoto.png) — Saigō Takamori
 - [File:1bc1a.png](https://commons.wikimedia.org/wiki/File:1bc1a.png) — Help:Multilingual support
@@ -424,7 +424,6 @@ is done (record it in devlog.md). Prefer rebuilding from a vector source over tr
 - [File:Ogasawara islands.png](https://commons.wikimedia.org/wiki/File:Ogasawara_islands.png) — Japanese archipelago
 - [File:Ogham Sample.png](https://commons.wikimedia.org/wiki/File:Ogham_Sample.png) — Help:Multilingual support
 - [File:Ohokuninushi family tree.png](https://commons.wikimedia.org/wiki/File:Ohokuninushi_family_tree.png) — Ame-no-Hibaraooshinadomi-no-Kami, Ashinataka-no-Kami, Hinateri-Nukada-Bichio-Ikochini-no-Kami, Kimata-no-Kami, Kuninotoshimi-no-Kami, Shitateruhime, Tahiriki-Shimarumi-no-Kami, Torinarumi-no-Kami, Totsuyami-Sakitara-no-Kami, Yagami-hime, Yashimamuji
-- [File:Oki islands in Shimane prefecture.png](https://commons.wikimedia.org/wiki/File:Oki_islands_in_Shimane_prefecture.png) — History of the Oki Islands
 - [File:Okumura Masanobu - Taking the Evening Cool by Ryōgoku Bridge.png](https://commons.wikimedia.org/wiki/File:Okumura_Masanobu_-_Taking_the_Evening_Cool_by_Ry%C5%8Dgoku_Bridge.png) — Ukiyo-e
 - [File:Old Persian mi.png](https://commons.wikimedia.org/wiki/File:Old_Persian_mi.png) — Template:Contains special characters
 - [File:Old silver coin with family crest of Minamoto clan (Seiwa Genji), Edo period.png](https://commons.wikimedia.org/wiki/File:Old_silver_coin_with_family_crest_of_Minamoto_clan_%28Seiwa_Genji%29%2C_Edo_period.png) — Minamoto clan
