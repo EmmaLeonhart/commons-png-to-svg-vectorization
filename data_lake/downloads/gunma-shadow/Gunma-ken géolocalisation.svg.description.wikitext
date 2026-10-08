@@ -1,0 +1,51 @@
+== {{int:filedesc}} ==
+{{Location|36|30|00|N|139|00|00|E|scale:10000}}
+{{Information
+|Description=
+{{fr|Carte vierge de la [[:fr:Préfecture de Gunma|Préfecture de Gunma]], au [[:fr:Japon|Japon]], destinée à la géolocalisation.}}
+
+{{de|Karte der [[:de:Präfektur Gunma|Präfektur Gunma]].}}
+
+{{en|Blank map of the [[:en:Gunma Prefecture|Gunma Prefecture]], for geolocalisation purpose.}}
+
+{{es|Mapa de la [[:es:Prefectura de Gunma|Prefectura de Gunma]].}}
+
+{{it|Mappa della [[:it:Prefettura di Gunma|Prefettura di Gunma]].}}
+
+{{ja|[[:ja:群馬県|群馬県]]の地図.}}
+
+{{pt|Carta de la província de [[:pt:Gunma|:]].}}
+
+*<small>'''Approximate geographic limits''' of the map :<br/>* N : 37.08 <br/>* S : 35.96<br/>* E : 139.68 <br/>* O : 138.38 </small>
+
+*<small>'''Projection''' : équirectangulaire + vertical stretching +40% ; système géodésique WGS84 </small>
+
+|Source= Création personnelle ;
+
+* '''Coast, lakes, river, boundaries / Côtes, lacs, cours d'eau, frontières''' : données de la carte © les contributeurs d'OpenStreetMap, CC-BY-SA [http://www.openstreetmap.fr/ Openstreetmap] via [http://thinkgeo.com/map-data/openstreetmap-data/ thinkgeo.com] ;
+
+* '''Other symbols / autres symboles''' provenant de [[:File:Maps template-fr.svg]]
+
+*<small>'''Software / logiciels utilisés''' (méthode décrite [[:fr:Wikipédia:Atelier graphique/Didacticiels cartographiques/Didacticiel de création de carte avec QGIS|dans ce didacticiel]]) :
+**[http://www.qgis.org/ Quantum GIS] ;
+**[http://inkscape.org/ Inkscape] ;
+</small>
+
+|Date=2013-07-3 18:49 (UTC)
+
+|Author= © [[User:Bourrichon|Bourrichon]] ([[User talk:Bourrichon|<span class="signature-talk">talk</span>]]) - [[:fr:Utilisateur:Bourrichon|fr:Bourrichon]]
+
+|Permission={{User:Bourrichon/Credits}}
+
+|other_versions=[[:File:Gunma-ken géolocalisation relief.svg]]
+}}
+
+{{Graphic Lab|fr|map}}
+
+<div style="text-align: center;">{{Inkscape}}</div>
+
+== {{int:license-header}} ==
+{{self2|Cc-by-sa-2.0-fr|attribution=[[w:fr:Discussion_utilisateur:Bourrichon|Bourrichon]] ([[:fr:Wikipédia:Atelier_graphique/Cartes|atelier graphique]])}}
+
+[[Category:Location maps of Gunma prefecture]]
+[[Category:Maps of Japan based on OpenStreetMap]]

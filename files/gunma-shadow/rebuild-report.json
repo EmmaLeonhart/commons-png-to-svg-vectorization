@@ -1,0 +1,9 @@
+{
+ "silhouette_iou": 0.7382,
+ "y_over_x_scale": 0.6333,
+ "flag_agreement": 1.0,
+ "outline": "#202020",
+ "flag_colours": [
+  "#000000"
+ ]
+}

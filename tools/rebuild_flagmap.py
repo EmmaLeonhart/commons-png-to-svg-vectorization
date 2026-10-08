@@ -77,10 +77,21 @@ def region_geometry(outline, spec):
     if minus:
         region = region.difference(unary_union([element_geometry(svg, e) for e in minus]).buffer(0.05))
     region = region.buffer(0)
+    if minus:
+        # drop debris: slivers along neighbour borders (opening) and pieces touching the frame
+        fx0, fy0, fx1, fy1 = unary_union([element_geometry(svg, e) for e in plus]).bounds
+        e = max(fx1 - fx0, fy1 - fy0) / 800
+        region = region.buffer(-e).buffer(e)
+        from shapely.geometry import box
+        inner = box(fx0, fy0, fx1, fy1).buffer(-2 * e)
+        parts = list(region.geoms) if hasattr(region, 'geoms') else [region]
+        region = unary_union([p for p in parts if inner.contains(p)])
     x0, y0, x1, y1 = region.bounds
     region = region.simplify(max(x1 - x0, y1 - y0) / 3000, preserve_topology=True)
     polys = list(region.geoms) if hasattr(region, 'geoms') else [region]
-    polys = [p for p in polys if p.area > 1e-3 * region.area or p.area > 4]
+    big = max(p.area for p in polys)
+    polys = [p for p in polys if p.area > 2e-3 * big]  # drop specks (they also spoil the bbox fit)
+    region = unary_union(polys)
     d = []
     for p in polys:
         for ring in [p.exterior, *p.interiors]:
@@ -123,7 +134,8 @@ def mask_of(svg_text, name, scale=1.0):
 
 
 def fit_silhouette(target_mask, vb, ds):
-    """Find k, tx, ty with pixel = k * unit + t."""
+    """Find ax, ay, tx, ty with pixel = (ax*x + tx, ay*y + ty). Separate x/y scales absorb
+    the projection difference between the PNG and the vector source over a small area."""
     x0, y0, w, h = vb
     S = 2000 / max(w, h)
     svg = (f'<svg xmlns="{NS}" width="{w * S:.0f}" height="{h * S:.0f}" viewBox="{x0} {y0} {w} {h}">'
@@ -131,32 +143,32 @@ def fit_silhouette(target_mask, vb, ds):
     m = mask_of(svg, 'silhouette').sum(2) > 384
     ys, xs = np.nonzero(m)
     tys, txs = np.nonzero(target_mask)
-    # bbox fit (units per render px = 1/S)
     bx0, bx1, by0, by1 = xs.min(), xs.max(), ys.min(), ys.max()
     tx0, tx1, ty0, ty1 = txs.min(), txs.max(), tys.min(), tys.max()
-    k = 0.5 * ((tx1 - tx0) / (bx1 - bx0) + (ty1 - ty0) / (by1 - by0))  # target px per render px
-    ox, oy = tx0 - k * bx0, ty0 - k * by0
+    kx = (tx1 - tx0) / (bx1 - bx0)  # target px per render px
+    ky = (ty1 - ty0) / (by1 - by0)
+    ox, oy = tx0 - kx * bx0, ty0 - ky * by0
     H, W = target_mask.shape
-    vv, uu = np.mgrid[0:H, 0:W]
-    t = target_mask
+    st = max(1, max(H, W) // 250)
+    vv, uu = np.mgrid[0:H:st, 0:W:st]
+    t = target_mask[vv, uu]
 
-    def score(k, ox, oy):
-        x = ((uu - ox) / k).astype(int); y = ((vv - oy) / k).astype(int)
+    def score(kx, ky, ox, oy):
+        x = ((uu - ox) / kx).astype(int); y = ((vv - oy) / ky).astype(int)
         ok = (x >= 0) & (y >= 0) & (x < m.shape[1]) & (y < m.shape[0])
         v = m[y.clip(0, m.shape[0] - 1), x.clip(0, m.shape[1] - 1)] & ok
-        inter = (v & t).sum(); union = (v | t).sum()
-        return inter / union
-    cur = (score(k, ox, oy), k, ox, oy)
-    for it in range(4):
-        f = 3 ** it
-        for dk, dx, dy in itertools.product(np.linspace(-0.03, 0.03, 7) * k / f, np.linspace(-3, 3, 7) / f, np.linspace(-3, 3, 7) / f):
-            sc = score(cur[1] + dk, cur[2] + dx, cur[3] + dy)
+        return (v & t).sum() / max(1, (v | t).sum())
+    cur = (score(kx, ky, ox, oy), kx, ky, ox, oy)
+    for it in range(6):
+        f = 2 ** it
+        for dkx, dky, dx, dy in itertools.product(np.linspace(-0.04, 0.04, 5) * kx / f, np.linspace(-0.04, 0.04, 5) * ky / f,
+                                                  np.linspace(-4, 4, 5) / f, np.linspace(-4, 4, 5) / f):
+            sc = score(cur[1] + dkx, cur[2] + dky, cur[3] + dx, cur[4] + dy)
             if sc > cur[0]:
-                cur = (sc, cur[1] + dk, cur[2] + dx, cur[3] + dy)
-    iou, k, ox, oy = cur
-    # convert to unit -> target px: px = k*S*(unit - x0) + ox
-    a = k * S
-    return iou, a, ox - a * x0, oy - a * y0
+                cur = (sc, cur[1] + dkx, cur[2] + dky, cur[3] + dx, cur[4] + dy)
+    iou, kx, ky, ox, oy = cur
+    ax, ay = kx * S, ky * S  # unit -> target px: px = a*(unit - x0) + o
+    return iou, ax, ay, ox - ax * x0, oy - ay * y0
 
 
 def flag_info(flag):
@@ -220,14 +232,20 @@ def main():
     target = np.array(img)
     alpha = target[..., 3] > 128
     vb, ds = region_paths(Path(outline), gid)
-    iou, a, bx, by = fit_silhouette(alpha, vb, ds)
-    a, bx, by = a / f, bx / f, by / f
+    iou, ax, ay, bx, by = fit_silhouette(alpha, vb, ds)
+    ax, ay, bx, by = ax / f, ay / f, bx / f, by / f
+    a = (ax + ay) / 2
 
     from scipy import ndimage as nd
     inside = nd.binary_erosion(alpha, iterations=3)
-    fvb, finner = flag_info(Path(flag))
-    agree, fa, fx, fy, fcols = fit_flag(target, inside, fvb, finner)
-    fa, fx, fy = fa / f, fx / f, fy / f
+    if flag.startswith('#'):  # solid silhouette, no flag
+        c = flag.lstrip('#')
+        fcols = [tuple(int(c[i:i + 2], 16) for i in (0, 2, 4))]
+        agree, fa, fx, fy, finner = 1.0, 1, 0, 0, ''
+    else:
+        fvb, finner = flag_info(Path(flag))
+        agree, fa, fx, fy, fcols = fit_flag(target, inside, fvb, finner)
+        fa, fx, fy = fa / f, fx / f, fy / f
 
     ring = alpha & ~nd.binary_erosion(alpha, iterations=2)
     rc = target[ring][:, :3].astype(int)
@@ -240,21 +258,22 @@ def main():
     width = 2 / a  # about 1 px each side of the edge, in outline units
 
     field = '#%02x%02x%02x' % fcols[0]
+    flag_g = (f'<g id="flag" transform="matrix({fa:.6f},0,0,{fa:.6f},{fx:.4f},{fy:.4f})">{finner}</g>' if finner else '')
     region_fill = paths_markup(ds, 'fill:#000000;stroke:none;clip-rule:evenodd')
-    outline_g = (f'<g id="outline" transform="matrix({a:.6f},0,0,{a:.6f},{bx:.4f},{by:.4f})">'
+    outline_g = (f'<g id="outline" transform="matrix({ax:.6f},0,0,{ay:.6f},{bx:.4f},{by:.4f})">'
                  f'{paths_markup(ds, f"fill:{hexc};fill-rule:evenodd;stroke:{hexc};stroke-width:{width * 2:.4f};stroke-linejoin:round")}</g>'
                  if has_outline else '')
     svg = f'''<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="{NS}" version="1.1" width="{W}" height="{H}" viewBox="0 0 {W} {H}">
-<defs><clipPath id="region"><g transform="matrix({a:.6f},0,0,{a:.6f},{bx:.4f},{by:.4f})">{region_fill}</g></clipPath></defs>
+<defs><clipPath id="region"><g transform="matrix({ax:.6f},0,0,{ay:.6f},{bx:.4f},{by:.4f})">{region_fill}</g></clipPath></defs>
 {outline_g}
-<g clip-path="url(#region)"><rect id="field" width="{W}" height="{H}" fill="{field}"/><g id="flag" transform="matrix({fa:.6f},0,0,{fa:.6f},{fx:.4f},{fy:.4f})">{finner}</g></g>
+<g clip-path="url(#region)"><rect id="field" width="{W}" height="{H}" fill="{field}"/>{flag_g}</g>
 </svg>
 '''
     # clipPath children must be shapes, not groups, in SVG 1.1: flatten transforms onto paths
     svg = re.sub(r'<clipPath id="region">.*?</clipPath>', lambda m: flatten_clip(m.group(0)), svg, flags=re.S)
     Path(out).write_text(svg, encoding='utf8')
-    print(json.dumps(dict(silhouette_iou=round(float(iou), 4), flag_agreement=round(float(agree), 4),
+    print(json.dumps(dict(silhouette_iou=round(float(iou), 4), y_over_x_scale=round(float(ay / ax), 4), flag_agreement=round(float(agree), 4),
                           outline=hexc if has_outline else None, flag_colours=['#%02x%02x%02x' % c for c in fcols]), indent=1))
 
 
