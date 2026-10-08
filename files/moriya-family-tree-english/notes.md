@@ -14,4 +14,4 @@
   - The Japanese text was checked against a zoomed sheet of the PNG.
 - **Note:** the original's Latin font is a Gentium-like serif. On Commons the Latin glyphs will
   follow the server's font, so widths may differ slightly from the PNG (each line stays centred).
-- **Licence:** take it from the original's page (own work by Pat457) when uploading.
+- **Licence:** the original is CC0 (own work by Pat457); the SVG can be CC0 as well.
