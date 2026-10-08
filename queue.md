@@ -4,7 +4,7 @@ PNG files from `data_lake/wikipedia-png-search-results.txt`, resolved against
 Commons by `tools/build_queue.py`. One line per file; delete a line when the file
 is done (record it in devlog.md). Prefer rebuilding from a vector source over tracing.
 
-## To vectorize (560)
+## To vectorize (554)
 
 Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed images (174).
 
@@ -73,7 +73,6 @@ Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed image
 - [File:Flag of the Indonesian Marine Corps.png](https://commons.wikimedia.org/wiki/File:Flag_of_the_Indonesian_Marine_Corps.png) — Template:Country data Indonesia
 - [File:Flag of the Japan Air Self-Defense Force (1955-1957).png](https://commons.wikimedia.org/wiki/File:Flag_of_the_Japan_Air_Self-Defense_Force_%281955-1957%29.png) — Template:Country data Japan — NEEDS-DECISION (user): field is trivial, but the emblem in the PNG is a simpler, older drawing than File:JASDF emblem (outline).svg (Sodacan); using that SVG in flat gold would change the design visibly. Acceptable?
 - [File:Flag of the King of Korea (1856–1871).png](https://commons.wikimedia.org/wiki/File:Flag_of_the_King_of_Korea_%281856%E2%80%931871%29.png) — Template:Country data Joseon, Template:Country data Korea
-- [File:Flag of the Kingdom of Württemberg (1806 - 1816).png](https://commons.wikimedia.org/wiki/File:Flag_of_the_Kingdom_of_W%C3%BCrttemberg_%281806_-_1816%29.png) — Template:Country data Württemberg
 - [File:Flag of the Mexican Maritime Search and Rescue.png](https://commons.wikimedia.org/wiki/File:Flag_of_the_Mexican_Maritime_Search_and_Rescue.png) — Template:Country data Mexico
 - [File:Flag of the Royal Moroccan Air Force.png](https://commons.wikimedia.org/wiki/File:Flag_of_the_Royal_Moroccan_Air_Force.png) — Template:Country data Morocco
 - [File:Flag of the South African Army (1966–1973).png](https://commons.wikimedia.org/wiki/File:Flag_of_the_South_African_Army_%281966%E2%80%931973%29.png) — Template:Country data South Africa
@@ -81,11 +80,6 @@ Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed image
 - [File:Flag of the United Arab Emirates Navy.png](https://commons.wikimedia.org/wiki/File:Flag_of_the_United_Arab_Emirates_Navy.png) — Template:Country data United Arab Emirates
 - [File:Former Ensign of Myanmar Air Force.png](https://commons.wikimedia.org/wiki/File:Former_Ensign_of_Myanmar_Air_Force.png) — Template:Country data Myanmar
 - [File:Fukuchiyama Toyuke-daijinja map.png](https://commons.wikimedia.org/wiki/File:Fukuchiyama_Toyuke-daijinja_map.png) — Toyouke Shrine (Fukuchiyama)
-- [File:G01.png](https://commons.wikimedia.org/wiki/File:G01.png) — Awa Village
-- [File:G05.png](https://commons.wikimedia.org/wiki/File:G05.png) — Awa Village
-- [File:G10.png](https://commons.wikimedia.org/wiki/File:G10.png) — Awa Village
-- [File:G100.png](https://commons.wikimedia.org/wiki/File:G100.png) — Awa Village
-- [File:G50.png](https://commons.wikimedia.org/wiki/File:G50.png) — Awa Village
 - [File:GaelicGamesProjectLogo.png](https://commons.wikimedia.org/wiki/File:GaelicGamesProjectLogo.png) — Module:Portal/images/g
 - [File:Gion Daimyojin.png](https://commons.wikimedia.org/wiki/File:Gion_Daimyojin.png) — Susanoo-no-Mikoto
 - [File:God of Daishogun.png](https://commons.wikimedia.org/wiki/File:God_of_Daishogun.png) — Daishōgun (directional deity)

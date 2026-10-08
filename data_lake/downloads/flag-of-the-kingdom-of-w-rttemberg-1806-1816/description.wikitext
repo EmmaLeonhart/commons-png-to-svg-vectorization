@@ -1,0 +1,36 @@
+== {{int:filedesc}} ==
+{{Information
+|description={{en|1=Flag of the Kingdom of Württemberg 1806-1816. }}
+|date=2024-04-09
+|source={{own}} - 
+
+Below is a list with written sources referring to this flag
+
+''Swabisches Chronik, 5th of August 1803 -<br> "[...] wurde oben in der Residenz die '''dreifarbige Württembergische fahnen''' aufgezogen."'' 
+(The tricolor Württemberg flag was raised at the top of the residence.)
+
+''Matthison, Friedrich von. Das Dianenfest bei Bebenhausen. 1813 - <br>"Schauf auf der Emichsburg ihr hoch, Die '''Königsflagge''' wehn? [...]" ''
+(Look up at the Emichsburg, the royal flag is flying?)
+
+''Memminger, Johann Daniel Georg von. Stuttgart und Ludwigsburg, mit ihrer Umgebung, Germany: Stuttgart, 1817. -<br> "Auf dem Alten Schlosse weht eine '''große dreyfarbige fahne''', die aber, wenn König sich aud der Residenz enrfernt, eingezogen wird und betzwegen zum zeichen seiner abwesenheit dient."'' (On the Old Castle flies a large tricolor flag, which, however, is taken down when the King leaves the residence and serves as a symbol of his absence.)
+
+In reference to the Emichsburg: <br>
+[...] die '''staatliche fahne''' die während der anwesenheit des Königs auf ihrem thurme weht, [...] (the state flag that flies on its tower during the presence of the King.)
+
+''Unknown author, Watercolor of Stuttgart, 1815. - <br> 
+Eine '''Fähne''' welche aufgestecht wird sobald Ihre Majestät in der Stadt sind.
+[...] die '''flagge''' zeigt die Kgl. Farben unter König friedrich. (A flag that is raised as soon as His Majesty is in town. [...] The flag shows the royal colors under King Frederick)''
+
+Many contemporary depictions show the flags mentioned in these excerpts, most famously, a painting by Johann Baptist Seele.
+The usage of the words Staatliche (stately) most possibly indicates that the colors were used as the "Landesfarben" (national colors) of the country, something that can be confirmed in the following excerpt:
+
+Starklof, Richard. Geschichte des kgl. württembergischen zweiten Reiter-Regiments, ehemaligen Jäger-Regiments zu Pferde Herzog Louis, Germany:Eduard Zernin, 1862. - 
+''Seit Beginn des Jahres 1810 trugen die württembergischen Truppen (durch allerh. Ordre vom 1 Januar) auf der linken Seite des Huts , Kaskets , der Bärenmüze u. s. w. unten am Federbusch in einer '''schwarz-roth-gelben''' Kokarde die württembergischen '''Landesfarben'''. '' (Since the beginning of 1810, the Württemberg troops wore (by order of 1 January) on the left side of the hat, Casquet, Bearskin etc. at the bottom of the plume in a black, red and yellow cockade the Württemberg national colours.)
+|author=[[User:Oinkuss|Oinkuss]]
+}}
+
+== {{int:license-header}} ==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Flags with three horizontal stripes of yellow, black and red color combination]]
+[[Category:Flags of Württemberg]]

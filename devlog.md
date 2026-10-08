@@ -109,3 +109,6 @@
 - Abkhazia stub.png: Natural Earth and OSM (relation 1152720 ∩ NE land) outlines both match at IoU 0.93
   but not its stylised drawing; NEEDS-DECISION recorded. New `tools/geojson_region_svg.py`;
   `ne_prefecture_svg.py` takes any admin-1 region. Script-specimen images: NEEDS-DECISION recorded.
+- **Flag of the Kingdom of Württemberg (1806 - 1816).png** (three stripes; only the two antialiased boundary rows
+  differ) and **G01/G05/G10/G50/G100.png** (green bars, pixel-identical) → SVG. Staged in upload/.
+- `tools/render_svg.py`: URL-encodes the file name (non-ASCII names rendered blank).

@@ -3,6 +3,7 @@
 usage: python tools/render_svg.py in.svg out.png [scale]
 """
 import re
+from urllib.parse import quote
 import subprocess
 import sys
 from pathlib import Path
@@ -30,7 +31,7 @@ def render(src, out, scale=1.0):
         w, h = [float(v) for v in re.split(r'[\s,]+', vb.group(1).strip())[2:4]]
     W, H = round(w * scale), round(h * scale)
     html = src.with_name(src.stem + '.render.html')
-    html.write_text(f'<html><body style="margin:0;background:transparent"><img src="{src.name}" '
+    html.write_text(f'<html><body style="margin:0;background:transparent"><img src="{quote(src.name)}" '
                     f'style="width:{W}px;height:{H}px;display:block"></body></html>', encoding='utf8')
     try:
         subprocess.run([CHROME, '--headless=new', '--disable-gpu', '--hide-scrollbars', f'--screenshot={out}',
