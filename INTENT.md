@@ -5,16 +5,45 @@ analysis, not a transcript, and it changes as understanding improves._
 
 ## Current understanding
 
-Not known yet. The only clue so far is the directory name, `agentic-vectorization`.
+Vectorize individual PNG files from Wikimedia Commons agentically, one file at a
+time, producing SVG replacements suitable for upload.
 
 ## What supports it
 
-_Nothing yet._
+- User, 2026-10-07: "the notion here is that we are trying to vectorize individual
+  files agentically on wikipedia."
+- First file given in chat: File:Kinai-and-Hyuga-Province-in-Japan-RA.png (done:
+  `files/kinai-hyuga/`).
+- `data_lake/wikipedia-png-search-results.txt` (dropped as Untitled-1.txt): "All of the
+  pngs referenced in this file are to be parsed out and have vectorizations attempted
+  on them". User: the files are on Commons ("commons lol").
+- Folder name chosen by the user: `agentic-vectorization`.
+
+## Constraints from the user
+
+- **Rebuild, don't trace.** "rebuilding is preferred and tracing the png is not desired
+  almost all of the time." Rebuild from the file's vector source where one exists.
+- **All SVG text is vector text** (real `<text>`, not paths) "so svgtranslate could be
+  used for it". Universal rule.
+- **Download and save every queued file** ("download and save every queued up one").
+- **scratch/ is tracked.** The user removed it from .gitignore ("this is a recipe for
+  losing work"). Things may be deleted from scratch/, but only after they are committed
+  so history keeps them.
+- **Commit and push as work goes**; do not leave work uncommitted.
 
 ## Open questions
 
-- What is this project for?
+- Upload: does the user upload the SVGs to Commons, or should that be prepared
+  (description pages, `{{Vector version available}}`)? NEEDS-DECISION (user).
+- Which wiki the search list was run on: its article titles are on neither en.wikipedia
+  nor Commons. Filenames are resolved against Commons instead.
 
 ## Confidence
 
-None yet.
+High on the goal and the constraints (stated directly). Medium on queue scope until the
+list is resolved.
+
+## Log
+
+- Work started 2026-10-07 23:02 PST, on the user's go-ahead. GitHub repo (private):
+  EmmaLeonhart/commons-png-to-svg-vectorization.
