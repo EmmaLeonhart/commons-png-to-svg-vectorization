@@ -4,7 +4,7 @@ PNG files from `data_lake/wikipedia-png-search-results.txt`, resolved against
 Commons by `tools/build_queue.py`. One line per file; delete a line when the file
 is done (record it in devlog.md). Prefer rebuilding from a vector source over tracing.
 
-## To vectorize (873)
+## To vectorize (872)
 
 - [File:1873 Seikanron Debate Saigo Takamori Ukiyo-e by Suzuki Toshimoto.png](https://commons.wikimedia.org/wiki/File:1873_Seikanron_Debate_Saigo_Takamori_Ukiyo-e_by_Suzuki_Toshimoto.png) — Saigō Takamori
 - [File:1bc1a.png](https://commons.wikimedia.org/wiki/File:1bc1a.png) — Help:Multilingual support
@@ -185,7 +185,6 @@ is done (record it in devlog.md). Prefer rebuilding from a vector source over tr
 - [File:Flag of the United Arab Emirates Navy.png](https://commons.wikimedia.org/wiki/File:Flag_of_the_United_Arab_Emirates_Navy.png) — Template:Country data United Arab Emirates
 - [File:Flag of the United States Marine Corps (1914-1939).png](https://commons.wikimedia.org/wiki/File:Flag_of_the_United_States_Marine_Corps_%281914-1939%29.png) — Template:Country data United States
 - [File:Flag of the Uzbek Soviet Socialist Republic(1927-1929).png](https://commons.wikimedia.org/wiki/File:Flag_of_the_Uzbek_Soviet_Socialist_Republic%281927-1929%29.png) — Template:Country data Uzbek SSR
-- [File:Flag of the Uzbek Soviet Socialist Republic(1937-1938).png](https://commons.wikimedia.org/wiki/File:Flag_of_the_Uzbek_Soviet_Socialist_Republic%281937-1938%29.png) — Template:Country data Uzbek SSR
 - [File:Flanquette (grey scales).png](https://commons.wikimedia.org/wiki/File:Flanquette_%28grey_scales%29.png) — MediaWiki:Bad image list
 - [File:Floater script screenshot.png](https://commons.wikimedia.org/wiki/File:Floater_script_screenshot.png) — Template:Infobox Wikipedia user script/doc
 - [File:FNic7yqaIAYd4RS.png](https://commons.wikimedia.org/wiki/File:FNic7yqaIAYd4RS.png) — Kotohira-gū Tokyo Branch

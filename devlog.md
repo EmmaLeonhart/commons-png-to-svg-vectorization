@@ -68,3 +68,5 @@
   to "Already vectorized". 大洋.png parked (its stated base, World Map Blank.svg, is Robinson in
   both revisions and does not match). `rebuild_locator`: identity viewBox allowed; colour snapping
   only to colours the base actually uses; dark near-grey text filter tightened.
+- **File:Flag of the Uzbek Soviet Socialist Republic(1937-1938).png → SVG**
+  (`files/uzbek-ssr-flag-1937/`): red field and two `<text>` lines; 0.58% of pixels differ.
