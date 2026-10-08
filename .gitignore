@@ -29,3 +29,6 @@ Thumbs.db
 
 # transient files written and deleted by tools/render_svg.py during a render
 *.render.html
+
+# The user's own photos stay out of git (local files are kept)
+upload/inochi-daigengu/
