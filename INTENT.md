@@ -44,10 +44,12 @@ time, producing SVG replacements suitable for upload.
   or look for PD outlines first? NEEDS-DECISION (user). Assumption until then: use them
   and record the licence in each notes.md.
 - Prefecture "Shadow picture" PNGs (44, Shigenobu Aoki's data, plain lat/lon plots): Aoki's
-  vector data is not available (his site was a CGI and is offline). Assumption: rebuild
-  small ones (≤500 px) from Natural Earth 1:10M, which is public domain and matches at IoU
-  ≥0.93. Larger ones need a more detailed source (likely the CC BY-SA géolocalisation maps;
-  see the licence question above). NEEDS-DECISION (user) if a different source is wanted.
+  vector data is not available (his site was a CGI and is offline). Natural Earth 1:10M
+  (PD) matches the shapes (13 at IoU >= 0.93) but is visibly smoother than the PNGs, so it
+  is not an acceptable replacement; drafts are kept in scratch/shadow/. A detailed source is
+  needed: candidates are the CC BY-SA géolocalisation maps, or Japanese government open data
+  (国土数値情報 N03 administrative areas, CC BY 4.0-compatible). NEEDS-DECISION (user): which
+  source and licence to use. Until then this group is parked.
 - Which wiki the search list was run on: its article titles are on neither en.wikipedia
   nor Commons. Filenames are resolved against Commons instead.
 

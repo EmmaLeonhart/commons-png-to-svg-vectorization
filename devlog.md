@@ -34,3 +34,7 @@
 - `tools/same_name_svg.py`: 157 queued PNGs have a same-named SVG on Commons (e.g.
   EnglandSurrey.svg). With the 206 whose pages already point to a vector version, 251
   files moved to "Already vectorized on Commons" in queue.md; 886 remain to vectorize.
+- Shadow picture batch (41 prefectures queued): Natural Earth rebuild via
+  `tools/batch_shadow.py`. 13 matched at IoU >= 0.93 but are visibly smoother than the
+  originals, so none were accepted; all parked in queue.md with their scores, drafts in
+  scratch/shadow/. A detailed boundary source is needed (INTENT open question).

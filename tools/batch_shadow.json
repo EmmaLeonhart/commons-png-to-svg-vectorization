@@ -11,7 +11,7 @@
   "outline": null
  },
  "Aomori": {
-  "status": "done",
+  "status": "draft-too-smooth",
   "size": [
    420,
    387
@@ -22,7 +22,7 @@
   "outline": null
  },
  "Chiba": {
-  "status": "done",
+  "status": "draft-too-smooth",
   "size": [
    306,
    390
@@ -55,7 +55,7 @@
   "outline": null
  },
  "Fukuoka": {
-  "status": "done",
+  "status": "draft-too-smooth",
   "size": [
    400,
    400
@@ -77,7 +77,7 @@
   "outline": null
  },
  "Gifu": {
-  "status": "done",
+  "status": "draft-too-smooth",
   "size": [
    337,
    387
@@ -231,7 +231,7 @@
   "outline": null
  },
  "Miyazaki": {
-  "status": "done",
+  "status": "draft-too-smooth",
   "size": [
    296,
    395
@@ -242,7 +242,7 @@
   "outline": null
  },
  "Nagano": {
-  "status": "done",
+  "status": "draft-too-smooth",
   "size": [
    273,
    393
@@ -264,7 +264,7 @@
   "outline": null
  },
  "Nara": {
-  "status": "done",
+  "status": "draft-too-smooth",
   "size": [
    258,
    389
@@ -297,7 +297,7 @@
   "outline": null
  },
  "Okayama": {
-  "status": "done",
+  "status": "draft-too-smooth",
   "size": [
    399,
    389
@@ -327,6 +327,127 @@
   "iou": 0.9537,
   "fill": "#000000",
   "y_over_x": 1.2195,
+  "outline": null
+ },
+ "Shiga": {
+  "status": "below-threshold",
+  "size": [
+   252,
+   392
+  ],
+  "iou": 0.8054,
+  "fill": "#000000",
+  "y_over_x": 1.2277,
+  "outline": null
+ },
+ "Shimane": {
+  "status": "needs-detailed-source",
+  "size": [
+   504,
+   357
+  ],
+  "iou": 0.6619,
+  "fill": "#000000",
+  "y_over_x": 0.7037,
+  "outline": null
+ },
+ "Shizuoka": {
+  "status": "needs-detailed-source",
+  "size": [
+   510,
+   388
+  ],
+  "iou": 0.9381,
+  "fill": "#000000",
+  "y_over_x": 1.2624,
+  "outline": null
+ },
+ "Tochigi": {
+  "status": "draft-too-smooth",
+  "size": [
+   364,
+   392
+  ],
+  "iou": 0.9726,
+  "fill": "#000000",
+  "y_over_x": 1.2442,
+  "outline": null
+ },
+ "Tokushima": {
+  "status": "draft-too-smooth",
+  "size": [
+   498,
+   393
+  ],
+  "iou": 0.9589,
+  "fill": "#000000",
+  "y_over_x": 1.2512,
+  "outline": null
+ },
+ "Tottori": {
+  "status": "needs-detailed-source",
+  "size": [
+   505,
+   259
+  ],
+  "iou": 0.9305,
+  "fill": "#000000",
+  "y_over_x": 1.1937,
+  "outline": null
+ },
+ "Toyama": {
+  "status": "draft-too-smooth",
+  "size": [
+   462,
+   391
+  ],
+  "iou": 0.9478,
+  "fill": "#000000",
+  "y_over_x": 1.2589,
+  "outline": null
+ },
+ "Wakayama": {
+  "status": "below-threshold",
+  "size": [
+   347,
+   387
+  ],
+  "iou": 0.9162,
+  "fill": "#000000",
+  "y_over_x": 1.1824,
+  "outline": null
+ },
+ "Yamagata": {
+  "status": "draft-too-smooth",
+  "size": [
+   263,
+   392
+  ],
+  "iou": 0.9601,
+  "fill": "#000000",
+  "y_over_x": 1.2412,
+  "outline": null
+ },
+ "Yamaguchi": {
+  "status": "needs-detailed-source",
+  "size": [
+   506,
+   334
+  ],
+  "iou": 0.7769,
+  "fill": "#000000",
+  "y_over_x": 1.1416,
+  "outline": null
+ },
+ "Yamanashi": {
+  "status": "draft-too-smooth",
+  "size": [
+   377,
+   393
+  ],
+  "iou": 0.9714,
+  "fill": "#000000",
+  "y_over_x": 1.2457,
   "outline": null
  }
 }
