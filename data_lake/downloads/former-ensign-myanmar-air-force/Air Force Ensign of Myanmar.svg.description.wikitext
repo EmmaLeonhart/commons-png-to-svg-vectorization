@@ -1,0 +1,15 @@
+== {{int:filedesc}} ==
+{{Information
+|description={{en|Myanmar Air Force Flag}}
+|date=2008-04-18
+|source={{Using}} [http://en.wikipedia.org/wiki/Image:Mm%5Eaf.gif]
+|author={{U|Zedlander}}
+|other fields={{Igen|Inkscape|+|s=f}}
+}}
+
+== {{int:license-header}} ==
+{{self|GFDL|cc-by-sa-all}}
+
+[[Category:Flags with military roundels]]
+[[Category:SVG light blue ensigns of Myanmar]]
+[[Category:SVG air force ensigns of Myanmar]]

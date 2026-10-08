@@ -114,3 +114,5 @@
 - `tools/render_svg.py`: URL-encodes the file name (non-ASCII names rendered blank).
 - **File:EdinburghTramsGeneric.png → SVG**: disc + four fitted bands with the PNG's stacking; IoU 0.92–0.999 per
   colour. Staged in upload/.
+- **File:Former Ensign of Myanmar Air Force.png → SVG**: its source SVG with the field recoloured, 0.14% of pixels
+  differ. Staged in upload/.

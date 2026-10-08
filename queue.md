@@ -4,7 +4,7 @@ PNG files from `data_lake/wikipedia-png-search-results.txt`, resolved against
 Commons by `tools/build_queue.py`. One line per file; delete a line when the file
 is done (record it in devlog.md). Prefer rebuilding from a vector source over tracing.
 
-## To vectorize (553)
+## To vectorize (552)
 
 Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed images (174).
 
@@ -77,7 +77,6 @@ Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed image
 - [File:Flag of the South African Army (1966–1973).png](https://commons.wikimedia.org/wiki/File:Flag_of_the_South_African_Army_%281966%E2%80%931973%29.png) — Template:Country data South Africa
 - [File:Flag of the Sri Lankan Army.png](https://commons.wikimedia.org/wiki/File:Flag_of_the_Sri_Lankan_Army.png) — Template:Country data Sri Lanka
 - [File:Flag of the United Arab Emirates Navy.png](https://commons.wikimedia.org/wiki/File:Flag_of_the_United_Arab_Emirates_Navy.png) — Template:Country data United Arab Emirates
-- [File:Former Ensign of Myanmar Air Force.png](https://commons.wikimedia.org/wiki/File:Former_Ensign_of_Myanmar_Air_Force.png) — Template:Country data Myanmar
 - [File:Fukuchiyama Toyuke-daijinja map.png](https://commons.wikimedia.org/wiki/File:Fukuchiyama_Toyuke-daijinja_map.png) — Toyouke Shrine (Fukuchiyama)
 - [File:GaelicGamesProjectLogo.png](https://commons.wikimedia.org/wiki/File:GaelicGamesProjectLogo.png) — Module:Portal/images/g
 - [File:Gion Daimyojin.png](https://commons.wikimedia.org/wiki/File:Gion_Daimyojin.png) — Susanoo-no-Mikoto
