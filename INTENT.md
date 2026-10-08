@@ -63,7 +63,9 @@ files, of which 251 already have a vector version and the rest are worked one by
 What works so far (2026-10-08 01:24): rebuilding from the PNG's own stated source SVG (or the
 revision of it that existed when the PNG was made), registered against the PNG, with text
 re-added as `<text>`. Simple constructions with no source (flags that are a field plus an
-inscription) are drawn directly, with text set in a matching font; that is not tracing.
+inscription, geometric diagrams, family trees) are drawn directly from measured geometry: exact
+straight runs from aliased line art, equal-angle sectors, text set in a matching font. That is
+construction, not tracing.
 Raster-based PNGs (photos, artworks, terrain relief) are marked not rebuildable rather than
 traced. Tools must stay memory-bounded: two jobs were stopped by the harness for low memory
 caused by unbounded steps (since fixed).
