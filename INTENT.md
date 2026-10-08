@@ -75,7 +75,10 @@ construction, not tracing.
 Raster-based PNGs (photos, artworks, terrain relief) are marked not rebuildable rather than
 traced. Assumption: freeform drawings (woodblock prints, line-art figures, brush calligraphy,
 organic crests) also count as tracing-only, even when flat-coloured, so they are marked, not
-vectorized. Correct this if line art should be traced after all. Tools must stay memory-bounded: two jobs were stopped by the harness for low memory
+vectorized. Correct this if line art should be traced after all. Assumption: straight-edged
+pictograms (road signs, simple icons) may have their polygon corners fitted to the colour mask
+(`tools/fit_polygons.py`): that recovers the drawing's own vertices rather than following freeform
+outlines. Correct this if it counts as tracing for you. Tools must stay memory-bounded: two jobs were stopped by the harness for low memory
 caused by unbounded steps (since fixed).
 
 ## Log

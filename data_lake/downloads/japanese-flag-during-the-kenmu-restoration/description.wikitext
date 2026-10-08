@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Japanese flag during the Kenmu Restoration}}
+|date=2023-03-20
+|source={{own}}
+|author=[[User:FlagGod|FlagGod]]
+|permission=
+|other versions=
+}}
+{{SVG}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:PNG historical flags of Japan]]
+[[Category:Kenmu Restoration]]

@@ -119,3 +119,5 @@
 - **File:Istanbul public transport - Nostaljik Tramvay symbol.png → SVG**: disc + "NT" text, ink box exact.
   15 woodblock/line-art figure drawings marked NOT REBUILDABLE; Indonesian Marine Corps flag parked
   (source emblem's lettering is paths).
+- **File:Indonesian Road Sign d9a.png → SVG** with the new `tools/fit_polygons.py` (corner-fitting for straight-edged
+  pictograms): 0.92% of pixels differ, 1.4 KB. INTENT records the assumption. Staged in upload/.

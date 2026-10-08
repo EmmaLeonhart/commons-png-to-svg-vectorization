@@ -4,7 +4,7 @@ PNG files from `data_lake/wikipedia-png-search-results.txt`, resolved against
 Commons by `tools/build_queue.py`. One line per file; delete a line when the file
 is done (record it in devlog.md). Prefer rebuilding from a vector source over tracing.
 
-## To vectorize (551)
+## To vectorize (550)
 
 Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed images (174).
 
@@ -99,7 +99,6 @@ Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed image
 - [File:Idioma osetio.png](https://commons.wikimedia.org/wiki/File:Idioma_osetio.png) — Module:Portal/images/o
 - [File:Ikushimatarushimajinja.png](https://commons.wikimedia.org/wiki/File:Ikushimatarushimajinja.png) — Ikushimatarushima Shrine
 - [File:Indigenous of Asia.png](https://commons.wikimedia.org/wiki/File:Indigenous_of_Asia.png) — Help:Multilingual support
-- [File:Indonesian Road Sign d9a.png](https://commons.wikimedia.org/wiki/File:Indonesian_Road_Sign_d9a.png) — Module:Road data/extra
 - [File:Itsukushima-island.png](https://commons.wikimedia.org/wiki/File:Itsukushima-island.png) — Talk:Itsukushima
 - [File:Izuna Gongen.png](https://commons.wikimedia.org/wiki/File:Izuna_Gongen.png) — Izuna Gongen — NOT REBUILDABLE without tracing: woodblock / line-art figure drawing (flat colours, but freeform art).
 - [File:Japan Chubu Region large.png](https://commons.wikimedia.org/wiki/File:Japan_Chubu_Region_large.png) — Eastern Japan

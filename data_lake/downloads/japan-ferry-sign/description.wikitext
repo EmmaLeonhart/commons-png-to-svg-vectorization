@@ -1,0 +1,17 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Sign used to direct drivers to ferries in Japan}}
+|date=2018-01-24
+|source={{own}}
+|author=[[User:Mccunicano|Mccunicano]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Diagrams of road signs of Japan]]
+[[Category:Blue on white signs in Japan]]
+[[Category:Ferry icons]]
+[[Category:Blue and white road signs in Japan]]
