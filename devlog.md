@@ -64,3 +64,7 @@
   process held 8.3 GB. Fixed (render ~2x PNG size, ≤300 px comparison grid, float32). The
   shadow batch's fitting (`rebuild_flagmap` on full-size grids) is a likely contributor too.
   Neither job has been restarted; they wait for the user's go-ahead.
+- Flag of the United States (23px).png: a deliberate pixel-hinted icon of the existing SVG; moved
+  to "Already vectorized". 大洋.png parked (its stated base, World Map Blank.svg, is Robinson in
+  both revisions and does not match). `rebuild_locator`: identity viewBox allowed; colour snapping
+  only to colours the base actually uses; dark near-grey text filter tightened.

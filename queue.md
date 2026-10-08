@@ -4,7 +4,7 @@ PNG files from `data_lake/wikipedia-png-search-results.txt`, resolved against
 Commons by `tools/build_queue.py`. One line per file; delete a line when the file
 is done (record it in devlog.md). Prefer rebuilding from a vector source over tracing.
 
-## To vectorize (874)
+## To vectorize (873)
 
 - [File:1873 Seikanron Debate Saigo Takamori Ukiyo-e by Suzuki Toshimoto.png](https://commons.wikimedia.org/wiki/File:1873_Seikanron_Debate_Saigo_Takamori_Ukiyo-e_by_Suzuki_Toshimoto.png) — Saigō Takamori
 - [File:1bc1a.png](https://commons.wikimedia.org/wiki/File:1bc1a.png) — Help:Multilingual support
@@ -183,7 +183,6 @@ is done (record it in devlog.md). Prefer rebuilding from a vector source over tr
 - [File:Flag of the South African Army (1966–1973).png](https://commons.wikimedia.org/wiki/File:Flag_of_the_South_African_Army_%281966%E2%80%931973%29.png) — Template:Country data South Africa
 - [File:Flag of the Sri Lankan Army.png](https://commons.wikimedia.org/wiki/File:Flag_of_the_Sri_Lankan_Army.png) — Template:Country data Sri Lanka
 - [File:Flag of the United Arab Emirates Navy.png](https://commons.wikimedia.org/wiki/File:Flag_of_the_United_Arab_Emirates_Navy.png) — Template:Country data United Arab Emirates
-- [File:Flag of the United States (23px).png](https://commons.wikimedia.org/wiki/File:Flag_of_the_United_States_%2823px%29.png) — Template:Country data United States
 - [File:Flag of the United States Marine Corps (1914-1939).png](https://commons.wikimedia.org/wiki/File:Flag_of_the_United_States_Marine_Corps_%281914-1939%29.png) — Template:Country data United States
 - [File:Flag of the Uzbek Soviet Socialist Republic(1927-1929).png](https://commons.wikimedia.org/wiki/File:Flag_of_the_Uzbek_Soviet_Socialist_Republic%281927-1929%29.png) — Template:Country data Uzbek SSR
 - [File:Flag of the Uzbek Soviet Socialist Republic(1937-1938).png](https://commons.wikimedia.org/wiki/File:Flag_of_the_Uzbek_Soviet_Socialist_Republic%281937-1938%29.png) — Template:Country data Uzbek SSR
@@ -850,7 +849,7 @@ is done (record it in devlog.md). Prefer rebuilding from a vector source over tr
 - [File:吉田神社境内図.png](https://commons.wikimedia.org/wiki/File:%E5%90%89%E7%94%B0%E7%A5%9E%E7%A4%BE%E5%A2%83%E5%86%85%E5%9B%B3.png) — Traffic Shrine
 - [File:地下式横穴墓の模式図.png](https://commons.wikimedia.org/wiki/File:%E5%9C%B0%E4%B8%8B%E5%BC%8F%E6%A8%AA%E7%A9%B4%E5%A2%93%E3%81%AE%E6%A8%A1%E5%BC%8F%E5%9B%B3.png) — Ikime Kofun Cluster, Underground Horizontal Yokoanabo
 - [File:大山道.png](https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E5%B1%B1%E9%81%93.png) — Ōyama Afuri Shrine
-- [File:大洋.png](https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E6%B4%8B.png) — Module:Portal/images/o
+- [File:大洋.png](https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E6%B4%8B.png) — Module:Portal/images/o — NEEDS-INVESTIGATION: says "a variation of World Map Blank.svg", but both revisions of that file are Robinson and do not match (the PNG has no Robinson edge; Fiji sits inside the frame). Find the 2008 base (possibly another file at the time).
 - [File:太田天神山古墳 概略図.png](https://commons.wikimedia.org/wiki/File:%E5%A4%AA%E7%94%B0%E5%A4%A9%E7%A5%9E%E5%B1%B1%E5%8F%A4%E5%A2%B3_%E6%A6%82%E7%95%A5%E5%9B%B3.png) — Ōta Tenjinyama Kofun
 - [File:威儀の者(Military officer).png](https://commons.wikimedia.org/wiki/File:%E5%A8%81%E5%84%80%E3%81%AE%E8%80%85%28Military_officer%29.png) — Enthronement of the Japanese emperor
 - [File:官幣中社諏訪上社 - Kanpei Chūsha Suwa Kamisha.png](https://commons.wikimedia.org/wiki/File:%E5%AE%98%E5%B9%A3%E4%B8%AD%E7%A4%BE%E8%AB%8F%E8%A8%AA%E4%B8%8A%E7%A4%BE_-_Kanpei_Ch%C5%ABsha_Suwa_Kamisha.png) — Suwa-taisha
@@ -881,11 +880,12 @@ is done (record it in devlog.md). Prefer rebuilding from a vector source over tr
 - [File:평양신사배치도.png](https://commons.wikimedia.org/wiki/File:%ED%8F%89%EC%96%91%EC%8B%A0%EC%82%AC%EB%B0%B0%EC%B9%98%EB%8F%84.png) — Heijō Shrine
 - [File:평양신사측면전경.png](https://commons.wikimedia.org/wiki/File:%ED%8F%89%EC%96%91%EC%8B%A0%EC%82%AC%EC%B8%A1%EB%A9%B4%EC%A0%84%EA%B2%BD.png) — Heijō Shrine
 
-## Already vectorized on Commons (254)
+## Already vectorized on Commons (255)
 
 No rebuild needed; at most the PNG needs `{{Vector version available|...}}`. Built from
 `tools/same_name_svg.json` and `tools/triage.json`.
 
+- [File:Flag of the United States (23px).png](https://commons.wikimedia.org/wiki/File:Flag_of_the_United_States_%2823px%29.png) — Template:Country data United States — vector exists: File:Flag of the United States.svg. This PNG is a deliberately pixel-hinted 23 px icon derived from it; vectorizing it would undo its purpose.
 - [File:MTLogo2.png](https://commons.wikimedia.org/wiki/File:MTLogo2.png) — Module:Portal/images/m — vector exists: File:MTLogo1.svg (same artwork; mean diff 2.6 after a 1.5 px offset)
 - [File:Tamil distribution.png](https://commons.wikimedia.org/wiki/File:Tamil_distribution.png) — Module:Portal/images/t — vector exists: File:Tamil speakers map.svg (the PNG matches its render, mean diff 4.3)
 - [File:Silver-service-star.png](https://commons.wikimedia.org/wiki/File:Silver-service-star.png) — (file-title list), File:Silver-service-star.png — vector exists: File:Silver-service-star-3d.svg (the PNG is a render of it)

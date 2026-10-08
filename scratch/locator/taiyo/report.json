@@ -1,0 +1,19 @@
+{
+ "agreement": 0.9719,
+ "scale": 0.9968088313008302,
+ "offset": [
+  1997.0370370370374,
+  633.1296296296297
+ ],
+ "sea": "#daf0fd",
+ "land": "#1e411d",
+ "coast": null,
+ "border": null,
+ "highlighted": [
+  {
+   "id": "g13462",
+   "fill": "#c4b3c2",
+   "outline": null
+  }
+ ]
+}

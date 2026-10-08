@@ -198,7 +198,7 @@ def sample_colours(target, idx, xf, scale):
     k = idx[y, x]
     T = target.astype(int)
     q = (T // 8) * 8 + 4                                  # quantised, for robust modes
-    notdark = (T.sum(2) > 200) | (T.max(2) - T.min(2) > 60)  # skip black/grey text, keep dark colours
+    notdark = (T.sum(2) > 200) | (T.max(2) - T.min(2) > 25)  # skip black/grey text, keep dark colours
     sea = Counter(map(tuple, q[(k == 0) & notdark].tolist())).most_common(1)[0][0]
     interior = nd.binary_erosion(k > 0, iterations=3) & notdark
     land = Counter(map(tuple, q[interior].tolist())).most_common(1)[0][0]
@@ -256,7 +256,8 @@ def main():
     fills, outlines, sea, land, coast, border = sample_colours(target, idx, xf, a.scale)
 
     # antialiasing shifts thin-line colours; keep the base map's own colour when close
-    snap = lambda c, orig: orig if c and dist(c, orig) < 40 else c
+    base_text = Path(a.base).read_text(encoding='utf8', errors='replace').lower()
+    snap = lambda c, orig: orig if c and dist(c, orig) < 40 and hexc(orig) in base_text else c
     border = snap(border, (0x78, 0x78, 0x78))
     coast = snap(coast, (0x27, 0xaa, 0xea))
     sea = snap(sea, (0xda, 0xf0, 0xfd))
@@ -265,7 +266,11 @@ def main():
     tree = etree.parse(a.base)
     root = tree.getroot()
     if root.get('viewBox'):
-        raise SystemExit('base with viewBox not supported yet')
+        vb = [float(v) for v in re.split(r'[\s,]+', root.get('viewBox').strip())]
+        w = float(re.sub(r'[^\d.]', '', root.get('width', '0')) or 0)
+        h = float(re.sub(r'[^\d.]', '', root.get('height', '0')) or 0)
+        if not (abs(vb[0]) < 0.01 and abs(vb[1]) < 0.01 and abs(vb[2] - w) < 0.01 and abs(vb[3] - h) < 0.01):
+            raise SystemExit('base with a scaling viewBox not supported yet')
     highlighted = []
     if a.units_layer:
         # minimal edit: the base keeps its own styling, only highlighted units change
