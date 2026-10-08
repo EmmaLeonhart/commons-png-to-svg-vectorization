@@ -58,7 +58,8 @@ time, producing SVG replacements suitable for upload.
 ## Confidence
 
 High on the goal and the constraints (stated directly). The queue is settled: 1140 Commons
-files, of which 251 already have a vector version and the rest are worked one by one.
+files; 255 already have a vector version, 299 look like raster originals (photos, paintings,
+screenshots; kept for review, not traced), and the rest are worked one by one, flat graphics first.
 
 What works so far (2026-10-08 01:24): rebuilding from the PNG's own stated source SVG (or the
 revision of it that existed when the PNG was made), registered against the PNG, with text
