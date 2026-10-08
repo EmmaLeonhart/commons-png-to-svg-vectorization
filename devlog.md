@@ -59,3 +59,8 @@
 - MTLogo2.png: same artwork as File:MTLogo1.svg (aligned diff 2.6); moved to "Already vectorized".
   `tools/render_match.py` gained an alignment step; its re-run over near misses was stopped by
   Claude Code for low memory and has not been restarted.
+- Cause of the two low-memory stops: my own processes. `render_match` alignment rendered SVGs at
+  native size (thousands of px) and built full float64 arrays per candidate; a leftover python
+  process held 8.3 GB. Fixed (render ~2x PNG size, ≤300 px comparison grid, float32). The
+  shadow batch's fitting (`rebuild_flagmap` on full-size grids) is a likely contributor too.
+  Neither job has been restarted; they wait for the user's go-ahead.

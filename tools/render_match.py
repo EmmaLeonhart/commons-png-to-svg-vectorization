@@ -40,18 +40,25 @@ def on_white(im):
 
 
 def aligned_diff(A, svg_path, work):
-    """Mean difference after fitting scale and offset (renders can be framed slightly differently)."""
+    """Mean difference after fitting scale and offset (renders can be framed slightly differently).
+    Memory-bounded: the SVG is rendered at about twice the PNG's size and compared on a grid of
+    at most ~300 px across, in float32 (an unbounded first version ran a machine out of memory)."""
     import itertools
     H, W = A.shape[:2]
-    big = work / (svg_path.stem + '.render4.png')
-    render(svg_path, big, max(1.0, 1000 / max(W, H)))
-    B = on_white(Image.open(big)).astype(float)
+    head = svg_path.read_text(encoding='utf8', errors='replace')[:3000]
+    m = re.search(r'<svg[^>]*?\swidth="([\d.]+)', head)
+    native_w = float(m.group(1)) if m else W
+    big = work / (svg_path.stem + '.render2x.png')
+    render(svg_path, big, min(4.0, max(0.05, 2 * W / native_w)))
+    B = on_white(Image.open(big)).astype(np.float32)
     bh, bw = B.shape[:2]
-    vv, uu = np.mgrid[0:H, 0:W]
+    st = max(1, max(H, W) // 300)
+    vv, uu = np.mgrid[0:H:st, 0:W:st]
+    At = A[vv, uu].astype(np.float32)
 
     def score(sc, ox, oy):
-        x = ((uu - ox) / sc).astype(int).clip(0, bw - 1); y = ((vv - oy) / sc).astype(int).clip(0, bh - 1)
-        return float(np.abs(A - B[y, x]).mean())
+        x = ((uu - ox) / sc).astype(np.int32).clip(0, bw - 1); y = ((vv - oy) / sc).astype(np.int32).clip(0, bh - 1)
+        return float(np.abs(At - B[y, x]).mean())
     s0 = W / bw
     best = (score(s0, 0, 0), s0, 0.0, 0.0)
     for it in range(5):
