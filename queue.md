@@ -4,7 +4,7 @@ PNG files from `data_lake/wikipedia-png-search-results.txt`, resolved against
 Commons by `tools/build_queue.py`. One line per file; delete a line when the file
 is done (record it in devlog.md). Prefer rebuilding from a vector source over tracing.
 
-## To vectorize (868)
+## To vectorize (867)
 
 - [File:1873 Seikanron Debate Saigo Takamori Ukiyo-e by Suzuki Toshimoto.png](https://commons.wikimedia.org/wiki/File:1873_Seikanron_Debate_Saigo_Takamori_Ukiyo-e_by_Suzuki_Toshimoto.png) — Saigō Takamori
 - [File:1bc1a.png](https://commons.wikimedia.org/wiki/File:1bc1a.png) — Help:Multilingual support
@@ -158,7 +158,7 @@ is done (record it in devlog.md). Prefer rebuilding from a vector source over tr
 - [File:Enthronement Ceremony of Emperor Kōmei.png](https://commons.wikimedia.org/wiki/File:Enthronement_Ceremony_of_Emperor_K%C5%8Dmei.png) — Enthronement of the Japanese emperor, The succession to the throne
 - [File:Excerpt of Yegun's Epitaph.png](https://commons.wikimedia.org/wiki/File:Excerpt_of_Yegun%27s_Epitaph.png) — Toraijin
 - [File:Excerpt tree.png](https://commons.wikimedia.org/wiki/File:Excerpt_tree.png) — Template:Excerpt/doc
-- [File:Family crest hanawachigai.png](https://commons.wikimedia.org/wiki/File:Family_crest_hanawachigai.png) — Mon (emblem)
+- [File:Family crest hanawachigai.png](https://commons.wikimedia.org/wiki/File:Family_crest_hanawachigai.png) — Mon (emblem) — NOT REBUILDABLE without tracing: the notched flower is freeform. File:Japanese Crest Hana Wachigai.svg is a different (inverted) design, not its vector version.
 - [File:Female butt.png](https://commons.wikimedia.org/wiki/File:Female_butt.png) — MediaWiki:Bad image list
 - [File:Femdom at Eros Pyramide.png](https://commons.wikimedia.org/wiki/File:Femdom_at_Eros_Pyramide.png) — MediaWiki:Bad image list
 - [File:Fifties jukebox.png](https://commons.wikimedia.org/wiki/File:Fifties_jukebox.png) — Module:Portal/images/other
@@ -584,7 +584,6 @@ is done (record it in devlog.md). Prefer rebuilding from a vector source over tr
 - [File:Sukunemizu-shitori-tottori.png](https://commons.wikimedia.org/wiki/File:Sukunemizu-shitori-tottori.png) — Shidori Shrine (Tottori)
 - [File:Sunda Sa.png](https://commons.wikimedia.org/wiki/File:Sunda_Sa.png) — Template:Contains special characters
 - [File:Susanoo-no-Mikoto-slays-Yamata-no-Orochi-in-Izumo-By-Tsukioka-Yoshitoshi.png](https://commons.wikimedia.org/wiki/File:Susanoo-no-Mikoto-slays-Yamata-no-Orochi-in-Izumo-By-Tsukioka-Yoshitoshi.png) — Kumano Taisha, Kushinadahime
-- [File:Susanowo family tree.png](https://commons.wikimedia.org/wiki/File:Susanowo_family_tree.png) — Ame-no-Tsudoechine, Fukabuchi-no-Mizuyarehana, Sashikuni Wakahime, Sashikuni Ōkami
 - [File:Suwa Hosshō Banner - 諏訪法性旗.png](https://commons.wikimedia.org/wiki/File:Suwa_Hossh%C5%8D_Banner_-_%E8%AB%8F%E8%A8%AA%E6%B3%95%E6%80%A7%E6%97%97.png) — Takeminakata
 - [File:Suwa Kamisha Tettō.png](https://commons.wikimedia.org/wiki/File:Suwa_Kamisha_Tett%C5%8D.png) — Suwa-taisha, Takeminakata
 - [File:Swasti Prapti ring Wikipédia Basa Bali.png](https://commons.wikimedia.org/wiki/File:Swasti_Prapti_ring_Wikip%C3%A9dia_Basa_Bali.png) — Help:Multilingual support

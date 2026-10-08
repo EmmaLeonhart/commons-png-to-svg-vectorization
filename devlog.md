@@ -81,3 +81,6 @@
 - **File:Ehou-direction.png → SVG** (`files/ehou-direction/`): drawn from measured geometry
   (octagon rings in equal angular sectors, centre circle, highlighted cells, arrows) with all 70
   labels as `<text>`. 9.9% of pixels differ (glyph shapes). Staged in upload/.
+- **File:Susanowo family tree.png → SVG** (`files/susanowo-family-tree/`): exact 1 px line segments,
+  dotted line and hop, 26 names as vertical `<text>` (ink boxes within 1 px). librsvg's vertical
+  text still to be checked. Family crest hanawachigai.png marked NOT REBUILDABLE (freeform flower).

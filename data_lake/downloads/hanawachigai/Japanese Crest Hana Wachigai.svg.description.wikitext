@@ -1,0 +1,18 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{ja|1=花輪違い（はなわちがい）は、日本の家紋「輪違紋」の一種である。また、「七宝に花角（しっぽうにはなかく）」という場合は「七宝紋」に含まれる。}}{{en|Japanese family crest, "Hana Wachigai", categorized in the Wachigai mons, or "Shippō ni Hanakaku" in the Shippō mons.}}
+|Source={{own}}
+|Author=[[User:Mukai|Mukai]]
+|Date=2008-10-12(PNG) - 2009-05-09(SVG)
+|Permission=
+|other_versions=[[:file:Japanese Crest Hanawachigai.png]]
+}}
+
+== {{int:license-header}} ==
+{{self|GFDL|cc-by-sa-3.0,2.5,2.0,1.0}}<!--sub--><!--MAIN-->
+
+[[Category:SVG Japanese family crests|JCsippou]]
+[[Category:Plain black SVG emblems|JCsippou]]
+[[Category:Hanakaku mon (Japanese crests of flower of square shape)]]
+[[Category:Plain black SVG flower icons]]
+[[Category:Shippō mon (Japanese crests of a geometric shape)]]

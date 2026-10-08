@@ -1,0 +1,17 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=This is a family crest. "Hana_wachigai" "Shippo_ni_hanakaku"　This is mainly used by Izumo Genji clan.}}
+|date=2014-01-02 20:19:49
+|source={{own}}
+|author=[[User:Kamon up|Kamon up]]
+|permission=
+|other_versions=
+|other_fields=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-3.0}}
+
+[[Category:Shippō mon (Japanese crests of a geometric shape)]]
+[[Category:Hanakaku mon (Japanese crests of flower of square shape)]]
+[[Category:Circled mon]]

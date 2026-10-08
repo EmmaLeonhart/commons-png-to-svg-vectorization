@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="444" height="817" viewBox="0 0 444 817">
+  <title>スサノオの系図 (Family tree of Susanowo)</title>
+  <rect width="444" height="817" fill="#ffffff"/>
+  <g id="lines" style="fill:none;stroke:#000000;stroke-width:1">
+    <path d="M141,19.5 H387 M141,23.5 H387 M151,124.5 H281 M212,170.5 H386 M212,174.5 H386 M292,220.5 H385 M292,224.5 H385 M342,258.5 H385 M166,276.5 H231 M166,280.5 H231 M287,326.5 H323 M130,442.5 H169 M130,446.5 H169 M106,535.5 H130 M106,539.5 H130 M58,624.5 H108 M58,628.5 H108 M28,705.5 H73 M28,709.5 H73 M64,781.5 H332 M64,785.5 H332 M17.5,639 V668 M47.5,572 V591 M51.5,709 V746 M83.5,628 V668 M116.5,539 V585 M119.5,389 V413 M148.5,446 V503 M151.5,124 V239 M186.5,280 V399 M217.5,23 V35 M218.5,117 V125 M243.5,174 V236 M287.5,326 V335 M307.5,224 V327 M322.5,326 V336 M342.5,258 V708 M395.5,264 V315 M396.5,91 V145"/>
+    <path d="M201.5,125 V130 M201.5,151 V163"/>
+    <path d="M201.5,131 V150" style="stroke-dasharray:1,1"/>
+    <path d="M280.5,125 V163 A 9,10 0 0 1 279.5,183 V198"/>
+  </g>
+  <g id="names" style="font-family:'Noto Sans CJK JP', 'Noto Sans JP', 'MS Gothic', sans-serif;font-size:16px">
+    <text x="130.0" y="4.5" writing-mode="tb" style="fill:#ff0000">伊邪那美神</text>
+    <text x="397.0" y="5.5" writing-mode="tb" style="fill:#0000ff">伊邪那岐神</text>
+    <text x="219.0" y="36.5" writing-mode="tb" style="fill:#0000ff">大山津見神</text>
+    <text x="396.5" y="148.5" writing-mode="tb" style="fill:#0000ff;font-weight:bold">建速須佐之男命</text>
+    <text x="203.0" y="163.5" writing-mode="tb" style="fill:#ff0000">櫛名田比売</text>
+    <text x="281.0" y="199.5" writing-mode="tb" style="fill:#ff0000">神大市比売</text>
+    <text x="243.0" y="241.5" writing-mode="tb" style="fill:#0000ff">八島士奴美神</text>
+    <text x="153.0" y="242.5" writing-mode="tb" style="fill:#ff0000">木花知流比売</text>
+    <text x="120.0" y="324.5" writing-mode="tb" style="fill:#0000ff">淤迦美神</text>
+    <text x="290.0" y="339.5" writing-mode="tb" style="fill:#ff0000">宇迦之御魂神</text>
+    <text x="323.5" y="339.5" writing-mode="tb" style="fill:#0000ff;font-weight:bold">大年神</text>
+    <text x="360.0" y="339.5" writing-mode="tb" style="fill:#ff0000">多岐都比売命</text>
+    <text x="394.0" y="339.5" writing-mode="tb" style="fill:#ff0000">市寸島比売命</text>
+    <text x="428.0" y="339.5" writing-mode="tb" style="fill:#ff0000">多紀理毘売命</text>
+    <text writing-mode="tb" style="fill:#0000ff"><tspan x="197.0" y="403.5">布波能母遅</tspan><tspan x="180.0" y="403.5">久奴須奴神</tspan></text>
+    <text x="120.0" y="417.5" writing-mode="tb" style="fill:#ff0000">日河比売</text>
+    <text x="48.0" y="489.5" writing-mode="tb" style="fill:#0000ff">布怒豆怒神</text>
+    <text writing-mode="tb" style="fill:#0000ff"><tspan x="156.0" y="505.5">深淵之水</tspan><tspan x="139.0" y="505.5">夜礼花神</tspan></text>
+    <text writing-mode="tb" style="fill:#ff0000"><tspan x="96.0" y="506.5">天之都度</tspan><tspan x="79.0" y="506.5">閇知泥神</tspan></text>
+    <text x="18.0" y="574.5" writing-mode="tb" style="fill:#0000ff">刺国大神</text>
+    <text x="118.0" y="587.5" writing-mode="tb" style="fill:#0000ff">淤美豆奴神</text>
+    <text x="48.0" y="596.5" writing-mode="tb" style="fill:#ff0000">布帝耳神</text>
+    <text x="84.0" y="669.5" writing-mode="tb" style="fill:#0000ff">天之冬衣神</text>
+    <text x="19.0" y="671.5" writing-mode="tb" style="fill:#ff0000">刺国若比売</text>
+    <text x="343.0" y="714.5" writing-mode="tb" style="fill:#ff0000">須勢理毘売命</text>
+    <text x="52.5" y="748.5" writing-mode="tb" style="fill:#0000ff;font-weight:bold">大国主神</text>
+  </g>
+  <g id="notes" style="font-family:'Noto Sans CJK JP', 'Noto Sans JP', 'MS Gothic', sans-serif;font-size:12px;fill:#000000">
+    <text x="408.0" y="122.0" text-anchor="middle">禊</text>
+    <text x="414.0" y="300.0" text-anchor="middle">誓約</text>
+    <text x="395.5" y="333.0" text-anchor="middle">（宗像三神）</text>
+  </g>
+</svg>
