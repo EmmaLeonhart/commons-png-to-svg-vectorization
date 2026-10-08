@@ -49,6 +49,9 @@ time, producing SVG replacements suitable for upload.
   matches the PNG). Licence: Government of Japan Standard Terms of Use 2.0, compatible with
   CC BY 4.0; credit 「国土数値情報（行政区域データ）」（国土交通省）. Assumption: release
   these SVGs as CC BY 4.0 with that credit. NEEDS-DECISION (user) only if that's not OK.
+- Restarting the two jobs Claude Code stopped for low memory (the shadow-picture batch, 31
+  prefectures left; the render_match re-check). Both had memory-hungry steps, since bounded.
+  BLOCKED-ON-USER-ACTION: the harness says to restart them only when the user asks.
 - Which wiki the search list was run on: its article titles are on neither en.wikipedia
   nor Commons. Filenames are resolved against Commons instead.
 

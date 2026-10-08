@@ -26,13 +26,18 @@ def load(code):
         req = urllib.request.Request(URL.format(code=code), headers={'User-Agent': 'agentic-vectorization/0.1'})
         z.write_bytes(urllib.request.urlopen(req, timeout=300).read())
     with zipfile.ZipFile(z) as zf:
-        name = next(n for n in zf.namelist() if n.endswith('.geojson'))
+        name = next(n for n in zf.namelist() if n.endswith('.geojson') and 'subprefecture' not in n)
         return json.loads(zf.read(name).decode('utf8'))
 
 
 def prefecture_svg(code, out, tol=0.0005, k=1000):
     d = load(code)
-    geom = unary_union([shape(f['geometry']).buffer(0) for f in d['features']])
+    # simplify each municipality before merging, and drop the parsed JSON early: Hokkaido's
+    # 44 MB of GeoJSON merged at full detail is the likely cause of a low-memory stop
+    feats = [shape(f['geometry']).simplify(tol / 4, preserve_topology=True).buffer(0) for f in d['features']]
+    del d
+    geom = unary_union(feats)
+    del feats
     geom = geom.buffer(1e-6).buffer(-1e-6)  # close hairline gaps between municipalities
     geom = geom.simplify(tol, preserve_topology=True)
     polys = list(geom.geoms) if hasattr(geom, 'geoms') else [geom]
