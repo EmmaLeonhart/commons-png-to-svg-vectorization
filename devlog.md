@@ -78,3 +78,6 @@
 - Flag of the JASDF (1955-1957): NEEDS-DECISION (its emblem is an older, simpler drawing than the
   available SVG). Flag of the King of Joseon (1876): NOT REBUILDABLE (dragon artwork).
 - `tools/render_svg.py`: sizes SVGs without width/height by their viewBox.
+- **File:Ehou-direction.png → SVG** (`files/ehou-direction/`): drawn from measured geometry
+  (octagon rings in equal angular sectors, centre circle, highlighted cells, arrows) with all 70
+  labels as `<text>`. 9.9% of pixels differ (glyph shapes). Staged in upload/.

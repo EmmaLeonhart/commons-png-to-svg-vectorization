@@ -4,7 +4,7 @@ PNG files from `data_lake/wikipedia-png-search-results.txt`, resolved against
 Commons by `tools/build_queue.py`. One line per file; delete a line when the file
 is done (record it in devlog.md). Prefer rebuilding from a vector source over tracing.
 
-## To vectorize (869)
+## To vectorize (868)
 
 - [File:1873 Seikanron Debate Saigo Takamori Ukiyo-e by Suzuki Toshimoto.png](https://commons.wikimedia.org/wiki/File:1873_Seikanron_Debate_Saigo_Takamori_Ukiyo-e_by_Suzuki_Toshimoto.png) — Saigō Takamori
 - [File:1bc1a.png](https://commons.wikimedia.org/wiki/File:1bc1a.png) — Help:Multilingual support
@@ -134,7 +134,6 @@ is done (record it in devlog.md). Prefer rebuilding from a vector source over tr
 - [File:EdinburghTramsGeneric.png](https://commons.wikimedia.org/wiki/File:EdinburghTramsGeneric.png) — Template:Rail-interchange
 - [File:Edit conflict screenshot.png](https://commons.wikimedia.org/wiki/File:Edit_conflict_screenshot.png) — Help:Edit conflict
 - [File:Edo hori.png](https://commons.wikimedia.org/wiki/File:Edo_hori.png) — Sōgamae
-- [File:Ehou-direction.png](https://commons.wikimedia.org/wiki/File:Ehou-direction.png) — Toshitoku-shin
 - [File:Ejaculation educational seq 4.png](https://commons.wikimedia.org/wiki/File:Ejaculation_educational_seq_4.png) — MediaWiki:Bad image list
 - [File:Ejaculation educational seq 6.png](https://commons.wikimedia.org/wiki/File:Ejaculation_educational_seq_6.png) — MediaWiki:Bad image list
 - [File:Emblem of arms of Wallachia under Șerban Cantacuzino, 1683.png](https://commons.wikimedia.org/wiki/File:Emblem_of_arms_of_Wallachia_under_%C8%98erban_Cantacuzino%2C_1683.png) — Template:Country data Wallachia
