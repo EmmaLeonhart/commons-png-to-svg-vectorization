@@ -1,7 +1,8 @@
 """Write one Japanese prefecture from Natural Earth admin-1 (public domain) as an SVG in
 plain longitude/latitude (x = lon, y = -lat, scaled by 1000). This is the projection of
 Shigenobu Aoki's "Shadow picture" PNGs, so tools/rebuild_flagmap.py only has to fit
-scale and offset. usage: python tools/ne_prefecture_svg.py NAME OUT.svg
+scale and offset. Any admin-1 region works with adm0 (ISO 3166-1 alpha-3, e.g. GEO for Abkhazia).
+usage: python tools/ne_prefecture_svg.py NAME OUT.svg [ADM0]
 """
 import json
 import sys
@@ -11,12 +12,12 @@ NE = Path('data_lake/downloads/natural-earth/ne_10m_admin_1_states_provinces.geo
 _cache = {}
 
 
-def prefecture_svg(name, out, k=1000):
+def prefecture_svg(name, out, k=1000, adm0='JPN'):
     if 'd' not in _cache:
         _cache['d'] = json.loads(NE.read_text(encoding='utf8'))
     norm = lambda s: s.lower().translate(str.maketrans('ōū', 'ou'))
     f = next(f for f in _cache['d']['features']
-             if f['properties'].get('adm0_a3') == 'JPN' and norm(f['properties']['name']) == norm(name))
+             if f['properties'].get('adm0_a3') == adm0 and norm(f['properties']['name']) == norm(name))
     g = f['geometry']
     polys = g['coordinates'] if g['type'] == 'MultiPolygon' else [g['coordinates']]
     xs = [x for p in polys for r in p for x, _ in r]
@@ -31,4 +32,4 @@ def prefecture_svg(name, out, k=1000):
 
 
 if __name__ == '__main__':
-    print(prefecture_svg(sys.argv[1], sys.argv[2]))
+    print(prefecture_svg(sys.argv[1], sys.argv[2], adm0=sys.argv[3] if len(sys.argv) > 3 else 'JPN'))

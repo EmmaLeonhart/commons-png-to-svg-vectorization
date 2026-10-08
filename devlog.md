@@ -106,3 +106,6 @@
   revision, measured five-point chief, 0.62% of pixels differ. Staged in upload/.
 - `tools/render_svg.py`: physical units (mm, cm, in, pt) convert at 96 dpi instead of falling back to the
   viewBox.
+- Abkhazia stub.png: Natural Earth and OSM (relation 1152720 ∩ NE land) outlines both match at IoU 0.93
+  but not its stylised drawing; NEEDS-DECISION recorded. New `tools/geojson_region_svg.py`;
+  `ne_prefecture_svg.py` takes any admin-1 region. Script-specimen images: NEEDS-DECISION recorded.

@@ -52,6 +52,11 @@ time, producing SVG replacements suitable for upload.
 - Restarting the two jobs Claude Code stopped for low memory (the shadow-picture batch, 31
   prefectures left; the render_match re-check). Both had memory-hungry steps, since bounded.
   BLOCKED-ON-USER-ACTION: the harness says to restart them only when the user asks.
+- Script specimens (images of single glyphs or script samples: 1bc1a, ADLaM, Ahom rendering, Bali Ba,
+  Bamum King Njoya (4)): `<text>` needs the script's font on Commons; open-font glyph outlines would be
+  paths, against the vector-text rule. NEEDS-DECISION (user).
+- Hand-drawn geographic symbols (Abkhazia stub, Gunma shadow picture): the correct outline differs from
+  the drawn one. Replace with correct geography, or leave? NEEDS-DECISION (user).
 - Which wiki the search list was run on: its article titles are on neither en.wikipedia
   nor Commons. Filenames are resolved against Commons instead.
 

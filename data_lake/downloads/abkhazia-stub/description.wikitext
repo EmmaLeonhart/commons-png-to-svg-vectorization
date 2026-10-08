@@ -1,0 +1,17 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=A map-like symbol of [[:w:Abkhazia|Abkhazia]] in politically neutral green}}
+|date=2011-06-11
+|source={{own}}
+|author=[[User:WhiteWriter|WhiteWriter]]
+|permission=
+|other_versions=
+|other_fields=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-3.0}}
+
+[[Category:Maps of Abkhazia]]
+[[Category:Country stub icons]]
+[[Category:Outline maps of national borders]]

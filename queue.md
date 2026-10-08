@@ -8,14 +8,14 @@ is done (record it in devlog.md). Prefer rebuilding from a vector source over tr
 
 Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed images (174).
 
-- [File:1bc1a.png](https://commons.wikimedia.org/wiki/File:1bc1a.png) — Help:Multilingual support
+- [File:1bc1a.png](https://commons.wikimedia.org/wiki/File:1bc1a.png) — Help:Multilingual support — NEEDS-DECISION (user): script specimen; the glyph is the subject. <text> needs the script font on Commons, while glyph outlines from an open font (e.g. Noto) would be paths, against the vector-text rule. Which?
 - [File:45 record.png](https://commons.wikimedia.org/wiki/File:45_record.png) — Module:Portal/images/r
 - [File:5th century Korea.png](https://commons.wikimedia.org/wiki/File:5th_century_Korea.png) — Toraijin
-- [File:Abkhazia stub.png](https://commons.wikimedia.org/wiki/File:Abkhazia_stub.png) — Template talk:Portal
+- [File:Abkhazia stub.png](https://commons.wikimedia.org/wiki/File:Abkhazia_stub.png) — Template talk:Portal — NEEDS-DECISION (user): a hand-drawn "map-like symbol"; real outlines (Natural Earth, or OSM relation 1152720 clipped to land) match at IoU 0.93 but not its stylised proportions. Use the geographically correct outline, or leave it? Attempts in scratch/abkhazia/.
 - [File:Abusir map.png](https://commons.wikimedia.org/wiki/File:Abusir_map.png) — Solar Temple of Niuserre
-- [File:ADLaM.png](https://commons.wikimedia.org/wiki/File:ADLaM.png) — Help:Multilingual support
+- [File:ADLaM.png](https://commons.wikimedia.org/wiki/File:ADLaM.png) — Help:Multilingual support — NEEDS-DECISION (user): script specimen; the glyph is the subject. <text> needs the script font on Commons, while glyph outlines from an open font (e.g. Noto) would be paths, against the vector-text rule. Which?
 - [File:Agency for Cultural Affairs Organizational chart 20230327.png](https://commons.wikimedia.org/wiki/File:Agency_for_Cultural_Affairs_Organizational_chart_20230327.png) — Agency for Cultural Affairs
-- [File:Ahom rendering.png](https://commons.wikimedia.org/wiki/File:Ahom_rendering.png) — Help:Multilingual support
+- [File:Ahom rendering.png](https://commons.wikimedia.org/wiki/File:Ahom_rendering.png) — Help:Multilingual support — NEEDS-DECISION (user): script specimen; the glyph is the subject. <text> needs the script font on Commons, while glyph outlines from an open font (e.g. Noto) would be paths, against the vector-text rule. Which?
 - [File:Amateur radio compact icon.png](https://commons.wikimedia.org/wiki/File:Amateur_radio_compact_icon.png) — Module:Portal/images/a, Template talk:Portal
 - [File:Aomori Tsugaru-block.png](https://commons.wikimedia.org/wiki/File:Aomori_Tsugaru-block.png) — Tsugaru region
 - [File:Aplodontia rufa distribution map.png](https://commons.wikimedia.org/wiki/File:Aplodontia_rufa_distribution_map.png) — Template:Automatic taxobox/doc
@@ -23,8 +23,8 @@ Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed image
 - [File:ATC DASH Bus Logo 2025.png](https://commons.wikimedia.org/wiki/File:ATC_DASH_Bus_Logo_2025.png) — Template:Rail-interchange
 - [File:Atsuta Hongu oyobi Setsu-Matsu-sha no Zu.png](https://commons.wikimedia.org/wiki/File:Atsuta_Hongu_oyobi_Setsu-Matsu-sha_no_Zu.png) — Hakkengū, Shimotsuchikamano Shrine
 - [File:Aviacionavion.png](https://commons.wikimedia.org/wiki/File:Aviacionavion.png) — Module:Portal/images/a
-- [File:Bali Ba.png](https://commons.wikimedia.org/wiki/File:Bali_Ba.png) — Template:Contains special characters
-- [File:Bamum King Njoya (4).png](https://commons.wikimedia.org/wiki/File:Bamum_King_Njoya_%284%29.png) — Help:Multilingual support
+- [File:Bali Ba.png](https://commons.wikimedia.org/wiki/File:Bali_Ba.png) — Template:Contains special characters — NEEDS-DECISION (user): script specimen; the glyph is the subject. <text> needs the script font on Commons, while glyph outlines from an open font (e.g. Noto) would be paths, against the vector-text rule. Which?
+- [File:Bamum King Njoya (4).png](https://commons.wikimedia.org/wiki/File:Bamum_King_Njoya_%284%29.png) — Help:Multilingual support — NEEDS-DECISION (user): script specimen; the glyph is the subject. <text> needs the script font on Commons, while glyph outlines from an open font (e.g. Noto) would be paths, against the vector-text rule. Which?
 - [File:Birth and death rate of japan 1950-2019.png](https://commons.wikimedia.org/wiki/File:Birth_and_death_rate_of_japan_1950-2019.png) — Yang Fire Horse
 - [File:Blasó de Mallorca.png](https://commons.wikimedia.org/wiki/File:Blas%C3%B3_de_Mallorca.png) — Template:Coat of arms
 - [File:Blue Ridge Parkway shield.png](https://commons.wikimedia.org/wiki/File:Blue_Ridge_Parkway_shield.png) — Module:Road data/strings/USA/regional/Trails
