@@ -20,10 +20,14 @@ def render(src, out, scale=1.0):
     wa, ha = (wm.group(1) if wm else '%'), (hm.group(1) if hm else '%')
     if not vb and not (wm and hm):
         wa, ha = '300', '150'  # the browser default for an unsized SVG
-    if vb and re.search(r'[a-z%]', wa + ha):  # missing, mm, cm, % ...: size by the viewBox instead
+    per_px = {'px': 1, '': 1, 'mm': 96 / 25.4, 'cm': 96 / 2.54, 'in': 96, 'pt': 96 / 72, 'pc': 16}
+
+    def length(v):
+        m = re.fullmatch(r'\s*([\d.eE+-]+)\s*([a-z]*)\s*', v)
+        return float(m.group(1)) * per_px[m.group(2)] if m and m.group(2) in per_px else None
+    w, h = length(wa), length(ha)
+    if (w is None or h is None) and vb:  # missing or %: size by the viewBox
         w, h = [float(v) for v in re.split(r'[\s,]+', vb.group(1).strip())[2:4]]
-    else:
-        w, h = float(re.sub(r'[^\d.]', '', wa)), float(re.sub(r'[^\d.]', '', ha))
     W, H = round(w * scale), round(h * scale)
     html = src.with_name(src.stem + '.render.html')
     html.write_text(f'<html><body style="margin:0;background:transparent"><img src="{src.name}" '

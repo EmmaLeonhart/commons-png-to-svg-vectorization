@@ -1,0 +1,40 @@
+=={{int:filedesc}}==
+{{Information
+|Description=Coat of arms of [[:en:Bahrain|Bahrain]].
+|Source=Coat_of_Arms_of_The_Kingdom_of_Bahrain.svg
+|Date=2007-02-15
+|Author=[[:User:Tonyjeff|Tonyjeff]], based on national symbol.
+|Permission={{PD-self}}
+{{insignia}}
+|other versions={{DerivativeVersions|Bahrain men's national ice hockey team logo.png}}
+|other fields={{Igen|U||+|s=e}}
+}}
+
+=={{int:license-header}}==
+{{cc-zero}}
+
+=== {{original upload log}} ===
+{| class=wikitable
+! date/time || username || resolution || size || edit summary
+|----
+| 20:26, 15 February 2007 || [[User:Tonyjeff]] || 567×567 || 361 KB || <nowiki>{{Information |Description=Coat of arms of Bahrain. |Source=symbol created in the 1930s by the British advisor to the King of Bahrain (then emir). |Date=15/02/07 |Author=myself, based on national symbol. |Permission=public |other_versions= }}  {{PD-self}}</nowiki>|
+|}
+=== Image description page history ===
+{| class=wikitable
+! link || date/time || username || edit summary
+|----
+| [http://commons.wikimedia.org/w/index.php?title=Image:COA_of_Bahrain.svg&redirect=no&oldid=9794839] || 01:45, 4 February 2008 || [[User:ChristianBier]] ||  
+|----
+| [http://commons.wikimedia.org/w/index.php?title=Image:COA_of_Bahrain.svg&redirect=no&oldid=8353501] || 20:16, 4 November 2007 || [[User:Ramiy]] ||  
+|----
+| [http://commons.wikimedia.org/w/index.php?title=Image:COA_of_Bahrain.svg&redirect=no&oldid=6817989] || 00:43, 31 July 2007 || [[User:Tonyjeff]] ||  
+|----
+| [http://commons.wikimedia.org/w/index.php?title=Image:COA_of_Bahrain.svg&redirect=no&oldid=4420859] || 20:35, 15 February 2007 || [[User:Tonyjeff]] ||  
+|----
+| [http://commons.wikimedia.org/w/index.php?title=Image:COA_of_Bahrain.svg&redirect=no&oldid=4420687] || 20:26, 15 February 2007 || [[User:Tonyjeff]] || <nowiki>({{Information |Description=Coat of arms of Bahrain. |Source=symbol created in the 1930s by the British advisor to the King of Bahrain (then emir). |Date=15/02/07 |Author=myself, based on national symbol. |Permission=public |other_versions= }}  {{PD-self}})</nowiki>
+|}
+{{DEFAULTSORT:Bahrain}}
+[[Category:National coat of arms of Bahrain|*]]
+[[Category:Heraldic lambrequins argent and gules]]
+[[Category:Sunni dynasties]]
+<!--[[Category:House of Khalifa]]-->

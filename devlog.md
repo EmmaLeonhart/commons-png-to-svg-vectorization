@@ -102,3 +102,7 @@
   **File:23 Graz.png → SVG** (rounded badge + "(23)" text). Staged in upload/.
 - **File:Blackpool Transport simple logo.png → SVG**: two stroked primitives (tower polyline, base arc),
   IoU 0.88. Staged in upload/.
+- **File:Arms of Bahrain.png → SVG** (`files/arms-of-bahrain/`): shield path from the 2008 Emblem of Bahrain.svg
+  revision, measured five-point chief, 0.62% of pixels differ. Staged in upload/.
+- `tools/render_svg.py`: physical units (mm, cm, in, pt) convert at 96 dpi instead of falling back to the
+  viewBox.

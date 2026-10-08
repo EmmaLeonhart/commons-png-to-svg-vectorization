@@ -4,7 +4,7 @@ PNG files from `data_lake/wikipedia-png-search-results.txt`, resolved against
 Commons by `tools/build_queue.py`. One line per file; delete a line when the file
 is done (record it in devlog.md). Prefer rebuilding from a vector source over tracing.
 
-## To vectorize (561)
+## To vectorize (560)
 
 Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed images (174).
 
@@ -20,7 +20,6 @@ Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed image
 - [File:Aomori Tsugaru-block.png](https://commons.wikimedia.org/wiki/File:Aomori_Tsugaru-block.png) — Tsugaru region
 - [File:Aplodontia rufa distribution map.png](https://commons.wikimedia.org/wiki/File:Aplodontia_rufa_distribution_map.png) — Template:Automatic taxobox/doc
 - [File:Appalachian region of United States.png](https://commons.wikimedia.org/wiki/File:Appalachian_region_of_United_States.png) — Module:Portal/images/a
-- [File:Arms of Bahrain.png](https://commons.wikimedia.org/wiki/File:Arms_of_Bahrain.png) — Template:Coat of arms
 - [File:ATC DASH Bus Logo 2025.png](https://commons.wikimedia.org/wiki/File:ATC_DASH_Bus_Logo_2025.png) — Template:Rail-interchange
 - [File:Atsuta Hongu oyobi Setsu-Matsu-sha no Zu.png](https://commons.wikimedia.org/wiki/File:Atsuta_Hongu_oyobi_Setsu-Matsu-sha_no_Zu.png) — Hakkengū, Shimotsuchikamano Shrine
 - [File:Aviacionavion.png](https://commons.wikimedia.org/wiki/File:Aviacionavion.png) — Module:Portal/images/a
