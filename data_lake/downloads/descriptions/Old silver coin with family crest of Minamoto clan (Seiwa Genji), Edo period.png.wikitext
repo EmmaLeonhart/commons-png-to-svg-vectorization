@@ -1,0 +1,13 @@
+== {{int:filedesc}} ==
+{{Uploaded with en.wp UW marker|year=2023|month=05|day=05}}
+{{Information
+|Description = 
+* {{en|Seiwa Genji family crest, sasa dragon gall, silver old coin, Edo period}} <br/>
+* {{ja|清和源氏家紋笹竜胆付ける銀古銭江戸時代}}
+|Source = {{own}}
+|Date = 16th century
+|Author = [[User:田中まさこ|(Masako Tanaka) 田中まさこ]]
+}}
+
+== {{int:license-header}} ==
+{{self|GFDL|cc-by-sa-4.0|migration=redundant}}

@@ -1,0 +1,15 @@
+== {{int:filedesc}} ==
+{{Information
+|Description    ={{en|1=A Japanese Edo period wood block print of a samurai with a ''tachi''.}}
+|Source         =Tanki Yoriaku: Hi Ko Ben ( Japanese book on samurai armor published in 1735)
+|Author         =Hayakawa Kyuukei
+|Date           =1735
+|Permission     ={{PD-old-100}}
+|other_versions =
+}}
+
+== {{int:license-header}} ==
+{{PD-old-100}}
+
+[[Category:Koshiate (Sword Hangers)]]
+[[Category:Historic depictions of tachi]]

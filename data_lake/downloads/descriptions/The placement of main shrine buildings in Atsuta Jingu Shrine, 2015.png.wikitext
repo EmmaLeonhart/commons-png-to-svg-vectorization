@@ -1,0 +1,14 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ja|1=熱田神宮における本宮付近の社殿等配置（2015年（平成27年）現在）}}
+|date=2015-10-31
+|source={{own}}
+|author=[[User:Tomio344456|Tomio344456]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Atsuta Shrine]]

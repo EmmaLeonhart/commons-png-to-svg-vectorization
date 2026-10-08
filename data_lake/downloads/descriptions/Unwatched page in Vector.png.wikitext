@@ -1,0 +1,10 @@
+{{Information
+|Description=Shows a page in the Vector skin when it is not being Watched
+|Source={{own}}
+|Date=2010-09-19
+|Author=MediaWiki developers
+|Permission={{free screenshot|license={{GPL}}}}
+|other_versions=
+}}
+[[Category:Vector skin]]
+[[Category:English-language screenshots]]

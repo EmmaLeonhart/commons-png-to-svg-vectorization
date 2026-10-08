@@ -1,0 +1,20 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Samurai in the Edo period walking through town. The second and fourth from the left are samurai. Samurai could kill a commoner for the slightest insult and were widely feared by the Japanese population. An illustration in Santo Kyoden's book of manners and customs "Shiji-no-yukikai" (published in 1798).}}
+{{ja|1=町を行く江戸時代の武士たち。左から2人目と4人目が武士。山東京伝の風俗書『四時交加（しじのゆきかい）』（1798年刊）内の挿絵。}}
+|date=1798
+|source="Shiji-no-yukikai" (Four o'clock, "四時交加"), Benricho - https://www.benricho.org/Unchiku/edo-syokunin/Shijinoyukikai/
+|author={{en|Artwork by Kitao Shigemasa, inscribed by Santo Kyoden.}}
+{{ja|北尾重政（きたおしげまさ）、山東京伝（さんとうきょうでん）}}
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{cc-by-sa-4.0}}
+
+[[Category:History of Japan]]
+[[Category:Historic depictions of kamishimo]]
+[[Category:Tenbin]]
+[[Category:Historic samurai prints]]
+[[Category:Historic depictions of jingasa]]

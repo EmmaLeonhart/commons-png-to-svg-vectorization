@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ja|1=皇居宮殿の空中写真。投稿者が動画から静止画を切り出して作成。}}
+{{en|1=Aerial image of Tokyo Imperial Palace, which was created by capturing an image in the video.}}
+|date=2014
+|source=https://www.kunaicho.go.jp/event/tokubetusankan-mov.html
+|author=宮内庁
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{Gjstu-2.0|terms=http://www.kunaicho.go.jp/copyright/kiyaku.html|attr=Website of the Imperial Household Agency }}
+
+[[Category:Kyūden, the official palace complex of the Imperial Palace]]
+[[Category:Aerial photographs of the Tokyo Imperial Palace]]

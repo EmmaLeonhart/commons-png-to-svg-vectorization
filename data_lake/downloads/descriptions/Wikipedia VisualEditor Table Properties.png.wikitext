@@ -1,0 +1,10 @@
+{{information
+|Description=
+|Source=Screenshot
+|Date=2016-05-01
+|Author=Wikipedia Authors, see the history of [[w:Wikipedia:Sandbox]]
+|Permission={{Wikipedia-screenshot|1=en|logo=yes}}
+}}
+
+[[Category:VisualEditor]]
+[[Category:Wikipedia tables]]

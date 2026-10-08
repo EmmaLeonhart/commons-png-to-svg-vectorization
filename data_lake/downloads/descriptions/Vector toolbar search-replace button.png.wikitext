@@ -1,0 +1,17 @@
+== {{int:filedesc}} ==
+
+{{Information
+|Description={{en|1=The 'search and replace' button of the toolbar of the ''Vector'' skin in Wikipedia}}
+{{es|1=El botón 'buscar y reemplazar' de la barra de herramientas parte del skin ''Vector'', en Wikipedia}}
+|Source=MediaWiki software
+|Date=2010-07-02
+|Author=MediaWiki authors
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{Free screenshot|license={{GPL}}{{Wikipedia screenshot|logo=no}}}}
+
+[[Category:Vector skin]]
+[[Category:WikiEditor toolbar icons]]

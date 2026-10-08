@@ -1,0 +1,22 @@
+{{Vector version available|BEL Vorst Forest COA.svg}}
+== {{int:filedesc}} ==
+{{Information 
+|Description={{fr|1=Armoiries de la commune de Forest, blasonné parti; à dextre d'argent à trois arbres terrassés de sinople passant dans une couronne d'or à trois fleurons et deux perles; à senestre d'azur au dextrochère habillé d'un manteau de choeur de moniale d'or mouvant du flanc sénestre de l'écu et tenant une crosse du mesme tournée à dextre; l'ecu en forme de losange}}
+|Source=Armorial des Provinces et des Communes de Belgique 
+|Date=2006-09-21 
+|Author={{U|Caranorn}}
+|other fields={{igenc|cn}}
+}}
+
+== {{int:license-header}} ==
+{{self|GFDL|Cc-by-sa-3.0-migrated|Cc-by-sa-2.5,2.0,1.0}}
+{{DEFAULTSORT:Forest}}
+
+[[Category:Symbols of Forest (Belgium)]]
+[[Category:Coats of arms of municipalities of Brussels]]
+[[Category:Arms with crozier in heraldry]]
+[[Category:Croziers or in heraldry]]
+[[Category:3 trees in heraldry]]
+[[Category:Crowns in heraldry]]
+[[Category:Party per pale argent and azure]]
+[[Category:Lozenge-shaped heraldic shields]]

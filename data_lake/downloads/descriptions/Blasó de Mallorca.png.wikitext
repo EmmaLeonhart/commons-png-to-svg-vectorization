@@ -1,0 +1,30 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|1=Historic arms of [[:en:Palma, Majorca|Palma of Majorca City]] and the former University of the [[:en:Kingdom of Majorca|Kingdom and the City of Majorca]]}} 
+{{ca|1=Antic escut de [[:ca:Palma|Palma]] i de la [[:ca:Universitat de la Ciutat i Regne de Mallorca|Universitat]] del [[:ca:Mallorca|Regne y la Ciutat de Mallorca]]}} {{es|1=Blasón histórico de [[:es:Palma de Mallorca|Palma de Mallorca]] y la desaparecida Universidad del [[:es:Reino de Mallorca|Reino y Ciudad de Mallorca]]}}
+|Source=*[[:File:Historic_Arms_of_the_Kingdom_and_City_of_Mallorca.svg|Historic_Arms_of_the_Kingdom_and_City_of_Mallorca.svg]]
+*{{ca icon}}[http://bibiloni.cat/simbols/documentacio.htm], [http://bibiloni.cat/simbols/escut_banda.htm]
+|Date=2011-06-29 00:07 (UTC)
+|Author=*[[:File:Historic_Arms_of_the_Kingdom_and_City_of_Mallorca.svg|Historic_Arms_of_the_Kingdom_and_City_of_Mallorca.svg]]: [[User:Heralder|Heralder]]
+*derivative work: [[User:Lliura|Lliura]] ([[User talk:Lliura|<span class="signature-talk">talk</span>]])
+|Permission=
+|other_versions=
+}}
+
+{{RetouchedPicture||editor=|orig=Historic_Arms_of_the_Kingdom_and_City_of_Mallorca.svg}}
+
+{{self|Cc-by-sa-3.0,2.5,2.0,1.0|GFDL}}
+
+== {{Original upload log}} ==
+This image is a derivative work of the following images:
+
+*[[:File:Historic_Arms_of_the_Kingdom_and_City_of_Mallorca.svg]] licensed with Cc-by-sa-3.0,2.5,2.0,1.0, GFDL
+**2011-04-07T19:05:48Z [[User:Heralder|Heralder]] 669x680 (3966593 Bytes) ''<nowiki>{{Information |Description    ={{en|1=Historic arms of the [[:en:Kingdom of Majorca|Kingdom]], [[:en:Palma, Majorca|Capital]] and the former University of [[:en:Majorca|Majorca]]}} {{ca|1=Antic escut de [[:ca:Kingdom of Major</nowiki>''
+
+{{Uploaded with derivativeFX}}
+
+== {{int:license-header}} ==
+{{cc-by-sa-3.0}}
+
+[[Category:Coats of arms of Palma de Mallorca]]
+[[Category:Marshalled pales of Aragon]]

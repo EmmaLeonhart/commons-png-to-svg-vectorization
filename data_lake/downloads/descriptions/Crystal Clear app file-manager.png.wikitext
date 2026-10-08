@@ -1,0 +1,7 @@
+{{Convert to SVG|icon}}
+{{Crystal Clear
+|1=app
+|other versions={{Other2|Crystal Project File-manager.png|Crystal Project My documents.png}}
+}}
+
+[[Category:Filing cabinet icons]]

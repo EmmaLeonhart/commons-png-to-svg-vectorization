@@ -1,0 +1,15 @@
+{{Protected}}{{Prohibited name 2}}
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|Example image that says Image. This file is protected because it's an inappropriate file name.}}
+{{it|Immagine di esempio. Il file è protetto per evitare che vengano caricate immagini inappropriate.}}
+|Source={{Own}}
+|Date=2014-03-28
+|Author= [[User:ANGELUS|'''<span style="font-family:Papyrus;color:black">A</span><span style="font-family:Papyrus;color:green">ngelus</span>''']]<sup>([[User talk:ANGELUS#top|''talk'']])</sup> 18:53, 28 March 2014 (UTC)
+|Permission={{PD-text}}
+}}
+
+[[Category:Text placeholders]]
+[[Category:English-language image placeholders]]
+[[Category:French-language image placeholders]]
+[[Category:Image placeholders (square)]]

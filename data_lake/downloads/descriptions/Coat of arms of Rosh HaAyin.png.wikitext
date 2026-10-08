@@ -1,0 +1,19 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|1=Coat of arms of Rosh HaAyin.}}
+{{ru|1=Герб города Рош ха-Аин}}
+{{he|1=סמל של העיר ראש העין. הסמל אושר בישיבת המועצה, בראשות שלום מנצורה, ב-1.12.68. את הסמל עיצב אהרון אלקלעי, שהיה מדריך לציור וגרפיקה בראש העין}}
+{{de|1=Wappen der Stadt Rosch haAjin}}
+|Source={{Own}}
+|Author=[[User:Юкатан|Юкатан]]
+|Date=Approved in December 1969. Uploaded in 26.11.08
+|Permission={{FoP-Israel}} {{Insignia-Israel}}
+|other_versions=
+}}
+{{VVA|Coat of arms of Rosh HaAyin.svg}}
+
+== {{int:license-header}} ==
+{{self|cc-by-sa-3.0}}
+
+[[Category:Coats of arms of Rosh Ha'Ayin]]
+[[Category:Fountains in heraldry]]

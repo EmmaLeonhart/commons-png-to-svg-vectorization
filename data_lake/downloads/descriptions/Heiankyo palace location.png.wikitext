@@ -1,0 +1,25 @@
+{{svg|architecture}}
+
+== {{int:filedesc}} ==
+<!--{{vector version available|File:Heiankyo palace location.svg}}--> <!-- The vector version is based on the older version which contains a major typo. It should not be used. -->
+
+{{Information
+|Description={{en|Schematic map of historical Heian-kyō (present-day Kyoto) showing the location of the Greater Imperial Palace (Daidairi) and the Tsuchimikado mansion.}}
+{{Transferred from|en.wikipedia}}
+|Source={{own using}}
+* {{citation|last=McCullough|first=William H.|last2=McCullough|first2=Helen Craig|author2-link = Helen Craig McCullough|chapter=Appendix B: The Greater Imperial Palace|title=A Tale of Flowering Fortunes|volume=2|year=1980|isbn=0-8047-1039-2|page=834|publisher=Stanford University Press|place=Stanford, CA|url=https://archive.org/details/taleoffloweringf0011unse}}
+|Date={{original upload date|2007-05-19}}
+|Author={{user at project|Stca74|wikipedia|en}}
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{PD-user-en|Stca74}}
+
+== {{original upload log}} ==
+{{original description page|en.wikipedia|Heiankyo_palace_location.png}}
+* 2007-05-19 09:17 [[:en:User:Stca74|Stca74]] 960×945×4 (9424 bytes) ''<nowiki>Schematic map of historical Heian-kyō (present-day Kyoto)showing the location of the Greater Imperial Palace (Daidairi) and the Tsuchimikado mansion. [[Category:Maps of the history of Japan]] </nowiki>''
+
+[[Category:Maps of Heian-kyō]]
+[[Category:Japanese-language maps]]

@@ -1,0 +1,43 @@
+== {{int:filedesc}} ==
+{{Information
+|description={{en|The ''WikiThanks'' may be awarded as a way to say ''thank you'' to other Wikipedians.
+
+The original image was created by [[:en:User:Anthere|Anthere]].
+
+This award was introduced by [[:en:user:MattTM|MattTM]] on September 9 2004. However, Anthere started using the small picture during summer 2004 as a thank you note on meta user pages.}}
+|source=en.wikipedia
+|date=2004
+|author=[[User:Anthere|Anthere]]
+|permission=
+|other_versions=
+* [[:File:Tournesol.png]]
+* [[:File:Wiki-thanks.png]]
+}}
+
+== {{int:license-header}} ==
+{{GFDL-en|migration=relicense}}
+
+
+== Some background ==
+For the story, I wandered in a [[:en:sunflower|sunflower]] field in spring/summer 2003, and took many pictures. You may see a consequence of that day in the sunflower splashscreen I made after that trip [[:Image:Tournesol(L).jpg|here]].
+Soon after, Eloquence launched the wikipedia logo contest, and had an idea of a logo himself... but no flower to use for it. He asked me for one... and here is the flower I sent him. The logo had success during the contest, but did not make the final winner for wikipedia... still, it became our software Mediawiki logo (http://wikipedia.sourceforge.net/). Anyone may see this little flower on all wikis using our Mediawiki soft.
+
+Sometimes during summer 2004, I felt the need of a ''very small'' picture which could be used to paste, just to say '''thank you''' to editors. Not a big barnstar to display, but just a tiny little thing one can distribute as much as desired.
+
+It was first used on meta, to thank [[:en:User:Raul654|Raul654]]. Then it spread on several of our projects and there is even an editor using it in his signature.
+
+I am delighted that people use it. It gives a splash of sunny happiness on a talk page ;-)
+
+== File history at en.wikipedia ==
+(cur) 02:54, December 16, 2005 . . Locke Cole (Talk) . . 43x39 (3531 bytes) (smaller)
+(del) (rev) 01:22, April 21, 2005 . . Postdlf (Talk) . . 43x39 (4747 bytes) (Reverted to earlier revision)
+(del) (rev) 01:21, April 21, 2005 . . Golbez (Talk) . . 43x39 (4747 bytes) (Reverted to earlier revision)
+(del) (rev) 04:29, April 20, 2005 . . Nivedh (Talk) . . 43x39 (4747 bytes) (Reverted to earlier revision)
+(del) (rev) 01:39, July 27, 2004 . . Stevertigo (Talk) . . 43x39 (4747 bytes) (User:Anthere's flowa. WikiMedia logo)
+[[:en:User:Anthere|SweetLittleFluffyThing]]
+
+[[Category:Extracted flowers]]
+[[Category:Awards associated with Wikimedia users]]
+[[Category:Sunflowers in art]]
+[[Category:MediaWiki]]
+[[Category:Thanks]]

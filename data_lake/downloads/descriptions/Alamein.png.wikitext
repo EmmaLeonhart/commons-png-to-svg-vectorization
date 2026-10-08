@@ -1,0 +1,8 @@
+*Description: '''''Zweite Schlacht von El Alamein - Second Battle of El Alamein (3. Oktober 1942 bis 10. November 1942)'''''
+*Source: selfmade Map [[User:W.wolny]]
+*Licence: '''GNU/FDL'''
+{{GFDL|migration=relicense}}
+
+[[Category:Second Battle of El Alamein]]
+[[Category:1942 in Egypt| ]]
+[[Category:Media missing infobox template]]

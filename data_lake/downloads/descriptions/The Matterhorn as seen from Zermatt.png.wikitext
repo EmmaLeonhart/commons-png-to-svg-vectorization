@@ -1,0 +1,14 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=The Matterhorn as seen from Zermatt.  This is a square crop of [[File:Peak of the Matterhorn, seen from Zermatt, Switzerland.jpg]]}}
+|date=2017-08-29
+|source={{own}}
+|author=[[User:Buaidh|Buaidh]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:North-east side of Matterhorn]]

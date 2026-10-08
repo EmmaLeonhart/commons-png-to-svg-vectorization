@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=This icon denotes a rest area or hotel and can be used as a marker on maps or as a menu icon of some kind.}}
+|date=2019-02-08
+|source={{own}}
+|author=[[User:Alinjohnson|Alinjohnson]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Map icons]]
+[[Category:Accommodation symbols]]
+[[Category:Bed icons]]

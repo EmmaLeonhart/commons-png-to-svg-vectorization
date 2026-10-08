@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ja|1=谷地久保古墳 石槨パース図}}
+|date=2024-03-21
+|source={{own}}
+|author=[[User:Saigen Jiro|Saigen Jiro]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-zero}}
+
+[[Category:Yachikubo Kofun]]
+[[Category:Perspective view of Interiors of Kofun]]

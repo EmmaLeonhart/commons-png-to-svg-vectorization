@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ja|1=古墳時代における名古屋南部の古墳・神祠分布図（『新修名古屋市史第一巻』付図（P330・350・418・487）を元に作成）}}
+|date=2014-03-02 23:10:05
+|source={{own}}
+|author=[[User:Tomio344456|Tomio344456]]
+|permission=
+|other_versions=
+|other_fields=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-3.0}}
+
+[[Category:Kofun of Nagoya]]
+[[Category:Shrines in Nagoya]]

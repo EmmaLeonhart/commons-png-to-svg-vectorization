@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ja|1=秋元時代館林城図内の、谷越町八坂神社（天王）}}
+|date=1845-11-30
+|source=館林市立資料館 蔵
+|author={{unknown|author}}
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+
+{{Template:PD-Japan-organization}}
+
+[[Category:Old maps of Tatebayashi]]
+[[Category:Tenno Shrines in Tatebayashi]]

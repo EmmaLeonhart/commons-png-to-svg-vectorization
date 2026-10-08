@@ -1,0 +1,14 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=hfgdhdhgdhgghfhgff}}
+|date=2021-03-10
+|source={{own}}
+|author=[[User:UIUYIYUIUYIYU|UIUYIYUIUYIYU]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Line 14 (CPTM)]]

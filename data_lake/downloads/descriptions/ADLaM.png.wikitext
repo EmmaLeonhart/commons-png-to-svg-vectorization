@@ -1,0 +1,14 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=The Adlam script is a script used to write Fulani. It is one of many indigenous scripts developed for specific languages in West Africa.}}
+|date=2022-04-05
+|source={{own}}
+|author=[[User:Immanuel Giel|Immanuel Giel]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-zero}}
+
+[[Category:Adlam script]]

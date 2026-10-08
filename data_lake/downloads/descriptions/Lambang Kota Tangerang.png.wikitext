@@ -1,0 +1,15 @@
+{{Information
+|Description={{en|1=Shield of the city of Tangerang}}
+{{id|1=Lambang kota Tangerang.}}
+{{nl|1=Stadswapen van Tangerang}}
+|Source=City of Tangerang
+|Author=City of Tangerang
+|Date=1950
+|Permission=
+|other_versions=
+}}
+{{PD-IDGov}}
+[[Category:Tangerang]]
+[[Category:Coats of arms of cities of Indonesia]]
+[[Category:Coats of arms from Banten]]
+[[Category:Rice and cotton]]

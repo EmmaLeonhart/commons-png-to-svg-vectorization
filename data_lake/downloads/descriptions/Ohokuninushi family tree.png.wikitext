@@ -1,0 +1,13 @@
+== {{int:filedesc}} ==
+{{Information
+|Description = Family tree of Ohokuninushi, a shinto kami  大国主の系図（古事記による）
+|Source = selfmade by MS-Paint and OpenOffice.org
+|Date = 2005-02-16
+|Author = [[User:Nnh|nnh]]
+|Permission = GFDL or cc-by-2.5
+|other_versions =}}
+== {{int:license-header}} ==
+{{Self|GFDL|Cc-by-sa-3.0-migrated|Cc-by-2.5}}
+
+[[Category:Genealogy]]
+[[Category:Family trees of the Japanese mythology]]

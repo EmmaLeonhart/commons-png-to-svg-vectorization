@@ -1,0 +1,21 @@
+== {{int:filedesc}} ==
+{{SVG|diagram}}
+{{Information
+|Description={{en|Illustration of part of the category system}}
+|Source={{transferred from|en.wikipedia|Varnent|CommonsHelper}}
+|Date={{original upload date|2007-04-30}}
+|Author={{user at project|Gurch|wikipedia|en}}
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{self|author={{user at project|Gurch|wikipedia|en}}|GFDL|Cc-by-2.5|migration=relicense}}
+
+== {{Original upload log}} ==
+{{original description page|en.wikipedia|Category-diagram.png}}
+* 2007-04-30 15:52 [[:en:User:Gurch|Gurch]] 1254×636× (154521 bytes) ''<nowiki>Illustration of part of the category system, generated with http://tools.wikimedia.de/~dapete/catgraph/</nowiki>''
+
+[[Category:Commons screenshots (en)]]
+[[Category:Wiki categorization]]
+[[Category:Wikimedia catgraphs]]

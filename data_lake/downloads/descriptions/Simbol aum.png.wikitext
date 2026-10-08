@@ -1,0 +1,17 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=using R.S. Wihananto's font}}
+|date=2013-12-06 17:20:56
+|source={{own}}
+|author=[[User:Alteaven|Alteaven]]
+|permission=
+|other_versions=
+|other_fields=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-3.0}}
+
+[[Category:Javanese letters in Tuladha Jejeg font]]
+[[Category:Om (Javanese)]]
+[[Category:Javanese letters]]

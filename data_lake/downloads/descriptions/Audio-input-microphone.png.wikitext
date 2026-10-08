@@ -1,0 +1,13 @@
+{{vva|Oxygen480-devices-audio-input-microphone.svg}}
+{{Information
+|Description= "Black-white 2 Vista" icon theme
+|Source= http://www.opendesktop.org/content/show.php?content=72618
+|Date=
+|Author=DBGthekafu
+|Permission= GPL
+}}
+
+{{GPL}}
+
+[[Category:Black-white 2 Vista]]
+[[Category:Microphone icons]]

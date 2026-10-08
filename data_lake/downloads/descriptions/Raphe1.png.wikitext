@@ -1,0 +1,6 @@
+[[Category:Media missing infobox template]]
+== {{int:filedesc}} ==
+This image shows a raphe perinealis in a human female. The image was originally uploaded by Dennis Myts, who has described it as being in the public domain granting free use to anyone to use it, for any purpose.
+== {{int:license-header}} ==
+{{3dpatent}}
+{{Copyrighted free use}}

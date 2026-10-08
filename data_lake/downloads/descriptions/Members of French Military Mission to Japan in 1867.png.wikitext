@@ -1,0 +1,25 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Members of French Military Mission to Japan in 1867. In no particular order, they were: Charles Albert Dubousquet, lieutenant Edouard Messelot, lieutenant Léon Descharmes, lieutenant Jules Brunet, lieutenant Jean Marlin, sergeant François Bouffier, sergeant Henry Ygrec, sergeant Emile Peyrussel, sergeant Arthur Fortant, sergeant L. Gutthig, trumpeter Charles Bonnet, chef armurier Barthélémy Izard, sergeant Frédéric Valette, sergeant Jean-Félix Mermet, brigadier Jourdan, captain, engineer Michel, sergeant, engineer Jules Brunet is seated in front, second from right (1866).}}
+{{fr|1=Membres de la Mission militaire française envoyée au Japon en 1867. Sans ordre particulier, ils étaient: Charles Albert Dubousquet, lieutenant Edouard Messelot, lieutenant Léon Descharmes, lieutenant Jules Brunet, lieutenant Jean Marlin, sergent François Bouffier, sergent Henry Ygrec, sergent Emile Peyrussel, sergent Arthur Fortant, sergent L. Gutthig, trompettiste Charles Bonnet, chef armurier Barthélémy Izard, sergent Frédéric Valette, sergent Jean-Félix Mermet, brigadier Jourdan, capitaine, ingénieur Michel, sergent, ingénieur Jules Brunet est assis devant, deuxième à droite (1866).}}
+{{ja|1867年、日本への出発前のフランス軍事顧問団。中央で立っているのが団長のシャルル・シャノワーヌ、その左に座っているのがデュ・ブスケ、同右側がジュール・ブリュネ。}}
+|date=1867
+|source=Bibliothèque nationale de France - https://gallica.bnf.fr/ark:/12148/btv1b8451486n/f31.item.r=VH%20282#
+|author= Gsell, Emile (1838-1879). Photographe
+|permission=
+|other versions={{Image extracted|1=Members of French Military Mission to Japan in 1867 (cropped).png}}
+}}
+
+=={{int:license-header}}==
+{{PD-Art|PD-old-100}}
+
+[[Category:Albert du Bousquet]]
+[[Category:Jules Chanoine]]
+[[Category:Jules Brunet]]
+[[Category:Black and white photographs of groups]]
+[[Category:Military people of France]]
+[[Category:1867 in France]]
+[[Category:French army of the Second Empire]]
+[[Category:Black and white photographs of France]]
+[[Category:Émile Gsell]]
+[[Category:Military relations of France and Japan]]

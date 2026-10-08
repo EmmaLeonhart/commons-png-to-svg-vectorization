@@ -1,0 +1,20 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=A small shrine or ''hokora'' at the peak of Mount Moriya (守屋山) in Nagano Prefecture during the early 20th century.}}
+|date={{other date|before|1931}}
+|source=[https://books.google.co.jp/books?id=4hBVjsO2GOgC 諏訪史 第二卷 前編] (1931)
+|author=Miyachi, Naokazu (宮地直一, 1886-1949)
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+
+{{PD-Japan-oldphoto|PD-1996}}
+
+[[Category:Shrines in Nagano prefecture]]
+[[Category:Mount Moriya (Nagano)]]
+[[Category:History of Ina, Nagano]]
+[[Category:Mononobe no Moriya]]
+[[Category:History of Suwa]]
+[[Category:Shrines in Suwa]]

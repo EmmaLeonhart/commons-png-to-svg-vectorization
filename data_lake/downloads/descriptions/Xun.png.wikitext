@@ -1,0 +1,15 @@
+<div style="margin: 1em 0 1em 0">
+*Deutsch '''Thema: Trigramme ''xùn'' des [[:de:I Ging|I Ging]]'''
+*English '''Subject: Trigram ''xùn'' of [[:en:I Ching|I Ching]]'''
+*Français '''Sujet : Trigramme ''xùn'' du [[:fr:Yi Jing|Yi Jing]]'''
+
+Author : [[:ja:User:Rai koku]] (source : [[:ja:Son.png]], 31-01-2004)
+
+'''Warning: this image is the same than [[:Image:Son.png]], which can't be used from French Wikipedia, because there is already an image called [[:fr:Image:Son.png]], which can't be renamed. Please do not delete this one.'''
+</div>
+
+{{PD-ineligible}}
+{{Vector version available|Trigramme2634 ☴.svg}}
+[[Category:I Ching trigrams obsoleted by SVG replacement|X4]]
+[[Category:Trigram for wind|X4]]
+[[Category:Media missing infobox template]]

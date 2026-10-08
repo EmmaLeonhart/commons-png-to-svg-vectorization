@@ -1,0 +1,15 @@
+{{Information
+|Description= {{en|White italic "i" in a blue circle}}
+|Source=[http://svn.wikimedia.org/viewvc/mediawiki/branches/REL1_17/extensions/ImageMap/desc-20.png The MediaWiki SVN repository] [[rev:77542]]
+|Date={{Date|2010|12|01}} (date checked into MediaWiki SVN)
+|Author=Trevor Parscal
+|Permission=
+|other_versions={{vva|Desc-i.svg|Desc-i blue.svg}}
+}}
+
+=={{int:license-header}}==
+{{PD-ineligible}}
+
+[[Category:Blue and white icons]]
+[[Category:Round icons]]
+[[Category:Wikimedia icons]]

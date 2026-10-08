@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=VisualEditor_Reference_List_Insert_Menu-en.png}}
+|date=2014-08-04
+|source=[[User:LanguageScreenshotBot|Automatically created by LanguageScreenshotBot]]
+|author=[[User:LanguageScreenshotBot|Automatically created by LanguageScreenshotBot]]
+|permission=
+|other_versions=
+|other_fields=
+}}
+
+=={{int:license-header}}==
+{{Wikipedia-screenshot}}
+
+[[Category:VisualEditor-en]]

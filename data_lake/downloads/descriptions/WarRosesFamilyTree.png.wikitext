@@ -1,0 +1,12 @@
+{{Vector version available|EnglishMonarchy02.svg}}
+
+If you recreate the image as SVG, please add the line from Edward III to Margaret Beaufort, since it's sort of relevant. Thanks, [[User:Gerbrant|Shinobu]] 17:58, 3 March 2008 (UTC)
+
+Family tree of the British Royal family during the [[:en:War of the Roses|War of the Roses]]. Drawn by [[User:Muriel Gottrop|Muriel Gottrop]].
+{{GFDL|migration=relicense}}
+
+[[Category:Family trees of England]]
+[[Category:House of Lancaster family trees]]
+[[Category:House of York family trees]]
+[[Category:Media missing infobox template]]
+[[Category:Wars of the Roses]]

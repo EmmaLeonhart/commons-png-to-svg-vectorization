@@ -1,0 +1,19 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Emperor Jinmu from the front cover of the First Census report (1920) in Japan. Emperor Jinmu, from the series Mirror of Famous Generals of Great Japan (Dai nihon meishô kagami).}} {{ja|第一回国勢調査の表紙の絵柄として選ばれた神武天皇。1920年。 「大日本名将鑑　神武天皇」。}} 
+|date={{en|1920}}
+|source={{ja|第一回国勢調査}} {{en|1. First Census report (1920) 2. Museum of Fine Arts, Boston [https://collections.mfa.org/objects/210120]}}
+|author={{en|Tsukioka Yoshitoshi (1839-1892), Publisher: Funatsu Chûjirô.}}{{ja|月岡 芳年（日本人、1839-1892}}
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-Art|PD-old-70}}
+
+[[Category:Emperor Jimmu in art]]
+[[Category:Emperors of Japan in art]]
+[[Category:Nishiki-e]]
+[[Category:Works after Tsukioka Yoshitoshi]]
+[[Category:Yatagarasu]]
+[[Category:Population Census of Japan]]

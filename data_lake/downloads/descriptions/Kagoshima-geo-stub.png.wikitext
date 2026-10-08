@@ -1,0 +1,13 @@
+{{Information
+|Description=Flag/map image for use in stub templates.
+|Source=From [[:Image:Shadow picture of Kagoshima prefecture.png]] and [[:Image:Flag of Kagoshima.svg]], both of them public domain.
+|Date=2008-07-11
+|Author=[[:wikipedia:User:Kzaral|Kzaral]]
+|Permission={{PD-self}}
+|other versions=
+}}
+
+
+[[Category:Subdivisions of Japan stub icons|Kagoshima]]
+[[Category:Flag maps of prefectures of Japan|Kagoshima]]
+[[Category:Maps of Kagoshima prefecture]]

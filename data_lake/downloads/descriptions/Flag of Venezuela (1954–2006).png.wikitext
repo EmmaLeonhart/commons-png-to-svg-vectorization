@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Flag of the Republic of Venezuela 1954-2006.}}
+|date=2016-04-06
+|source={{own}}
+|author=[[User:Thomasbellooficial|Thomasbellooficial]]
+|permission=
+|other versions={{vector version available|Flag of Venezuela (1954-2006).svg}}
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:PNG flags of Venezuela]]
+[[Category:Flags of the Republic of Venezuela]]

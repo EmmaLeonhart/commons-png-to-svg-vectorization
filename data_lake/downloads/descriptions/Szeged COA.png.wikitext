@@ -1,0 +1,28 @@
+{{vva|HUN Szeged Címer.svg}}
+
+== {{int:filedesc}} ==
+{{COAInformation
+ |blazon of      = {{de|1=''der [[Magyarország|ungarischen]] Stadt [[:Category:Szeged|Szeged]]''}}{{en|1=''the [[Magyarország|Hungarian]] city of [[:Category:Szeged|Szeged]]''}}{{hu|1=''[[:Category:Szeged|Szeged]] város, [[:Category:Csongrád County|Csongrád megye]]''}}{{pl|1=''miasta [[:Category:Szeged|Segedyn]]''}}
+ |blazon         = {{de|1=''„Ein von Blau und Gold gespaltener Renaissanceschild. Vorne zwei silberne Schrägbalken, hinten am Spalt ein halber schwarzer Adler, der in seiner Linken ein goldenes Zepter hält.<br/> Auf dem oberen Schildrand ruht ein hersehender silberner Helm, das Visier geschlossen, mit einer goldenen Halskette mit goldenem Medaillion, gekrönt durch eine offene Helmkrone mit fünf Zacken (drei Blattzinken und dazwischen zwei Perlenzinken), geziert mit Rubinen und Saphiren, als Helmschmuck auf grünem Boden ein nach vorn gewandtes silbernes Lamm.<br/> Die Helmdecken sind vorn rot und silber, hinten blau und gold.“''}}{{hu|1=''„Álló, [[:Category:Azure (blue in heraldry)|kékkel]] és [[:Category:Or (yellow in heraldry)|arannyal]] [[:Category:Party per pale shields|hasított]] reneszánsz pajzs. Jobb oldali, kék mezejében két jobb haránt [[:Category:Argent (white in heraldry)|ezüst]] pólya helyezkedik el. A bal oldali arany mezőben kiterjesztett szárnyú, balra néző, fegyverzett [[:Category:Sable (black in heraldry)|fekete]] [[:Category:Demi-eagles in heraldry|fél sas]] karmában aranyos [[:Category:Sceptres in heraldry|jogart]] tart.<br/> A pajzs felső élén zárt rostélyú, szembe néző, ezüst [[:Category:Heraldic helmets|harci sisak]] található, nyakában aranyszalagon aranymedalion. A sisakon nyitott, ötágú (három levél között két gyöngy) rubinokkal és zafírokkal díszített, arany leveleskorona van, a [[:Category:Heraldic crests|sisakdísz]] [[:Category:Vert (green in heraldry)|zöld]] talajon álló, jobbra lépő ezüst [[:Category:Lambs in crest|bárány]].<br/> A [[:Category:Heraldic lambrequins|foszlányok]]: jobbról [[:Category:Gules (red in heraldry)|vörös]] és ezüst, balról kék és arany.“''}}
+ |references     = {{hu|1=''[http://www.nemzetijelkepek.hu/onkormanyzat-szeged.shtml Magyar nemzeti és történelmi Jelképek: Szeged város (Csongrád megye)]''}}
+ |description    = {{hu|1=A város kiváltságlevelében megfogalmazzák címerének leírását is: „álló, hasított katonai pajzs, jobb felén két folyó - a [[:Category:Tisza|Tiszát]] és a [[:Category:Mureş/Maros|Marost]] jelképezve - kék mezőben fut és folyik alá, a pajzs bal oldalán felezett sas kiterjesztett szárnnyal, lába karmával aranyos jogart tartva ezüst mezőben, természethűen lefestve látható … a pajzson épp csak ráhelyezett rostélyos vagy nyitott katonai sisak van királyi diadémmal és egy, a korong felett álló ezüstbárányt díszként elővezetve… a sisak csúcsáról innen (jobbról) ezüst és vörös, onnan (balról) pedig arany és kék foszlányokkal vagy szalagokkal” ékesített. Az eltérés a bal mező esetében szembeötlő, hogy ez mikor következett be, nincs adatunk rá, de az 1993-ban kiadott „Szeged város jelképeiről“ szóló közgyűlési rendeletben már úgy szerepel.}}
+ |date           = 1993
+ |artist         = [[:hu:Szeged|Szeged]] város
+ |source         = http://www.nemzetijelkepek.hu/pictures/onkormanyzat/Szeged.jpg   
+ |permission     = {{PD-Coa-Hungary}} 
+ |versions       = <gallery>
+HUN Szeged COA.jpg|JPG
+Szeged államszocialista címere.svg|Szeged államszocialista címere
+</gallery>
+}}
+
+{{DEFAULTSORT:Szeged}}
+
+[[Category:Location not applicable]]
+[[Category:Coats of arms of Szeged| PNG]]
+[[Category:Crowned heraldic helmets]]
+[[Category:Demi-eagles sable in heraldry]]
+[[Category:Heraldic helmets affronty]]
+[[Category:Lambs in crest]]
+[[Category:Or an eagle sable]]
+[[Category:Dimidiation in heraldry]]

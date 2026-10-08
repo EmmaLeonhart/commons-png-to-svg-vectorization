@@ -1,0 +1,18 @@
+{{lowercase title}}
+== {{int:filedesc}} ==
+{{Information
+|Description    ={{en|1=Apple iPhone 5 in white, image rendered}}
+{{de|1=Apple iPhone 5 in weiß, Rendering}}
+|Source         =http://www.pixeden.com/psd-mock-up-templates/3/4-view-iphone-5-psd-vector-mockup
+|Author         =Pixeden.com
+|Date           =2012-09-20
+|Permission     = [http://www.pixeden.com/articles/pixeden-license-explained#jacommentid:1328 Permisson] ([http://www.pixeden.com/license General License])
+{{PermissionTicket|id=2012110210009284}}
+|other_versions =[[File:IPhone5black.png|thumb|100px|left|black]][[File:IPhone5whiteV2.png|thumb|100px|other white view]]
+}}
+
+[[Category:IPhone 5]]
+[[Category:White mobile phones]]
+
+== {{int:license-header}} ==
+{{Cc-by-3.0}}

@@ -1,0 +1,19 @@
+=={{int:filedesc}}==
+
+{{Artwork
+ |author             = {{Original uploader|Netoholic|c}}
+ |source             = {{own}}
+ |object type        = digital art
+ |description        = {{en|An image consisting of a single transparent pixel.}}{{pt|Uma imagem contendo um único pixel transparente.}}
+ |date               = 2005-02-07
+ |medium             = [[:en:Digital painting|digital]]
+ |dimensions         = 1 × 1 px
+ |notes              = {{en|[original caption] This is a 1x1 graphic, with transparency set to its single color.}}
+ |other_versions     = See [[:Category:Transparent pixels]]
+}}
+
+=={{int:license-header}}==
+{{PD-ineligible}}
+
+[[Category:Files with 404 errors (file history)]]
+[[Category:Transparent pixels]]

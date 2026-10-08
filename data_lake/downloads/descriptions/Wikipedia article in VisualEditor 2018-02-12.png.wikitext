@@ -1,0 +1,17 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Screenshot  of article being edited in Visual Editor, to update a historic shot at [[:File:Wikipedia article in VisualEditor 2015-04-17.png]]. Note that "Save changes" is now named "Publish changes"}}
+|date=2018-02-12
+|source=https://en.wikipedia.org/wiki/Croup
+|author=Wikipedia authors.  See the history of [[w:Croup]]
+|permission={{Wikipedia-screenshot|1=en|logo=no}}
+|other versions=<gallery>
+File:Wikipedia article in VisualEditor 2015-04-17.png|{{#language:en}} ({{date|2015|4|17}})
+File:Wikipedia article in VisualEditor 2021-10-10-ko.png|{{#language:ko}} ({{date|2021|10|10}})
+File:Chinese Wikipedia article in VisualEditor (zh-hans).png|{{#language:zh-hans}} ({{date|2025|11|15}})
+</gallery>
+}}
+
+[[Category:Wikipedia screenshots]]
+[[Category:VisualEditor]]
+[[Category:Wikipedia editing]]

@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Map of the major buildings of Heijokyo at the end of the 8th century. Source: Tanaka Migaku, ''Heijō-kyō, Iwanami shoten, 1984, p. 4.}}
+|date=2012-07-16
+|source={{own}}
+|author=[[User:Binabik155|Binabik155]]
+|permission=
+|other_versions=[[:File:Heijokyo - Map of major buildings.svg|SVG version]] ; [[:File:Heijokyo - carte des principaux édifices.png|French version]]
+|other_fields=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-3.0}}
+
+[[Category:Maps of Heijō-kyō]]

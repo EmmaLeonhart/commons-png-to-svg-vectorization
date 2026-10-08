@@ -1,0 +1,19 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|1 =[[:en:Wikipedia:WikiProject Trains|WikiProject Trains]] article image needed. Generic image to promote participation in adding related images to an article without one. P}}
+|Source={{own}}
+|Date=2007-12-05
+|Author='''[[:en:User:Dp67|<span style="color: red;">''DP''</span><span style="color: black;">''67''</span>]]''' ([[:en:User talk:Dp67|<sup><i>''talk''</i></sup>]]/[[:en:Special:Contributions/Dp67|<sub><i>''contribs''</i></sub>)]]
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{PD-user-en|Dp67}}
+
+== {{Original upload log}} ==
+{{transferred from|en.wikipedia|Betacommand|CommonsHelper}} {{original description|en.wikipedia|Project_Trains_no_image.png}}
+* 2007-12-10 02:47 [[:en:User:Dp67|Dp67]] 200×200× (40533 bytes)
+* 2007-12-05 23:34 [[:en:User:Dp67|Dp67]] 300×300× (49812 bytes) ''<nowiki>{{Information |Description = [[Wikipedia:WikiProject Trains|WikiProject Trains]] article image needed. Generic image to promote participation in adding related images to an article without one. |Source = Created by self |Date = 5 December, 2007 |Author = </nowiki>''
+
+[[Category:Wikipedia image placeholders]]

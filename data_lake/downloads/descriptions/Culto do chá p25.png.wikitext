@@ -1,0 +1,19 @@
+=={{int:filedesc}}==
+{{Information
+|description={{pt|1=Ilustração na obra ''O culto do chá''.}}
+|date=1905
+|source=[[:File:O culto do chá.pdf|O culto do chá]]
+|author=[[d:Q27920872|Yoshiaki Utagawa]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+
+{{PD-old-100}}
+
+[[Category:O culto do chá]]
+[[Category:Saicho in art]]
+{{ImageNote|id=1|x=302|y=392|w=43|h=117|dimx=353|dimy=575|style=2}}
+[[d:Q27920872|芳明]][[:en:wikt:畫|畫]]
+{{ImageNoteEnd|id=1}}

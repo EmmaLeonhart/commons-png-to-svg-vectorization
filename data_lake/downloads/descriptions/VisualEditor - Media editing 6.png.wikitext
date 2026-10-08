@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Screenshot of VisualEditor; Editing media}}
+|date=2013-06-30
+|source={{own}}
+|author=[[User:Guillom|Guillaume Paumier]]
+|permission=
+|other_versions=
+|other_fields=
+}}
+
+=={{int:license-header}}==
+{{Wikipedia-screenshot}}
+
+
+[[Category:VisualEditor]]

@@ -1,0 +1,15 @@
+== {{int:filedesc}} ==
+{{Information
+ |description = {{en|A variant of the image [[:Image:Wikipe-tan.jpg]] from the author [[:ja:利用者:Kasuga~jawiki]] to use in stub template in Russian Wikipedia.}}
+ |date = 
+ |source = {{own assumed}}
+ |author = {{Author assumed|[[User:A.I.|A.I.]]}}
+ |permission = 
+ |other_versions = 
+}}
+== {{int:license-header}} ==
+{{Self|GFDL|Cc-by-sa-3.0-migrated}}
+{{Vector version available|Anime stub 2.svg}}
+[[Category:Culture stub icons]]
+[[Category:Stub icons with puzzle pieces]]
+[[Category:Wikipe-tan icons]]

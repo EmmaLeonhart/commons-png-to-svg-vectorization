@@ -1,0 +1,18 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|U+1BC1A Duployan letter N}}
+|Source={{transferred from|en.wikipedia|Stefan4}}
+|Date={{original upload date|2011-06-09}}
+|Author={{user at project|Vanisaac|wikipedia|en}}
+|Permission= 
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{PD-text}}
+
+== {{Original upload log}} ==
+{{original description page|en.wikipedia|1bc1a.png}}
+* 2011-06-09 16:01 [[:en:User:Vanisaac|Vanisaac]] 60×60× (1288 bytes) ''<nowiki>U+1BC1A Duployan letter N</nowiki>''
+
+[[Category:Duployan letters PNG]]

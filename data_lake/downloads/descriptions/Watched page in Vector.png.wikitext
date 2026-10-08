@@ -1,0 +1,12 @@
+{{Information
+|Description=Shows a page in the Vector skin that is being watched. The inside of the star is blue
+|Source={{own}}
+|Date=2010-09-19
+|Author=MediaWiki developers
+|Permission=
+|other_versions=
+}}
+
+{{free screenshot|license={{GPL}}}}
+[[Category:Vector skin]]
+[[Category:English-language screenshots]]

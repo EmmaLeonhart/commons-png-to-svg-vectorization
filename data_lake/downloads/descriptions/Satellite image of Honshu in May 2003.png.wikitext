@@ -1,0 +1,18 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Satellite image of Honshu, the biggest island of Japan. Taken from NASA's Visible Earth http://visibleearth.nasa.gov/cgi-bin/viewrecord?25391}}
+{{ja|1=本州の衛星画像、日本最大の島。}}
+|date=2003-05-01
+|source=Cropped from http://visibleearth.nasa.gov/view_rec.php?id=5319
+|author=Jeff Schmaltz, MODIS Rapid Response Team, NASA/GSFC
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-USGov-NASA}}
+
+[[Category:Honshu]]
+[[Category:Maps of Honshu]]
+[[Category:Satellite pictures of Japan]]
+[[Category:Japanese Archipelago]]

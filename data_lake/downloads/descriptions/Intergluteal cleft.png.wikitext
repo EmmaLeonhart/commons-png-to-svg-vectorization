@@ -1,0 +1,14 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|Intergluteal cleft}}
+|Source=[[:File:Male human buttocks.jpg]]
+|Date=2019-09-01
+|Author=[[User:Neitram]] (Photographer)
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{cc-by-sa-3.0}}
+
+[[Category:Intergluteal cleft]]

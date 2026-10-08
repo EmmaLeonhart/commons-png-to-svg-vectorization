@@ -1,0 +1,17 @@
+{{Should be svg|flag}}
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Pre-1953 drawing of the Californian state flag, from 1924.}}
+|date={{Circa|1924|12|31}}
+|source={{Derived from|California State Flag (CA Blue Book 1924).jpg}}
+|author=CA Blue Book 1924 
+|permission=
+|other versions={{Attrib|California State Flag (CA Blue Book 1924).jpg}}
+}}
+
+=={{int:license-header}}==
+{{PD-US expired}}
+{{Convert to SVG|flag}}
+
+[[Category:1900 works in the United States]]
+[[Category:Flag of California (1911–1953)]]

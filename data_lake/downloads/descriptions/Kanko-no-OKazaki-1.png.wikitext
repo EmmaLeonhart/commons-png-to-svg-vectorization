@@ -1,0 +1,18 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ja|1=1961年1月1月、岡崎市六供町の[[:ja:甲山1号墳 (岡崎市)|甲山1号墳]]の墳頂部にサイレン塔「たつきの鐘」が設置された。1971年にミュージックテープが導入され、朝6時に「草競馬」が流れ、夕方6時に「七つの子」が流れた。}}
+|date={{published in|1963}}
+|source=「観光の岡崎」1963年。
+|author={{ja|[[:ja:岡崎市|岡崎市]]}}{{en|[[:en:Okazaki, Aichi|Okazaki city]]}}
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-Japan-organization}}
+
+[[Category:Kabutogoshi, Rokku-chō, Okazaki]]
+[[Category:Buildings in Okazaki, Aichi]]
+[[Category:History of Okazaki]]
+[[Category:Black and white photographs of Japan in the 1960s]]
+[[Category:Towers in Aichi prefecture]]

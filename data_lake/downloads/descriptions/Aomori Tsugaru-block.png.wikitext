@@ -1,0 +1,18 @@
+<!--This file was moved here using FileImporter from https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Aomori_Tsugaru-block.png-->
+== {{int:filedesc}} ==
+{{Information
+|Description    = {{ja|Wikipediaにすでにアップロード済みの[[:File:Aomori.png]]に手を加えたもの}}
+
+|Source         = [[:File:Japan map.png]]
+|Date           = 
+|Author         = * 改変元：著作権・使用制限テンプレート参照
+* 改変部分：アップロード者
+|Permission     = {{Japan map}}
+|other_versions = 
+}}
+
+== {{int:license-header}} ==
+{{GFDL|migration=redundant}}
+{{Cc-by-sa-3.0}}
+
+[[Category:Maps of districts in Aomori prefecture]]

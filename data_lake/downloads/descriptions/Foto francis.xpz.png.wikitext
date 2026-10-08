@@ -1,0 +1,14 @@
+=={{int:filedesc}}==
+{{Information
+|description={{es|1=Fotografia mia}}
+|date=2025-01-21
+|source={{own}}
+|author=[[User:LABUCA|LABUCA]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-zero}}
+
+{{Uncategorized|year=2025|month=January|day=21}}

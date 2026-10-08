@@ -1,0 +1,27 @@
+{{Vector version available|Canadian Red Ensign (1905–1922).svg}}
+
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|Unofficial flag of Canada from 1907 to 1921.}}
+|Source={{Own}} ({{original text|1=self-made, based primarily on [[:en:Image:Flag of Canada-1868-Red.svg|:Image:Flag of Canada-1868-Red.svg]]|nobold=1}})
+|Date=1907
+|Author=[[:en:User:Orange Tuesday|Orange Tuesday]] ([[:en:User talk:Orange Tuesday|talk]])
+|Permission={{PD-old-100-1923}}
+|other_versions=
+|other_fields=
+}}
+
+== {{int:license-header}} ==
+{{PD-user-en|Orange Tuesday}}
+
+== {{Original upload log}} ==
+{{transferred from|en.wikipedia|Guerillero|CommonsHelper}} {{original description page|en.wikipedia|Canadian_Red_Ensign_1907.png}}
+* 2008-05-01 18:12 [[:en:User:Orange Tuesday|Orange Tuesday]] 900×450× (69416 bytes) ''<nowiki>Small patch of gray should be white.</nowiki>''
+* 2008-04-20 15:43 [[:en:User:Orange Tuesday|Orange Tuesday]] 900×450× (70522 bytes) ''<nowiki>{{Information |Description=Unofficial flag of Canada from 1907 to 1921. |Source=self-made, based primarily on [[:Image:Flag of Canada-1868-Red.svg]] |Date= |Author=~~~ |other_versions= }}</nowiki>''
+
+[[Category:1907 works in Canada]]
+[[Category:Canadian Red Ensign]]
+[[Category:Flags of former colonies of the United Kingdom]]
+[[Category:Flags with 1 crown]]
+[[Category:Red Ensigns (British Empire)]]
+[[Category:Union Jack cantons]]

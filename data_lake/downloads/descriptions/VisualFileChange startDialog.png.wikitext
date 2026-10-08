@@ -1,0 +1,19 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=The start-dialog: Fill in the user - and optionally - where to start and in which direction to step (sorting).
+
+VisualFileChange uses IntelliGuess to pre-fill the dialog: Just try it!}}
+|date=2012-02-15
+|source={{own}}, [[:File:GeoGebra icon help.png]], [[:Category:Crystal Project Easy Notice Icons]], [http://jqueryui.com/themeroller/ themeroller@jquery]
+|author=Icons: The jQuery UI-Team, Everaldo Coelho; Help icon: Markus Hohenwarter, Michael Borcherds; Thumbs: Rainer Rillke (User:Rillke)
+|permission=
+|other_versions=
+|other_fields=
+}}
+
+=={{int:license-header}}==
+{{Free screenshot|template=GPL}} 
+=== Thumbs ===
+{{self|GFDL|cc-by-sa-3.0}}
+
+[[Category:Screenshots of VisualFileChange]]

@@ -1,0 +1,14 @@
+== {{int:filedesc}} ==
+{{Information
+|Description=A green world map. Based on [http://upload.wikimedia.org/wikipedia/commons/archive/c/cf/20051110080552!A_large_blank_world_map_with_oceans_marked_in_blue.PNG], borders and small islands have been removed, seas cropped.
+|Source=http://upload.wikimedia.org/wikipedia/commons/archive/c/cf/20051110080552!A_large_blank_world_map_with_oceans_marked_in_blue.PNG
+|Date=2008-05-27
+|Author=Derivative work: [[User:Gaaarg|Gaaarg]]
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{self|GFDL|Cc-by-sa-3.0-migrated|Cc-by-sa-2.5,2.0,1.0}}
+
+[[Category:Blank maps of the world]]

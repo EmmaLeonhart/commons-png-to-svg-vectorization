@@ -1,0 +1,19 @@
+{{SVG|map}}
+== {{int:filedesc}} ==
+{{Information
+|Description= Map of Kumano Kodo, of the [[:Category:Sacred sites and pilgrimage routes in the Kii mountain range|Sacred sites and pilgrimage routes in the Kii mountain range]]
+|Source=  modified from Japanse wiki [http://ja.wikipedia.org/wiki/%E7%94%BB%E5%83%8F:Map_Kumano_Kodo.png]
+{{derived from|Map Kumano Kodo (ja).png}}
+|Date=2008-01-28 11:51 (UTC)
+|Author=[[:ja:利用者: Yosemite]] 
+|Permission=PD
+|other_versions=[[Image:Map Kumano Kodo (ja).png|100px]]
+}}
+
+== {{int:license-header}} ==
+{{PD-User|Yosemite|ja}}
+
+[[Category:Sacred sites and pilgrimage routes in the Kii mountain range|01]]
+[[Category:Kumano-Nachi-shrine]]
+[[Category:Trails in Japan]]
+[[Category:Hiking maps of Japan]]

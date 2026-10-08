@@ -1,0 +1,21 @@
+== {{int:filedesc}} ==
+{{Information
+|Description=Map: [[Canada]] – geopolitical
+
+Drawn and adapted by [[:en:User:E Pluribus Anthony|E Pluribus Anthony]] from [http://atlas.gc.ca/site/english/maps/reference/national/can_political_e Atlas of Canada]
+
+Edited by [[:en:User:Heqs]]/[[:en:User:Cogito ergo sumo]] to show disputed nature of Canada's marine international boundary claims; see [[:en:Canada-United_States_border#Remaining_boundary_disputes]]; further edited by [[:en:User:Bosonic dressing|Bosonic dressing]] to reflect agreed maritime boundary between Canada and Greenland/Denmark: see http://www.dur.ac.uk/resources/ibru/arctic.pdf
+
+|Source=Originally from [http://en.wikipedia.org en.wikipedia]; description page is/was [http://en.wikipedia.org/w/index.php?title=Image%3AMap_Canada_political-geo.png here].
+|Date={{original upload date|2006-03-11}}
+|Author=Original uploader was [[:en:User:E Pluribus Anthony|E Pluribus Anthony]] at [http://en.wikipedia.org en.wikipedia]
+Later versions were uploaded by [[:en:User:AThing|AThing]], [[:en:User:Heqs|Heqs]], [[:en:User:Cogito ergo sumo|Cogito ergo sumo]] at [http://en.wikipedia.org en.wikipedia].
+|Permission=Released into the public domain (by the author).
+|other_versions={{DerivativeVersions|Map Canada political-geo-be-x-old.png}}
+
+}}
+
+== {{int:license-header}} ==
+{{PD-user-w|en|wikipedia|E Pluribus Anthony}}
+
+[[Category:Political maps of Canada]]

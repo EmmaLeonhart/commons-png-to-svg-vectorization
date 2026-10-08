@@ -1,0 +1,15 @@
+== {{int:filedesc}} ==
+{{Information
+|Description= {{en|Sports icon for Portals}}
+{{mk|Спортска икона за портали.<br/>Прикажани се топка за фудбал, безбол и кошарка.}}
+|Source= {{own}}
+|Date= 2006-10-6 21:25 (UTC)
+|Author= [[User:Pepetps|Pepetps]]
+|Permission= 
+|other_versions={{vva|Sport balls}}
+}}
+== {{int:license-header}} ==
+{{PD-self}}
+
+[[Category:Balls icons]]
+[[Category:Baseball icons]]

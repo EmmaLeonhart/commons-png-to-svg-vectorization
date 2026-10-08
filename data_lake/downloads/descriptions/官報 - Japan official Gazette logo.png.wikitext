@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+| description = {{zh-cn|1=Official Gazette (Japan)}}
+| date = 2017-11-29
+| source = {{own}}
+| author = [[User:Bxxiaolin|Bxxiaolin]]
+| permission = 
+| other versions = {{vva|官報 - Japan official Gazette logo.svg}}
+}}
+
+=={{int:license-header}}==
+{{PD-Textlogo}}{{PD-Japan-exempt|type=logos and emblems}}
+
+[[Category:Official Gazette (Japan)]]
+[[Category:Sanetomi Sanjō]]

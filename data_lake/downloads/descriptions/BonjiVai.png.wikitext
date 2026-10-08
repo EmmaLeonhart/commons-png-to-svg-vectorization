@@ -1,0 +1,14 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ja|1=梵字vaiビ　毘沙門天の種子字}}
+|date=2019-05-01
+|source={{own}}
+|author=[[User:Blueknight611jp|Blueknight611jp]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Vai (Siddham script)]]

@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Stone at the entrance of Osaka University Toyonaka campus with the name of the university engraved on it.}}
+|date=2011-11-06
+|source={{own}}
+|author=[[User:GaiJin|GaiJin]]
+|permission=
+|other_versions=
+|other_fields=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-3.0}}
+
+[[Category:Toyonaka Campus, University of Osaka]]

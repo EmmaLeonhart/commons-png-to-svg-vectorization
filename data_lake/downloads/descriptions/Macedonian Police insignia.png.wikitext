@@ -1,0 +1,19 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Insignia of the Ministry of Internal Affairs of the Republic of Macedonia.}}
+|date=2012-05-19
+|source={{own}}
+|author=[[User:Модернист|Модернист]]
+|permission=
+|other_versions=
+|other_fields=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-3.0}}
+
+
+
+{{Template:Insignia}}
+
+[[Category:Police patches of North Macedonia]]

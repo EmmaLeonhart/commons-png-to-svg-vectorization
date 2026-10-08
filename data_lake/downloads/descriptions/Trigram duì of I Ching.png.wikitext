@@ -1,0 +1,18 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{Mld
+  |de = Trigramme ''duì'' des [[:de:I Ging|''I Ging'']].
+  |en = Trigram of lake (''duì'') ☱ (U+2631), described in the [[:en:I Ching|''I Ching'']].
+  |fr = Trigramme du lac (''duì'', ''touei'') ☱ (U+2631), décrit dans le « Classique des mutations » ([[:fr:Yi Jing|''Yi Jing'' ou ''Yi-king'']]).
+  }}
+|Date=31-01-2004
+|Source= [[:ja:Da .png]]
+|Author= [[:ja:User:Rai koku]]
+}}
+{{Vector version available|Trigramme2631 ☱.svg}}
+
+== {{int:license-header}} ==
+{{PD-shape}}
+
+[[Category:I Ching trigrams obsoleted by SVG replacement|X1]]
+[[Category:Trigram for lake]]

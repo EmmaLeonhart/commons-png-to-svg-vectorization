@@ -1,0 +1,14 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ja|1=三角縁神獣鏡の部分名称}}
+|date=2021-04-17
+|source={{own}}
+|author=[[User:あずきごはん|あずきごはん]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Bronze mirrors of Japan]]

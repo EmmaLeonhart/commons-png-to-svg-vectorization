@@ -1,0 +1,15 @@
+{{vector version available|P globe.svg}}
+== {{int:filedesc}} ==
+{{Information
+|Description=Globe Icon
+|Source={{own assumed}}
+|Date=2007-04-15
+|Author=[[User:MayaSimFan]] (this version)
+|Permission=
+|other_versions=[[:Image:P globe.svg]]
+}}
+
+== {{int:license-header}} ==
+{{GFDL|migration=relicense}}
+
+[[Category:Black globe icons]]

@@ -1,0 +1,18 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Sutra art from the Heike-Nôkyô. The mikaeshi of chapter 12. The daughter (Longnü) of the Dragon King offers the Buddha her priceless jewel (pearl). With this anecdote, the Lotus Sutra proclaims that women can become Buddhas like men. After that she turns into a man and immediately attains the highest enlightenment of a Buddha. 
+The Heike-nôkyô is a masterpiece of the decorated sutra. It is dedicated by Taira no Kiyomori (1118-81) to Itsukushima Jinja shrine in 1164, is one of the masterpieces of decorated sutras ( sôshoku kyô ) made by aristocrats in the 11th and 12th centuries.}}
+{{ja|平家納経}}
+|date=Circa 1150 (mid 12th century)
+|source=Culture Japonaise.info https://culturejaponaise.info/albums/heikenokyo/index.html
+|author=Unknown, made by aristocrats
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-Art|PD-old-100}}
+
+[[Category:Heike Nokyo]]
+[[Category:Chapter 12: Devadatta (Lotus Sutra)]]
+[[Category:Nāgakanya]]

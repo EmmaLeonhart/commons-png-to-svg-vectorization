@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Highlighting Taxonbar placement on [[w:Cuckoo wasp|Cuckoo wasp]] article from the English Wikipedia. Screenshot taken using web browser [[Firefox]] v. 55, edited with [[w:Paint.net|Paint.net]].}}
+|date=2017-08-06
+|source=Wikipedia
+|author=Wikipedia editors
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{Wikipedia-screenshot}}
+
+[[Category:Wikipedia screenshots]]
+[[Category:English Wikipedia screenshots]]
+[[Category:Modèle:Taxonbar]]

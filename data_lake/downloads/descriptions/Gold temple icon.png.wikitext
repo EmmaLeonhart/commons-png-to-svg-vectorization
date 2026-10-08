@@ -1,0 +1,17 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|1=Thai-style gable, intended for use as an icon}}
+|Source={{own}}
+|Author=Himalayan Explorer based on [[User:Paul 012|Paul_012]]
+|Date=2009-10-13
+|Permission=GFDL, CC-By-SA 3.0
+|other_versions=-[[:File:Thai building icon.png]]
+}}
+
+== {{int:license-header}} ==
+{{self|cc-by-sa-3.0|GFDL}}
+
+[[Category:Culture stub icons]]
+[[Category:Building icons]]
+[[Category:Gables in Thailand]]
+[[Category:Symbols of Thailand]]

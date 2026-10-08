@@ -1,0 +1,18 @@
+== {{int:filedesc}} ==
+{{Information
+|description={{ms|1=Lakonan Kabuki}}
+|date={{original upload date|2007-12-30}}
+|source={{Own}}<br />Transferred from [http://ms.wikipedia.org ms.wikipedia]
+|author=[[:ms:User:Kiedd 07|Kiedd 07]] at [http://ms.wikipedia.org ms.wikipedia]
+|permission=
+|other_versions=
+}}
+== {{int:license-header}} ==
+{{PD-user-w|ms|wikipedia|Kiedd 07}}
+
+== {{Original upload log}} ==
+{{original description page|ms.wikipedia|Kabuki.png}}
+* 2007-12-30 01:06 [[:ms:user:Kiedd 07|Kiedd 07]] 343×391 (335639 bytes) ''<nowiki></nowiki>''
+
+[[Category:Kabuki]]
+[[Category:Arms spread]]

@@ -1,0 +1,16 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{de|Wird die Länge des tropischen Jahres definiert als das Zeitintervall, welches die Sonne zur Rückkehr zum selben Punkt auf ihrer scheinbaren jährlichen Bahn benötigt, so hängt die Jahreslänge von der Wahl des Startpunkts ab und weist eine merkliche Schwankung mit einer Periode von etwa 21000 Jahren auf.  Die moderne Definition wird von der momentanen Änderungsgeschwindigkeit der mittleren Länge der Sonne abgeleitet; sie ist unabhängig von einem Startpunkt und unterliegt nur einer schwachen langperiodischen Schwankung.}}
+{{en|The length of the tropical year, when defined as the time interval needed by the sun to return to the same point in its apparent yearly orbit, depends on where in the orbit the starting point is selected and shows a wobble with a period of about 21000 years. The modern definition, based on the rate of change of the sun's mean longitude, is independent of any reference points and has only a weak, long-period wobble.}}
+|Source=drawn by myself, using the orbital data provided by J. Meeus: ''More Mathematical Astronomy Morsels'', Willmann-Bell 2002, chapter 63 (and due to Simon et al., 1994). The "360°" curve is the reciprocal of the instantaneous rate of change of the sun's mean longitude, expressed in ephemeris days per 360°. The other curves are the time intervals (expressed in ephemeris days) needed by the sun's ecliptical longitude (calculated from the mean orbital elements) for one full revolution, starting and ending at the spring equinox, the summer solstice, the autumnal equinox and the winter solstice, respectively.
+|Date=2006-04-26
+|Author=[[user:Sch|Sch]]
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{GFDL|migration=relicense}}
+
+[[Category:Time diagrams]]
+[[Category:Ephemeris]]

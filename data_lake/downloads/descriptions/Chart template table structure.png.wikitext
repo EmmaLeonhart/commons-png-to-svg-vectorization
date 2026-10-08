@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Demonstration of table created when using the Chart template}}
+{{ar|1=كيفية تكوين الجدول عن استخدام قالب chart}}
+|date=2017-11-07
+|source={{own}}
+|author=[[User:Jak|Jak]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Wikimedia graphics]]
+[[Category:English-language family trees]]

@@ -1,0 +1,15 @@
+== {{int:filedesc}} ==
+{{Information
+|Description=Screenshots and mockups for the Wikimedia Foundation's Notifications project.  [http://mediawiki.org/wiki/Echo  Learn more].
+
+|Source=Wikimedia Foundation
+|Date=2013-08-01
+|Author=Fabrice Florin, for the Wikimedia Foundation
+|Permission=
+|other_versions=
+}}
+== {{int:license-header}} ==
+{{cc-by-sa-3.0}}
+
+[[Category:Echo (Notifications) extension]]
+[[Category:Echo project (Wikimedia)]]

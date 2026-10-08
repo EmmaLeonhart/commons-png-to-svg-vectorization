@@ -1,0 +1,13 @@
+== {{int:filedesc}} ==
+{{Information
+|Description    ={{en|1=Screenshot for VisualFileChange Documentation}}
+{{de|1=Bildschirmfoto für die Dokumentation von VisualFileChange}}
+{{vi|1=Hình chụp màn hình cho HDSD VisualFileChange}}
+|Source         ={{own}}
+|Author         =[[User:Jeff G.|Jeff G.]]
+|Date           =2018-06-24
+|Permission     ={{User:Jeff G./Created image}}{{self|GFDL|cc-by-sa-4.0,3.0,2.5,2.0,1.0|author=[[user:Jeff G.{{!}}Jeff G.]]}}
+|other_versions =
+}}
+
+[[Category:Screenshots of VisualFileChange]]

@@ -1,0 +1,27 @@
+== {{int:filedesc}} ==
+{{Photograph
+|wikidata=Q116207451
+|description={{en|1=The Imperial Household Agency chose Uchida Kuichi, one of the most renowned photographers in Japan at the time, as the only artist permitted to photograph the Meiji Emperor in 1872 and again in 1873. Up to this point, no emperor had ever been photographed. Uchida established his reputation making portraits of samurai loyal to the ruling Tokugawa shogunate. }}{{ja|明治6年（1873年）10月、内田九一によって撮影された明治天皇肖像写真（めいじ てんのう）。}}
+|date=1873-10
+|department={{institution
+ |wikidata=Q67429146
+ }}
+|references=Kanagawa Prefectural Museum of Cultural History (神奈川県立歴史博物館蔵)
+|source={{SourceMetropolitan|264743}}
+|permission={{TheMet}}
+|other versions=
+}}
+
+== {{int:license-header}} ==
+{{licensed-PD
+ |{{PD-scan
+  |PD-old-auto-expired
+  |deathyear=1875
+ }}
+ |{{cc-zero}}
+}}
+
+[[Category:Official portrait photograph of Emperor Mutsuhito (1873)]]
+[[Category:19th-century portrait photographs in the Metropolitan Museum of Art]]
+[[Category:Albumen prints in the Metropolitan Museum of Art]]
+[[Category:The Elisha Whittelsey Collection]]

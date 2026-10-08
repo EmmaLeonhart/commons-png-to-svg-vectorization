@@ -1,0 +1,23 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=City icon (colombia flag-icon)}}
+|date=2013-05-12 18:37:27
+|source= 
+<gallery>
+Ciudad.svg|[[User:Ecelan|Ecelan]]<br><nowiki>{{self|GFDL|cc-by-sa-all}}</nowiki>
+Flag of Colombia.svg|[[User:SKopp|SKopp]]<br><nowiki>{{Insignia}}</nowiki><br><nowiki>{{PD-shape|PD-self}}</nowiki>
+</gallery>
+|author=[[User:Dr Brains|Dr Brains]]
+|permission=
+|other_versions=
+<gallery>
+COL-city icon (2).png
+</gallery>
+|other_fields=
+}}
+
+=={{int:license-header}}==
+{{cc-by-sa-3.0}}
+
+[[Category:Flags of Colombia icons]]
+[[Category:Cityscapes icons]]

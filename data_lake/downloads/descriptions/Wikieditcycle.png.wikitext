@@ -1,0 +1,16 @@
+{{Vector version available|Wikieditcycle.svg}}
+{{Information
+|Description={{en|Author:Daniel Adams (me)}}
+|Source={{transferred from|en.wikipedia}}
+|Date={{original upload date|2006-12-10}}
+|Author={{original uploader|PocklingtonDan|en}}
+|Permission={{PD-user-w|en|wikipedia|PocklingtonDan}}
+|other_versions=
+}}
+
+== {{Original upload log}} ==
+{{original description page|en.wikipedia|Wikieditcycle.png}}
+* 2006-12-10 10:18 [[:en:User:PocklingtonDan|PocklingtonDan]] 229&times;184&times;8 (12029 bytes) ''<nowiki>Author:Daniel Adams (me)</nowiki>''
+
+[[Category:Cycle diagrams]]
+[[Category:Wikipedia diagrams]]

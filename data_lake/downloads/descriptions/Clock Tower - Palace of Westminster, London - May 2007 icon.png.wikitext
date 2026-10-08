@@ -1,0 +1,26 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|The Clock Tower of the Palace of Westminster, colloquially known as "Big Ben", in Westminster, London, England.}} {{fr|Tour de l'horloge du palais de Westminster, couramment nommée "Big Ben". Londres (Angleterre).}}  {{fa|برج ساعت کاخ وستمینستر، پارلمان بریتانیا در شهر لندن، که به «بیگ بن» مشهور است.}} {{ja|通称[[:w:ja:ビッグ・ベン|ビッグ・ベン]]として知られる[[:w:ja:英国|英国]]、[[:w:ja:ロンドン|ロンドン]]の[[:w:ja:ウェストミンスター宮殿|ウェストミンスター宮殿]]の時計塔。}}
+|Source={{Derived from|Clock_Tower_-_Palace_of_Westminster,_London_-_May_2007.jpg|display=50}}
+|Date=2013-10-18 07:52 (UTC)
+|Author=*[[:File:Clock_Tower_-_Palace_of_Westminster,_London_-_May_2007.jpg|Clock_Tower_-_Palace_of_Westminster,_London_-_May_2007.jpg]]: [[User:Diliff|Diliff]]
+|other_versions=[[:Image:Clock Tower - Palace of Westminster, London - September 2006.jpg]] - taken on a previous occasion with poorer lighting
+*derivative work: [[User:Fulvio314|Fulvio314]]
+|Permission=
+}}
+
+{{RetouchedPicture|crop & transparent background for using as icon|editor=Fulvio314|orig=Clock_Tower_-_Palace_of_Westminster,_London_-_May_2007.jpg}}
+
+== {{int:license-header}} ==
+{{self|User:Diliff/Licensing|Cc-by-2.5|Cc-by-sa-3.0-migrated|GFDL}}
+
+== {{Original upload log}} ==
+This image is a derivative work of the following images:
+
+*[[:File:Clock_Tower_-_Palace_of_Westminster,_London_-_May_2007.jpg]] licensed with ff/Licensing, Cc-by-2.5, Cc-by-sa-3.0-migrated, GFDL
+**2008-03-04T17:07:24Z [[User:Diliff|Diliff]] 2500x4986 (4075321 Bytes) ''<nowiki>== Summary == {{Information |Description={{en|The Clock Tower of the Palace of Westminster, colloquially known as "Big Ben", in Westminster, London, England.}} {{fr|Tour de l'horloge du palais de Westminster, couramment nomm�</nowiki>''
+
+[[Category:Big Ben clocks]]
+[[Category:Time 06:20]]
+[[Category:Cultural heritage monument icons]]
+[[Category:Tower icons]]

@@ -1,0 +1,21 @@
+== {{int:filedesc}} ==
+{{Information
+|Description = {{en|Author:  user [[:en:User:brianhe|brianhe]]}}
+|Source = {{transferred from|en.wikipedia}}
+|Date = 2005-12-27
+|Author = {{uap|Brianhe|wikipedia|en}}
+}}
+{{Vector version available|NoImageEn.svg}}
+
+== {{int:license-header}} ==
+{{GFDL-user-en-with-disclaimers|migration=relicense|Brianhe}}
+
+== {{Original upload log}} ==
+{{original description|en.wikipedia|No+image+available.png}}
+{| class="wikitable"
+! {{int:filehist-datetime}} !! {{int:filehist-dimensions}} !! {{int:filehist-user}} !! {{int:filehist-comment}}
+|-
+| 2005-12-27 22:08 || 500×200× (3797 bytes) || [[:en:User:Brianhe|Brianhe]] || ''<nowiki>Author: user brianhe</nowiki>''
+|}
+
+[[Category:English-language image placeholders]]

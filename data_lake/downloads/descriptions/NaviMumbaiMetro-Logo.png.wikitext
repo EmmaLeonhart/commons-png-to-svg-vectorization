@@ -1,0 +1,18 @@
+<!--This file was moved here using FileImporter from https://en.wikipedia.org/wiki/File:NaviMumbaiMetro-Logo.png-->
+== {{int:filedesc}} ==
+{{Information
+| Description    = {{en|Navi Mumbai Metro}}
+| Source         = http://www.navimumbaimetrorail.com/introduction.html 
+| Date           = 
+| Author         = [[:w:CIDCO|CIDCO]]
+| Permission     = 
+| other_versions = 
+}}
+== {{int:license-header}} ==
+{{PD-logo}}{{Trademarked}}
+
+[[Category:Navi Mumbai Metro]]
+[[Category:Logos of organizations of India]]
+[[Category:Purple logos]]
+[[Category:PNG logos associated with transport]]
+[[Category:NMM letter combinations]]

@@ -1,0 +1,17 @@
+{{Convert to SVG|icon}}
+== {{int:filedesc}} ==
+Another version of the picture [[:Image:Wikilove not war.png]] created by Barracocco (it.wiki). Edited by [[User:Rhanyeia|Rhanyeia]].
+== {{int:license-header}} ==
+{{Cc-by-sa-3.0}}
+{{Wikimedia trademark}}
+
+If, and only if, this image doesn't violate any copyright, then the image is released in the public domain by its author:
+{{PD-user|Barracocco}}
+
+== derivative works ==
+{{DerivativeVersions|Wikilove2 new.png}}
+
+[[Category:Wikipedia heart logos]]
+[[Category:Hearts with transparent background]]
+[[Category:Media missing infobox template]]
+[[Category:Heart icons]]

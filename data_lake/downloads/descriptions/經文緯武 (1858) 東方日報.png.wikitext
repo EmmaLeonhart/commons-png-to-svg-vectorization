@@ -1,0 +1,17 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=The seal used to sign the 1858 Treaty of Amity and Commerce between the Tokugawa Shogunate (Japan) and the United States of America.}}
+|date=1858
+|source=* [https://orientaldaily.on.cc/cnt/china_world/20180822/mobile/odn-20180822-0822_00180_035.html 德川幕府與美建交 簽約印章下月展出 - 東方日報.], [https://orientaldaily.on.cc/cnt/ orientaldaily.on.cc]. ([https://www.ecosia.org/images?q=%E5%BE%B3%E5%B7%9D%E5%B9%95%E5%BA%9C%20%2B%E5%8D%B0%E7%AB%A0&_sp=9a878d17-fec8-43ed-aed5-7c2ff0594a19#id=62EBA863E49AF4D5BA991F4BA938B7A5B2E46424 Ecosia search] / [http://orientaldaily.on.cc/cnt/china_world/20180822/photo/0822-00180-035h1.jpg Source image]). 
+
+* [https://orientaldaily.on.cc/cnt/china_world/20180822/photo/0822-00180-035b3.jpg 「經文緯武」印按壓在德川家茂署名下。], [https://orientaldaily.on.cc/cnt/ orientaldaily.on.cc].
+|author=The government of the Tokugawa Shogunate. 
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+
+{{PD-old}}
+
+[[Category:Seals of the Tokugawa shogunate]]

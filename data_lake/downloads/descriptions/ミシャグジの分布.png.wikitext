@@ -1,0 +1,21 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ja|1=ミシャグジの分布（今井野菊「御社宮司の踏査集成」に基づく）}}
+|date=2019-06-24
+|source=Source 1: http://www.freemap.jp/itemList.php?b=nagano&s=tyubu&n=%E9%95%B7%E9%87%8E
+Source 2: 
+Source 3: 今井野菊「御社宮司の踏査集成」『古代諏訪とミシャグジ祭政体の研究』古部族研究会編、人間社〈日本原初考 1〉、2017年、pp. 212-281。
+Source 4: 大和岩雄『信濃古代史考』名著出版、1990年、pp. 199-200。
+|author=Source 1, 2: 三角形（3kaku-K）、井上恵介氏（利用規約：http://www.freemap.jp/about_use_map.html）
+Derivative work: [[User:Pat457|Pat457]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{cc-zero}}
+
+[[Category:Mishaguji]]
+[[Category:Religion maps of Japan]]
+[[Category:Shrines in Nagano prefecture]]
+[[Category:Maps of Nagano prefecture]]

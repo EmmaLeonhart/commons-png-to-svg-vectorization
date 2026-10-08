@@ -1,0 +1,15 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|The toolbar of the vector skin, with the Advanced section uncollapsed. English Wikipedia}}
+|Source=MediaWiki software
+|Date=2010-05-26
+|Author=MediaWiki authors
+|Permission= 
+|other_versions= {{Other versions/UsabilityToolbar}}
+}}
+
+== {{int:license-header}} ==
+{{Wikipedia-screenshot|lang=English|logo=no}}
+
+[[Category:MediaWiki edit toolbar screenshots]]
+[[Category:WikiEditor-en]]

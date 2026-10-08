@@ -1,0 +1,18 @@
+{{Convert to SVG|coat of arms}}
+
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|Small Coat of Arms of the city of Plzeň, Czechia}}
+|Source=*[[:Image:Plzen_CoA.gif|Plzen_CoA.gif]]
+|Date=2008-09-29
+|Author=*derivative work: [[:Image:Plzen_CoA.gif|Plzen_CoA.gif]]
+|Permission=
+|other_versions={{DerivativeVersions|Plzen small CoA-2.png}}
+}}
+
+== {{int:license-header}} ==
+{{PD-CzechGov}}
+
+[[Category:Camels in heraldry]]
+[[Category:Coats of arms of Plzeň]]
+[[Category:Dogs rampant]]

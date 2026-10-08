@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Map of Suwa Taisha Kamisha Honmiya, Suwa, Nagano. Original (Japanese) version [[:File:%E8%AB%8F%E8%A8%AA%E5%A4%A7%E7%A4%BE%E4%B8%8A%E7%A4%BE%E6%9C%AC%E5%AE%AE%E5%A2%83%E5%86%85%E5%9B%B3_-_Map_of_Suwa_Shrine,_Kamisha_Honmiya.png|here]].}}
+|date=2020-05-28
+|source={{own}}
+|author=[[User:Pat457|Pat457]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Suwa Taisha Honmiya]]
+[[Category:Maps of Suwa Taisha]]

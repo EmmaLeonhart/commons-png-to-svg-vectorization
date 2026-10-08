@@ -1,0 +1,16 @@
+== {{int:filedesc}} ==
+{{Information
+|other_versions={{DerivativeVersions|Omura-yama on Kyushu map-en.jpg}}
+
+|Description= A map of the Kyūshū region (九州地方) with major islands, Kitakyūshū, prefectures and prefectural capitals indicated
+|Source= {{own}}
+|Date= 2007-05-20
+|Author= Zakuragi
+}}
+
+== {{int:license-header}} ==
+
+{{self|GFDL|Cc-by-sa-3.0-migrated|Cc-by-sa-2.5,2.0,1.0}}
+{{PD-Demis}}
+
+[[Category:Topographic maps of Kyushu]]

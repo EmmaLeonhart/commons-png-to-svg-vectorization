@@ -1,0 +1,13 @@
+{{should be SVG}}
+=={{int:filedesc}}==
+{{Information
+|Description = {{en|Roundel for Transjakarta's BRT Route 8A}}
+|Source = https://transjakarta.co.id/peta-rute/
+|Date = 2024-01-20
+|Author = Transjakarta
+}}
+
+=={{int:license-header}}==
+{{PD-textlogo}}
+
+[[Category:TransJakarta icons]]

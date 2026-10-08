@@ -1,0 +1,16 @@
+== {{int:filedesc}} ==
+{{Information
+| Description = {{en|Reference Map for the {{w|U.S. state}} of {{w|California}}.}}
+| Date = 2004
+| Source = [http://www.nationalatlas.gov National Atlas of the United States]
+* Website: http://www.nationalatlas.gov/printable/reference.html#California
+* Map: http://www.nationalatlas.gov/printable/images/pdf/reference/pagegen_ca.pdf
+| Author = {{w|National Atlas of the United States}}
+| Permission = Public domain
+| other_versions =
+}}
+
+== {{int:license-header}} ==
+{{PD-USGov-Atlas}}
+
+[[Category:National Atlas maps of California]]

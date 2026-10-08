@@ -1,0 +1,17 @@
+== {{int:filedesc}} ==
+{{Information
+| description = {{en|1=This image is a placeholder for a requested image. If you have such an image available as  [[public domain]], or under the [[GNU Free Documentation License]], then please upload the images for the articles below. For more requested images, see [[Wikipedia:Requested pictures]].}}
+|Source={{transferred from|en.wikipedia}}
+|Author={{user at project|Vanished user 1234567890|wikipedia|en}}
+| date        = {{original upload date|2004-06-16}}
+| other_versions =
+}}
+black square box, white field, three lines red text "NO IMAGE YET"; original work, [[user:badanedwa]].
+
+{{GFDL-en|migration=relicense}}
+
+== {{Original upload log}} ==
+{{original description page|en.wikipedia|NO_IMAGE_YET_square.png}}
+* 2004-06-16 22:41:22 [[:en:User:Vanished user 1234567890|Vanished user 1234567890]] 77×78 (1251 bytes) ''<nowiki>black square box, white field, three lines red text "NO IMAGE YET"; original work, [[user:badanedwa]].</nowiki>''
+
+[[Category:English-language image placeholders]]

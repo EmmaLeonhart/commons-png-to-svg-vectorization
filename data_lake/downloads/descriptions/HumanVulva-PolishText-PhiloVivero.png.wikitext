@@ -1,0 +1,11 @@
+== {{int:filedesc}} ==
+http://en.wikipedia.org/wiki/Image:HumanVulva-NoText-PhiloVivero.jpg + Polish text
+== {{int:license-header}} ==
+{{GFDL-en|migration=relicense}}
+
+Original author of the photo - [[:en:User:PhiloVivero]].
+Text added by [[User:Taw]].
+
+[[Category:Labeled photographs of human female genitalia]]
+[[Category:Medical diagrams in Polish]]
+[[Category:Media missing infobox template]]

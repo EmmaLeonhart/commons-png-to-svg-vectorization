@@ -1,0 +1,8 @@
+{{ScottForesman
+|description={{en|Line art drawing of a '''mule'''}}
+|raw=PSF_M-600005.png
+}}
+
+[[Category:Mules in art]]
+[[Category:Line art of mammals]]
+[[Category:Equidae illustrations]]

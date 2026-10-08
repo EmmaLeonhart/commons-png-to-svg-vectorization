@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=VisualEditor_Media_Insert_Menu-en.png}}
+|date=2024-12-22
+|source=[[User:motherland25|Automatically created by motherland25]]
+|author=[[User:motherland25|Automatically created by motherland25]]
+|permission=
+|other_versions=
+|other_fields=
+}}
+
+=={{int:license-header}}==
+{{Wikimedia-screenshot}}
+
+[[Category:VisualEditor-en]]

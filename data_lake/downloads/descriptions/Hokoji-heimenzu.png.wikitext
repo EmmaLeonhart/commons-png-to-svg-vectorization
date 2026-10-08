@@ -1,0 +1,14 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=hokoji}}
+|date=2021-05-02
+|source=方広寺大仏殿指図(平面図)
+|author=方広寺
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{cc-by-sa-4.0}}
+
+[[Category:Daibutsu-den (1612-1798), Hōkō-ji]]

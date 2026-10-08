@@ -1,0 +1,14 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|Kashikodokoro Jogyosha and Ohaguruma}}{{ja|賢所乗御車と御羽車}}
+|Source={{en|Japanese book "Record of Showa Enthronement Appendix" published by Ministry of Railways.}}{{ja|『昭和大礼記録 附図』鉄道省より。}}
+|Date=1930
+|Author={{en|Ministry of Railways}}{{ja|鉄道省}}
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{PD-Japan-oldphoto}}
+
+[[Category:Kashikodokoro Jōgyosha]]

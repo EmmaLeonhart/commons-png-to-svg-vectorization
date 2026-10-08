@@ -1,0 +1,16 @@
+== {{int:filedesc}} ==
+{{Information
+|Description= Coat of Arms of [[Indonesia|Indonesian]] province of Central Sulawesi.
+|Source=Scan from Sulawesi Tengah Dalam Angka 2012, BPS Provinsi Sulawesi Tengah, p. iii ([http://sulteng.bps.go.id/index.php/2011-08-14-07-10-18/rutin/sulawesi-tengah-dalam-angka-2012.html E-book, indonesian/english])
+|Date= 2007-03-13
+|Author=Government of Indonesia
+|Permission= PD. This Indonesian Coat of Arms is free of copyrights (according to Indonesian Law: UU No. 19 Tahun 2002, Pasal 14 (b)).
+|other_versions={{vector version available|Coat of arms of Central Sulawesi}}
+}}
+
+== {{int:license-header}} ==
+{{PD-IDGov}}
+
+[[Category:Files with 404 errors (file history)]]
+[[Category:Central Sulawesi]]
+[[Category:Coats of arms of Central Sulawesi]]

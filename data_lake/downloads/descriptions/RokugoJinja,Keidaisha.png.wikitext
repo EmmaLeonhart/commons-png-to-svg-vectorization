@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ja|1=六郷神社 境内社}}{{en|1=keidaisha (inside small shrines) of Rokugo-jinja}}
+|date=2015-06-01
+|source={{own}}
+|author=[[User:Editor in cheap|Editor in cheap]]
+|permission=
+|other versions=
+}}
+{{Location dec|35.543780|139.712934|heading:270}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Rokugo-jinja]]
+[[Category:Keidai-sha in Japan]]

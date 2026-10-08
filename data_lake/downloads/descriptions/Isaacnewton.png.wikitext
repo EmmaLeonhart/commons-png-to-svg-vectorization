@@ -1,0 +1,20 @@
+== {{int:filedesc}} ==
+{{artwork
+|Description=''Isaac Newton''
+|Source=[http://www.lib.utexas.edu/photodraw/portraits/ UT Library], Originally from [http://nl.wikipedia.org nl.wikipedia]; description page is/was [http://nl.wikipedia.org/w/index.php?title=Image%3AIsaacnewton.PNG here].
+|Date={{other date|?}}
+|Author={{unknown|author}}
+|credit line=Original uploader was [[:nl:User:Jan Arkesteijn|Jan Arkesteijn]] at [http://nl.wikipedia.org nl.wikipedia], 2004-05-06 (first version); 2006-12-30 (last version)
+|Permission=This image is in the [[public domain]].
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{PD-Art}}
+
+== {{original upload log}} ==
+(All user names refer to nl.wikipedia)
+* 2006-12-30 15:11 [[:nl:User:Jan Arkesteijn|Jan Arkesteijn]] 364×544×8 (586534 bytes) ''<nowiki>Minder verzadigde kleuren</nowiki>''
+* 2004-05-06 21:59 [[:nl:User:Jan Arkesteijn|Jan Arkesteijn]] 364×544×8 (510235 bytes) ''<nowiki>PD tekening van UT Library, ingekleurd naar bestaande schilderijen</nowiki>''
+
+[[Category:Portrait paintings of Isaac Newton]]

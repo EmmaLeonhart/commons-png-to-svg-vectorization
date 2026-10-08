@@ -1,0 +1,14 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=VisualEditor - editing existing mathematical formula}}
+|date=2014-05-12 15:56:14
+|source={{own}}
+|author=[[User:Meshkov.a|Meshkov.a]]
+|permission=
+|other_versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-3.0}}
+
+[[Category:Wikipedia screenshots]]

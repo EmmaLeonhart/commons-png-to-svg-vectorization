@@ -1,0 +1,14 @@
+{{Information
+|description={{en|Chancres on the penile shaft due to a primary syphilitic infection caused by Treponema pallidum bacteria.
+The primary stage of syphilis is usually marked by the appearance of a single sore called a chancre. The chancre is usually firm, round, small, and painless.}}
+|date=1971
+|source={{CDC-PHIL|2354}}
+|author=CDC/Susan Lindsley
+|permission={{PD-USGov-HHS-CDC}}
+|other_versions=
+|other_fields=
+}}
+
+[[Category:Gross pathology of syphilis]]
+[[Category:Human penis (medical)]]
+[[Category:Chancre (syphilis)]]

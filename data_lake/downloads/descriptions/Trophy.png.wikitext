@@ -1,0 +1,12 @@
+{{information
+|Description={{en|Trophy image. Same as Trophy.jpg, but with transparency}}
+|Author=US National institute of health. Modified by Davodd, Dbenbenn
+|Source=originally http://www.nidcr.nih.gov/NR/rdonlyres/F52F097F-B37C-4B74-80FB-8321BDA72953/0/student2.jpg
+|Permission={{PD-USGov-HHS-NIH}}
+|Date= Originally uploaded on 06:30, 15 February 2005
+|other_versions={{DerivativeVersions|WikiCup.png}}
+[[:Image:Wikinewscontestwinner.PNG]] [[:Image:Trophy.jpg]]
+}}
+
+[[Category:Trophy icons]]
+[[Category:Awards associated with Wikimedia users]]

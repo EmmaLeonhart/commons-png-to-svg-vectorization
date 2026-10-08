@@ -1,0 +1,22 @@
+{{SVG available|Blason Evere.svg}}
+=={{int:filedesc}}==
+{{Information
+|description={{fr|1=Blason de la commune d’Evere}}{{nl|1=Blazoen van de Gemeente Evere}}{{en|1=Coat of arms of the municipality of Evere}}
+|date=2012-04-16
+|source={{own}}
+|author=[[User:Omondi|Omondi]]
+|permission=
+|other_versions=
+|other_fields=
+}}
+
+Écu : parti, au premier d'or au faucon au naturel, contourné, posé sur un rocher de trois coupeaux de gueules, mouvant de la pointe et surmonté d'une étoile à six rais du même ; au second de gueules au faucon au naturel posé sur un rocher de trois coupeaux d'or, mouvant de la pointe et surmonté d'une étoile à six rais du même.
+
+Tenant : écu tenu de la senestre par un Saint-Vincent auréolé assis tenant de la dextre un sceptre de lyses, le tout d'argent.
+
+=={{int:license-header}}==
+{{self|cc-by-sa-3.0}}
+
+[[Category:Symbols of Evere]]
+[[Category:Coats of arms of municipalities of Brussels]]
+[[Category:2 falcons in heraldry]]

@@ -1,0 +1,25 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|1=Gion Daimyojin, as one of Buddhist deities.}}
+{{ja|1=祇園大明神。仏像図彙 (1783年)より。
+祇園大明神　廿四日
+牛頭天王ト申ス素盞嗚尊ナリ
+城州八坂ノ里ニ在ス
+一社ハ牛頭天王　一社ハ稲田姫少将井ト申ス　一社ハ八王子}}
+|Source=http://www.lib.ehime-u.ac.jp/SUZUKA/316/index.html
+|Author=Hidenobu Tosa, 土佐秀信
+|Date=1783
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{PD-old-100}}
+
+[[Category:Buddhist deities of Japan]]
+[[Category:Butsuzō Zui]]
+[[Category:1783 illustrations]]
+[[Category:Gozu Tennō in art]]
+[[Category:Shinbutsu Shūgō]]
+[[Category:Susano o no mikoto]]
+[[Category:Shintō deities in art]]

@@ -1,0 +1,17 @@
+== {{int:filedesc}} ==
+The obverse of a United States [[:en:penny (U.S. coin)|penny]]. 
+
+The image is from [http://www.usmint.gov/pressroom/index.cfm?flash=no&action=photo#lc1549] {{Wayback|url=http://www.usmint.gov/pressroom/index.cfm?flash=no&action=photo#lc1549 |date=20060420161518 }}, specifically [http://www.usmint.gov/downloads/pressroom/misc/2002_Penny_proof.zip]{{Dead link|date=June 2025 |bot=InternetArchiveBot |fix-attempted=yes }}.
+
+I cropped the TIFF, and converted it to JPG, with the Gimp.
+
+== {{int:license-header}} ==
+{{PD-USGov-money}}
+
+[[Category:Lincoln Memorial cent]]
+[[Category:2002 coins]]
+[[Category:Media missing infobox template]]
+[[Category:United States coins with transparent background]]
+[[Category:Obverses of United States cents]]
+[[Category:San Francisco Mint coins]]
+[[Category:Proof coinage]]

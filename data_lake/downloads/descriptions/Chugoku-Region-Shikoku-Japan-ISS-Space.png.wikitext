@@ -1,0 +1,18 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Chugoku region, Shikoku, Japan, seen from the International Space Station (17 October 2015)}}
+{{ja|1=国際宇宙ステーションから見た日本と中国地方と四国（2015年10月17日）}}
+|date=2015-10-17
+|source=http://eol.jsc.nasa.gov/ video: ISS Timelapse - Riding clouds up to Japan (17 Ottobre 2015) link: https://www.youtube.com/watch?v=wiI8eJivNqg
+|author=NASA, International Space Station
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-USGov-NASA}}
+
+[[Category:Photos of Japan from ISS]]
+[[Category:Chūgoku region]]
+[[Category:Shikoku]]
+[[Category:Japanese Archipelago]]

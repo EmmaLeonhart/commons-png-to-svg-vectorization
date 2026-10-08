@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|Photo of Yanagiwara Naruko. She was a concubine of Emperor Meiji and the mother of Emperor Taishō.}}
+{{ja|1=十二単　皇族}}
+|date={{other date|before|1943}}
+|source=https://ameblo.jp/dzf999tea-party/entry-12285270583.html　
+|author={{unknown|author}}
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-Japan-oldphoto}}
+
+[[Category:Naruko Yanagiwara]]
+[[Category:Keiko (dress)]]

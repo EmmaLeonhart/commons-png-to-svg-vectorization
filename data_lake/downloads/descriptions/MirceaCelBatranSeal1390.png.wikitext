@@ -1,0 +1,18 @@
+{{Information 
+|Description={{en|The seal of Voivode Mircea the Elder from 1390, depicting the coat of arms of Wallachia.}}
+{{it|Il vessillo di Mircea su di una moneta del 1390.}}
+{{ro|Sigiliu din 1390 aflat pe tratatul dintre Mircea şi Vladislav al Poloniei.}}<!--Description fetched by DieBucheBot-->
+|Source= Enciclopedia României. Comitetul de direcţie: D. Gusti, Constantin Orghidan, Mircea Vulcanescu si Virgiliu Leonte. Imprimeria Naţională. Bucureşti 1938-1943 
+|Date= 
+|Author= 
+|Permission= 
+|other_versions= }}
+{{PD-RO-1956}}
+{{Retouched|Transparent background added|ReneeWrites}}
+
+[[Category:Coats of arms of Wallachia with the Wallachian Bird|1390]]
+[[Category:Seals of rulers of Wallachia|1390]]
+[[Category:Wallachian Bird on seals]]
+[[Category:Seals of Mircea I of Wallachia]]
+[[Category:1390 in Romania]]
+[[Category:Principality of Wallachia]]

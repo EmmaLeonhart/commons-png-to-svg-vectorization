@@ -1,0 +1,41 @@
+== {{int:filedesc}} ==
+{{information
+| description    = {{en|1=PNG transparency demonstration<br>PNG encoded in 32 bits per pixel RGBA}}
+| author         = [[User:ed g2s/Dice.pov|POV-Ray source code]]. 2005 version by [[user:Daniel G.|Daniel G.]].  2009 version by [[user:ed_g2s|Ed g2s]]. 2019 version by  [[user:CyberShadow|CyberShadow]].
+| source         = {{own}}: Rendered in [[POV-Ray]].
+| date           = {{date|2005|07|12}}, {{date|2009|04|22}}, {{date|2019|01|07}}
+| permission     = 
+| other_versions = 
+{{See also|1=File:PNG transparency demonstration 2.png|3=File:PNG transparency demonstration 3.png}}
+}}
+
+== {{int:license-header}} ==
+{{self|cc-by-sa-3.0|GFDL}}
+{{ImageNote|id=1|x=104|y=22|w=261|h=230|dimx=800|dimy=600|style=2}}
+Blue
+{{ImageNoteEnd|id=1}}
+{{ImageNote|id=2|x=437|y=38|w=234|h=221|dimx=800|dimy=600|style=2}}
+Green
+{{ImageNoteEnd|id=2}}
+{{ImageNote|id=4|x=305|y=400|w=190|h=112|dimx=800|dimy=600|style=2}}
+Yellow
+{{ImageNoteEnd|id=4}}
+{{ImageNote|id=5|x=259|y=177|w=288|h=260|dimx=800|dimy=600|style=2}}
+Red
+{{ImageNoteEnd|id=5}}
+
+[[Category:Semi-transparent]]
+[[Category:4 dice]]
+[[Category:Cubic dice]]
+[[Category:Images with Povray source code]]
+[[Category:Blue, green, red, yellow]]
+[[Category:White on blue dice]]
+[[Category:White on green dice]]
+[[Category:White on red dice]]
+[[Category:PNG encoding]]
+[[Category:Number 1 on dice]]
+[[Category:Number 2 on dice]]
+[[Category:Number 3 on dice]]
+[[Category:Number 5 on dice]]
+[[Category:Number 6 on dice]]
+[[Category:Created with Persistence of Vision]]

@@ -1,0 +1,16 @@
+{{Convert to SVG|icon}}
+
+== {{int:filedesc}} ==
+{{Information
+|Description={{En|Map of Oceania}}
+|Source=A variation of commons' file ''[[:Image:World Map Blank.svg]]''
+|Date=2008-05-25
+|Author=[[user:S19991002]]
+|Permission= 
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{self|cc-by-3.0}}
+
+[[Category:Locator maps of Oceania]]

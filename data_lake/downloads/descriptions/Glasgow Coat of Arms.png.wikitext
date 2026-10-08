@@ -1,0 +1,14 @@
+
+{{Information
+|Description={{en|[[w:Glasgow|Glasgow]] Coat of Arms, historical arms from 1866, not the current arms}}
+|Source=Description: http://www.theglasgowstory.com/image.php?inum=TGSA05045<br>Direct link: http://www.theglasgowstory.com/images/TGSA05045.jpg
+|Date=1866
+|Author=Alex Spade
+|Permission={{PD-art}}
+|other_versions=
+}}
+{{vva|Glasgow Coat of Arms 1866.svg}}
+
+{{DEFAULTSORT:Glasgow}}
+[[Category:Coats of arms of Glasgow]]
+[[Category:English-language mottos in heraldry]]

@@ -1,0 +1,17 @@
+{{vector version available|Uccle Blason.svg}}
+== {{int:filedesc}} ==
+{{Information
+|Description=Coat of arms of Uccle/Ukkel, Belgium. Same as official one but in much better resolution than found on Uccle's website
+|Source={{Own}}
+|Date=
+|Author= [[User:Targeman|Targeman]]
+}}
+
+== {{int:license-header}} ==
+{{PD-self|author=[[User:Targeman|Targeman]]}}
+
+
+[[Category:Symbols of Uccle]]
+[[Category:Coats of arms of municipalities of Brussels]]
+[[Category:Saint Peter in heraldry]]
+[[Category:Azure and or in heraldry]]

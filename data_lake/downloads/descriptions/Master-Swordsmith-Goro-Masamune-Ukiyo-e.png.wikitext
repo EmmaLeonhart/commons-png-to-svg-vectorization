@@ -1,0 +1,20 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Master swordsmith Goro Masamune (五郎正宗) forges a katana with an assistant. The clothing is an indicator of the ritualistic practice of crafting swords. Ukiyu-e.}}
+{{ja|五郎正宗、刀鍛冶（浮世絵）。}}
+|date={{other date|circa|1700|1800}}
+|source=https://twitter.com/CelestialSenti1/status/1286780954040840194/photo/1
+|author={{unknown|author}}
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-Art|PD-old-100-expired}}
+
+[[Category:Masamune]]
+[[Category:Katana]]
+[[Category:Swords of Japan]]
+[[Category:Historic samurai prints]]
+[[Category:People of Kamakura period]]
+[[Category:People of Muromachi period]]

@@ -1,0 +1,14 @@
+== {{int:filedesc}} ==
+{{Information
+ |description    = {{en|Crystal icon.}}
+ |date           = 
+ |source         =  [http://www.everaldo.com/ Everaldo Coelho] 
+ |author         = [http://www.everaldo.com/ Everaldo Coelho] 
+ |permission     =
+ |other_versions = {{vva|Crystal128-configure.svg}}
+}}
+
+== {{int:license-header}} ==
+{{LGPL}}
+
+[[Category:Crystal 128 actions]]

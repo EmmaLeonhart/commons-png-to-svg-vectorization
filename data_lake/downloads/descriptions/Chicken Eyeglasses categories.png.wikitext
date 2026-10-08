@@ -1,0 +1,14 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Screenshot of the bottom of [[w:en:Chicken eyeglasses]]}}
+|date=2017-07-27
+|source=English Wikipedia article [[w:en:Chicken eyeglasses]]
+|author=Wikipedia contributors to [[w:en:Chicken eyeglasses]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{Wikimedia-screenshot}}
+
+[[Category:English Wikipedia screenshots]]

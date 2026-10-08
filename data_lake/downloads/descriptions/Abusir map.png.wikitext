@@ -1,0 +1,28 @@
+{{Transferred from|en.wikipedia|Maksim}}
+{{Original description page|en.wikipedia|<!--original file name not indicated-->}}
+
+== {{int:filedesc}} ==
+{{es|Plano de Abu Gurab y Abusir}}
+Map of [[Abusir]].
+
+*See also {{cite book|last=Verner|first=Miroslav|editor1-last=Bárta|editor1-first=Miroslav|editor2-last=Krejčí|editor2-first=Jaromír|chapter=Who was Shepseskara, and when did he reign?|title=Abusir and Saqqara in the Year 2000|url=http://egyptologie.ff.cuni.cz/pdf/AS%202000_mensi.pdf|location=Prague|publisher=Academy of Sciences of the Czech Republic, Oriental Institute|isbn=978-80-85425-39-0|year=2000|page=602|ref=none|accessdate=2019-07-28|archivedate=2011-02-01|archiveurl=https://web.archive.org/web/20110201084444/http://egyptologie.ff.cuni.cz/pdf/AS%202000_mensi.pdf}}
+
+== {{int:license-header}} ==
+{{PD-self}}
+
+{| border="1"
+! date/time || username || edit summary
+|----
+| 22:22, 22 November 2005 || [[:en:User:Markh]] || <nowiki>(Map of <a href="/wiki/Abusir" title="Abusir">Abusir</a>.)</nowiki>
+|}
+
+
+== derivative works ==
+{{DerivativeVersions|AbusirAndAbuGurabPlan ru.svg}}
+
+[[Category:Abusir pyramids]]
+[[Category:Abu Ghurab]]
+[[Category:Nyuserre sun temple]]
+[[Category:Mortuary temple of Nyuserre| TM]]
+[[Category:Media missing infobox template]]
+[[Category:Derivative works from Miroslav Verner]]

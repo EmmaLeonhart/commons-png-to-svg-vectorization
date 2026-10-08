@@ -1,0 +1,16 @@
+{{Convert to SVG|flag map}}
+{{Allow Overwriting}}
+{{Information
+|Description=Flag/map image for use in stub templates.
+|Source=From [[:Image:Shadow picture of Kochi prefecture.png]] and [[:Image:Flag of Kochi.svg]], both of them public domain.
+|Date=2008-07-11
+|Author=[[:wikipedia:User:Kzaral|Kzaral]]
+|Permission={{PD-self}}
+|other versions=
+}}
+
+[[Category:Maps of Kōchi prefecture]]
+
+[[Category:Subdivisions of Japan stub icons|Kochi]]
+[[Category:Flag maps of prefectures of Japan|Kochi]]
+{{DEFAULTSORT:Kochi}}

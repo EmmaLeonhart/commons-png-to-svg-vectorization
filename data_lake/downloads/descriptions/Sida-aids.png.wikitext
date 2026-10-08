@@ -1,0 +1,18 @@
+{{Convert to SVG|icon}}
+
+== {{int:filedesc}} ==
+{{Information
+|description={{en|1=VIH - HIV / SIDA - AIDS viruses.}}
+|date=2005-03-29 16:34
+|source=[[User:FoeNyx]] © 2004 (artistic illustration)
+|author=[[User:FoeNyx]] © 2004 (artistic illustration)
+|permission=
+|other_versions=See [[:File:Hiv gross.png]] for a more scientific presentation.
+|other_fields=
+}}
+
+== {{int:license-header}} ==
+{{GFDL|migration=relicense}}
+{{Cc-by-sa-old}}
+
+[[Category:Human immunodeficiency virus diagrams]]

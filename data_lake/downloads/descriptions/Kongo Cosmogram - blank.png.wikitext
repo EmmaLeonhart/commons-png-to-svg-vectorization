@@ -1,0 +1,17 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=The Kongo cosmogram (also called yowa or dikenga cross, Kikongo: dikenga dia Kongo or tendwa kia nza-n' Kongo) is a core symbol in Bakongo spirituality that depicts the physical world (Ku Nseke), the spiritual world (Ku Mpémba), the Kalûnga line that runs between the two worlds, the sacred river that forms a circle through the two worlds, the four moments of the sun, and the four elements.}}
+|date=2023-10-03
+|source={{own}}
+|author=[[User:MiddleOfAfrica|MiddleOfAfrica]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Kongo]]
+[[Category:Kingdom of Kongo]]
+[[Category:Kongo people]]
+[[Category:Kongo culture]]

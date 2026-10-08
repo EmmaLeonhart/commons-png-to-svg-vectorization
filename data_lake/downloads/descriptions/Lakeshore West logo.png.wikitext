@@ -1,0 +1,16 @@
+{{Superseded |1=GO Lakeshore West logo.svg}}
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Logo representing a [[w:MPI MPXpress#MP40PH-3C|MP40]] for [[w:Lakeshore West line|Lakeshore West]]}}
+|date=2015-04-26
+|source={{own}}
+|author=[[User:Natural RX|Natural RX]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-zero}}
+
+[[Category:GO Transit logos]]
+[[Category:Lakeshore West line]]

@@ -1,0 +1,20 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|Icon for [[:en:Political geography|Political geography]] of [[:en:Canada|Canada]] stub category}}
+|Source=Author
+|Date={{original upload date|2005-09-15}}
+|Author=[[:en:User:The Tom|User:The Tom]]
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{PD-user-en|The Tom}}
+
+== {{original upload log}} ==
+{{transferred from|en.wikipedia|Sreejithk2000|CommonsHelper}} {{original description page|en.wikipedia|Canpoligeoicon.png}}
+* 2005-09-15 00:08 [[:en:User:The Tom|The Tom]] 100×87× (3294 bytes) ''<nowiki>Icon for [[Political geography]] of [[Canada]] stub category</nowiki>''
+* 2005-09-15 00:06 [[:en:User:The Tom|The Tom]] 100×87× (3399 bytes) ''<nowiki>Icon for [[Political geography]] of [[Canada]] stub category</nowiki>''
+
+[[Category:Political maps of Canada]]
+[[Category:Provinces and territories of Canada]]

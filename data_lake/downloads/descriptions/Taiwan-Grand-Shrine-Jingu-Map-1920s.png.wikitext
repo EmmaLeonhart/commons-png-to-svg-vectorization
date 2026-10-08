@@ -1,0 +1,24 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=This hand-drawn drawing collected by Kanagawa University records the location of each object, clearly records almost all the information, and is more accurate and comprehensive than the photos. 
+
+The Taiwan Shrine is located on Jiantan Mountain and was jointly designed by Ito Chuta (1867–1954) and Takeda Wuyi (1872–1938). It was built in 1900 (Meiji 33) and completed in October of the following year. It is the only "official coin shrine" in Taiwan. There are also facilities such as cannons used during the Russo-Japanese War, a monument to the souls of police officers, and a memorial garden for Emperor Taisho's ascension ceremony. The shrine was destroyed in 1944 (Showa 19), and was burnt down due to the crash of a Japanese airliner. After the restoration, in response to the needs of the National Government, the shrine was demolished and the hotel was rebuilt on the original site to become the Grand Hotel today.}}
+{{zh|1=翻找了五六百張舊照與資料後，這張神奈川大学收錄的手繪圖記錄了各個物件的位置，清楚的記錄幾乎所有的資訊，正確度與全面性都比相片來的好。
+
+臺灣神社位於劍潭山上，由伊東忠太(1867–1954)及武田五一(1872–1938)共同設計。興建於1900(明治33)年，翌年10月落成，為臺灣唯一的「官幣大社」，祀奉大國魂命、大巳貴命、少彥名命及北白川宮能久親王。神社境內還有日俄戰爭時使用的大砲、警察官招魂碑及大正天皇即位大典的紀念神苑等設施。神社毁於1944(昭和19)，因日本客機失事而付之一炬。光復後，因應國民政府需求拆毀殘餘神社，於原址改建飯店成為今日的圓山大飯店。}}
+{{ja|台湾神宮の地図（1920年代）}}
+|date={{other date|s|1920}}
+|source=Kanagawa University records  https://medium.com/have-a-nice-day/生活-臺灣神社-金龍-劍潭勝跡-石獅狛犬-c59e3c11b3f3
+|author={{unknown|author}}
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-Art|PD-old-70}}
+
+[[Category:Taiwan Grand Shrine]]
+[[Category:Shinto shrines in Taiwan]]
+[[Category:Drawings of buildings in Taiwan]]
+[[Category:1920s works in Taiwan]]
+[[Category:Historical images of shinto shrines in Taiwan]]

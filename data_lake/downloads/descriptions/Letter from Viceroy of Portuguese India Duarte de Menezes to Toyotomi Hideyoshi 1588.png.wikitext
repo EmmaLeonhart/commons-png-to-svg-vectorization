@@ -1,0 +1,19 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Letter from the viceroy of Portuguese India (ポルトガル国印度副王信書, Porutogaru-koku Indo-fukuō shinsho), [[:w:Duarte de Meneses|Duarte de Menezes]], to daimyo [[Toyotomi Hideyoshi]] concerning the suppression of Christians in Japan. This work is a historic landmark in Portuguese-Japanese relations. This letter from Menezes is the first diplomatic document exchanged between East and West.
+: Dated to the Azuchi-Momoyama period, April [[1588]]. Located at [[Myōhō-in]] (妙法院), [[Kyoto]], [[Japan]]. 
+: The letter has been designated as [[:w:National Treasures of Japan|National Treasure of Japan]] in the [[:w:List of National Treasures of Japan (ancient documents)|category "ancient documents"]].}}
+{{ja|1=インド副王ドゥアルテ・デ・メネゼスが豊臣秀吉に送った親書。 [[:ja:妙法院#文化財|ポルトガル国印度副王信書]] - （[[:Category:National Treasures of Japan (ancient documents)|国宝]], 1588年4月）。1588年四月、ポルトガルのインド副王ドン・ドワルテが豊臣秀吉に送った国書である。羊皮紙を用い、全文約二＋行ポルトガル語で書き、周囲には、楯、槍などを美しく華やかに着色しデザインした文様、各々の下には山が描かれており、これは支配下の各州を表徴したもののようである。
+　内容によれば、これは日本国へのキリスト教伝道の許可を求めたもので。}}
+{{pt|Carta do vice-rei D. Duarte de Menezes a Toyotomi Hideyoshi em 1588. Esta obra é um marco histórico  nas relações luso-nipónicas, sendo o seu original considerado, pelo Japão,  como tesouro nacional. Esta carta do Vice-Rei D.  Duarte de Menezes é o primeiro documento diplomático de que há registo  trocado entre o oriente e o ocidente.}}
+|date=1588
+|source=いづつやの文化記号 (Cultural Symbols of Izutsuya) - http://izucul.cocolog-nifty.com/
+|author=Duarte de Menezes, 14th Viceroy of Portuguese India
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-Art|PD-old-100}}
+
+[[Category:Letter from the Viceroy of Portuguese India to Toyotomi Hideyoshi]]

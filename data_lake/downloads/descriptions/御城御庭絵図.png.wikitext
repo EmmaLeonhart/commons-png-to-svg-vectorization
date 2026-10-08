@@ -1,0 +1,17 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{jp|御城御庭絵図（部分） 名古屋市蓬左文庫所蔵}}
+|Source=[http://www.nagoya.ombudsman.jp/castle/210115-5.pdf]
+|Date=Edo period 
+|Author= {{unknown|Author}}
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{pd-japan}}
+
+[[Category:Ninomaru Garden (Nagoya Castle)]]
+[[Category:Plans of Nagoya Castle]]
+[[Category:History of Nagoya Castle]]
+[[Category:Collections of Hōsa Library]]

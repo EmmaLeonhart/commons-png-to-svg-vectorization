@@ -1,0 +1,13 @@
+== {{int:filedesc}} ==
+{{Information
+|Description=Screenshot showing the alert that appears when someone else has added a comment in the same section.
+|Source=Screenshot
+|Date=2022-10-11
+|Author=Contributors to [[mw:Extension:DiscussionTools]]
+|Permission={{MIT}}
+|other_versions=
+}}
+
+
+[[Category:DiscussionTools]]
+[[Category:English-language screenshots]]

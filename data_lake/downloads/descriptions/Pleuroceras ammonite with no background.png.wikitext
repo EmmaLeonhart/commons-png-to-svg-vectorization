@@ -1,0 +1,20 @@
+== {{int:filedesc}} ==
+{{Information
+|Description = 
+{{de|''Pleuroceras solare'', Amaltheidae; pyritisiertes Exemplar; Durchmesser 3,2 cm; Unteres Pliensbachium, Unterer Jura; Fränkische Schweiz, Bayern, Deutschland.}}
+{{en|''Pleuroceras solare'', Amaltheidae; Pyritic specimen; Diameter 3.2 cm; Upper Pliensbachian, Lower Jurassic; {{w|Little Switzerland (Germany)|Little Switzerland}}, {{w|Bavaria}}, Germany. own collection, therefore not {{w|geocoding|geocoded}}.}}
+{{fr|''Pleuroceras solare'' (Amaltheidae, Pliensbachien supérieur, Jurassique inférieur). Spécimen pyritique récolté en Haute Franconie (Allemagne). Diamètre&nbsp;: 3,2&nbsp;cm.}}
+|Source      = {{Own}}
+|Author      = [[User:Llez|Llez (H. Zell)]].
+|Date        = 2011-01-19 15:30
+|other_versions=[[File:Pleuroceras solare, Little Switzerland, Bavaria, Germany.jpg|thumb|left|Original version.]] 
+}}
+
+=={{int:license-header}}==
+{{self|GFDL|cc-by-sa-3.0}}
+
+[[Category:Pleuroceras solare]]
+[[Category:Ammonitina fossils]]
+[[Category:Jurassic fossils from Bavaria]]
+[[Category:Pyritized fossils]]
+[[Category:Paleobiota of the Hulcross Formation]]

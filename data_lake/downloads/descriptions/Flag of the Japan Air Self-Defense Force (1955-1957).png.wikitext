@@ -1,0 +1,18 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Flag of the Japan Air Self-Defense Force (1955-1957)}}
+|date=1955-12-31
+|source=https://www.crwflags.com/fotw/flags/jp%5Easdf.html
+|author=Japan Air Self-Defense Force
+|permission={{PD-Japan-exempt|type=flags}}
+|other versions=
+|other fields=
+}}
+{{svg|flag}}
+
+=={{int:license-header}}==
+{{PD-US-not renewed}}
+
+[[Category:1955 works in Japan]]
+[[Category:Flags of the Japan Air Self-Defense Force]]
+[[Category:PNG historical flags of Japan]]

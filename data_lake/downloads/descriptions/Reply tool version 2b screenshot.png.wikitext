@@ -1,0 +1,17 @@
+=={{int:filedesc}}==
+{{Information
+|description=
+{{en|1=A screenshot of the Reply tool's in visual mode.}}
+{{tr|1=Yanıtlama aracının görsel modda bir ekran görüntüsü.}}
+|date=2020-09-07
+|source={{own}}
+|author=[[User:ESanders (WMF)|ESanders (WMF)]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:MediaWiki screenshots]]
+[[Category:Reply tool]]

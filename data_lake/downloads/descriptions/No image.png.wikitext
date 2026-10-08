@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+| Description    = {{en|A 1×1 transparent image. Useful for when a template requires an image but you don't have one.}}
+{{fr|Une image transparente de 1×1 pixel. Utile lorsqu’un modèle demande une image mais aucune disponible n’est appropriée.}}
+{{ru|Прозрачное изображение (1x1). Полезно для тех случаев, когда шаблон требует изображение, но у Вас оно отсутствует.}}
+| Source         = {{own}} (Originally uploaded to en by [[:w:User:SPUI|SPUI]])
+| Date           = 2006-04-27
+| Author         = [[:w:User:SPUI|SPUI]] (on English Wikipedia)
+| Permission     = {{pd-ineligible}}
+| other_versions = [[:File:No image.svg]]
+}}
+{{vector version available|No image.svg}}
+
+[[Category:Image placeholders (square)]]
+[[Category:Transparent pixels]]
+[[Category:Language-neutral image placeholders]]

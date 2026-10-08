@@ -1,0 +1,17 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ja|1=武官装束の衛門。1990年、即位の礼にて。}}
+{{en|1=A gatekeeper wearing a Military-officer-costume.}}
+|date=2019-08-02
+|source=https://www.kantei.go.jp/jp/singi/gishikitou_iinkai/dai6/siryou1-1.pdf
+|author=首相官邸
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+
+{{Gjstu-2.0|terms=https://www.kantei.go.jp/jp/terms.html}}
+
+[[Category:Ceremony of the Enthronement of His Majesty the Emperor at the State Hall in 1990]]
+[[Category:Costumes in Japan]]

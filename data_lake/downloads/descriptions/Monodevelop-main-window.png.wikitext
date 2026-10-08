@@ -1,0 +1,10 @@
+{{Information
+|Description=MonoDevelop 2.4
+|Source={{URL|http://monodevelop.com/Screenshots}} ([http://monodevelop.com/@api/deki/files/201/=ss-main-window.png Direct link])
+|Date=2010-12-10
+|Author=MonoDevelop Project
+|Permission={{free screenshot|license={{LGPL}}}}
+|other_versions=
+}}
+[[Category:Linux integrated development environments]]
+[[Category:Screenshots of MonoDevelop]]

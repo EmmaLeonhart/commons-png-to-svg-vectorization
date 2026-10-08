@@ -1,0 +1,14 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Amateur radio compact icon}}
+|date=2025-12-25
+|source={{own}}
+|author=[[User:Sinucep|Sinucep]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-zero}}
+
+[[Category:Amateur radio]]

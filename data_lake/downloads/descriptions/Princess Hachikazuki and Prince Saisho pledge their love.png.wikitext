@@ -1,0 +1,18 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Princess Hachikazuki and Prince Saisho pledge their love. Description: The young lord Saisho gave to the princess a boxwood pillow and a bamboo flute in testimony of his fidelity. They exchanged poems expressing their affection for each other. Princess’s Poem: “You came/ with boxwood pillow and flute/ I bind myself/ to you forever.” Saisho’s Poem: “For thousands of years/ I will be with you/ With bamboo flute and boxwood pillow/ this pledge will never end.” Published in the middle of the Edo period (18th century), this is a booklet for children that consists mainly of drawings. It is called an akahon (red book) because of the color of its front cover. Hachikazuki hime (The bowl-bearer princess) is a story that was written in the Muromachi period (14th-16th centuries).}}
+{{ja|1=鉢かづき（はちかづき）は、古典の「お伽草子」の話の一つ。}}
+|date={{other date|~|1735|1745}}
+|source=Library of Congress - https://www.loc.gov/resource/gdcwdl.wdl_14446_002/?sp=3&r=-0.109,-0.151,1.111,1.111,0 , more info: https://www.kodomo.go.jp/gallery/edoehon/hachikazuki/index_e.html
+|author=Urokogataya (1700 to 1799)
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-Art|PD-old-100}}
+
+[[Category:Hachikazuki]]
+[[Category:Japanese fairy tales]]
+[[Category:18th-century literature]]
+[[Category:Muromachi period]]

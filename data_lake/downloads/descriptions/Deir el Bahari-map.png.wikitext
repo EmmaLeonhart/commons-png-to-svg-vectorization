@@ -1,0 +1,42 @@
+{{Information
+|Description = 
+{{ar|مخطط للمباني في منطقة الدير البحري.}}
+{{en|Map of temples in Deir el-Bahari.}}
+{{fr|Plan du site de Deir el-Bahari ([[:fr:Égypte|Égypte]])}}
+{{pl|Plan świątyń w Deir el-Bahari.}}
+I) Świątynia Mentuhotepa II – Temple of Mentuhotep II<br /> II) Świątynia Tutmozisa III – Temple of Thutmoses III<br /> III) Świątynia Hatszepsut – Temple of Hatshepsut<br /> 1) Bab el-Hosan<br /> 2) Westybul wewnętrzny – Vestibule indoors<br /> 3) Taras z kolumnadą – Tarrace with colonnade<br /> 4) Tumulus<br /> 5) Sala hypostylowa – Hypostyle Hall<br /> 6) Sanktuarium - Sanctuary<br /> 7) Dziedziniec - Court<br /> 8) Pierwszy portyk – The First Portico<br /> 9) Pierwszy taras – The First Tarrace<br /> 10) Drugi portyk – The Second Portico<br /> 11) Kaplica Hathor – Chapel of Hathor<br /> 12) Kaplica Anubisa – Chapel of Anubis<br /> 13) Dziedziniec - Court<br /> 14) Sanktuarium Amona – Sanctuary of Amon<br /> 15) Świątynia solarna – Solar temple<br /> 16) Sanktuarium Hatszepsut i Tutmozisa I – Sanctuary of Hatshepsut and Thutmoses I
+<br />
+== مفتاح الخريطة ==
+I) معبد الملك منتوحتب الثاني.<br />
+II) معبد الملك تحتمس الثالث.<br />
+III) معبد الملكة حتشبسوت.<br />
+1) باب الحصان.<br />
+2) الدهليز في الداخل.<br />
+3) شرفة معمّدة.<br />
+4) ركام.<br />
+5) قاعة الأعمدة.<br />
+6) الحرم.<br />
+7) الفناء.<br />
+8) الرواق الأول.<br />
+9) الشرفة الأولى.<br />
+10) الرواق الثاني.<br />
+11)مصلى حتحور.<br />
+12)مصلى أنوبيس.<br />
+13) الفناء.<br />
+14) حرم آمون.<br />
+15) معبد الشمس.<br />
+16) حرم حتشبسوت وتحتمس الأول.<br />
+|Source      = {{Own}}
+|Date        = 
+|Author      = Drawing by Gérard Ducher ([[:fr:user:Néfermaât|user:Néfermaât]])<br />
+Modifications by Janmad (numbers, polish and english description)
+|Permission  =
+|other_versions ={{Image extracted|1=Deir el Bahari-map (Mortuary temple of Amenhotep I site).png}}
+}}
+
+{{cc-by-sa-2.5}}
+
+[[Category:Deir el-Bahari| map]]
+[[Category:Mortuary Temple of Mentuhotep II| map]]
+[[Category:Floor plans of ancient Egyptian temples]]
+[[Category:Maps and plans of the Theban Necropolis]]

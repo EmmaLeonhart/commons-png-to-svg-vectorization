@@ -1,0 +1,17 @@
+{{vva|Actual Cluj county CoA.svg}}
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|1=Coat of arms of Cluj County, Romania.}}{{ro|1=Stema județului Cluj, România.}}
+|Source=Version of the image published at [http://www.cjcluj.ro/ cjcluj.ro].
+|Date={{other date|?}}
+|Author=Consiliul Județean Cluj.
+|Other_versions=
+}}
+
+{{PD-RO-exempt|type=coats of arms}}
+
+[[Category:Coats of arms of counties of Romania|Cluj]]
+[[Category:Symbols of Cluj County|01]]
+[[Category:Capitoline she-wolf in heraldry]]
+[[Category:1 wolf sable in heraldry]]
+{{DEFAULTSORT:Cluj}}

@@ -1,0 +1,14 @@
+=={{int:filedesc}}==
+{{Information
+|description={{zh|1=性命圭旨 觀音密呪圖}}
+|date=2017-09-23
+|source=《性命圭旨》，{{ISBN|7-5621-0846-3}}
+|author=尹真人
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-scan}}
+
+[[Category:Taoist illustrations]]

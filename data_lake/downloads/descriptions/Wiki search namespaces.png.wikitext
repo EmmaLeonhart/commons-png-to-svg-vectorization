@@ -1,0 +1,14 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Screenshot of selecting namespaces in English Wikipedia search}}
+|date=2019-11-05
+|source={{own}}
+|author=[[User:Colin M|Colin M]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Wikipedia search]]

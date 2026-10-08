@@ -1,0 +1,15 @@
+== {{int:filedesc}} ==
+{{Information
+|Description= Coat of Arms of [[Indonesia|Indonesian]] province of North Maluku.
+|Source=id.wikipedia.org
+|Date= 2007-03-13
+|Author= 
+|Permission= PD. This Indonesian Coat of Arms is free of copyrights (according to Indonesian Law: UU No. 19 Tahun 2002, Pasal 14 (b)).
+|other_versions={{vva}}
+}}
+
+== {{int:license-header}} ==
+{{PD-IDGov}}
+
+[[Category:Coats of arms of North Maluku]]
+[[Category:North Maluku]]

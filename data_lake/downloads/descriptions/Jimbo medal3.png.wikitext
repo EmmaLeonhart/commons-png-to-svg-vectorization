@@ -1,0 +1,16 @@
+{{Convert to SVG|award}}
+
+== {{int:filedesc}} ==
+{{Information
+ |description = {{en|simlar to [[:Image:Jimbo medal2.png]] but date and insignia added and some minor fixes like borderline, copied from [[:File:Jimbo-wales---fosdem-2005.jpg]]}}
+ |date = 
+ |source = {{own}}
+ |author = [[User:AzaToth|AzaToth]]
+ |permission = 
+ |other_versions = 
+}}
+
+== {{int:license-header}} ==
+{{self|GFDL|Cc-by-sa-3.0-migrated|Cc-by-sa-2.5,2.0,1.0}}
+
+[[Category:Modified images of Jimmy Wales]]

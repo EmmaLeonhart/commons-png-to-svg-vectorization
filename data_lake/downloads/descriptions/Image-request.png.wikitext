@@ -1,0 +1,14 @@
+{{Information
+|Description=This PNG was made from [[:Image:Gthumb.svg]]
+|Source=[[:Image:Gthumb.svg]]
+|Date=
+|Author=Andy Fitzsimon
+|Permission=
+|Other_versions={{supersededSVG|Gthumb.svg}}
+|other_fields=
+}}
+{{PD-OpenClipart|1=http://openclipart.org/cgi-bin/navigate/computer/icons?page=2}}
+
+[[Category:Magnifying glass icons]]
+[[Category:No image icons]]
+[[Category:Favourite icons by Waddie96]]

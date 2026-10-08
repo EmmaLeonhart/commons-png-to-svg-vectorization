@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=A sample of Ogham text in the "Noto Sans Ogham" font. The text reads ᚛ᚓᚅᚐᚁᚐᚏᚏ᚜ ("ENABARR")}}
+|date=2017-09-08
+|source={{own}}
+|author=[[User:Wikilackey|Wikilackey]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-zero}}
+
+[[Category:Ogham (horizontal)]]
+[[Category:Noto Sans Ogham]]

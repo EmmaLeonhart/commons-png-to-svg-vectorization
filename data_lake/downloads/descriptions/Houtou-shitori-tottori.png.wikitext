@@ -1,0 +1,17 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ja|1=鹿野城主・亀井玆矩が奉納した宝刀}}
+|date=2016-10-05
+|source={{own}}
+|author=[[User:Shitori-jinjya|Shitori-jinjya]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+
+[[Category:Katana]]
+[[Category:Shrines in Tottori prefecture]]
+[[Category:Tottori, Tottori]]

@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ja|1=芦辺漁港の位置（壱岐市芦辺町）}}
+|date=2011-09-11
+|source={{own}}
+|author=[[User:Ackeyyama|Ackeyyama]]
+|permission=
+|other_versions=
+|other_fields=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-3.0}}
+
+[[Category:Maps of Iki, Nagasaki|*map]]

@@ -1,0 +1,14 @@
+=={{int:filedesc}}==
+{{Information
+|description={{fr|1=La facade de la Comedie-Francaise, vue á la Avenue de l'Opéra, 2007.}}
+|date=2007-07-19
+|source=heironimohrkach.blogspot.mx/
+|author=Dottore Gianni
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{cc-by-sa-4.0}}
+
+[[Category:Salle Richelieu]]

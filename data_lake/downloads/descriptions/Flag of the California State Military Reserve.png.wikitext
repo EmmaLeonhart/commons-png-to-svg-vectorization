@@ -1,0 +1,14 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Flag of the California State Military Reserve}}
+|date=2007
+|source=https://en.wikipedia.org/wiki/File:SmrFlag.jpg
+|author=CSMR.
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-CAGov}}
+[[Category:California State Guard]]
+[[Category:Police flags of California]]

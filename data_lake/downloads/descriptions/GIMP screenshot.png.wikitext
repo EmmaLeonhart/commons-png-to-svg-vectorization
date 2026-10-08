@@ -1,0 +1,13 @@
+== {{int:filedesc}} ==
+{{Uploaded with en.wp UW marker|year=2012|month=11|day=06}}
+{{Information
+|Description = {{en|A screenshot of GIMP running on a GNU/Linux system.}}
+|Source = Screenshot
+|Date = 2012-11-05
+|Author = [[User:HeWhoE|HeWhoE]]
+}}
+
+== {{int:license-header}} ==
+{{self|GFDL|cc-by-sa-3.0|migration=redundant}}
+
+[[Category:English-language screenshots of GIMP]]

@@ -1,0 +1,19 @@
+
+{{vector version available|Seal of the United States Space Force.svg}}
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=The official seal of the United States Space Force, approved by the President of the United States on 15 January 2020. White background is transparent.}}
+|date=2020-01-24
+|source=https://www.spaceforce.mil/About-Us/About-Space-Force/USSF-Symbols/
+|author=United States Space Force
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-USGov-Military-Air Force}}
+
+[[Category:Roman numerals in heraldry]]
+[[Category:Heraldry of the United States Space Force]]
+[[Category:Years in Roman numerals]]
+[[Category:Seals of the United States Department of the Air Force]]

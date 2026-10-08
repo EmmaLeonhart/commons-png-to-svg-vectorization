@@ -1,0 +1,13 @@
+== {{int:filedesc}} ==
+{{Information
+|Description=Cherry crashing into primordial Earth
+|Source={{Own}}
+|Date=2007-06-30
+|Author= [[User:Ling.Nut|Ling.Nut]]
+}}
+Composite of [[public domain]] images [[:Image:Planetoid crashing into primordial Earth.jpg]] &amp; [[:Image:Kirsche.jpg]]. 
+== {{int:license-header}} ==
+{{PD-self|author=[[User:Ling.Nut|Ling.Nut]]}}
+
+[[Category:Cherries in art]]
+[[Category:Awards associated with Wikimedia users]]

@@ -1,0 +1,17 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Imprint of the Megamihōri-no-in (売神祝印) of the Lower Shrine of Suwa in Nagano Prefecture.}}
+|date=2018-04-06
+|source={{own}}; based on picture of actual seal (http://www.town.shimosuwa.lg.jp/www/contents/1001000000748/index.html)
+|author=[[User:Pat457|Pat457]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-zero}}
+
+[[Category:Seals of Japan]]
+[[Category:Chinese seal imprints]]
+[[Category:Zhuwen seals]]
+[[Category:Suwa Taisha Shimosha Akimiya]]

@@ -1,0 +1,23 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|1=Swiss field sign allegedly used in 1422 [http://www.crwflags.com/fotw/flags/ch.html#tri CWR-Flags]}}
+{{de|1=Schweizer Fahne um 1422 ([http://www.crwflags.com/fotw/flags/ch.html#tri CWR-Flags])
+original comment on crwflags.com:
+:"At the battle of Arbedo in 1422 and quite regularly thereafter, mixed levies from more than one Canton carried red triangular guidons with a white cross (see image). The last time this triangular guidon appeared in battle was in 1540, by which time it was already evolving into a full four-sided flag. All these uses of the Confederate cross became increasingly important since Confederation armies were likely to meet other Swiss mercenary troops in the employ of enemies. But 1540 was also the last time a Swiss confederate army was called out until the French invasion of 1798, so the white cross on a red field disappeared from use. The Confederation remained the loosest and most decentralised of governments, and while it had no flag there remained a state seal recognised throughout Europe as the insignia of the Thirteen Cantons. It was a white cross 'traversante' on a red shield, and it came to be known in Switzerland as the 'federal cross'." (T.F. Mills, 14 November 1997)
+
+}}
+|Source={{own}}
+|Author=T.F. Mills, [[User:Roadytom|Roadytom]]
+|Date=1997, 2010-07-15
+|Permission=
+|other_versions=[[:File:Early Swiss cross.svg]]
+}}
+
+== {{int:license-header}} ==
+{{PD-self}}
+{{Convert to SVG|simple flag}}
+
+[[Category:Military flags of Switzerland]]
+[[Category:PNG flags of Switzerland]]
+[[Category:Red flags with 1 white cross]]
+[[Category:Swiss cross]]

@@ -1,0 +1,20 @@
+{{Vva|LIE Vaduz COA HistLex.svg}}
+== {{int:filedesc}} ==
+Wappen Gemeinde Vaduz, selbstgezeichnet von [[:de:User:Tschubby]]
+
+*Wappen Gemeinde Vaduz, selbstgezeichnet von Tschubby
+
+== {{int:license-header}} ==
+{{PD-Coa-Liechtenstein}}
+
+{{DEFAULTSORT:Vaduz}}
+[[Category:Vaduz|*]]
+[[Category:Coats of arms of municipalities of Liechtenstein]]
+[[Category:Quarterly argent and gules]]
+[[Category:Heraldic Princely crowns]]
+[[Category:Marshalled Werdenberg-Sargans]]
+[[Category:Coats of arms of national capitals]]
+[[Category:Location not applicable]]
+
+[[Category:Media missing infobox template]]
+[[Category:Media missing infobox template (coats of arms)]]

@@ -1,0 +1,30 @@
+=={{int:filedesc}}==
+{{Information
+|Description=Map of [[:en:The Holocaust|the Holocaust]] in Europe during World War II, 1939-1945.
+<br>
+This map shows all German Nazi [[w:Extermination camp|extermination camps]] (or ''death camps''), most major concentration camps, labor camps, prison camps, ghettos, major deportation routes and major massacre sites.  
+<br><br>
+'''Notes:'''<br>
+1. ''Extermination camps'' were dedicated death camps, but all camps and ghettos took a toll of many, many lives.<br>
+2. ''Concentration camps'' include labor camps, prison camps & transit camps.<br>
+3. Not all camps & ghettos are shown.<br>
+4. Borders are at the height of Axis domination (1942).<br>
+5. Some regions have German designations (e.g. "Ostland"), with the present country name denoted in uppercase letters in parenthesis below the German designation (e.g. "(AUSTRIA)").<br>
+6. Present (2007) borders are dotted.<br>
+
+|Source=Self-made by [[:en:User:Dna-webmaster|User:Dna-Dennis]], using information from [http://www.ushmm.org USHMM] & Wikipedia.
+|Date=2007-12-20
+|Author=[[:en:User:Dna-webmaster|User:Dna-Dennis]]
+|Permission=CC, see below. The map is <u>completely</u> unrestricted for <u>any</u> Wikipedia/Wikimedia project.
+|other_versions={{Other versions/WW2 Holocaust Europe map}}{{Image extracted|1=WW2-Holocaust-Europe (cropped).png}}If you have any opinions/suggestions, please contact me here on [[:en:User_talk:Dna-webmaster|my talk page]].
+}}
+
+{{Vector version available|WW2 Holocaust Europe map-fr.svg}}
+
+== {{int:license-header}} ==
+{{self|cc-by-3.0|author=I, [[User:Dna-webmaster|Dennis Nilsson]]}}
+
+[[Category:Maps of Nazi extermination camps|*]]
+[[Category:Nazi concentration camps|*]]
+[[Category:Maps of the Holocaust|*]]
+[[Category:Mechelen transit camp]]

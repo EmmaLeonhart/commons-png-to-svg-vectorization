@@ -1,0 +1,14 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ja|1=熱田本宮及摂末社之図（『熱田本宮及攝末社之圖』（慶応年間）を元に作成）。}}
+|date=2014-10-07
+|source={{own}}
+|author=[[User:Tomio344456|Tomio344456]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Atsuta Shrine]]

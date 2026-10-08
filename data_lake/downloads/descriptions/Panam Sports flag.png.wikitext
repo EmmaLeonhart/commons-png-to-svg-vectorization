@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Flag of the [[:en:Panam Sports|Panam Sports]] organisation.}}
+|date=2023-10-19
+|source=https://www.santiago2023.org/en
+|author=Panam Sports
+|permission=
+|other versions={{SVG|sport logo}}
+}}
+
+=={{int:license-header}}==
+
+{{PD-textlogo}}
+
+[[Category:Sports flags]]
+[[Category:Pan American Sports Organization logos]]

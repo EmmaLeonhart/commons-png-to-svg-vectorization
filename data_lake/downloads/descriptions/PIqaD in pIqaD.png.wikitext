@@ -1,0 +1,17 @@
+<!--This file was moved here using FileImporter from https://en.wikipedia.org/wiki/File:PIqaD_in_pIqaD.png-->
+{{Vector version available}}
+== {{int:filedesc}} ==
+{{Information
+| Description    = {{en|The word "pIqaD" written in the Klingon pIqaD script.}}
+| Source         = {{own}}
+| Date           = 2011-07-30 04:20
+| Author         = [[:w:User:Vanisaac|Vanisaac]] ([[:w:User talk:Vanisaac|talk]]) ([[:w:Special:ListFiles/Vanisaac|Uploads]])
+| Permission     = 
+| other_versions = 
+}}
+
+== {{int:license-header}} ==
+{{PD-text}}
+
+[[Category:Files moved by User:Leonel Sohns to Commons from en.wikipedia]]
+[[Category:Diagrams]]

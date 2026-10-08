@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Screen shot of Visual Editor with only the Manual tab enabled.}}
+|date=2022-11-12
+|source={{own}}
+|author=[[User:Mvolz (WMF)|Mvolz (WMF)]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{free screenshot|license=CC-BY-SA 4.0}}
+
+[[Category:Citoid]]
+[[Category:Wikimedia screenshots]]
+[[Category:VisualEditor]]

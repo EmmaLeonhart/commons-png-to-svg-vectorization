@@ -1,0 +1,24 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|The picture is an excerpt of the original armorial achievement created by Pierre Chaignon de la Rose and published in the February 1931 issue of the Notre Dame Alumnus and Notre Dame Scholastic. The copyright on those works was not renewed and has subsequently expired, but the image's use as a trademark is still protected.}}
+|Source={{DF|Notre dame coat of arms.jpg}}
+|Date=1931-02
+|Author=Pierre Chaignon de la Rose
+|Permission=
+|other_versions={{Vector version available|University of Notre Dame coat of arms.svg}}
+}}
+
+== {{int:license-header}} ==
+{{PD-US-not renewed}}
+{{Trademarked}}
+
+== {{Original upload log}} ==
+{{original description|en.wikipedia|Notre+dame+coat+of+arms.png}}
+{| class="wikitable"
+! {{int:filehist-datetime}} !! {{int:filehist-dimensions}} !! {{int:filehist-user}} !! {{int:filehist-comment}}
+|-
+| 2006-02-04 06:59 || 220×259× (65969 bytes) || [[:en:User:Pmadrid|Pmadrid]] || ''<nowiki>A transparent PNG version of [[:Image:Notre dame coat of arms.png]]</nowiki>''
+|}
+
+
+[[Category:Logos of the University of Notre Dame]]

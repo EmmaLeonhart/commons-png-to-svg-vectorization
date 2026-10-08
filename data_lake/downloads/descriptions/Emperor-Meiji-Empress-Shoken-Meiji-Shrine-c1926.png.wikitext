@@ -1,0 +1,18 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Emperor Meiji and Empress Shoken, aerial view of Meiji Jingu, c. 1926. The main shrine entrance is at lower-left.}}
+{{ja|明治天皇と昭憲皇太后、明治神宮（1926年頃）}}
+|date= {{circa|1926}}
+|source= OldTokyo.com http://www.oldtokyo.com/meiji-jingu-shrine/
+|author={{unknown|author}}
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-Art|PD-old-100}}
+
+[[Category:Emperor Meiji in art]]
+[[Category:Empress Shōken in art]]
+[[Category:Meiji Shrine in art]]
+[[Category:History of Meiji Shrine]]

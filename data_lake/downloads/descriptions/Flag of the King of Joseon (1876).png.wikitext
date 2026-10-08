@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Flag of the King of Joseon (1876)}}
+|date=1876-12-31
+|source=http://www.crwflags.com/fotw/flags/kr_hist.html#1856
+|author=Empire of Japan
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-old-70-1923}}
+
+[[Category:Flags of Joseon Dynasty]]
+[[Category:Royal Standards of Korea]]

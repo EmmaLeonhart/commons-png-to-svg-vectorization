@@ -1,0 +1,13 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|1=This is Lontara script. It's read "Basa Ugi" from local language that means 'Buginese Language' in English.}}
+|Source={{own}}
+|Author=[[User:NoiX180|NoiX180]]
+|Date=2010-03-25
+|Permission=
+|other_versions=
+}}
+== {{int:license-header}} ==
+{{self|cc-by-sa-3.0}}
+
+[[Category:Lontara script]]

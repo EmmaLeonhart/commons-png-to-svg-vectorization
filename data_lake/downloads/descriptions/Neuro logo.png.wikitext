@@ -1,0 +1,14 @@
+== {{int:filedesc}} ==
+{{Information
+|Description = This is adapted from [[:Image:Hemispheres.png]] by [[w:User:Washington_irving]]. The image was previously uploaded as "Neuro logo.gif". 07:13:58, 29 December 2005 (UTC) . . [[w:User:A314268|A314268]] . . 75x62 (5,187 bytes) (''<nowiki>{{PD-user|Semiconscious}} This is adapted from </nowiki>[[:Image:Hemispheres.png]]<nowiki> by </nowiki>[[w:User:Washington_irving]]<nowiki>. {{CopyrightedFreeUse-User|Semiconscious}}</nowiki>'') 22:19:21, 22 March 2007 (UTC) [[w:User:TS Death Angel|TS Death Angel]]<br/> 01:18:03, 7 March 2007 (UTC) [[w:User:152.53.23.9|152.53.23.9]] <br/> 20:44:44, 31 December 2005 (UTC) [[w:User:A314268|A314268]] (''<nowiki>+cat</nowiki>'')<br/> 07:13:58, 29 December 2005 (UTC) [[w:User:A314268|A314268]] (''<nowiki>{{PD-user|Semiconscious}} This is adapted from </nowiki>[[:Image:Hemispheres.png]]<nowiki> by </nowiki>[[w:User:Washington_irving]]<nowiki>. {{CopyrightedFreeUse-User|Semiconscious}}</nowiki>'')
+|Source      = The [[User:PNG crusade bot|PNG crusade bot]] automatically converted this image to the more efficient [[PNG]] format. ; 19:29:54, 18 April 2007 (UTC) [[User:Remember the dot|Remember the dot]] (''<nowiki>ShouldBePNG</nowiki>'')
+|Date        = {{Date|2005|12}} March 2007 March 2007 December 2005 December 2005 April 2007
+|Author      = The [[User:PNG crusade bot|PNG crusade bot]] automatically converted this image to the more efficient [[PNG]] format. 19:29:54, 18 April 2007 (UTC) [[User:Remember the dot|Remember the dot]] (''<nowiki>ShouldBePNG</nowiki>'')<br/>
+|Permission  =
+|other_versions =
+}}
+
+== {{int:license-header}} ==
+{{PD-user-w|en|en.wikipedia|Semiconscious}}
+
+[[Category:Human brain (superior view)]]

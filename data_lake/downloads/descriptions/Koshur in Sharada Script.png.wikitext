@@ -1,0 +1,14 @@
+== {{int:filedesc}} ==
+{{Uploaded with en.wp UW marker|year=2018|month=08|day=26}}
+{{Information
+|Description = {{en|An image made by caibsSAM, which shows the word "Koshur"(Kashmiri)in Sharada Script. MAde by caibsSAM.}}
+|Source = I took this screenshot on Microsoft Word, and used the open source font Noto Sans Sharada.
+|Date = 2018-08-25
+|Author = [[User:CaibsSAM|CaibsSAM]]
+}}
+
+== {{int:license-header}} ==
+{{self|GFDL|cc-by-sa-4.0|migration=redundant}}
+
+[[Category:Noto Sans Sharada]]
+[[Category:Rendered texts in Sharada]]

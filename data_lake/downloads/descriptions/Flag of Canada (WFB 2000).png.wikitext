@@ -1,0 +1,17 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=2000 CIA World Factbook flag.}}
+|date=2000-08-24 10:10:42
+|source=https://www.cia.gov/library/publications/download/download-2000/index.html
+|author=CIA World Factbook
+|permission=
+|other versions=
+}}
+{{superseded|Flag of Canada (Pantone).svg}}
+
+=={{int:license-header}}==
+
+{{PD-USGov-CIA-WF}}
+
+[[Category:PNG flags of Canada]]
+[[Category:World Factbook flags]]

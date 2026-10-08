@@ -1,0 +1,19 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=A logo demonstrating how Muhammad was holding Ali ibn Abi Talib's hand in the Ghadir event.}}
+|date=2015-08-16
+|source={{own}}
+|author=[[User:Mhhossein|Mhhossein]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+{{vector version available|File:Ghadir Logo Vector.svg}}
+
+[[Category:Depictions of Muhammad]]
+[[Category:Ali]]
+[[Category:Symbols of Islam]]
+[[Category:Symbols of Shia]]
+[[Category:Hadith of the pond of Khumm]]

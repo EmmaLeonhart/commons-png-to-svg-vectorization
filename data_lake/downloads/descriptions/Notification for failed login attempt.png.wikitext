@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Failed login attempt notification on Echo.}}{{pl|1=Powiadomienie Echo o nieudanej próbie logowania.}}
+{{pt|1=Notificação de tentativa de acesso no Echo.}}
+|date=2017-04-20
+|source=Wikipedia screenshot
+|author=Niharika Kohli & Roan Kattouw, For WMF
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{wikimedia-screenshot}}
+
+[[Category:Wikipedia screenshots]]
+[[Category:Login notifications]]

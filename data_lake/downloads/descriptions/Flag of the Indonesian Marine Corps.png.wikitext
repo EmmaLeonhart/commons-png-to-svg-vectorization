@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Flag (banner, or color) of the Indonesian Marine Corps}}
+|date=2023-02-19
+|source={{own}}, based on [[:File:Korps Marinir.svg]] and [https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp7PHEaVFBziYEjilr-pHo7zbhOpKPIG48WA&usqp=CAU this image]
+|author=Indonesian Marine Corps
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Battle flags of the Indonesian Marine Corps]]
+[[Category:PNG flags of Indonesia]]
+[[Category:Red flags of Indonesia]]

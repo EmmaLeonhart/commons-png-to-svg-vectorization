@@ -1,0 +1,14 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Walden Pond, Massachusetts on June 27, 2012.  This is a square crop of [[:File:2012-06-27-Walden-Pond-02 33.jpg]] by [[User:Cbaile19]].}}
+|date=2017-08-29
+|source={{own}}
+|author=[[User:Buaidh|Buaidh]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Walden Pond]]

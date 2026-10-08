@@ -1,0 +1,18 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Portrait of Kaibara Ekiken (1630-1714). Kaibara was a Japanese Neo-Confucianist philosopher and botanist.}}
+{{ja|1=「貝原益軒の肖像（1700年頃）
+益軒翁畫像賛 名手狩野昌運為予描像欲其克 肖凡五□ 稿而浚淨守如此可謂 □重不苟也因自賛以遺来裔 樸陋之質　蓑朽之□ 引鏡窺影　彷彿畫圖 玩古不倦　王老増娯 千恵有得　斯語庶乎 元禄甲戌七月既望 貝原篤信六十五歳書
+
+狩野法橋昌運藤原季信寫之}}
+|date={{other date|~|1700}}
+|source=Original source = https://wwwap.hi.u-tokyo.ac.jp/ships/shipscontroller . This is a cropped version of the artwork = https://commons.wikimedia.org/wiki/File:Kaibara_Ekiken2.jpg
+|author={{unknown|author}}
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-Art|PD-old-100-expired}}
+
+[[Category:Kaibara Ekiken]]

@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=[https://web.archive.org/web/1/www.bonsellamericana.com/sold-antique-flags/antique-california-parade-flag-a-rare-and-early-bear-flag-circa-1900-1930 Circa late 1900s Californian state flag].}}
+|date=[https://web.archive.org/web/1/www.bonsellamericana.com/sold-antique-flags/antique-california-parade-flag-a-rare-and-early-bear-flag-circa-1900-1930 {{Before|1909-12-31}}]
+|source=https://web.archive.org/web/1/www.bonsellamericana.com/sold-antique-flags/antique-california-parade-flag-a-rare-and-early-bear-flag-circa-1900-1930
+|author={{unknown|author}}
+|permission=
+|other versions=
+{{Convert to SVG|flag}}
+}}
+
+=={{int:license-header}}==
+{{PD-US-expired}}
+
+[[Category:Flag of California (1911–1953)]]

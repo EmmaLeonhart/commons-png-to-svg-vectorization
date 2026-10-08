@@ -1,0 +1,24 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|Goguryeo in 576, after losing the Han River valley to Silla.}}{{it|La massima estensione di Silla nel 576 d.C. (prima dell'Unificazione Silla).}}
+{{sw|Historia ya Korea.}}
+{{vi|Cao Câu Ly năm 576, sau khi mất thung lũng sông Hàn vào tay Tân La.}}<!--Description fetched by DieBucheBot-->
+|Source={{transferred from|en.wikipedia|}}
+|Date={{original upload date|2008-06-29}}
+|Author={{user at project|Historiographer|wikipedia|en}}
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{GFDL-user-en-no-disclaimers|Historiographer|migration=relicense}}
+
+== {{original upload log}} ==
+{{original description page|en.wikipedia|History_of_Korea-576.png}}
+* 2008-06-29 04:51 [[:en:User:Historiographer|Historiographer]] 1058×1450× (2268761 bytes) ''<nowiki></nowiki>''
+* 2008-03-07 15:15 [[:en:User:Historiographer|Historiographer]] 1058×1450× (2259999 bytes) ''<nowiki></nowiki>''
+* 2008-02-22 04:46 [[:en:User:Historiographer|Historiographer]] 1058×1450× (2259690 bytes) ''<nowiki></nowiki>''
+
+[[Category:Maps of Silla]]
+[[Category:Maps of the history of Manchuria]]
+[[Category:Maps of the Three Kingdoms of Korea]]

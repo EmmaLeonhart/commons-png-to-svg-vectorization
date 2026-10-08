@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{pl|1=Wskaźnik nowej wiadomości Powiadomień Echo, po angielsku.}}{{en|1=Echo Notifications new message indicator, in English.}}
+|date=2013-07-18 23:00:21
+|source=Test Wikipedia (https://test.wikipedia.org/)
+|author=
+|permission=
+|other_versions=
+|other_fields=
+}}
+
+=={{int:license-header}}==
+{{Wikipedia-screenshot|logo=no}}
+
+[[Category:Echo (Notifications) extension]]
+[[Category:Wikipedia new messages bar]]

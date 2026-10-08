@@ -1,0 +1,20 @@
+{{svg|biology}}
+{{Information
+|Description={{en|A diagram of the alveoli, both in cross section and externally. Created by [[:en:User:Pdefer|Pdefer]]}}
+|Source={{transferred from|en.wikipedia|Smooth_O|CommonsHelper}}
+|Date={{original upload date|2005-05-24}}
+|Author={{original uploader|Pdefer|wikipedia|en}}
+|Permission=
+|other_versions= [[:File:Alveoli diagram-ar.png|العربيَّة]], [[:File:Alveoli diagram zh.png|中文]]
+}}
+{{Superseded|Alveolus diagram.svg}}
+
+== {{int:license-header}} ==
+{{GFDL-with-disclaimers|Pdefer|migration=relicense}}
+
+== {{original upload log}} ==
+{{original description page|en.wikipedia|Alveoli_diagram.png}}
+* 2005-05-24 22:21 [[:en:User:Pdefer|Pdefer]] 569×477×??? (23914 bytes) ''<nowiki>Diagram of Alveoli with both external view and cutaway.</nowiki>''
+
+[[Category:Bronchioles and pulmonary alveoli]]
+[[Category:Cutaway diagrams]]

@@ -1,0 +1,17 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Flag of the Japan Air Self-Defense Force (1972-2001)}}
+|date=1972-12-31
+|source=http://www.crwflags.com/fotw/flags/jp%5Easdf.html
+|author=Japan Air Self-Defense Force
+|permission={{PD-Japan-exempt|type=flags}}
+|other versions=
+}}
+{{vva|Flag of the Japan Air Self-Defense Force (1972-2001).svg}}
+
+=={{int:license-header}}==
+{{PD-US-no notice}}
+
+[[Category:1972 works in Japan]]
+[[Category:Flags of the Japan Air Self-Defense Force]]
+[[Category:PNG historical flags of Japan]]

@@ -1,0 +1,18 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Arms of the Scottish city of Edinburgh, from Plate V of Arthur Fox-Davies's ''A Complete Guide to Heraldry''. This work was illustrated by Graham Johnston; herald-painter to the Lyon Court.}}
+|date=1909
+|source=A Complete Guide to Heraldry (plate V. between pages 288-289)
+|author=Graham Johnston
+|permission=
+|other versions=
+}}
+{{vva|Coat of Arms of Edinburgh.svg}}
+
+=={{int:license-header}}==
+{{PD-old-70-1923}}{{insignia}}
+{{DEFAULTSORT:Edinburgh}}
+[[Category:Coats of arms of Edinburgh]]
+[[Category:Complete Guide to Heraldry (book)]]
+[[Category:Latin-language mottos in heraldry]]
+[[Category:Nisi dominus frustra]]

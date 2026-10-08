@@ -1,0 +1,14 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ja|1=金刀比羅宮・東京分社の鳥居。}}
+|date=2022-03-09
+|source={{own}}
+|author=[[User:Portalelf|Portalelf]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Shrines in Bunkyo, Tokyo]]

@@ -1,0 +1,17 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{fr|Représentation de face d'anneaux borroméens}}
+{{en|Top view of three-dimensional shapes linked in the Borromean rings configuration which are intended to look like perfect circles when viewed from the top, but which are actually not perfect circles (see other image).}}
+|Source={{Own}}
+|Date=2008-02-14
+|Author=[[:fr:User:Theon|Theon]] 
+|Permission=
+|other_versions=[[:Image:AnneauxBorromeensProfil.png]]
+}}
+
+== {{int:license-header}} ==
+{{self|GFDL|cc-by-sa-3.0,2.5,2.0,1.0}}
+
+[[Category:Circular Borromean rings]]
+[[Category:Icons with black background]]
+[[Category:Tubular knots and links]]

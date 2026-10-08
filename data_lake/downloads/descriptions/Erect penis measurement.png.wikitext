@@ -1,0 +1,18 @@
+{{vva}}
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=size measurement of an erect human penis}}{{fr|1=mesures d'un pénis humain en érection}}{{hi|1=स्तंभ मानव लिंग का आकार माप}}
+|date=2012-09-01
+|source={{own}}
+|author=[[User:Moscowsky|Moscowsky]]
+|permission=
+|other_versions=<gallery>File:Mesures du pénis en érection.png|{{#language:fr}} ({{language|fr}})
+File:Erect penis measurement-as.png|{{#language:as}} ({{language|as}}) 
+File:Erect penis measurement-af.png|({{#language:af}})</gallery>
+|other_fields=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-3.0}}
+
+[[Category:Human penis size diagrams]]

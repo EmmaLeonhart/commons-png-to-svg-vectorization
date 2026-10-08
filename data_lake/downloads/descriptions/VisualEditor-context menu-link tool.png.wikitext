@@ -1,0 +1,9 @@
+{{information 
+|Description={{en|1=Screenshot showing how the link inspector displays a link to [[w:en:World]] in VisualEditor.  The thumbnail image ([[:File:Earth_Eastern_Hemisphere.jpg]], public domain) is the first image on the page, and the descriptive text is taken from Wikidata}} 
+|Source=Screenshot 
+|Date= 2015-06-04
+|Author=WhatamIdoing 
+|Permission={{Wikipedia-screenshot|1=en|logo=no}}
+ }}
+
+[[Category:VisualEditor-en]]

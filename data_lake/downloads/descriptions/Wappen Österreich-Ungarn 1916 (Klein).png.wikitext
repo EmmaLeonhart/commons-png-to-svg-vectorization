@@ -1,0 +1,26 @@
+{{Information
+|Description=
+{{de|1=Kleineres gemeinsames Wappen Österreich-Ungarns aus dem Jahre 1916. 
+: Vorne der Österreichische Doppeladler in Gold, mit dem [[Bindenschild]] belegt, darüber die [[Rudolfskrone]], für die Österreichischen Länder, hinten gespalten von Altungarn und Neuungarn für das Königreich Ungarn, im Propf geschacht für das Königreich Kroation und Slawonien, darüber die [[Stefanskrone]], das alles für die Ungarischen Länder, dazwischen schwebt gegen die Landesteile erhöht [[Habsburg-Lothringen]], mit Habsburgerkrone, [[Orden vom Goldenen Vlies]]
+Genaue Blasonierung siehe bei den unten gegebenen Bildern.
+:Anm: Die Version von 1915 zeigte Kroatien nicht.}}
+{{en|1=Lesser common Coat of Arms of Austria-Hungary 1916}}
+|Source=H. Ströhl: ''Die neuen österreichischen, ungarischen und gemeinsamen Wappen. Hrsg. auf Grund der mit d. allerhöchsten Handschreiben vom 10. u. 11. Okt. 1915, bezw. 2. u. 5. März 1916 erfolgten Einführung.'' Wien 1917. Online [http://peter-diem.at/bundeswappen.htm Peter Diem]. Ref. ''Kundmachung des k. k. Ministerpräsidenten, betreffend die in neuer Form festgestellte kleine Kategorie des für den Gebrauch bei den gemeinsamen Einrichtungen der österreichisch-ungarischen Monarchie bestimmten gemeinsamen Wappens.'' RGBl. 125/1916, LX. Stück 125. 27. Apr. 1916, Anlage 2 ([http://alex.onb.ac.at/cgi-content/anno-plus?apm=0&aid=rgb&datum=19160004&seite=00000283 ALEX – Historische Rechts- und Gesetzestexte Online])
+|Date= 1917 (file: 2006-10-25)
+|Author={{Creator:Hugo Gerhard Ströhl}} upload [[User:David Liuzzo|David Liuzzo]]
+|Permission={{PD-old-auto-1923|deathyear=1919}}
+|other_versions={{DerivativeVersions|habsburg-lothringen.png}}
+
+{{vva|File:Lesser Coat of arms of Austria-Hungary.svg}}
+
+<gallery>
+File:Imperial Coat of Arms of Austria.svg|{{en|1=Austrian Countries 1915}}
+<!-- Hungary missing -->
+File:Wappen Österreich-Ungarn 1915 (Klein-SW).png|{{en|1=Lesser Common Coat of Arms 1915 (b/w)}}
+File:Austria-Hungaria transparency.png|{{en|1=Middle Common Coat of Arms 1915}}
+</gallery>
+}}
+
+[[Category:State coats of arms of Austria-Hungary|1916 !small]]
+[[Category:Wappenrolle Österreich-Ungarns]]
+[[Category:Enté en pointe shields]]

@@ -1,0 +1,25 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|Diving helmet for professional diver engaged in surface supplied diving}}
+|Source={{Derived from|Kask-nurka.jpg|display=50}}
+|Date=2012-05-03 19:29 (UTC)
+|Author=*[[:File:Kask-nurka.jpg|Kask-nurka.jpg]]: User:Julo
+*derivative work: [[User:Pbsouthwood|Pbsouthwood]]
+|Permission=
+|other_versions=
+}}
+
+{{RetouchedPicture|Remove background, retouch|editor=Pbsouthwood|orig=Kask-nurka.jpg}}
+
+== {{int:license-header}} ==
+{{PD-user|Julo}}
+
+== {{Original upload log}} ==
+This image is a derivative work of the following images:
+
+*[[:File:Kask-nurka.jpg]] licensed with PD-user
+**2006-06-16T19:00:11Z [[User:Julo|Julo]] 981x1371 (553150 Bytes) ''<nowiki>Diving helmet for professional diver engaged in surface supplied diving [[Category:Diving history]]{{PD-user|Julo}}</nowiki>''
+
+{{Uploaded with derivativeFX}}
+
+[[Category:UVS-50]]

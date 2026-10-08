@@ -1,0 +1,17 @@
+=={{int:filedesc}}==
+{{Information
+|Description={{en|1=The coat of arms of the Indonesian province Gorontalo}}
+{{de|1=Wappen der indonesischen Provinz Gorontalo}}
+|Source=http://id.wikipedia.org/wiki/Berkas:Lambang_propinsi_gorontalo.jpg
+|Author={{unknown|Author}}
+|Date=
+|Permission=
+|other_versions={{vva}}
+}}
+
+=={{int:license-header}}==
+{{PD-IDGov}}
+
+[[Category:Gorontalo]]
+[[Category:Coats of arms from Gorontalo]]
+[[Category:Coats of arms of Gorontalo]]

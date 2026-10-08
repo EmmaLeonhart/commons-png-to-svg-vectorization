@@ -1,0 +1,14 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Flag of Tanzania (WFB 2000)}}
+|date=2000
+|source=https://web-beta.archive.org/web/20000815094438/http://www.cia.gov:80/cia/publications/factbook/country.html#t
+|author=CIA World Factbook
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-USGov-CIA-WF}}
+[[Category:World Factbook flags]]
+[[Category:PNG flags of Tanzania]]

@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Screenshot of the interface for editing a references list in VisualEditor}}
+|date=2013-06-26
+|source=Screenshot
+|author=MediaWiki developers
+|permission=
+|other_versions=
+|other_fields=
+}}
+
+=={{int:license-header}}==
+{{Wikipedia-screenshot}}
+
+[[Category:VisualEditor]]

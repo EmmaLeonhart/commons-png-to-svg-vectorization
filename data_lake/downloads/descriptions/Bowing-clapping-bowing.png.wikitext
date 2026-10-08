@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ja|1=戦前のセーラー服少女が神前で二拝二拍手一拝を行う。玉串を捧げたあとの拝礼。上段の写真が二拝、中段が二拍手、下段が一拝を表す。現代では二礼二拍手一礼ともいう。}}
+{{en|1=A prewar girl in sailor uniform bows twice from the waist and claps her hands twice and bows once more after offering a branch of the sacred tree to Shinto gods. The top picture shows twice bowing, the middle shows twice clapping, the bottom shows one more bowing.}}
+|date=1941
+|source=https://dl.ndl.go.jp/info:ndljp/pid/1054789/27
+|author=桜井役
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+
+{{PD-Japan-oldphoto}}
+
+[[Category:Shintō]]

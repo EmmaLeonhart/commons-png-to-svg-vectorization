@@ -1,0 +1,10 @@
+{{Information
+|Description=[[:w:ja:船村徹|Hiroo Fukuda]], Chief Advisor of [[:w:en:Japan Composer's Association|Japan Composer's Association]], received the [[:w:en:Order of Culture|Order of Culture]] on November, 2016.
+|Source=[http://www.mext.go.jp/b_menu/houdou/28/11/attach/1379063.htm 平成28年度　文化勲章受章者：文部科学省]
+|Date={{unknown|date}}<br />(The date of the article : November, 2016)
+|Author=大臣官房人事課
+|Permission={{Gjstu-2.0|terms=http://www.mext.go.jp/b_menu/1351168.htm|attr=文部科学省ホームページ}}{{LicenseReview|site=[http://www.mext.go.jp/b_menu/houdou/28/11/attach/1379063.htm 平成28年度　文化勲章受章者：文部科学省]|user=Leoboudv|date=2017-11-12}}{{Personality rights}}
+|other_versions={{Extracted from|Hiroo Fukuda 201611.png}}
+}}
+
+[[Category:Tōru Funamura]]

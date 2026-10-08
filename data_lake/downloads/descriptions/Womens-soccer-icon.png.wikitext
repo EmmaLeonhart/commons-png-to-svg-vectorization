@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Cropped version of [[:File:Katy Ward 2006.jpg]]}}
+|date=2013-11-28 15:18:48
+|source=Flickr https://www.flickr.com/photos/bclfc/270623185/
+|author=[https://www.flickr.com/people/bclfc/ Jaskirt Dhaliwal]
+|permission=
+|other_versions=
+|other_fields=
+}}
+
+=={{int:license-header}}==
+{{flickrreview|Leoboudv|2013-11-29}}{{cc-by-2.0}}
+
+[[Category:Women's association football]]

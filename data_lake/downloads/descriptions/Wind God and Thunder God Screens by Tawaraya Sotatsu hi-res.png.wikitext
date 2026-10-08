@@ -1,0 +1,21 @@
+== {{int:filedesc}} ==
+{{Artwork
+|wikidata=Q105086910
+|Title = 風神雷神図屏風 (Wind God and Thunder God Screens)
+|Artist=[[俵屋宗達]] (Tawaraya Sotatsu) (1570-1643)
+|Year = {{other date|century|17}}
+|Description= {{en|1=Wind God Fujin (right) and Thunder God Raijin (left) by Tawaraya Sotatsu. These are deities (kami) in Shinto religion. This artwork is a National Treasure of Japan.}}
+|Technique=A pair of two-fold screens. Ink and color on gold-foiled paper.
+|Dimensions=169.8 x 154.5 cm (each)
+|Gallery=Kyoto National Museum (owned by Ninna-ji temple)
+|Location=Kyoto, Japan
+|Source=[https://prtimes.jp/i/13980/716/origin/d13980-716-0797e9edb745cb7bf692-0.jpg]
+|Permission= 
+|other_versions=Details of [[:Image:Fujin sotasu.jpg|Wind God]] and [[:Image:Raizin.jpg|Thunder God]] are available. See also [[:Image:Wind God and Thunder God Screens by Ogata Korin.png|famous ''replica'' of this work]] by [[Ogata Korin]].
+}}
+hiiiii
+
+== {{int:license-header}} ==
+{{PD-Art|PD-old-auto-expired|deathyear=1643}}
+
+[[Category:Wind God and Thunder God (Tawaraya Sōtatsu)]]

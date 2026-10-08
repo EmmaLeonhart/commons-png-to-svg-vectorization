@@ -1,0 +1,11 @@
+{{Information
+|Description=Battleship Bismarck
+|Source=Cropped from a [http://upload.wikimedia.org/wikipedia/commons/archive/9/9f/20080406024133!Bb_bismarck.png previous version] of [[:File:Bb bismarck.png]] []
+|Date=2008-04-03
+|Author=[[User:Anynobody]]
+|Permission={{self|GFDL|cc-by-sa-all}}
+|other_versions=
+}}
+
+
+[[Category:Battleship Bismarck in art]]

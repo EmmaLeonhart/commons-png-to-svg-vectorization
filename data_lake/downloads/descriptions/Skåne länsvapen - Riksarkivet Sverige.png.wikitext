@@ -1,0 +1,19 @@
+{{vector version available|Skåne länsvapen – Riksarkivet Sverige.svg}}
+== {{int:filedesc}} ==
+{{Information
+|Description={{sv|1=Skånes länsvapen. Målat av Vladimir A. Sagerlund då han var heraldisk konstnär vid Riksarkivet.}}
+{{en|1=Coat of arms of the county of Skåne, Sweden. Painted by Vladimir A. Sagerlund when he was the heraldic artist at the National Archives of Sweden (''Riksarkivet'').}}
+{{Coa Sweden}}
+|Source=[http://riksarkivet.se/heraldik-register-vapen?HeraldikID=16]
+{{Institution:National Archives of Sweden}}
+{{Riksarkivet cooperation project}}
+|Author=Vladimir A. Sagerlund
+|Date={{other date|-|2000|2010}}
+|Permission={{PermissionTicket|id=2014040410008915}}
+{{Cc-by-sa-3.0|Vladimir Sagerlund / Riksarkivet Sverige}}
+{{insignia-Sweden}}
+|other_versions=
+}}
+
+[[Category:Coats of arms of Skåne County|Skane]]
+[[Category:Coats of arms by the National Archives of Sweden|Län - Skåne]]

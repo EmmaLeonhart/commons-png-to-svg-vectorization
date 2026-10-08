@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Kimigayo, national anthem of Japan. Music by Yoshiisa Oku and Akimori Hayashi (arranged by Franz Eckert, 1880). It is certain that the second national anthem was completed on October 26, 1880, because Eckert's autographed sheet music currently stored at the Imperial Household Agency clearly states the date 1880.10.26. The government formally adopted "Kimigayo" as the national anthem in 1888. In 1888 (Meiji 21), the Ministry of the Navy printed a score for a brass band and officially distributed it to government offices and treaty countries. "Dai Nippon Ceremony" is written horizontally on the cover, and below that is the Kikuhana Emblem. The title "JAPAN ISCHE HYMNE", and the name and affiliation of the composer "nach einer altjapanischer Melodie", which means that it is based on an ancient Japanese folk song. "F.ECKERT, Kongl.Pr.Musikdirektor" etc. are printed, and the composition year "1888" is printed at the bottom.}}
+{{ja|君が代の音楽シート（1888年）。宮内庁に保管されているエッケルト自筆の楽譜に1880.10.26という日付が明記されていることから、第二の君が代がこの日に完成したことは間違いない事実である。明治21年、海軍省は吹奏楽用の楽譜を印刷して、諸官庁および条約諸外国に対して公式に配布した。
+表紙には「大日本礼式」と横書きされ、その下には菊花御紋章、標題の「JAPANISCHE HYMNE」、日本古来の民謡によるという意味の「nach einer altjapanischer Melodie」作曲者氏名と所属である「von F.ECKERT,Kongl.Pr.Musikdirektor」などが印刷され、一番下には作曲年「1888」が印刷されている。}}
+|date=1888
+|source=Japan Ministry of Defense https://www.mod.go.jp/msdf/tokyoband/gallery/download/kimigayo.html
+|author=Yoshiisa Oku and Akimori Hayashi (arranged by Franz Eckert, 1880).
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-old-70-expired}}
+
+[[Category:Sheet music of the National anthem of Japan]]

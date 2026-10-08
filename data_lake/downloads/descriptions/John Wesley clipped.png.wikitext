@@ -1,0 +1,21 @@
+== {{int:filedesc}} ==
+{{Information
+|Description=Stripped image of John Wesley
+|Source=From Utopia Portrait Gallery [http://utopia.utexas.edu/project/portraits/wesley.jpg], "A selection of portraits of historical figures from the University of Texas Libraries. The images in this collection are in the public domain. You do not need to ask for permission to use these images."
+
+Original source: Hundred Greatest Men, The. New York: D. Appleton & Company, 1885. 
+|Date=2007-05-26 14:37 (UTC)
+|Author={{Creator:John Jackson}}
+|other_versions=
+<gallery>
+Image:Wesley.jpg|Original
+</gallery>
+
+}}
+
+== {{int:license-header}} ==
+{{PD-Art}}
+
+[[Category:Files by User:Rursus]]
+[[Category:John Wesley by John Jackson]]
+[[Category:The Hundred Greatest Men; Portraits of the One Hundred Greatest Men of History Reproduced from Fine and Rare Steel Engravings (1885)]]

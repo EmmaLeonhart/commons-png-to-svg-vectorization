@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=symbol for TransJakarta BRT Corridor 13E Puri Beta - Kuningan Barat (Weekends only)}}
+|date=2024-11-22
+|source={{own}}
+|author=[[User:Desta231206|Desta231206]]
+|permission=
+|other versions={{other|TransJakarta roundel L13E.png}}
+}}
+
+=={{int:license-header}}==
+{{small|{{PD-simple}}}}
+
+[[Category:TransJakarta icons]]
+[[Category:PD shape]]

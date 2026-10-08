@@ -1,0 +1,14 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=A flag map of Kyoto prefecture, used for decoration or stub templates.}}
+|date=2020-08-15
+|source={{own}}
+|author=[[User:AichiWikiFixer|AichiWikiFixer]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Maps of Kyoto prefecture]]

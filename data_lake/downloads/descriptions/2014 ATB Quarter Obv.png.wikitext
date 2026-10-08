@@ -1,0 +1,18 @@
+Dollar us ravindar 9011162791
+
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=United States Quarter Dollar Obverse}}
+|date=2014-02-11 16:02:01
+|source=www.usmint.gov/pressroom/index.cfm?flash=no&action=photo
+|author=United States Mint
+|permission=
+|other_versions=
+|other_fields=
+}}
+
+=={{int:license-header}}==
+{{PD-USGov-Treasury}}{{currency}}
+
+[[Category:America the Beautiful Quarters]]
+[[Category:Obverses of Washington quarters]]

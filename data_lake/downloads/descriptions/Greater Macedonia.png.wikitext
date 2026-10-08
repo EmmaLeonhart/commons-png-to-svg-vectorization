@@ -1,0 +1,14 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|1=The modern greater Macedonian region imposed over national borders.}}
+|Source=[[:media:Europe blank map.png]]
+|Author=* Original work: [[User:Wiki-vr]] * Derivative work: [[User:EDG161|EDG161]]
+|Date=2009-06-23
+|Permission=
+|other_versions={{SVG|locator map}}
+}}
+
+== {{int:license-header}} ==
+{{PD-self}}
+
+[[Category:Maps of Macedonia]]

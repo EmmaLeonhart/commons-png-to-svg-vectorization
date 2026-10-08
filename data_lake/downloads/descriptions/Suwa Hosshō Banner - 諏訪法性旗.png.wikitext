@@ -1,0 +1,17 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ja|1=武田信玄が使用した「諏訪法性旗」（現物は山梨県甲州市にある雲峰寺にて所蔵）}}
+{{en|1=Reproduction of the Suwa Hosshō banner (諏訪法性旗) used by Takeda Shingen. The original is kept in Unpōji Temple in Kōshū City, Yamanashi Prefecture.}}
+|date=2019-01-15
+|source={{own}}
+|author=[[User:Pat457|Pat457]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Sashimono]]
+[[Category:Suwa Taisha]]
+[[Category:Takeda Shingen]]

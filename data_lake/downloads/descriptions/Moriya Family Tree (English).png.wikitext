@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=The first five generations of the Moriya clan (from Moriya-no-Kami to Yakushi-no-Kami), based on the ''Jinchō Moriya-shi Keifu'' (神長守矢氏系譜, "Genealogy of the ''Jinchō'' Moriya Clan")}}
+|date=2021-10-13
+|source={{own}}
+|author=[[User:Pat457|Pat457]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-zero}}
+
+[[Category:Family trees of Japan]]
+[[Category:Moriya clan]]

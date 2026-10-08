@@ -1,0 +1,14 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{es|1=bandera italia}}
+|Source={{own}}
+|Author=[[User:Gmveurolift|Gmveurolift]]
+|Date=2009-04-29
+|Permission=versión propia
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{self|GFDL|cc-by-sa-all}}
+
+[[Category:Flags of Italy icons]]

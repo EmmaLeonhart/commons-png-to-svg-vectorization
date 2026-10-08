@@ -1,0 +1,15 @@
+== {{int:filedesc}} ==
+{{Information
+ |description = 
+ |date = {{Original upload date|2006-02-24}}
+ |source = {{own assumed}}
+ |author = {{Author assumed|[[User:AzaToth|AzaToth]]}}
+ |permission = 
+ |other_versions = 
+}}
+
+== {{int:license-header}} ==
+{{self|GFDL|Cc-by-sa-3.0-migrated|Cc-by-sa-2.5,2.0,1.0}}
+{{Convert to SVG|ribbon}}
+
+[[Category:Barnstar ribbons]]

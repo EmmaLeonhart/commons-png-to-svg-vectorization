@@ -1,0 +1,16 @@
+{{SVG|linguistic map}}
+== {{int:filedesc}} ==
+{{Information
+|Description    ={{en|1=Historically attested range of Ainu (red) and suspected former range (pink) based on toponymic evidence (red dots), Matagi villages (purple), and Japanese isoglosses (western limit) with modern-day borders shown}}
+|Source         =Various, including {{cite book |author=Vovin, Alexander |title=Man'yōshū to Fudoki ni Mirareru Fushigina Kotoba to Jōdai Nihon Retto ni Okeru Ainugo no Bunpu |trans_title=Strange Words in the ''Man'yoshū'' and the ''Fudoki'' and the Distribution of the Ainu Language in the Japanese Islands in Prehistory |year=2008 |publisher=Kokusai Nihon Bunka Kenkyū Sentā |url=http://www.nichibun.ac.jp/graphicversion/dbase/forum/pdf/fn215.pdf |accessdate=2011-03-27 |archivedate=2014-02-11 |archiveurl=https://web.archive.org/web/20140211234350/http://www.nichibun.ac.jp/graphicversion/dbase/forum/pdf/fn215.pdf }}
+{{ef|File:Sea of Okhotsk map with state labels.png}}
+|Author         =[[User:Kwamikagami|Kwamikagami]]
+|Date           =2011-02-10 12:09
+|Permission     = 
+|other_versions ={{other|Historical expanse of the Ainu.svg}}
+}}
+
+== {{int:license-header}} ==
+{{self|cc-by-sa-3.0|GFDL}}
+
+[[Category:Maps of the Ainu]]

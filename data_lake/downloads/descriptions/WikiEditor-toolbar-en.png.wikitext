@@ -1,0 +1,12 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Screenshot showing the Wikieditor's toolbar}}
+|date=2026-08-16
+|source={{own}}
+|author=[[User:Andrybak]]
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{Wikipedia-screenshot|logo=no}}
+[[Category:WikiEditor-en]]

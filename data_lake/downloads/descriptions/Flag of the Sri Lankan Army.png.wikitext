@@ -1,0 +1,19 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Flag of the Sri Lankan Army, adopted in 1972.}}
+|date=1972
+|source=[https://web.archive.org/web/20160908034501/http://archive.li/nl5PD/b1fefb7fa923531445f11595850f4707ccf7cec6.jpg http://www.crwflags.com/fotw/images/l/lk%5Earmy3.gif]
+|author=Sri Lanka Army
+|permission={{insignia}}
+|other versions={{attrib|Sri Lankan Army Flag.svg}}
+|other fields=
+}}
+{{convert to svg|flag}}
+
+=={{int:license-header}}==
+{{PD-US-no notice}}
+
+[[Category:1972 introductions]]
+[[Category:Army flags of Sri Lanka]]
+[[Category:Lions on flags of Sri Lanka]]
+[[Category:PNG flags of Sri Lanka]]

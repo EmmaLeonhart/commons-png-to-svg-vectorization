@@ -1,0 +1,25 @@
+{{Information
+|Description={{en|1=Calif_al_Muizz_Misr_Cairo_969_CE}}
+|Source=*[[:File:Calif_al_Muizz_Misr_Cairo_969_CE.jpg|Calif_al_Muizz_Misr_Cairo_969_CE.jpg]]
+|Date=2010-06-07 05:58 (UTC)
+|Author=*[[:File:Calif_al_Muizz_Misr_Cairo_969_CE.jpg|Calif_al_Muizz_Misr_Cairo_969_CE.jpg]]: [[User:PHGCOM|PHGCOM]]
+*derivative work: —&nbsp;'''''[[User:Raeky|raeky]]'''''&nbsp;<sup>([[User talk:Raeky|talk]]&nbsp;&#124;&nbsp;[[Special:Contributions/Raeky|edits]])</sup>
+|Permission=
+|other_versions=
+}}
+
+{{RetouchedPicture|removed background and cropped|editor=Raeky|orig=Calif_al_Muizz_Misr_Cairo_969_CE.jpg}}
+
+{{Cc-by-sa-3.0}}
+
+== {{original upload log}} ==
+This image is a derivative work of the following images:
+
+*[[:File:Calif_al_Muizz_Misr_Cairo_969_CE.jpg]] licensed with PD-self
+**2009-03-04T20:35:50Z [[User:World Imaging|World Imaging]] 1136x1115 (666390 Bytes) ''<nowiki>{{Information |Description={{en|1=Calif_al_Muizz_Misr_Cairo_969_CE}} |Source=Own work by uploader, photographed at the British Museum |Author=[[User:PHGCOM|PHGCOM]] |Date=2009 |Permission= |other_versions= }}  </nowiki>''
+
+{{Uploaded with derivativeFX}}
+[[Category:Coins of Al-Mu'izz li-Din Allah]]
+[[Category:Fatimid dinar]]
+[[Category:Uploaded by raeky]]
+[[Category:Misr mint]]

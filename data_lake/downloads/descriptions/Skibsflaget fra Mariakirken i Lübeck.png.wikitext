@@ -1,0 +1,24 @@
+=={{int:filedesc}}==
+{{Information
+|Description=A medieval ship flag captured from a Danish ship by forces from [[Lübeck]] in 1427 displaying the arms of [[:w:coat of arms of Denmark|Denmark]], [[:w:coat of arms of Sweden|Sweden]], [[:w:coat of arms of Norway|Norway]] and [[Pomerania]]. The flag remained in this city for 500 years, until destroyed in World War II during an Anglo-American bombardment that damaged [[:w:St. Mary's Church, Lübeck|St. Mary's Church]] where the flag was kept. A 19th century copy is exhibited at the Danish Museum of National History at [[:w:Frederiksborg Palace|Frederiksborg Palace]], Denmark. The saint accompanying the Virgin Mary and infant Christ is Saint [[:w:James, son of Zebedee|James the Greater]], identified by his [[w:scallop|scallop]] shell emblem. Based on the heraldic images shown, the flag must have dated from the reign of King [[:w:Eric of Pomerania|Eric of Pomerania]]. It was consequently created no earlier than 1396 and no later than the 1420s. The flag was made of coarse linen. All figures and heraldic insignia were created using oil-based paint, and the flag's two sides were imperfectly painted as mirrors of each other.
+|Source=(Karl Nikolaj) Henry Petersen (20 Mar 1849 - 21 Sep 1896)[https://www.gravsted.dk/person.php?navn=henrypetersen]: ''Et dansk Flag fra Unionstiden i Maria-Kirken i Lübeck'', Copenhagen: C.A. Reitzel, 1882, page 57. Own scan. 
+|Date={{other date|ca|1882}}
+|Author=Illustration by Professor [[:da:Julius Magnus Petersen|Julius Magnus Petersen]] (4 Sep 1827 – 1 Feb 1917).[http://www.kulturarv.dk/kid/VisKunstner.do?kunstnerId=4871]
+}}
+
+== {{int:license-header}} ==
+{{PD-old}}
+
+== {{Assessment}} ==
+{{Assessments|enwiki=1|enwiki-nom= Medieval ship flag}}
+
+[[Category:Flags of the Kalmar Union]]
+[[Category:St. Marien Lübeck (before 1942)]]
+[[Category:Julius Magnus Petersen]]
+[[Category:Lübeck in the 1420s]]
+[[Category:Destroyed in Lübeck in 1942]]
+[[Category:Former interiors of St. Marien Lübeck]]
+[[Category:Danish-Hanseatic War (1426–1435)]]
+[[Category:Nordic Cross flags]]
+[[Category:Historical flags of Germany]]
+[[Category:Flags with Saint James]]

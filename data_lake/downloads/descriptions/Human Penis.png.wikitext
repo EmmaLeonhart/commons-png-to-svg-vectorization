@@ -1,0 +1,20 @@
+== {{int:filedesc}} ==
+{{Information
+|Description = 
+*{{de|3D-Illustration des menschlichen Penis, nicht erigiert, mit Vorhaut}}
+*{{en|3D-Illustration of a human penis, not erected, with foreskin}}
+Additional searching terms / Zusätzliche Suchbegriffe: Glans, Eichel, Testicle, Hoden
+|Source = {{own}}
+|Date = 2008-05-15
+|Author = [[User:Bernhard Ungerer|Bernhard Ungerer]]
+| Permission = 
+|other_versions = 
+}}
+
+== {{int:license-header}} ==
+{{self|cc-by-3.0}}
+
+[[Category:Human penis facing right]]
+[[Category:Flaccid human penis (phimosis)]]
+[[Category:Pubic hair on male human genitalia]]
+[[Category:Low quality male human genitalia pictures]]

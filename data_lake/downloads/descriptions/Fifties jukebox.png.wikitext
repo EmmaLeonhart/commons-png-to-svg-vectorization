@@ -1,0 +1,11 @@
+{{Information
+|Description= {{en|1= A [[w:Jukebox|jukebox]] icon}}
+|Source=[http://www.wpclipart.com/imgpage.html?http://www.wpclipart.com/music/listen/fifties_jukebox.png Image's page at WP ClipArt]
+|Date=
+|Author=Paul Sherman
+|Permission=[http://www.wpclipart.com/legal.html Public Domain]
+|other_versions=
+}}
+{{PD-author|WP ClipArt}}
+[[Category:Jukeboxes]]
+[[Category:Music icons]]

@@ -1,0 +1,15 @@
+== {{int:filedesc}} ==
+{{Information
+|Description=The {{W|Flag of the United States}} of America, optimized for display as a 23-pixel-wide icon
+|Source={{derived from|File:Flag of the United States.svg}} ({{W|Scalable Vector Graphics|SVG}} implementation of {{W|United States Code|U. S. Code}}: [[wikisource:United States Code/Title 4/Chapter 1|Title 4, Chapter 1, Section 1]] [http://assembler.law.cornell.edu/uscode/html/uscode04/usc_sec_04_00000001----000-notes.html] <nowiki>[</nowiki>the {{W|United States}} {{W|Federal government of the United States|Federal}} "Flag Law"<nowiki>]</nowiki>.)
+|date = 2024-01-31, based on SVG file created 2005-09-11 – {{Date|2008|05|14}}, based on the above flag law as amended by Executive Order No. 10834 dated {{Date|1959|08|21}}.
+|author = {{U|Ahecht}}, {{U|Dbenbenn}}, {{U|Zscout370}}, {{U|Jacobolus}}, {{U|Indolences}}, {{U|Technion}}.
+|other versions={{other versions|File:Flag of the United States.svg|d=23}}
+}}
+
+== {{int:license-header}} ==
+{{PD-flag}}
+{{PD-USGov}}
+{{insignia}}
+
+[[Category:National flag of the United States]]

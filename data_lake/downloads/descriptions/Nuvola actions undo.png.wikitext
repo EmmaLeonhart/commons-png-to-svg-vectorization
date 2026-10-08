@@ -1,0 +1,17 @@
+{{Vector version available|Gtk-undo-ltr.svg}}
+
+{{Information
+|Description=Nuvola action icon. Not available at a higher resolution, but may be available as SVG in [[:Category:Nuvola SVG stock]].
+|Source=http://www.icon-king.com/v2/files/nuvola-1.0.tar.gz
+|Date=2004-10-15
+|Author=David Vignoni
+|Permission=GNU Lesser General Public License
+|other_versions=
+}}
+{{LGPL}}
+[[Category:Nuvola action icons]]
+[[Category:Left arrow icons]]
+[[Category:Red arrow icons]]
+[[Category:LiveRC icons]]
+[[Category:Huggle/Huggle 2 Icons]]
+[[Category:Nuvola PNG icons]]

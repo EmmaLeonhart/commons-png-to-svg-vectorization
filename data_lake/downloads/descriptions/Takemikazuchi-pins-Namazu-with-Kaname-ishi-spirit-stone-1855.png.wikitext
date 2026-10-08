@@ -1,0 +1,20 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=After the Great Ansei earthquake of 1855, which struck Edo (now Tokyo) with a magnitude of 7.0 and claimed about 7000 casualties, the belief that giant catfish had caused the natural disaster rapidly gained in popularity. Within days of the earthquake, a new type of color woodblock print called namazu-e, or catfish pictures, was sold all over town and promised buyers protection from future earthquakes if the print was attached to their homes ceiling.
+
+There is a spirit stone (kaname-ishi) on the way to Okumiya, Japan. It is said that it suppresses the large catfish (namazu) that caused an earthquake. Legend has it that at the behest of goddess Amaterasu, the two pillars of Futsunushi Okami in Katori and Takemikazuchi Okami in Kashima held down the heads and tails of catfish with keystones and calmed them down.}}
+{{ja|1=奥宮にむかう途中にある要石。地震を起こす大ナマズを抑え込んでいるという。アマテラスの命を受けて、香取の経津主大神（フツヌシノオオカミ）、鹿島の武甕槌大神（タケミカズチノオオカミ）の二柱の武神がそれぞれ頭、尾を要石にて抑え込み、鎮めたという伝説がある。}}
+|date=1855-10-14
+|source=https://f.hatena.ne.jp/superbody/20170703204740
+|author=Unknown (Edo Period, 1855)
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-Art|PD-old-100}}
+
+[[Category:Namazu-e]]
+[[Category:Takemikazuchi]]
+[[Category:Catfish in art of Japan]]
+[[Category:Kaname-ishi]]

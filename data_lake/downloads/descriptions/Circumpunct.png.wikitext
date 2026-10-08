@@ -1,0 +1,20 @@
+== {{int:filedesc}} ==
+Circumpunct. (Circle with a dot in the middle.)
+
+{{vector version available|Circumpunct.svg}}=== Source of image ===
+Created with Paintshop Pro specifically for Wikipedia
+
+===Copyright status===
+Released to public domain by creator.
+Ancient symbol with no design copyright.
+
+Source:
+
+http://en.wikipedia.org/wiki/Image:Circumpunct.png ([[:en:User:Abdulmajid]])
+{{PD-self}}
+
+[[:de:Bild:Circumpunct.png]]
+
+[[Category:Sun symbols obsoleted by SVG replacement]]
+[[Category:Media missing infobox template]]
+[[Category:Files with 404 errors (file history)]]

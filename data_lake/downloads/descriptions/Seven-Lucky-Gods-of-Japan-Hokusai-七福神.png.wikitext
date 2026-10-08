@@ -1,0 +1,23 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Seven Lucky Gods of Japanese deities believed to grant good fortune (Seven Gods of Good Fortune), the standard set, early 19th century (circa 1810s). Fukurokuju (top left side), Hotei (big bag & fan), Ebisu (fish), Jurōjin (center with scroll), Bishamonten (spear), Benzaiten (woman with biwa), Daikokuten (rice bale).}}
+{{ja|1=七福神。}}
+|date=Early 19th century, circa 1810s
+|source=http://www.onmarkproductions.com/html/seven.shtml
+|author= {{en|Collaborative painting by Hokusai Katsushika (1760-1849), Utagawa Kunisada (1786-1865), Utagawa Toyokuni（1769-1825), Torii Kiyonaga（1752-1815), and others. The image of Hotei holding a huge white bag by Hokusai Katsushika.}}
+{{ja|葛飾北斎 (1760-1849年)、歌川 国貞 (1786-1865年)、豊国 （1769-1825年)、鳥居清長 （1752-1815年)。}}
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-Art|PD-old-100}}
+
+[[Category:Paintings by Katsushika Hokusai]]
+[[Category:Paintings by Utagawa Kunisada]]
+[[Category:Paintings by Utagawa Toyokuni]]
+[[Category:Paintings by Torii Kiyonaga]]
+[[Category:Paintings of the Seven Lucky Gods]]
+[[Category:Paintings by Utagawa Toyohiro]]
+[[Category:Paintings by Utagawa Toyoharu]]
+[[Category:Katsukawa Shun'ei]]

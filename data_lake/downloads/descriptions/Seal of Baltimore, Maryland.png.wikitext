@@ -1,0 +1,22 @@
+{{vector version available|Seal of Baltimore, Maryland.svg}}
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=The official city seal of {{w|Baltimore}}, {{w|Maryland}}. The seal was adopted in 1827 and is black and gold in color, containing the emblem of the Battle Monument in the seal's center. Around the monument are inscribed the words, "CITY OF BALTIMORE", and below the monument reads the number, "1797".}}
+|date={{circa|1827}}
+|source=[http://www.maryland.gov/ http://www.maryland.gov/]
+*[http://www.goccp.maryland.gov/region/graphics/baltimorecity_map_seal.jpg http://www.goccp.maryland.gov/] (version in full-color)
+*[http://www.mdarchives.state.md.us/msa/mdmanual/36loc/bcity/images/1198-1-883b.gif http://www.mdarchives.state.md.us/] (monochrome version)
+|author={{w|Baltimore|City of Baltimore}}
+|permission={{PD-US}}
+|other_versions=
+|other_fields=
+}}
+
+[[Category:1827 in Baltimore]]
+[[Category:1827 works in the United States]]
+[[Category:Battle Monument]]
+[[Category:Black and yellow logos]]
+[[Category:Culture of Baltimore]]
+[[Category:Seals of municipalities in Maryland]]
+[[Category:Official emblems with transparent background]]
+[[Category:seals with annual date 1797]]

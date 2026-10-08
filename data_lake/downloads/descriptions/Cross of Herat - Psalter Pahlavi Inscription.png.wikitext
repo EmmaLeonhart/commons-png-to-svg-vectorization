@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Psalter Pahlavi inscription on the Cross of Herat}}
+|date=2016-02-13
+|source={{own}}
+|author=[[User:Brightgalrs|Brightgalrs]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-zero}}
+
+[[Category:Pahlavi inscribed processional cross of Herat]]
+[[Category:History of Herat]]

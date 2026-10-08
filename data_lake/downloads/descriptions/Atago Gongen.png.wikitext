@@ -1,0 +1,17 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|1=Atago Gongen as one of Japanese deities}}
+{{ja|1=愛宕権現。仏像図彙 (1783年)より。}}
+|Source=http://www.lib.ehime-u.ac.jp/SUZUKA/316/index.html
+|Author=Hidenobu Tosa, 土佐秀信
+|Date=1783
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{PD-old-100}}
+
+[[Category:Atago Gongen]]
+[[Category:Butsuzō Zui]]
+[[Category:Shintō deities in art]]

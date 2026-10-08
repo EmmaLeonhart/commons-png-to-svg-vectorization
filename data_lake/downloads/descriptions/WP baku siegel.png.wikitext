@@ -1,0 +1,14 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{az|Bakı şəhəri gerbi}} {{de|1=Siegel von Baku (Aserbaidschan). }} {{en|Coat of arms of Baku}} {{ru|Герб Баку}}
+|Source={{own}}/[http://baku-ih.gov.az/page/10.html Baku City Executive Power]
+|Author=[[User:Jahn Henne|Jahn Henne]]
+|Date=2010-03-26
+|Permission={{self|cc-by-sa-3.0}}
+|other_versions={{vva|Coat of arms of Baku.svg}}
+}}
+
+== {{int:license-header}} ==
+{{PD-AZ-exempt|type=coats of arms}}
+{{insignia}}
+[[Category:Coats of arms of Baku]]

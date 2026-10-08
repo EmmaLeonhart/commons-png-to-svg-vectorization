@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Generic PNG icon for PDF files, optimized for display at small sizes (≈16px).}}
+|date=2021-09-08
+|source={{own}}
+{{ Derived from | File:Icon pdf file.svg | by = {{u|Koreller}} }}
+|author=[[User:Ahecht|Ahecht]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-zero}}
+
+[[Category:Pixel art icons]]
+[[Category:PDF icons with text]]

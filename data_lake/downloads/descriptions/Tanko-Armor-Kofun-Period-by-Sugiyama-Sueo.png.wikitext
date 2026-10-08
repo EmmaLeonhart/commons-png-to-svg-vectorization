@@ -1,0 +1,17 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=A classic Kofun period warrior wearing a Tanko armor from the Kofun period of Japan. By Sugiyama Sueo (1885 - 1946).The Tankō (短甲) is one of the first uniquely definable type of Japanese armor. It is a solid clamshell cuirass made with riveted or laced iron plates used during the Kofun period (古墳時代), 250-538 CE.}}
+{{ja|短甲冑着用男子図、古墳時代（250-538年）}}
+|date=1937
+|source=https://webarchives.tnm.jp/imgsearch/show/E0036085 - Tokyo National Museum (東京国立博物館)
+|author=Sugiyama Sueo (杉山 寿栄男) (1885 – 1946)
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-Art|PD-old-70}}
+
+[[Category:Tanko]]
+[[Category:Kofun armor in the Tokyo National Museum]]
+[[Category:Kofun period]]

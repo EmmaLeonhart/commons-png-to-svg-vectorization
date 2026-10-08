@@ -1,0 +1,18 @@
+<!--This file was moved here using FileImporter from https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:%E5%A4%AA%E7%94%B0%E5%A4%A9%E7%A5%9E%E5%B1%B1%E5%8F%A4%E5%A2%B3_%E6%A6%82%E7%95%A5%E5%9B%B3.png-->
+== {{int:filedesc}} ==
+{{Information
+|Description={{ja|1=太田天神山古墳_概略図
+* 『太田市史』の記述に基づき、晋尺（1尺 = 24センチメートル）による設計企画として作成。
+* 天神山古墳・女体山古墳の位置・墳丘規模のみ企画図を反映。内堀・中堤（想定）・外堀（想定）には非反映。
+* 数字の単位は尺。}}
+|Source= 投稿者自身による作品。
+* 出典1：『太田市史 通史編 原始古代』 太田市、1996年、pp. 193-196, 208。
+* 出典2：{{PDFlink|[http://www.city.ota.gunma.jp/005gyosei/0170-009kyoiku-bunka/kankoubutu/files/shi02.tenjinyama.leaf.pdf 「国指定史跡天神山古墳・国指定史跡女体山古墳」]}}（太田市作成リーフレット）太田市教育委員会教育部文化財課。
+* 出典3：[http://www.city.ota.gunma.jp/005gyosei/0170-009kyoiku-bunka/bunmazai/otabunka44.html 天神山古墳]（太田市ホームページ）。
+|Date= 2014-12-22
+|Author= [[:ja:user:Saigen Jiro|Saigen Jiro]]
+|Permission={{PD-self}}
+|other_versions=
+}}
+
+[[Category:Ōta Tenjin-yama Kofun]]

@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ja|1=河内名所図会より「交野神社」 秋里籬島(著)、丹羽桃渓(画)}}
+{{en|1="Katano jinja" from ''Kawachi meisho zue''}}
+|date=1801
+|source=河内名所図会
+|author=丹羽桃蹊
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-Art|PD-old-70}}
+
+[[Category:Kawachi meisho zue]]
+[[Category:Katano-jinja]]

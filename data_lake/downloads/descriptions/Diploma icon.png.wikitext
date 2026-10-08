@@ -1,0 +1,16 @@
+
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=An icon from the set Education Web Icons}}
+|date=2012-09-03
+|source=http://duckfiles.deviantart.com/art/Education-web-icons-set-Free-PSD-and-PNG-325020690
+|author=DuckFiles
+|permission=
+|other versions={{VVA|Diploma icon DuckFiles.svg}}
+}}
+
+=={{int:license-header}}==
+{{cc-by-3.0}}
+
+[[Category:Graduation hat icons]]
+[[Category:Plain black icons]]

@@ -1,0 +1,33 @@
+== {{int:filedesc}} ==
+{{Information
+|Description= {{en|[[:en:Flag of Colorado|Flag of Colorado]], 1907-1911}} 
+{{es|[[:es:Bandera de Colorado|Bandera de Colorado]], 1907-1911}}
+{{fr|[[:fr:Drapeau du Colorado|Drapeau du Colorado]], 1907-1911}}
+{{haw|Ka hae [[:haw:Kololako|Kololako]], 1907-1911}}
+{{la|Vexillium [[:la:Coloratum|Colorati]], MCMVII-MCMXI}} 
+{{nv|[[:nv:Dibé nitsa hahoodzo|Dibé nitsa hahoodzo]] bidah naatʼaʼí, 1907-1911}} 
+{{pdc|Faahne vun Colorado, 1907-1911}}
+{{ru|[[:ru:Флаг Колорадо|Флаг Колорадо]], 1907—1911}}
+|Source=[http://www.worldstatesmen.org/US_states_A-D.html Worldstatesmen.org]
+|Date=1907
+|Author= Benjamin M. Cahoon
+|Permission=
+|other_versions={{vva|Flag of Colorado (1907–1911).svg}}
+}}
+
+== {{int:license-header}} ==
+{{PD-US}}
+
+{{DEFAULTSORT:Colorado 1907}}
+
+[[Category:Blue, red, white, yellow flags of the United States]]
+[[Category:Flags with the Eye of Providence]]
+[[Category:Flags with fasces]]
+[[Category:Nil Sine Numine on flags]]
+[[Category:Historical flags of Colorado]]
+[[Category:Flags with black inscriptions]]
+[[Category:PNG flags of the United States]]
+[[Category:Flags with eyes]]
+[[Category:Eye of Providence in the United States]]
+[[Category:Flags with blue fields]]
+[[Category:Flags with hammer and pickhammer]]

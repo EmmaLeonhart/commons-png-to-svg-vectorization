@@ -1,0 +1,14 @@
+== {{int:filedesc}} ==
+{{Information
+|description={{en|1=A screenshot of an example of alerts that a user might see on Wikipedia or another site that runs MediaWiki software. The site is using the Vector (2022) skin.}}
+|date=2023-07-18
+|source={{own}}
+|author=[[User:The Editor's Apprentice|The Editor's Apprentice]]
+|permission=
+|other versions=<gallery>English Wikipedia Vector Legacy (2010) Alert Menu Example.png|Vector legacy (2010)</gallery>
+}}
+
+=={{int:license-header}}==
+{{Wikipedia-screenshot}}
+[[Category:English Wikipedia screenshots]]
+[[Category:Echo (Notifications) extension]]

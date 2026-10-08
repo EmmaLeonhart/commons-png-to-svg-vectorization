@@ -1,0 +1,18 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|A stylized rendering of the three axes of 3D.}}
+|Source={{transferred from|en.wikibooks|Adrignola|CommonsHelper}}
+|Date={{original upload date|2009-01-03}}
+|Author={{user at project|BANZ111|wikibooks|en}}
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{self|author={{user at project|BANZ111|wikibooks|en}}|GFDL|migration=redundant|Cc-by-3.0}}
+
+== {{original upload log}} ==
+{{original description page|en.wikibooks|Xyz.png}}
+* 2009-01-03 08:49 [[:wikibooks:en:User:BANZ111|BANZ111]] 600×600× (738318 bytes) ''<nowiki>A stylized rendering of the three axes of 3D.</nowiki>''
+
+[[Category:3D]]

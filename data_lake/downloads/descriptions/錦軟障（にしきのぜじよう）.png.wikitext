@@ -1,0 +1,18 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ja|1=錦軟障。図柄は千年松山水の図。錦軟障は帝室技芸員の今尾景年の筆によって絹に揮毫した墨絵で大正大礼の際調製したものである。昭和大礼及び平成大礼の際にも使用された。}}
+|date=2019-10-06
+|source=http://www.kunaicho.go.jp/kunaicho/shiryo/tairei/pdf/shiryo011002-3.pdf
+|author=宮内庁
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+
+{{Gjstu-2.0|terms=http://www.kunaicho.go.jp/copyright/kiyaku.html|attr=Website of the Imperial Household Agency }}
+
+[[Category:Shōji]]
+[[Category:Daijō-sai]]
+[[Category:Zejyō (traditional Japanese curtain)]]
+[[Category:Brocade]]

@@ -1,0 +1,12 @@
+{{vector version available|Arms of Havana.svg}}
+{{vector version available|File:Arms of La Habana.svg}}
+{{Information
+|Description=The coat of arms of the city of Havana, Cuba. Created in Photoshop CS2.
+|Source=Self-made, based off of image at [http://www.cubaflags.com/ www.cubaflags.com]
+|Date=2007-03-20
+|Author=[[User:Alekjds]]
+|Permission={{PD-self}}
+|other_versions={{superseded|Escudo de la Habana.svg}}
+}}
+
+[[Category:Coats of arms of Havana]]

@@ -1,0 +1,18 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ja|1=荼枳尼（大悲胎藏大曼荼羅 仁和寺版）}}
+|date=1869 (Meiji 2)
+|source=[https://dzkimgs.l.u-tokyo.ac.jp/SATi/images.php 大正新脩大蔵経 図像部 (SAT Taishōzō Image Database)]
+|author={{unknown|author}}
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+
+{{PD-Art|1=PD-old-100|country="Japan"}}{{PD-Japan}}
+
+[[Category:Dakinis]]
+[[Category:Mythological anthropophages]]
+[[Category:Womb Realm Mandala]]
+[[Category:Taishō Tripiṭaka]]

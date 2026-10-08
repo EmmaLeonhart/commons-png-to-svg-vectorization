@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Screenshot of VisualEditor; Inserting media}}
+|date=2013-06-25 21:07:43
+|source={{own}}
+|author=[[User:Guillom|Guillaume Paumier]]
+|permission=
+|other_versions=
+|other_fields=
+}}
+
+=={{int:license-header}}==
+{{self|cc-zero}}
+
+[[Category:VisualEditor]]

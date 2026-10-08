@@ -1,0 +1,18 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=First Archery of the New Year (Yumi hajime), from the album Saishiki mitsu no asa (Colors of the Triple Dawn). Woodblock print (nishiki-e) about Kyudo.}}
+{{ja|彩色美津朝　弓はじめ}}
+|date=1787 (Tenmei 7)
+|source= MFA https://collections.mfa.org/objects/206317 , The book: MFA, Golden Age (2010), #137; Chiba Museum, Torii Kiyonage (2007), list #26, pl. 228; Kokusho sômokuroku, rev. ed., vol. 3 (1990), p. 642; Hirano, Kiyonaga (1939), book list #136, pl. CXII
+|author={{Creator:Torii Kiyonaga}}
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-Art|PD-old-70}}
+
+[[Category:Historic depictions of kyudo]]
+[[Category:Yumi]]
+[[Category:Torii Kiyonaga]]
+[[Category:Kyūjutsu]]

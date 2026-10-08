@@ -1,0 +1,9 @@
+{{Information
+|Description={{ja|日本国・[[:ja:北海道|北海道]]の影絵。}}{{en|The shadow picture of [[:en:Hokkaido Prefecture|Hokkaidō Prefecture]], Japan}}
+|Source=Data is from [http://aoki2.si.gunma-u.ac.jp/map/map.html] and [[:Image:Demis-kurils-russian names.png]]
+|Date=
+|Author=Created by [[User:Kahusi|kahusi]] <small>([[User talk:Kahusi|會話]])</small>
+|Permission={{Map of Japan-Shigenobu AOKI}}{{PD-Demis}}
+}}
+[[Category:Maps of Hokkaido]]
+[[Category:Shadow picture maps of prefectures of Japan]]

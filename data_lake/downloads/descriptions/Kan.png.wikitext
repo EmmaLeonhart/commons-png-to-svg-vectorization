@@ -1,0 +1,15 @@
+<div style="margin: 1em 0 1em 0">
+*Deutsch '''Thema: Trigramme ''kǎn'' des [[:de:I Ging|I Ging]]'''
+*English '''Subject: Trigram ''kǎn'' of [[:en:I Ching|I Ching]]'''
+*Français '''Sujet : Trigramme ''kǎn'' du [[:fr:Yi Jing|Yi Jing]]'''
+
+Author : [[:ja:User:Rai koku]] (source : [[:ja:Kan.png]], 31-01-2004)
+</div>
+
+{{PD-shape}}
+
+[[Category:I Ching trigrams obsoleted by SVG replacement|X5]]
+[[Category:Trigram for water|X5]]
+[[Category:Water symbols|X5]]
+{{Vector version available|Trigramme2635 ☵.svg}}
+[[Category:Media missing infobox template]]

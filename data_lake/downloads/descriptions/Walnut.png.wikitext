@@ -1,0 +1,16 @@
+{{Vector version available|Walnut.svg}}
+
+{{Information
+|Description={{en|A Walnut shell icon}}
+|Source=Previously located at [[:en:Image:Walnut.png]]
+|Date=2006-09-09
+|Author=[[:en:User:Renesis]]
+|Permission={{Cc-zero}}
+|other_versions=[[Image:Walnut.svg]]
+}}
+
+== File history from English Wikipedia ==
+* 07:36, 9 September 2006 . . [[:en:User:Renesis|Renesis]] ([[:en:User talk:Renesis|Talk]] | [http://en.wikipedia.org/w/index.php?title=Special:Contributions&target=Renesis contribs] ) . . 192×192 (46,914 bytes)
+
+
+[[Category:Walnut icons]]

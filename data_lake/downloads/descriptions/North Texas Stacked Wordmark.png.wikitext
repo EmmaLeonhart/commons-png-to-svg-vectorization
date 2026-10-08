@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=University of North Texas' "North Texas" wordmark}}
+|date=2005
+|source=University of North Texas Athletic Department
+|author=University of North Texas
+|permission=
+|other_versions=
+|other_fields=
+}}
+
+=={{int:license-header}}==
+{{PD-textlogo}}
+{{Trademark}}
+
+[[Category:University of North Texas athletics logos]]

@@ -1,0 +1,12 @@
+{{Vector version available |1= File:Lewis and Clark Trail.svg}}
+{{Information
+|description={{en|1=Shield for the [[:en:Lewis and Clark Trail|Lewis and Clark Trail]], cropped and distorted in GIMP from [[:File:WA-100 and Lewis and Clark Trail at Cape Disappointment.jpg]]}}
+|Source		= [[Flickr]]: [https://www.flickr.com/photos/39194430@N08/4715637884 Lewis and Clark trail]
+|Date		= 2010-04-22 15:05:50
+|Author		= [https://www.flickr.com/people/39194430@N08 Ryan Stavely]
+|Permission	= {{User:Flickr upload bot/upload|date=02:40, 5 March 2013 (UTC)|reviewer=SounderBruce}}
+{{cc-by-sa-2.0}}
+|other_versions	=
+}}
+[[Category:Lewis and Clark Trail]]
+[[Category:Diagrams of scenic byway signs in the United States]]

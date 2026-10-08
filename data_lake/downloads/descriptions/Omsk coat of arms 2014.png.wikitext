@@ -1,0 +1,18 @@
+{{SVG|Coat of arms}}
+== {{int:filedesc}} ==
+{{Information
+|Description=
+             {{en| Coat of arms of [[w:en:Omsk|Omsk]].}}
+             {{es| Escudo de [[w:es:Omsk|Omsk]].}}
+             {{ru| Герб [[w:ru:Омск|Омска]].}}
+             {{fi| [[w:fi:Omsk|Omskin]] vaakuna.}}
+             
+|Source= [http://www.bk55.ru/news/article/35067/ BK55.ru]
+|Date= 2014
+|Author= {{en|Yevgeniy Gruzdov, Yevgeniy Zhuravlyov, Igor Vakhotov, Sergey Lyovin}}
+         {{ru|Евгений Груздов, Евгений Журавлёв, Игорь Вахотов, Сергей Лёвин}}
+|Permission={{PD-RU-exempt|type=coats of arms}}
+|other_versions=
+}}
+{{DEFAULTSORT:Omsk}}
+[[Category:Coats of arms of Omsk]]

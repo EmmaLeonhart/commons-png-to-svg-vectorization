@@ -1,0 +1,14 @@
+<!--This file was moved here using FileImporter from https://en.wikipedia.org/wiki/File:Transjakarta_BRT_Route_5G_Icon.png-->
+
+=={{int:filedesc}}==
+{{Information
+|Description = {{en|Roundel of Transjakarta's BRT Route 5H}}
+|Source = https://transjakarta.co.id/peta-rute/
+|Date = 2024-05-17
+|Author = Transjakarta
+}}
+
+=={{int:license-header}}==
+{{PD-simple}}
+
+[[Category:TransJakarta icons]]

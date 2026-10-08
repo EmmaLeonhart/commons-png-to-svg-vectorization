@@ -1,0 +1,20 @@
+{{Information
+|Description={{en|Dummy flag for use with various infoboxes (most notably the [[:en:Template:Infobox_Poland]]). Created with GIMP. {{User:Halibutt/GFDL}}}}
+|Source={{transferred from|en.wikipedia|Mifter}}
+|Date={{original upload date|2005-04-06}}
+|Author={{original uploader|Halibutt|wikipedia|en}}
+|Permission=
+|other_versions=
+}}
+{{Vector version available|Dummy flag.svg}}
+
+== {{int:license-header}} ==
+{{GFDL|migration=relicense}}
+
+== {{original upload log}} ==
+{{original description page|en.wikipedia|Dummy_flag.png}}
+* 2005-04-06 15:36 [[:en:User:Halibutt|Halibutt]] 320×200× (2114 bytes) ''<nowiki>new version</nowiki>''
+* 2004-10-05 14:01 [[:en:User:Halibutt|Halibutt]] 320×200× (561 bytes) ''<nowiki>Dummy flag for use with various infoboxes (most notably the [[Template:Infobox_Poland]]). Created with GIMP. {{User:Halibutt/GFDL}}</nowiki>''
+
+[[Category:Flag placeholders]]
+[[Category:Flags with question marks]]

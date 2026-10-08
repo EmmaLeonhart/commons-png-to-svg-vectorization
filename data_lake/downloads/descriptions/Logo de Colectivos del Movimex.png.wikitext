@@ -1,0 +1,18 @@
+=={{int:filedesc}}==
+{{Information
+|description={{es|1=Logo indicativo de transportes colectivos del Edomex}}
+|date=2024-07-16
+|source=* Vector representation:{{own}}
+|author=
+*Emilio Valencia for the Government of the State of Mexico (original)
+*[[User:Alejocat19|Alejocat19]] (representation)
+|permission=
+|other versions={{vector version available|Logo Corredores Naturales Movimex.svg}}
+}}
+
+=={{int:license-header}}==
+{{self|cc-zero}}
+{{PD-textlogo}}
+{{PD-Coa-Mexico}}
+
+[[Category:Movimex]]

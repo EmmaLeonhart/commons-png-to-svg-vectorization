@@ -1,0 +1,11 @@
+{{Information
+|Description={{en|1=Higher-quality PNG version of [[:File:Earth flag PD.jpg|John McConnell's Earth Day flag]], based on [[:File:The Earth seen from Apollo 17 with transparent background.png|this photograph]]. Requested at the [[w:en:WP:GL/I|English Wikipedia Graphics Lab]].}}
+|Source=[[:File:Earth flag PD.jpg]], [[:File:The Earth seen from Apollo 17 with transparent background.png]]
+|Date=2014-04-22
+|Author=John McConnell (flag designer)<br/>NASA (Earth photograph)<br/>{{u|SiBr4}} (flag image)
+|Permission={{PD-USGov-NASA}}{{PD-user|Dcoetzee}}
+|other_versions={{Image extracted|1=Earth Day Flag (cropped).png}}[[:File:Earth flag PD.jpg]]
+}}
+
+[[Category:Earth Flag]]
+[[Category:The Blue Marble]]

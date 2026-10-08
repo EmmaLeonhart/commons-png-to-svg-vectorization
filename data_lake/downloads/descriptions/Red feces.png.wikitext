@@ -1,0 +1,14 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|1=Feces colored red, in this case most likely caused by [[:en:Beeturia|beeturia]] because occurrence after ingestion of beets, and concomitant red colored urine. Otherwise, it could have been [[:en:hematochezia|hematochezia]] ("bright red blood per rectum") of lower gastrointestinal bleeding.}}
+|Source={{own}}
+|Author=[[User:Mikael Häggström|Mikael Häggström]]
+|Date=2009-06-06
+|Permission=
+|other_versions= 
+}}
+
+== {{int:license-header}} ==
+{{PD-self}}
+
+[[Category:Feces]]

@@ -1,0 +1,14 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=The word ''Uyghur'' written in Uyghur language}}
+|date=2014-06-11 15:59:10
+|source={{own}}
+|author=[[User:Amateur55|Amateur55]]
+|permission=
+|other_versions={{vva}}
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-3.0}}
+
+[[Category:Uyghur Arabic script]]

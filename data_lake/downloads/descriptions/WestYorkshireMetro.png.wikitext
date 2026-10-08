@@ -1,0 +1,15 @@
+<!--This file was moved here using FileImporter from https://en.wikipedia.org/wiki/File:WestYorksireMetro.png-->
+=={{int:filedesc}}==
+{{Information
+|Description = {{en|A representation of the West Yorkshire Metro logo}}
+|Source = {{own}}
+|Date = 2019-06-21
+|Author = [[:w:User:Jordan8396.ja|Jordan8396.ja]]
+|Other versions = {{vva}}
+}}
+
+=={{int:license-header}}==
+{{self|cc-zero}}
+
+[[Category:White letter M]]
+[[Category:White on red circle logos]]

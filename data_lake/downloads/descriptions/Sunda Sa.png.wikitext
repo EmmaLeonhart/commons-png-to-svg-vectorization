@@ -1,0 +1,14 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|1=Sundanese letter Sa.}}
+|Source={{own}}
+|Author=[[User:M. Adiputra|M. Adiputra]]
+|Date=
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{self|cc-by-sa-3.0|GFDL}}
+
+[[Category:Sundanese script letters]]

@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Satsuma army captures Okinoerabu Island; Satsuma fleet bypasses Yoron Island. 26 April-28 April 1609.}}
+|date=2017-04-03
+|source={{own}}
+|author=[[User:Sturmgewehr88|Sturmgewehr88]]
+|permission=
+|other versions=
+}}
+
+Map based on [[:File:Location map Ryukyu Islands.png]]
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Maps of Japanese invasion of Ryukyu]]

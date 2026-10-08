@@ -1,0 +1,15 @@
+== {{int:filedesc}} ==
+Coat of arms of [[:de:Jena|Jena]]
+
+Source: http://www.thueringen.de/imperia/md/images/homepagethringen/wappen_kreise/17.gif
+
+Converted into PNG format by [[User:Rosenzweig]]
+{{PD-Coa-Germany}}
+
+{{vva|Wappen Jena.svg}}
+{{DEFAULTSORT:Jena}}
+[[Category:Location not applicable|{{PAGENAME}}]]
+[[Category:Coats of arms of Jena|*PNG]]
+[[Category:Saint Michael and the Dragon in heraldry|Jena]]
+[[Category:2 escutcheons]]
+[[Category:Media missing infobox template]]

@@ -1,0 +1,11 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{Coat_gaertner_sbg}}
+|Source=[http://www.fahnen-gaertner.com/ Fahnen-Gärtner GmbH, Mittersill]
+|Date=
+|Author=
+|Permission={{PD-AustrianGov}}{{Insignia}}
+|other versions={{vva|AUT Salzburg (Stadt) COA.svg}}
+}}
+{{DEFAULTSORT:Salzburg stadt-}}
+[[Category:Coats of arms of Salzburg]]

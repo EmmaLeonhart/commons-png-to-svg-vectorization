@@ -1,0 +1,12 @@
+<!--This file was moved here using FileImporter from https://en.wikipedia.org/wiki/File:Pronunciation_of_the_name_of_the_letter_%E2%9F%A8e%E2%9F%A9_in_European_languages.png-->
+=={{int:filedesc}}==
+{{Information
+|Description = {{en|Pronunciation of the name of the letter ⟨e⟩ in European languages}}
+|Source = [[:File:Blank_map_of_Europe_cropped.svg]]
+|Author = [[:Image:Blank map of Europe.svg|Blank map of Europe.svg]] by [[:w:User:Maix|Maix]], which is based on [[:Image:Europe countries.svg|Europe countries.svg]] by [[:w:User:Tintazul|Tintazul]]
+|Permission = [[:File:Blank_map_of_Europe_cropped.svg]]
+}}
+
+=={{int:license-header}}==
+{{cc-by-sa-2.5}}
+[[Category:Phonological maps of Europe]]

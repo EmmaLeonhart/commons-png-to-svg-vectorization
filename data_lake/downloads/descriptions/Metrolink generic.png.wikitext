@@ -1,0 +1,13 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Generic shapes intended to represent logo of Manchester Metrolink, for use on map diagrams etc}}
+|date=2017-05-31
+|source={{own}}
+|author=[[User:G-13114|G-13114]]
+|permission= {{PD-shape}}
+|other_versions={{vva}}
+|other_fields=
+}}
+
+[[Category:Logos of rail transport companies of the United Kingdom]]
+[[Category:Manchester Metrolink branding]]

@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Talk tab location on Vector 2022 skin on English Wikipedia}}
+|date=2023-01-19
+|source=Wikipedia screenshot
+|author=MediaWiki developers
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+
+{{Wikipedia-screenshot}}
+
+[[Category:Screenshots in Vector (2022) skin]]
+[[Category:Wikimedia talk page links]]

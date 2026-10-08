@@ -1,0 +1,13 @@
+== {{int:filedesc}} ==
+{{Information
+|Description=Logo for the French beer project
+|Source={{Own}}
+|Date=2007-09-05
+|Author= [[User:Caribou|Caribou]]
+}}
+ {{vector version available|Logo Bier Biere - vector.svg}}
+
+== {{int:license-header}} ==
+{{self|GFDL|cc-by-sa-3.0,2.5,2.0,1.0}}
+
+[[Category:Beer icons]]

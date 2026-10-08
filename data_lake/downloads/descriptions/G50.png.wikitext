@@ -1,0 +1,7 @@
+50px green bar.
+
+{{PD-shape}}
+[[Category:Solid bar graph components]]
+[[Category:solid green images]]
+[[Category:Green rectangles]]
+[[Category:Media missing infobox template]]

@@ -1,0 +1,25 @@
+{{Convert to SVG|icon}}
+
+== {{int:filedesc}} ==
+{{Information
+|Description={{it|Autore:[[:it:Utente:Yiyi|Yiyi]]}}
+|Source={{transferred from|it.wikipedia}}
+|Date={{Original upload date|2010-11-23}}
+|Author={{user at project|Yiyi|wikipedia|it}}
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{self|author={{user at project|Yiyi|wikipedia|it}}|GFDL|Cc-by-sa-3.0,2.5,2.0,1.0|Migration=redundant}}
+
+== {{Original upload log}} ==
+{{original description|it.wikipedia|Icona+catastrofi.png}}
+{| class="wikitable"
+! {{int:filehist-datetime}} !! {{int:filehist-dimensions}} !! {{int:filehist-user}} !! {{int:filehist-comment}}
+|-
+| 2010-11-23 23:22 || 190×268× (5585 bytes) || [[:it:User:Yiyi|Yiyi]] || ''<nowiki>Autore:[[Utente:Yiyi|Yiyi]] </nowiki>''
+|}
+
+[[Category:Tornadoes in art]]
+[[Category:Weather icons]]

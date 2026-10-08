@@ -1,0 +1,15 @@
+{{Information
+|Description={{en|Locator map of '''[[:category:Eastern Europe|Eastern Europe]]''' (Robinson projection).}}
+|Source=[[:image:BlankMap-Europe-v5.png]]
+|Date=2011-01-05
+|Author=[[User:Serg!o|Serg!o]]
+|Permission={{Self|GFDL|migration=relicense}}
+|other_versions=<gallery>
+Image:Eastern_Europe_(Robinson_projection).png
+Image:Western_Europe_(Robinson_projection).png
+Image:Northern_Europe_(Robinson_projection).png
+Image:Southern_Europe_(Robinson_projection).png
+</gallery>
+}}
+
+[[Category:Maps of Eastern Europe| 01]]

@@ -1,0 +1,16 @@
+{{Vector version available|Signature of Ito Hirobumi.svg}}
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Kao of Ito Hirubumi}}{{ja|1=伊藤博文の花押}}{{ko|1=이토 히로부미의 수결(화압)}}
+|Date=2011-11-20
+|source={{en|Ito's autograph. From the Collection of Seoul Arts Center Museum of Calligraphy, Korea.}}{{ja|伊藤博文が朝鮮統監の辞任後帰国する前に朝鮮の高官たちと交換した餞別詩の筆跡から。}}{{ko|이토 히로부미가 조선통감을 사임 후 귀국하기 전 대한제국의 고관들과 교환한 전별시 서예 작품에서 인용.}}
+|author='''Original artwork:''' [[w:Ito Hirobumi|Ito Hirobumi]] <br />'''Derivative work:''' [[User:Nudimmud|Nudimmud]]
+|permission=Original artwork is in public domain since it is produced in 1905. The derivative work is hereby released into public domain by its author, [[User:Nudimmud|Nudimmud]].
+}}
+== {{int:license-header}} ==
+Original artwork:
+{{PD-Art|1=PD-old-100}}
+Derivative work:
+{{GFDL|migration=not-eligible}}
+
+[[Category:Kaō of Itō Hirobumi]]

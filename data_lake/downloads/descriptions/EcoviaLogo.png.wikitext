@@ -1,0 +1,14 @@
+=={{int:filedesc}}==
+{{Information
+|description={{es|1=Logo de la Ecovia}}
+|date=2014-10-01
+|source=http://ecovia.nl.gob.mx/index.html
+|author=Gobierno del Estado de Nuevo León
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{cc-zero}}
+
+[[Category:Ecovía (Monterrey)]]

@@ -1,0 +1,20 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Mandala of Enmaten (Yama), from the Ninna-ji manuscript of the ''Besson Zakki'' (別尊雑記 "Miscellaneous Record of Classified Sacred Images"), as reproduced in the ''Taishō Shinshū Daizōkyō Zuzō-bu'' (大正新脩大藏經 圖像部), vol. 3.}}
+{{ja|1=焔摩天（閻魔天）曼荼羅（仁和寺本『別尊雑記』）}}
+|date={{other date|between|1303|1304}}
+|source=[http://dzkimgs.l.u-tokyo.ac.jp/SATi/images.php SAT Taishōzō Image Database]
+|author={{unknown|author}}
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-Art|PD-old-100-expired}}
+
+[[Category:Enmaten]]
+[[Category:Kangiten]]
+[[Category:Dakinis]]
+[[Category:Mandalas of Japan]]
+[[Category:Chamunda]]
+[[Category:Taishō Tripiṭaka]]

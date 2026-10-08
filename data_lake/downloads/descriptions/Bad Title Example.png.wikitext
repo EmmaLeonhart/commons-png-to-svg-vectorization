@@ -1,0 +1,24 @@
+{{Example files}}
+== {{int:filedesc}} ==
+{{Information
+|Author=[[w:User:Zzyzx11|Zzyzx11]]
+|Date=
+|Description=Warning for users who use a generic filename
+|Source={{Own work by original uploader}}
+}}
+
+== {{int:license-header}} ==
+{{Self|1=GFDL|author={{User at project|Zzyzx11|w|en}}|migration=relicense}}
+
+== {{Original upload log}} ==
+{{Original description page|en.wikipedia|Example.png}}
+{| class="wikitable"
+! {{int:filehist-datetime}} !! {{int:filehist-dimensions}} !! {{int:filehist-user}} !! {{int:filehist-comment}}
+|-
+| 2006-04-04 01:36:08 || 387 × 53 || [[w:User:Zzyzx11|Zzyzx11]] || ''<nowiki>'''Please don't upload files with this title. Use a more precise name. Conflicts are unavoidable with the name "Example.png"'''. Please see [[Wikipedia:Centralized discussion/Generic image file names]] for more information.</nowiki>''
+|-
+|}
+
+[[Category:Example images]]
+[[Category:Files uploaded by FastilyClone]]
+[[Category:Please (text)]]

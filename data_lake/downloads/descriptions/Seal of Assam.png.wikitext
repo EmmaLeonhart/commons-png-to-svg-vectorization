@@ -1,0 +1,22 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|1 =Source = http://revenueassam.nic.in/}}
+|Source={{transferred from|en.wikipedia|}}
+|Date={{original upload date|2008-04-20}}
+|Author={{original uploader|Dn9ahx|wikipedia|en}}
+|Permission=
+|other_versions=
+}}
+{{vector version available|Seal of Assam svg.svg}}
+
+== {{int:license-header}} ==
+{{Insignia}}
+{{PD-India}}
+
+== {{Original upload log}} ==
+{{original description page|en.wikipedia|Seal_of_Assam.png}}
+* 2010-12-14 17:01 [[:en:User:Chaipau|Chaipau]] 350×365× (53053 bytes) ''<nowiki></nowiki>''
+* 2009-02-08 22:08 [[:en:User:Dn9ahx|Dn9ahx]] 344×337× (71236 bytes) ''<nowiki></nowiki>''
+* 2008-04-20 09:57 [[:en:User:Dn9ahx|Dn9ahx]] 182×120× (18424 bytes) ''<nowiki>{{logo fur <!-- REQUIRED --> |Article= Assam |Use=Org <!-- HIGHLY RECOMMENDED --> |Source= http://revenueassam.nic.in/ <!-- ADDITIONAL INFORMATION --> |Used_for= |Owner= |Website= |History= |Commentary= <!-- OVERRIDE FIELDS --> |Description= |Portion= |Lo</nowiki>''
+
+[[Category:Seals of Assam]]

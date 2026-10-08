@@ -1,0 +1,20 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ja|1=孝明天皇（第121代天皇）の即位礼。「孝明天皇紀附図」より。ページ68。}}
+{{en|1=Enthronement Ceremony of Emperor Kōmei. Page 68.}}
+|date={{other date|~|1846}}
+|source= Imperial Household Agency - https://shoryobu.kunaicho.go.jp/Kobunsho/Viewer/4000727380000/f259413c9c9a4d91ad673139c0a778b0?p=68
+|author=首相官邸
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{Gjstu-2.0|terms=https://www.kantei.go.jp/jp/terms.html}}
+
+[[Category:Emperor Kōmei]]
+[[Category:Enthronements in Japan]]
+[[Category:Takamikura in the Shishinden]]
+[[Category:Zejyō (traditional Japanese curtain)]]
+[[Category:Kon'e of Japan]]
+[[Category:Hu (ritual baton)]]

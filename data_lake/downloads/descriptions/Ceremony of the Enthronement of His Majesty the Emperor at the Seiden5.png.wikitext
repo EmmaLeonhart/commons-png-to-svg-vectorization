@@ -1,0 +1,19 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ja|1=即位礼での天皇の「おことば」}}
+{{en|1=Statement by the Emperor at Ceremony of the Enthronement}}
+|date=2019-10-22
+|source=https://www.kantei.go.jp/jp/singi/gishikitou_iinkai/dai8/siryou1.pdf
+|author=首相官邸, Prime Minister's Office
+|permission=
+|other versions={{Image extracted|1=Ceremony of the Enthronement of His Majesty the Emperor at the Seiden5 (cropped).png}}
+}}
+
+=={{int:license-header}}==
+
+{{Gjstu-2.0|terms=https://www.kantei.go.jp/jp/terms.html}}
+
+[[Category:Emperor Naruhito in 2019]]
+[[Category:Shinzō Abe in October 2019]]
+[[Category:Ceremony of the Enthronement of His Majesty the Emperor at the State Hall in 2019]]
+[[Category:Takamikura in the Seiden-Matsu-no-Ma]]

@@ -1,0 +1,18 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ja|1=御椅子には天皇が座る。}}
+|date=2019-10-06
+|source=http://www.kunaicho.go.jp/kunaicho/shiryo/tairei/pdf/shiryo011002-3.pdf
+|author=宮内庁
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+
+{{Gjstu-2.0|terms=http://www.kunaicho.go.jp/copyright/kiyaku.html|attr=Website of the Imperial Household Agency }}
+
+
+[[Category:Imperial thrones of Japan]]
+[[Category:Chairs]]
+[[Category:Daijō-sai]]

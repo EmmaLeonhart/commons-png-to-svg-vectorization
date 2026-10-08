@@ -1,0 +1,87 @@
+=={{int:filedesc}}==
+{{Information
+|Description={{en|1=The '''Coat of arms of Sheffield City Council''', the local government authority for the City of Sheffield, in South Yorkshire, England. The blazon is:<br>'''''ARMS:''' Per fesse Azure and Vert in chief eight Arrows interlaced saltirewise banded Argent and in base three Garbs fessewise Or.''<br>'''''CREST:''' On a Wreath of the Colours a Lion rampant Argent gorged with a Collar and holding between the paws an Antique Shield Azure charged with eight Arrows as in the Arms.''<br>'''''SUPPORTERS:''' On the dexter side a figure habited as Thor resting his exterior hand on a Hammer all proper and on the sinister side a figure habited as Vulcan standing in front of an Anvil and in the dexter hand a pair of Pincers all also proper.''}}
+|Source=*[[:File:Enclume.svg|Enclume.svg]]
+*[[:File:Meuble_héraldique_cisaille.svg|Meuble_héraldique_cisaille.svg]]
+*[[:File:Thor's_Hammer_3_gray.PNG|Thor's_Hammer_3_gray.PNG]]
+*[[:File:Wildman_Supporter_(Heraldry).svg|Wildman_Supporter_(Heraldry).svg]]
+*[[:File:Hercules_Supporter_(Heraldry).svg|Hercules_Supporter_(Heraldry).svg]]
+*[[:File:Héraldique_meuble_Gerbe_de_blé.svg|Héraldique_meuble_Gerbe_de_blé.svg]]
+*[[:File:Héraldique_meuble_Flèche.svg|Héraldique_meuble_Flèche.svg]]
+*[[:File:Coat_of_Arms_of_England_(-1340).svg|Coat_of_Arms_of_England_(-1340).svg]]
+*[[:File:Torse_of_a_British_Gentleman.svg|Torse_of_a_British_Gentleman.svg]]
+*[[:File:Georgian_heraldry_motto.svg|Georgian_heraldry_motto.svg]]
+|Date=2011-01-02 23:15 (UTC)
+|Author=*[[:File:Enclume.svg|Enclume.svg]]: [[User:Jimmy44|Jimmy44]]
+*[[:File:Meuble_héraldique_cisaille.svg|Meuble_héraldique_cisaille.svg]]: [[User:Yorick|Yorick]]
+*[[:File:Thor's_Hammer_3_gray.PNG|Thor's_Hammer_3_gray.PNG]]: [[User:Nyo|Nyo]]
+*[[:File:Wildman_Supporter_(Heraldry).svg|Wildman_Supporter_(Heraldry).svg]]: [[User:Sodacan|Sodacan]]
+*[[:File:Hercules_Supporter_(Heraldry).svg|Hercules_Supporter_(Heraldry).svg]]: [[User:Sodacan|Sodacan]]
+*[[:File:Royal_Coat_of_Arms_of_Greece.svg|Royal_Coat_of_Arms_of_Greece.svg]]: [[User:Sodacan|Sodacan]]
+**{{Author|derivative|[[User:Sodacan|Sodacan]] ([[User talk:Sodacan|<span class="signature-talk">talk</span>]])}}
+*[[:File:Héraldique_meuble_Gerbe_de_blé.svg|Héraldique_meuble_Gerbe_de_blé.svg]]: Bruno Vallette
+*[[:File:Héraldique_meuble_Flèche.svg|Héraldique_meuble_Flèche.svg]]: [[User:Orror|Orror]]
+*[[:File:Coat_of_Arms_of_England_(-1340).svg|Coat_of_Arms_of_England_(-1340).svg]]: [[User:Sodacan|Sodacan]]
+*[[:File:Torse_of_a_British_Gentleman.svg|Torse_of_a_British_Gentleman.svg]]: [[User:Sodacan|Sodacan]]
+*[[:File:Georgian_heraldry_motto.svg|Georgian_heraldry_motto.svg]]: [[User:Gaeser|Gaeser]]
+**{{author|derivative|[[User:Jza84|Jza84]] ([[User talk:Jza84|<span class="signature-talk">talk</span>]])}}
+|Permission=
+|other_versions=[[File:Sheffieldarms.jpg|150px]][[File:Escudo Sheffieldarms.svg|150px]][[File:Sheffieldarms.svg|150px]]
+}}
+{{vva|File:Coat of arms of Sheffield City Council.svg}}
+
+=={{int:license-header}}==
+{{Cc-by-sa-3.0}}{{insignia}}{{Coat of Arms}}
+
+== {{Original upload log}} ==
+This image is a derivative work of the following images:
+
+*[[:File:Enclume.svg]] licensed with Cc-by-3.0, GFDL
+**2007-08-15T09:47:39Z [[User:Jimmy44|Jimmy44]] 744x1052 (5720 Bytes) ''<nowiki>== Description == {{Heraldic-figure-fr| |meublefr=Enclume |meubleen=Anvil |source=Dessin personnel |sourceen=Own work |dessinateur=[[User:Jimmy44]] {{CURRENTDAY}}/{{CURRENTMONTH}}/{{CURRENTYEAR}} }} {{Created with Inkscape}} </nowiki>''
+
+*[[:File:Meuble_héraldique_cisaille.svg]] licensed with Cc-by-1.0, Cc-by-sa-3.0-migrated, GFDL
+**2006-08-26T22:50:34Z [[User:Yorick|Yorick]] 109x353 (2779 Bytes) ''<nowiki>== Description == {{Heraldic-figure-fr| |meublefr=cisaille |meubleen=shear |dessinateur=[[User:Yorick|Yorick]] }} == Licensing == {{self2|cc-by|GFDL}} </nowiki>''
+
+*[[:File:Thor's_Hammer_3_gray.PNG]] licensed with Cc-by-2.0
+**2007-05-03T13:53:22Z [[User:Nyo|Nyo]] 275x290 (90223 Bytes) ''<nowiki>{{Information| |Description=The Mjollnir, symbol of all the Heathen faiths. Third gray version with carvings. |Source=Own work. |Date=2007 |Author=[[User:Nyo|Nyo]] |Permission={{cc-by-2.0}} }} [[Category:Neopaganism]] [[Cate</nowiki>''
+
+*[[:File:Wildman_Supporter_(Heraldry).svg]] licensed with Cc-by-sa-3.0
+**2009-12-05T04:57:46Z [[User:Sodacan|Sodacan]] 274x516 (783302 Bytes) ''<nowiki>size</nowiki>''
+**2009-12-05T04:55:21Z [[User:Sodacan|Sodacan]] 206x387 (783301 Bytes) ''<nowiki>size</nowiki>''
+**2009-12-05T04:51:32Z [[User:Sodacan|Sodacan]] 141x265 (783300 Bytes) ''<nowiki>{{Information |Description={{en|1=Wildman Supporter used in Heraldry}} |Source=Own work |Author=[[User:Sodacan|Sodacan]] |Date=5 December 2009 |Permission= |other_versions= }} [[Category:Wild man in heraldry]] [[Category:Her</nowiki>''
+
+*[[:File:Hercules_Supporter_(Heraldry).svg]] licensed with Cc-by-sa-3.0,2.5,2.0,1.0, GFDL
+**2010-03-14T01:49:34Z [[User:Sodacan|Sodacan]] 291x543 (546713 Bytes) ''<nowiki>{{Information |Description=Royal Coat of Arms of Greece from 1936- 1967 |Source=*[[:File:Royal_Coat_of_Arms_of_Greece.svg|]] |Date=2010-03-14 01:48 (UTC) |Author=*[[:File:Royal_Coat_of_Arms_of_Greece.svg|]]: [[User:Sodacan|So</nowiki>''
+
+*[[:File:Héraldique_meuble_Gerbe_de_blé.svg]] licensed with Cc-by-sa-2.5,2.0,1.0, Cc-by-sa-3.0-migrated, GFDL
+**2007-10-21T15:06:05Z [[User:Lokal Profil|Lokal Profil]] 420x521 (36259 Bytes) ''<nowiki>Code cleanup</nowiki>''
+**2006-11-16T22:33:15Z [[User:Bruno Vallette|Bruno Vallette]] 420x521 (74681 Bytes) ''<nowiki>{{Heraldic-figure-fr| |meublefr=Gerbe de blé |meubleen=Garb |source=[[:fr:Image:Heraldique_epis_de_blé.png]] dessiné par [[User:Rinaldum|Rinaldum]] |sourceen= |dessinateur=Bruno Vallette }}</nowiki>''
+
+*[[:File:Héraldique_meuble_Flèche.svg]] licensed with Cc-by-sa-2.5,2.0,1.0, Cc-by-sa-3.0-migrated, GFDL
+**2006-12-05T14:38:22Z [[User:Zigeuner|Zigeuner]] 600x660 (13255 Bytes) ''<nowiki>==Informations== {{Heraldic-figure-fr| |meublefr=flèche |meubleen=arrow |source=- |sourceen=- |dessinateur=[[User:Orror|Orror]] |nocat= }} [[Category:Arrows in heraldry]]</nowiki>''
+
+*[[:File:Coat_of_Arms_of_England_(-1340).svg]] licensed with Cc-by-sa-3.0,2.5,2.0,1.0, GFDL
+**2010-08-28T12:51:45Z [[User:Sodacan|Sodacan]] 880x1129 (624535 Bytes) ''<nowiki>{{Information |Description=Coat of Arms of English Kings |Source={{own}} |Date=2010-08-26 |Author= [[User:Sodacan|Sodacan]]{{Inkscape}} |Permission={{Insignia}} {{Self|GFDL|cc-by-sa-3.0,2.5,2.0,1.0}} |other_versions= }} [[Ca</nowiki>''
+
+*[[:File:Torse_of_a_British_Gentleman.svg]] licensed with Cc-by-sa-3.0,2.5,2.0,1.0, GFDL
+**2010-07-21T10:47:53Z [[User:Sodacan|Sodacan]] 205x42 (48106 Bytes) ''<nowiki>{{Information |Description=Torse of a Gentlemen |Source={{own}} |Date=2010-07-20 |Author= [[User:Sodacan|Sodacan]]{{Inkscape}} |Permission={{Insignia}} {{Self|GFDL|cc-by-sa-3.0,2.5,2.0,1.0}} }} [[Category:Heraldic crowns of </nowiki>''
+
+*[[:File:Georgian_heraldry_motto.svg]] licensed with Cc-by-sa-3.0, GFDL
+**2010-12-10T18:10:08Z [[User:Gaeser|Gaeser]] 449x153 (3985 Bytes) ''<nowiki>== {{int:filedesc}} == {{Information |Description={{en|1=The element of Georgian COAs.}} |Source={{own}} |Author=[[User:Gaeser|Gaeser]] |Date=2010-12-10 |Permission= |other_versions= }} [[Category:Coat of arms </nowiki>''
+
+{{Uploaded with derivativeFX}}
+
+[[Category:Anvils in supporters]]
+[[Category:Pliers in heraldry]]
+[[Category:Human figures in supporters]]
+[[Category:3 wheat garbs or in heraldry]]
+[[Category:Arrows in heraldry]]
+[[Category:Demi-lions in crest]]
+[[Category:Coats of arms of Sheffield]]
+[[Category:Thor in heraldry]]
+[[Category:Vulcanus]]
+[[Category:Lions rampant in crest]]
+[[Category:Vikings with horned helmets]]
+[[Category:Latin-language mottos in heraldry]]
+[[Category:Sheffield City Council]]
+{{DEFAULTSORT:Sheffield}}

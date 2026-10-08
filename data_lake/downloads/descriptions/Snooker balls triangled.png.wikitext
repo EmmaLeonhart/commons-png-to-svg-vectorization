@@ -1,0 +1,15 @@
+{{vector version available|Snooker triangle.svg}}
+{{Information
+|Description=[[w:Glossary of cue sports terms#triangle|Triangle]] of the 15 [[w:Glossary of cue sports terms#red balls|reds]] in [[w:Snooker|snooker]].  Note: This is not a full depiction of the setup of a game of snooker, as the [[w:Glossary of cue sports terms#Colour balls|colour balls]] are not shown.
+|Source={{own}}
+|Date=2007-03-15
+|Author=Myself
+|Permission=CC-BY-SA-2.5
+|other_versions=
+}}
+
+{{Cc-by-sa-2.5}}
+
+
+[[Category:Red snooker balls]]
+[[Category:Billiard game setups]]

@@ -1,0 +1,19 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Baltoro Glacier in Pakistan on June 29, 2012.  This is a square crop of [[:File:Baltoro Glacier, Pakistan.jpg]] by Thsulemani.}}
+|date=2017-08-29
+|source={{own}}
+|author=[[User:Buaidh|Buaidh]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Baltoro Glacier]]
+[[Category:Valley glaciers in Pakistan]]
+[[Category:Medial moraines in Pakistan]]
+[[Category:Confluences of glaciers in Pakistan]]
+[[Category:Fan-shaped glaciers]]
+[[Category:Fan-shaped rock glaciers]]

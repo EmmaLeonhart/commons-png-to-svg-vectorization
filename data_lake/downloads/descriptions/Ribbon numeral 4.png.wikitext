@@ -1,0 +1,22 @@
+{{Information
+|Description=numeral for multiple awards of barnstar
+|Source=http://en.wikipedia.org/wiki/Image:Ribbon_numeral_4.png
+|Date=
+|Author=[[w:User:Hersfold]]
+|Permission={{PD-self}}
+|other_versions=The entire series includes:
+*[[:Image:Ribbon numeral 0.png]]
+*[[:Image:Ribbon numeral 1.png]]
+*[[:Image:Ribbon numeral 2.png]]
+*[[:Image:Ribbon numeral 3.png]]
+*[[:Image:Ribbon numeral 4.png]]
+*[[:Image:Ribbon numeral 5.png]]
+*[[:Image:Ribbon numeral 6.png]]
+*[[:Image:Ribbon numeral 7.png]]
+*[[:Image:Ribbon numeral 8.png]]
+*[[:Image:Ribbon numeral 9.png]]
+*[[:Image:Ribbon numeral star.png]] (Representing ten or more)
+}}
+{{Svg|wp ribbon}}
+[[Category:Barnstar ribbons]]
+[[Category:4 (numeral)]]

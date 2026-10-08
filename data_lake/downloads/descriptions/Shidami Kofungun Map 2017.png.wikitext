@@ -1,0 +1,14 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ja|1=志段味古墳群地図（2017年1月現在）}}
+|date=2018-03-15
+|source={{own}}
+|author=[[User:Tomio344456|Tomio344456]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Shidami Kofun Group]]

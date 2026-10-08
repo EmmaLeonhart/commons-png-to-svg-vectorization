@@ -1,0 +1,16 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|Shield of the coat of arms of East Timor.}}
+|Source=File:Coat of arms of East Timor.svg
+|Date=2017
+|Author= Government of East Timor
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{self|Cc-zero}}
+
+{{SVG|coat of arms}}
+
+[[Category:National emblem of East Timor]]

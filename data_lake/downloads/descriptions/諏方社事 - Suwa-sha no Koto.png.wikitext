@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ja|1=諏方社事（『古事記上巻抄』より）}}
+|date=Facsimile published 1924 (Taishō 13)
+|source=[https://dl.ndl.go.jp/pid/1185372/ 古事記上巻抄]
+|author=Unknown
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+
+{{PD-Art|PD-old-100-1923}} {{PD-Japan-oldphoto|PD-1996}}
+
+[[Category:Kojiki]]
+[[Category:Takeminakata]]

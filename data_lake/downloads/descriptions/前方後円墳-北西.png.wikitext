@@ -1,0 +1,13 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ja|[[:ja:前方後円墳|前方後円墳]] (前方部を北西) の形状 ([[:ja:Template:日本の古墳|Template:日本の古墳]]用)}}
+|date=2015-10-21
+|source={{own}}
+|author=[[:ja:user:Saigen Jiro|Saigen Jiro]]
+|permission=
+|other versions={{Vector version available|前方後円墳-北西.svg}}
+}}
+=={{int:license-header}}==
+{{PD-self}}
+[[Category:Kofun icons]]
+[[Category:Files uploaded by Saigen Jiro]]

@@ -1,0 +1,15 @@
+{{SupersededSVG|BlankMap-World.svg}}
+{{SupersededSVG|World map without Antarctica.svg}}
+
+World map: blank, without country borders; derived by [[:en:User:Pcb21]]/[[:en:User:E Pluribus Anthony]] from work by [[:en:User:Vardion]]
+
+Note that the grey colour has bitmap colours R=192, G=192, B=192
+
+{{PD-user-en|E Pluribus Anthony}}
+
+
+== derivative works ==
+{{DerivativeVersions|BES islands location map.svg|Ballota nigra rangemap.png|Beebe Pheasant Expedition Map.png|Dutch Caribbean location map.svg}}
+[[Category:Borderless maps of the world without Antarctica]]
+[[Category:Simplified maps of the world]]
+[[Category:Media missing infobox template]]

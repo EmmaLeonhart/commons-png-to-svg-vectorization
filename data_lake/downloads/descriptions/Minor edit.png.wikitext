@@ -1,0 +1,14 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=An image of the "minor edit" checkbox on a page edit, visible to logged in users}}
+|date=2012-02-08
+|source={{own}}
+|author=[[User:Banaticus|Banaticus]]
+|permission={{Freescreenshot|Copyright by Wikimedia}}
+|other_versions=
+|other_fields=
+}}
+=={{int:license-header}}==
+{{Freescreenshot|Wikimedia-screenshot}}
+[[Category:Wikipedia]]
+[[Category:Wikipedia editing]]

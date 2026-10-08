@@ -1,0 +1,18 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ko|1=평양신사측면전경}}
+|date=1942
+|source=《朝鮮と建築》 第二十輯 第十一號, 朝鮮建築會, 1942.
+|author={{unknown|author}}
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+
+{{PD-Korea-1910-1945-photo}}
+
+[[Category:Heijō Shrine]]
+[[Category:1942 photographs of Korea]]
+[[Category:Historical photographs of North Korea]]
+[[Category:Historical images of shinto shrines]]

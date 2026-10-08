@@ -1,0 +1,20 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Map of Japan in 1183 (Heian Period) during the Genpei War (1180–1185). It shows the domains of the Taira, Minamoto and Northern Fujiwara clans with provinces and important battles.}}
+{{ja|日本の地図、源平合戦（1183年、平安時代）。平氏（赤）、源義仲（青い）、源頼朝（緑）、奥州藤原（黄）の勢力図。}}
+|date=2020-02-11
+|source={{own}}
+|author=[[User:Artanisen|Artanisen]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Maps of Japan in the Heian period]]
+[[Category:Maps of Genpei War]]
+[[Category:Minamoto clan]]
+[[Category:Taira clan]]
+[[Category:Oshu Fujiwara clan]]
+[[Category:Maps showing 1183]]

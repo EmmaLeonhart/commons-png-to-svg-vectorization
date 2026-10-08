@@ -1,0 +1,17 @@
+
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|1=Standard symbol for a tram as used in road signs in the United Kingdom}}
+|Source={{Own}}
+|Author=[[User:Wikidwitch|Wikidwitch]]
+|Date=
+|Permission=
+|other_versions={{vector version available|UK traffic sign symbol S26.svg}}
+}}
+
+== {{int:license-header}} ==
+{{PD-textlogo}}
+{{self|cc-by-sa-3.0|GFDL}}
+
+[[Category:Tram icons]]
+[[Category:Sideways diagrams of trams (whole; single)]]

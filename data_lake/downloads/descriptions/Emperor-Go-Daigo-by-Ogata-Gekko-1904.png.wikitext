@@ -1,0 +1,25 @@
+=={{int:filedesc}}==
+{{artwork
+|artist = {{Creator:Ogata Gekkō}}
+|title = Emperor Go-Daigo
+|description = {{en|1='Emperor Go-Daigo. Woodblock print; ink and color on paper. The print depicts Emperor Go-Daigo (1288-1339), dreaming of ghosts at his palace in Kasagiyama.}}
+{{ja|1=後醍醐帝/笠置山皇居霊夢之図}}
+{{ru|1=Император Го-Дайго, видящий во сне призраки в Дворце Касагиямы («後醍醐帝笠置山皇居霊夢之図» Го-Дайго тэй Касагияма кокё рэйму но дзу, картина 1890 г. 尾形月耕Огата Гэкко).}}
+|date = 1904
+|source = Robert O. Muller Collection, {{From Google Cultural Institute|the-emperor-godaigo-artist-ogata-gekko/XAEnk2BbuKmlAw}}
+|permission =
+|other versions =
+|wikidata = 
+}}
+
+=={{int:license-header}}==
+{{PD-Art|PD-old-100-expired}}
+
+[[Category:Nishiki-e in Meiji period]]
+[[Category:Emperor Go-Daigo in art]]
+[[Category:Ogata Gekko]]
+[[Category:Paintings of historical figures from Japan]]
+[[Category:Ghosts of Japan]]
+[[Category:Siege of Kasagi]]
+[[Category:Dreaming in Japanese art]]
+[[Category:Sasaki Toyokichi]]

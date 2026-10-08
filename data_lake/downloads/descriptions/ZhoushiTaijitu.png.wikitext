@@ -1,0 +1,24 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|1=Variant of the ''Taijitu'' ("supreme ultimate diagram"). A number of similar such diagrams are known from the Ming-era Daoist canon. The origin of this particular design is unknown (but it likely predates the 18th century)
+Literature:
+*Joseph A. Adler, Reconstructing the Confucian Dao: Zhu Xi's Appropriation of Zhou Dunyi, SUNY Press, 2014, [https://books.google.ch/books?id=09ouAwAAQBAJ&pg=PA154 p. 154]
+*Robinet, Isabelle (2008), "Taiji tu. Diagram of the Great Ultimate", in Pregadio, Fabrizio, The Encyclopedia of Taoism A−Z, Abingdon: Routledge, [https://books.google.ch/books?id=R3Sp6TfzhpIC&pg=PA936&lpg=PA935#v=onepage&q&f=false p. 935]
+}}
+|Source={{unknown|1=source}}
+|Date=unknown; {{original upload date|2004-06-17}} 
+|Author={{original uploader|Kim é‡‘|wikipedia|en}}. {{unknown}}
+|Permission= 
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{PD-old-100}}
+
+== {{Original upload log}} ==
+{{original description page|en.wikipedia|TaiJiTu.png}}
+* 2004-06-17 05:51 [[:en:User:Kim é‡‘|Kim é‡‘]] 99×360× (34343 bytes) ''<nowiki>TaiJiTu scanned from an ancient Chinese text, not copyrighted, </nowiki>''
+
+[[Category:Taijitu]]
+[[Category:Wu Xing (Chinese philosophy)]]
+[[Category:Wuji]]

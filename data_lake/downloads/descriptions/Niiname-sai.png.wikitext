@@ -1,0 +1,18 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ja|1=新嘗祭の写真}}
+|date=2019-03-14
+|source=*皇室チャンネル（政府広報オンライン）
+*URL：https://www.gov-online.go.jp/prg/prg18579.html
+*投稿者が動画から静止画を切り出して作成
+|author=宮内庁
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{GJSTU-2.0|terms=https://www.gov-online.go.jp/tos/|attr=政府広報オンライン}}
+{{Gjstu-2.0|terms=http://www.kunaicho.go.jp/copyright/kiyaku.html|attr=Website of the Imperial Household Agency }}
+
+
+[[Category:Niiname-sai]]

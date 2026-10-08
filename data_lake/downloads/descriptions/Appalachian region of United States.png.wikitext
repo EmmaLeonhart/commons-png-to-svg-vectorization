@@ -1,0 +1,31 @@
+== {{int:filedesc}} ==
+{{Information 
+|description    = {{en| Map of the Appalachian region of the United States, from the Web site of the Appalachian Regional Commission, at http://www.arc.gov/images/regionmap.gif  PD-USGov }} 
+|date           = 
+|source         = http://www.arc.gov/images/regionmap.gif
+|author         = [[:en:User:Jax42|Jax42]] at en.wikipedia
+|Permission     = 
+|other versions = 
+}}
+{{Convert to SVG|geology}}
+
+== {{int:license-header}} ==
+{{PD-USGov}}
+
+== {{Original upload log}} ==
+{{original description page|en.wikipedia|Appalachian_region_of_United_States.gif}}
+
+Upload date | User | Bytes | Dimensions | Comment
+* 2008-11-14 04:44 (UTC) | [[:en:User:Bitmapped|Bitmapped]] | 55973 (bytes) | 570×585 | <small><nowiki>== Summary == Map of the Appalachian region of the United States, from the Web site of the Appalachian Regional Commission, at http://www.arc.gov/images/regionmap.gif . Updated to include Trumbull and Ashtabula counties in Ohio as per ARC expansion. {{P</nowiki></small>
+* 2005-11-05 03:12 (UTC) | [[:en:User:Jax42|Jax42]] | 37690 (bytes) | 570×585 | <small><nowiki>Map of the Appalachian region of the United States, from the Web site of the Appalachian Regional Commission, at http://www.arc.gov/images/regionmap.gif {{PD-USGov}}</nowiki></small>
+
+[[Category:Maps of Appalachia]]
+[[Category:Appalachian Regional Commission]]
+
+== {{Original upload log}} ==
+{| class="wikitable"
+|-
+! {{int:filehist-datetime}} !! {{int:filehist-dimensions}} !! {{int:filehist-user}} !! {{int:filehist-comment}}
+|-
+| {{ISOdate|2011-08-04 08:45:00}} || 570 × 585 (55973 bytes) || {{User|SreeBot}} || ''<nowiki></nowiki>''
+|}

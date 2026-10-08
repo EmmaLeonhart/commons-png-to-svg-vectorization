@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Possible arrangements of talismans or ''ofuda'' enshrined in Shinto household altars (''kamidana'').}}
+|date=2020-05-24
+|source={{own}}
+|author=[[User:Pat457|Pat457]]
+|other versions={{vva}}
+}}
+
+=={{int:license-header}}==
+{{self|cc-zero}}
+
+[[Category:Ofuda]]
+[[Category:Kamidana]]
+[[Category:Shintō prayer]]

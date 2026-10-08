@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ja|1=異形鉄器の復元図}}
+|date=2017-08-29
+|source={{own}}
+|author=[[User:エカシ・オトンプイ|エカシ・オトンプイ]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Kofun of Kagoshima prefecture]]
+[[Category:Models of Kofun]]
+[[Category:Drawings of Kofun]]

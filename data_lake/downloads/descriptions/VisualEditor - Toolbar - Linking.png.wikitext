@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Screenshot of the linking icon on VE's toolbar}}
+|date=2014-01-09 11:43:00
+|source=VisualEditor screenshot
+|author=MediaWiki developers
+|permission=
+|other_versions=
+|other_fields=
+}}
+
+=={{int:license-header}}==
+{{Wikipedia-screenshot|logo=no}}
+
+[[Category:Wikipedia screenshots]]
+[[Category:VisualEditor icons (dimmed)]]

@@ -1,0 +1,26 @@
+{{vector version available|1=Arms of the City of Manchester.svg}}
+{{Information
+|Description={{en|1=The '''Coat of arms of Manchester City Council''', the local government authority for the City of Manchester, in Greater Manchester, England. The blazon is:<br>'''''ARMS:''' Gules three Bendlets enhanced Or a Chief Argent thereon on Waves of the Sea a Ship under sail proper.''<br>'''''CREST:''' On a Wreath of the Colours a Terrestrial Globe semee of Bees volant all proper.''<br>'''''SUPPORTERS:''' On the dexter side a Heraldic Antelope Argent attired collared and chain reflexed over the back Or and on the sinister side a Lion guardant Or murally crowned Gules each charged on the shoulder with a Rose of the last.''}}
+|Source=*[[:File:Coat_of_Arms_of_Henry_IV_of_England_(1399-1413).svg|Coat_of_Arms_of_Henry_IV_of_England_(1399-1413).svg]]
+*[[:File:Coat_of_arms_of_the_Soviet_Union.svg|Coat_of_arms_of_the_Soviet_Union.svg]]
+*[[:File:Torse_of_a_British_Gentleman.svg|Torse_of_a_British_Gentleman.svg]]
+*[[:File:Georgian_heraldry_motto.svg|Georgian_heraldry_motto.svg]]
+*[[:File:FlagOfLancashire.svg|FlagOfLancashire.svg]]
+*[[:File:Coat_of_arms_of_the_Falkland_Islands.svg|Coat_of_arms_of_the_Falkland_Islands.svg]]
+*[[:File:Wappen Immenhausen (Kusterdingen).svg|Wappen Immenhausen (Kusterdingen).svg]]
+|Permission={{Cc-by-sa-3.0}}{{insignia}}{{Coat of Arms}}
+|other_versions={{Image extracted|Coat of arms of Manchester City Council (cropped).png}}
+|Date=2010-12-28 13:41 (UTC)
+|Author=[[User:Jza84|Jza84]]
+}}
+
+{{Uploaded with derivativeFX}}
+
+[[Category:Roses in supporters]]
+[[Category:Globes in heraldry]]
+[[Category:Sailboats in heraldry]]
+[[Category:Mural crowns in heraldry]]
+[[Category:Crowned lions in supporters]]
+[[Category:Coats of arms of Manchester]]
+[[Category:Bees in crests]]
+[[Category:Concilio et labore]]

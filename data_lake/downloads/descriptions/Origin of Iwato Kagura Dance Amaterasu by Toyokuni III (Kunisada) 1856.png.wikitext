@@ -1,0 +1,21 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1="Origin of Iwato Kagura Dance" triptych by Utagawa Kunisada (aka Toyokuni III). The goddess Amaterasu-Ōmikami is in the center. Amaterasu became curious how the gods could make merry while the world was plunged into darkness and was told that outside the cave there was a deity more illustrious than she. She peeped out, saw her reflection in the mirror, heard the cocks crow, and was thus drawn out from the cave.}}
+{{ja|1=「岩戸神楽の起顕」。三代歌川豊国／さんだいうたがわとよくに。}}
+|date=1856
+|source=Shukado - https://www.japanese-finearts.com/item/list2/A1-97-135/Toyokuni%20III%20(Kunisada)/Origin%20of%20Iwato%20Kagura%20Dance
+|author=Toyokuni III (Kunisada)
+|permission=
+|other versions=
+}}
+
+== {{int:license-header}} ==
+{{PD-Art|PD-old-100-expired}}
+
+[[Category:Prints triptych by Utagawa Kunisada]]
+[[Category:Triptychs in Japan]]
+[[Category:Amaterasu Ōmikami]]
+[[Category:Ukiyo-e of historical figures and folk tales]]
+[[Category:Ama no Iwato]]
+[[Category:Enshūya Hikobei]]
+[[Category:Deities]]

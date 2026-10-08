@@ -1,0 +1,17 @@
+== {{int:filedesc}} ==
+{{Vector version available|Wikipedia help.svg|Wiki-lifebelt-2-W.svg|Wiki-lifebelt-base-W.svg}}
+{{Information
+|Description={{en|1=Wikipedia help icon}}
+{{pt|1=Ícone de ajuda da Wikipédia}}
+|Source=[[:File:Crystal 128 khelpcenter.png]]
+|Author=[[:w:Everaldo Coelho|Everaldo Coelho]] ([[:File:Crystal 128 khelpcenter.png]]) and [[User:Danilo.mac]] (add the [[:File:Wikipedia's W.svg|Wikipedia's W]])
+|Date=2010-06-19
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{self|GFDL|cc-by-sa-3.0,2.5,2.0,1.0}}
+
+[[Category:W Wikipedia icons]]
+[[Category:Lifebuoy icons]]

@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Yasaka Shrine, Kyoto, at night}}
+{{es|1=Santuario Yasaka, Kioto, de noche}}
+|date=2019-07-10
+|source={{own}}
+|author=[[User:Estorgik|Estorgik]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Buden, Yasaka-jinja at night]]

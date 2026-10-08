@@ -1,0 +1,16 @@
+== {{int:filedesc}} ==
+{{Information
+|Description= Coat of Arms of [[Indonesia|Indonesian]] province of [[Bengkulu]].
+|Source=[http://www.bengkulu.go.id/ The official website of Bengkulu province government]
+|Date= 2007-03-11
+|Author= The government of Bengkulu province
+|Permission= This Indonesian Coat of Arms is free of copyrights (according to Indonesian Law: UU No. 19 Tahun 2002, Pasal 14 (b)).
+|other_versions={{vva|Coat of arms of Bengkulu.svg}}
+}}
+
+== {{int:license-header}} ==
+{{PD-IDGov}}
+
+[[Category:Bengkulu]]
+[[Category:Coats of arms of Bengkulu]]
+[[Category:Coats of arms from Bengkulu]]

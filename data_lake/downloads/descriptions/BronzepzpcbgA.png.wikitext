@@ -1,0 +1,27 @@
+{{Convert to SVG|award}}
+
+{{Information
+|Description=GoldenWiki award. by [[User:Hill|HILL]] (it wiki)
+|Source=*[[:File:BronzepzpcA_.png|BronzepzpcA_.png]]
+|Date=2011-02-04 17:14 (UTC)
+|Author=*[[:File:BronzepzpcA_.png|BronzepzpcA_.png]]: *[[:File:Goldenwiki.png]]: 
+*derivative work: [[User:Mlpearc|<span style='font-family:;color:#800020'>'''Mlpearc'''</span>]] <small>[[User_talk:Mlpearc|<span style='font-family:;color:#CFB53B'>'''powwow'''</span>]]</small>
+*derivative work: [[User:Mlpearc|<span style='font-family:;color:#800020'>'''Mlpearc'''</span>]] <small>[[User_talk:Mlpearc|<span style='font-family:;color:#CFB53B'>'''powwow'''</span>]]</small>
+|Permission=
+|other_versions=
+}}
+
+{{RetouchedPicture|Background color|editor=Mlpearc|orig=BronzepzpcA_.png}}
+
+{{self|Cc-by-sa-3.0-migrated|GFDL}}
+
+== {{Original upload log}} ==
+This image is a derivative work of the following images:
+
+*[[:File:BronzepzpcA_.png]] licensed with Cc-by-sa-3.0-migrated, GFDL
+**2010-08-14T20:43:22Z [[User:Mlpearc|Mlpearc]] 124x120 (24016 Bytes) ''<nowiki>{{Information |Description=GoldenWiki award. by [[User:Hill|HILL]] (it wiki) |Source=*[[:File:Goldenwiki.png]] |Date=2010-08-14 20:36 (UTC) |Author=*[[:File:Goldenwiki.png]]: *derivative work: ~~~ |Permission= |other_version</nowiki>''
+
+{{Uploaded with derivativeFX}}
+
+[[Category:Metallic Wikipedia puzzle piece awards]]
+[[Category:Wikimedia bronze awards]]

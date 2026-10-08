@@ -1,0 +1,15 @@
+== {{int:filedesc}} ==
+{{Information
+|Description=Membership of organised religions in Japan by prefecture. Chart based on a [http://www2.ttcn.ne.jp/honkawa/7770.html 1996 statistical analysis].
+
+'''Legend:''' {{legend|red|Tendai or Shingon Buddhism}} {{legend|hotpink|Pure Land Buddhism}} {{legend|palegreen|Zen Buddhism}} {{legend|lime|Nichiren Buddhism}} {{legend|yellow|Soka Gakkai}} {{legend|silver|Other Buddhist schools}} {{legend|white|Shinto sects}} {{legend|blue|Christianity}}
+|Source=Created by Aethelwolf Emsworth reproducing a [http://www2.ttcn.ne.jp/honkawa/7770.html 1996 statistics chart].
+|Date=2014-12-25
+|Author=Aethelwolf Emsworth
+|Permission=Allowed to copy and distribute.
+}}
+
+== {{int:license-header}} ==
+{{PD-self}}
+
+[[Category:Religion in Japan]]

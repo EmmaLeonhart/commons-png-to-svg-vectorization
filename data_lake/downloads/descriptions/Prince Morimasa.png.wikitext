@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ja|1=梨本宮守正王}}
+|date={{other date|?}}
+|source=http://easthall.blog.jp/archives/16126870.html
+|author=直球感想文 和館
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+
+{{PD-Japan-oldphoto}}
+
+[[Category:Prince Nashimoto Morimasa]]
+[[Category:Hu (ritual baton)]]

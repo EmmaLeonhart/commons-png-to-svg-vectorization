@@ -1,0 +1,16 @@
+{{vva|Hiroshima-geo-stub.svg}}
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Flag map of Hiroshima Prefecture. used for stub templates.}}
+|date=2020-08-14
+|source={{own}}
+|author=[[User:AichiWikiFixer|AichiWikiFixer]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Maps of Hiroshima prefecture]]
+[[Category:Prefectural flag of Hiroshima prefecture]]

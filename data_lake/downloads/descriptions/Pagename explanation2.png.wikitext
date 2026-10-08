@@ -1,0 +1,17 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|Explanation of Wikipedia}}
+|Source=Own screenshot, with labels added
+|Date={{original upload date|2010-08-19}}
+|Author=[[:en:User:SorryForN00b|SorryForN00b]]
+|Permission=
+|other_versions={{DerivativeVersions|Pagename explanation2 en-wikibooks.png}}
+
+}}
+
+== {{int:license-header}} ==
+{{Wikipedia-screenshot|en|logo=no|migration = relicense}}
+
+== {{Original upload log}} ==
+{{transferred from|en.wikipedia|Adrignola|CommonsHelper}} {{original description page|en.wikipedia|Pagename_Cynthia Jones}}
+* 2010-08-19 20:19 [[:en:User:SorryForN00b|SorryForN00b]] 270×130× (9090 bytes) ''<nowiki> {{Information |Description = Explanation of Wikipedia |Source = Own screenshot, with labels added |Date = ~~~~~ |Author = [[User:SorryForN00b|SorryForN00b]] |Permission = |other_versions = }} == Lice</nowiki>''

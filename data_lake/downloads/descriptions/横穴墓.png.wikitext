@@ -1,0 +1,12 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ja|横穴墓の形状 (Template:日本の古墳用)}}
+|date=2017-05-24
+|source={{own}}
+|author=[[User:カイツブリ|カイツブリ]]
+|permission=
+|other versions={{Vector version available|横穴墓.svg}}
+}}
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+[[Category:Kofun icons]]

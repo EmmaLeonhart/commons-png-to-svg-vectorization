@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ja|1=亀岡市にある愛宕灯篭}}
+|date=2016-05-15
+|source={{own}}
+|author=[[User:Damian2800515|Damian2800515]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Atago-jinja (Kameoka, Kyoto)]]
+[[Category:Stone lanterns in Kyoto prefecture]]

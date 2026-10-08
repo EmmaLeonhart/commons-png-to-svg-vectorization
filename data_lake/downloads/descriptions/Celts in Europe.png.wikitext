@@ -1,0 +1,48 @@
+== {{int:filedesc}} ==
+{{Information
+| description = {{ar|1=القلط في أوروبا<br/>
+{{legend|#FFFF43|الإقليم الأساسي لثقافة هالستات، والتوسع القلطي قبل عام 500 ق.م.}}
+{{legend|#97FFB6|أقصى توسع للقلط بحلول عقد 270 ق.م.}}
+{{legend|#D2FFD2|مناطق لوسيتانيا، وأوتريغونيس، وفاردولي، وكاريستي في شبه الجزيرة الإيبيرية (الهوية القلطية فيها غير مؤكدة).}}
+{{legend|#27C600|حدود "الأمم القلطية الستة" المتعارف عليها عموماً، والتي ظلت تتحدث باللغات القلطية طوال العصور الوسطى (وهي: بريتاني، وويلز، وكورنوال، وجزيرة مان، وأيرلندا، وإسكتلندا).}}
+{{legend|#1A8000|المناطق التي لا تزال تتحدث باللغات القلطية حتى اليوم.}}
+}}
+{{en|1=Celts in Europe<br/>
+{{legend|#FFFF43|the core Hallstatt territory, expansion before 500 BC}}
+{{legend|#97FFB6|maximum Celtic expansion by the 270s BC}}
+{{legend|#D2FFD2|Lusitanian, Autrigones, Varduli and Caristi areas of Iberia, "Celticity" uncertain}}
+{{legend|#27C600|the boundaries of the six commonly-recognized 'Celtic nations', which remained Celtic speaking throughout the Middle Ages (viz. Brittany, Wales, Cornwall, Isle of Man, Ireland, Scotland)}}
+{{legend|#1A8000|areas that remain Celtic-speaking today}}
+}}
+| source      = Atlas of the Celtic World, by John Haywood; London Thames & Hudson Ltd., 2001, pp.30-37 and other sources (see talkpage for details).
+| date        = 2011-10-07
+| author      = QuartierLatin1968,The Ogre,Dbachmann
+| other_versions = {{disputed map|Only one of these versions uses proper sources, but its accuracy [[:en:Talk:Gaulish#On_unreliability_of_map_presented_in_the_article|was challenged on en-WP]]. Use carefully and ideally provide sources.}}{{g|
+Celtic_expansion_in_Europe.svg|SVG 1
+Celts in Europe-fr.svg|SVG 2
+Celtic Distribution.png|PNG 1
+Celts in Europe.png|sourced (2001)
+Celtic expansion.PNG|PNG 2}}
+}}
+
+المراجع: [http://faculty.mville.edu/justing/maps.htm#Hallstatt%20Culture%20in%20Central%20Europe أطلس العالم القلطي، بقلم جون هاوود؛ لندن تايمز آند هودسون المحدودة، 2001، ص. 30-37] {{Wayback|url=http://faculty.mville.edu/justing/maps.htm#Hallstatt%20Culture%20in%20Central%20Europe |date=20081208043922 }} ومصادر أخرى (راجع صفحة النقاش للمزيد من التفاصيل).
+
+تعتمد هذه الخارطة أساساً على ملفات رُفعت سابقاً وهي [[:en:Image:Celtic europe.PNG]] و [[:Image:Celts 800-400BC.PNG]]. علماً بأن تلك الخرائط السابقة كانت أقل دقة من هذه الخارطة الحالية.
+
+{{vector version available|Celts in Europe-fr.svg}}
+
+== {{int:license-header}} ==
+{{Self|GFDL|Cc-by-sa-3.0-migrated|cc-by-sa-2.5,2.0,1.0|author=QuartierLatin1968}}
+{{Self|GFDL|Cc-by-sa-3.0-migrated|cc-by-sa-2.5,2.0,1.0|author=The Ogre}}
+{{Self|GFDL|Cc-by-sa-3.0-migrated|cc-by-sa-2.5,2.0,1.0|author=Dbachmann}}
+
+
+
+[[Category:Maps of the Iberian Celts]]
+[[Category:Galatians]]
+[[Category:Linguistic maps of Europe]]
+[[Category:Linguistic maps of Celtic languages]]
+[[Category:Maps of the Celts]]
+{{ImageNote|id=1|x=203|y=183|w=48|h=17|dimx=450|dimy=314|style=2}}
+Missing Celtic settlements in Friul.
+{{ImageNoteEnd|id=1}}

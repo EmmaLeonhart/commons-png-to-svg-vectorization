@@ -1,0 +1,13 @@
+=={{int:filedesc}}==
+{{Information
+|description= Small snub icosicosidodecahedron
+|author=[[:en:User:RobertCWebb|Robert Webb]]
+|source=https://www.software3d.com/Stella.php {{Original uploader|Tomruen|w|en}}
+|date=
+}}
+
+== {{int:license-header}} ==
+{{Stella image}}
+
+[[Category:Uniform polyhedra]]
+[[Category:Snub polyhedra]]

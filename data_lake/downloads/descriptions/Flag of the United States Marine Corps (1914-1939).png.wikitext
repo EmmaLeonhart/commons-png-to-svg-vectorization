@@ -1,0 +1,18 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=[https://web.archive.org/web/20120318134438/http://www.stephenwscott.com/usmc_flag.jpg Flag of the United States Marine Corps (1914-1939)].}}
+|date=[https://web.archive.org/*/http://www.united-states-flag.com/marine-corps-flag.html {{date|1914}}]
+|source=[https://web.archive.org/*/http://blog.patriotsurplus.com/category/marine-corps-flag/ http://blog.patriotsurplus.com/]
+|author=[https://web.archive.org/*/http://www.worldstatesmen.org/USA_govt.html United States Marine Corps]
+|permission={{PD-USGov-Military-Marine Corps}}
+|other versions=
+|other fields={{information field|Additional tags|2={{Convert to SVG|flag}}}}
+}}
+
+
+=={{int:license-header}}==
+{{PD-US-expired}}
+
+[[Category:Flags of the United States Marine Corps]]
+[[Category:Historical military flags of the United States]]
+[[Category:PNG flags of the United States]]

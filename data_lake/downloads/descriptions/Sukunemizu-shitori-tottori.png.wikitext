@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ja|1=倭文ノ宿禰水}}
+|date=2016-10-05
+|source={{own}}
+|author=[[User:Shitori-jinjya|Shitori-jinjya]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+
+[[Category:Shrines in Tottori]]

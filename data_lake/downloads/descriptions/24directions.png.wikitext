@@ -1,0 +1,27 @@
+== {{int:filedesc}} ==
+{{Transferred from|ja.wikipedia|Maksim}}
+{{Original description page|ja.wikipedia|<!--original file name not indicated-->}}
+
+24方位(MS-PAINTにて自作)
+{{GFDL|migration=relicense}}
+
+{| border="1"
+! date/time || username || edit summary
+|----
+| 2004年11月9日 (火) 09:13 || [[:ja:利用者:Nnh]] || <nowiki>({{GFDL}})</nowiki>
+|----
+| 2003年12月1日 (月) 10:04 || [[:ja:利用者:Nnh]] || <nowiki>(24方位(MS-PAINTにて自作))</nowiki>
+|}
+
+==== {{Original upload log}} ====
+凡例:（最新）= 最新版の画像、（削除）= この版の画像を削除、（差戻）= この版の画像に差し戻す
+
+アップロードされた画像を見るには日付をクリックします。
+* (削除) (最新版) 2004年1月16日 (金) 14:37 . . [[:ja:利用者:Nnh]] Nnh ( [[:ja:利用者‐会話:Nnh]] ノート) . . 348×350 (14486 バイト) (24方位)
+* (削除) (差戻) 2003年12月1日 (月) 10:04 . . [[:ja:利用者:Nnh]] Nnh ( [[:ja:利用者‐会話:Nnh]] ノート) . . 352×353 (9130 バイト) (24方位(MS-PAINTにて自作)) 
+
+[[:ja:画像:24directions.png]]
+
+[[Category:More-than-32-point and nonstandard count compass roses]]
+[[Category:Media missing infobox template]]
+[[Category:Octagonal objects]]

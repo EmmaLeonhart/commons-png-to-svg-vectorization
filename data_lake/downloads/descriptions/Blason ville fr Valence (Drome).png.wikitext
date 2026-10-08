@@ -1,0 +1,13 @@
+{{superseded|Blason ville fr Valence (Drome).svg}}
+== {{int:filedesc}} ==
+{{Information
+|Description=Blason de la ville de Valence (Drôme) : de gueules à la croix d'argent chargée en cœur d'une tour d'azur
+|Source={{Own}}
+|Date=2007-05-25
+|Author=Syryatsu
+|other_fields={{Igenc|Sy}}
+}}
+== {{int:license-header}} ==
+{{PD-self}}
+{{DEFAULTSORT:ValencePNG}}
+[[Category:Coats of arms of Valence (Drôme)]]

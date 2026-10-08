@@ -1,0 +1,10 @@
+{{protected}}
+{{Vector version available|3by2white.svg|quality=superior}}
+Blank picture, 3 x 2 pixels; good for a placeholder when you need it to assume a 3:2 aspect ratio. See [[:Image:Blank300.png]] for a placeholder which won't take up any visible vertical space, and [[:Image:Blank300vert.png]] for a horizontal one.
+
+The image is "displayed" here between the dots: .[[Image:Blank.png|border]].
+
+{{PD-ineligible}}
+
+[[Category:Fully transparent images]]
+[[Category:Media missing infobox template]]

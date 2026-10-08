@@ -1,0 +1,9 @@
+== {{int:filedesc}} ==
+From [http://www.kde-look.org/content/show.php?content=31156 http://www.kde-look.org/content/show.php?content=31156] {{Wayback|url=http://www.kde-look.org/content/show.php?content=31156 |date=20060323070708 }} and released under the GPL. 
+
+== {{int:license-header}} ==
+{{GPL}}
+[[Category:Emoticons]]
+[[Category:Vampire icons]]
+[[Category:Media missing infobox template]]
+[[Category:Horror icons]]

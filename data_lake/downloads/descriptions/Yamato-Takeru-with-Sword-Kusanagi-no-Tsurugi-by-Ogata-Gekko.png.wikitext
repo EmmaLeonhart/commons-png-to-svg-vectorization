@@ -1,0 +1,18 @@
+=={{int:filedesc}}==
+{{Artwork
+|description={{en|1=Prince Yamato Takeru and his sword Kusanagi no Tsurugi. Woodblock print (nishiki-e); ink and color on paper. Vertical ôban; 36.8 x 25.4 cm (14 1/2 x 10 in.)}}
+{{ja|1=「月耕随筆　日本武尊　草薙剣」。}}
+|date=1887 (Meiji 20)
+|source=Museum of Fine Arts Boston https://collections.mfa.org/objects/321588
+|author=Ogata Gekkô (Japanese, 1859–1920)
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-Art|PD-old-100}}
+
+[[Category:Ukiyo-e of Yamato Takeru]]
+[[Category:Kusanagi-no-Tsurugi]]
+[[Category:Nishiki-e in Meiji period]]
+[[Category:Gekkō zuihitsu (Miscellaneous Drawings by Gekkō) by Ogata Gekkō]]

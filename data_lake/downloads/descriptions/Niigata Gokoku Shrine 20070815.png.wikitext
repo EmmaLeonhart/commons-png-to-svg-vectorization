@@ -1,0 +1,56 @@
+== {{int:filedesc}} ==
+{{Information
+|Description    ={{ja|1=新潟縣護國神社社殿}}
+|Source         =[[:ja:ファイル:新潟縣護國神社社殿.png|新潟縣護國神社社殿.png]]
+|Author         =[[:ja:利用者:Rosemary org|Rosemary org]]
+|Date           =2007-08-15
+|Permission     =
+|other_versions =
+}}
+== {{Original upload log}} ==
+{{Moved from Japanese Wikipedia
+|filename=新潟縣護國神社社殿.png
+|description=<nowiki>{{コモンズへの移動推奨}}
+{{GFDL|{{ライセンス更新判定|1.2以降|なし|2007-08-15|0|対象|--[[利用者:Flasksrw|Flasksrw]]（[[利用者‐会話:Flasksrw|会話]]） 2018年2月7日 (水) 00:02 (UTC)}}}}
+撮影日：2007年8月15日
+
+撮影者：rosemary_org
+
+場　所：新潟縣護國神社社殿前（新潟市）
+</nowiki>
+|file_history={{Moved from Japanese Wikipedia/FileHistory
+|timezone=JST
+|datetime1=2007-08-15T16:20
+|demensions1=2,048 × 1,536
+|user1=Rosemary org
+|comment1=''<nowiki></nowiki>''
+}}
+|page_history={{Moved from Japanese Wikipedia/PageHistory
+|timezone=JST
+|datetime1=2007-08-15T16:20
+|user1=Rosemary org
+|flag1=
+|summary1=''<nowiki></nowiki>''
+|datetime2=2007-08-16T16:52
+|user2=Wakkubox
+|flag2=m
+|summary2=''<nowiki>{{subst:nsd}}</nowiki>''
+|datetime3=2007-08-16T17:30
+|user3=Rosemary org
+|flag3=m
+|summary3=''<nowiki>→‎著作権記載漏れの修正とタグ追加</nowiki>''
+|datetime4=2013-11-19T00:28
+|user4=124.211.105.23
+|flag4=
+|summary4=''<nowiki></nowiki>''
+|datetime5=2018-02-07T09:02
+|user5=Flasksrw
+|flag5=
+|summary5=''<nowiki>ライセンス更新判定</nowiki>''
+}}
+|other_information=
+}}
+== {{int:license-header}} ==
+{{self|GFDL|migration=relicense|author=[[:ja:利用者:Rosemary org|Rosemary org]]}}
+
+[[Category:Niigata Gokoku Shrine]]

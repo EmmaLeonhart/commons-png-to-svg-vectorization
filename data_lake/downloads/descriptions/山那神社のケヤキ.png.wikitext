@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ja|1=山那神社のケヤキ}}
+|date={{Japanphoto/Aichi|2023-12-10}}
+|source={{own}}
+|author=[[User:依田奏|依田奏]]
+|permission=
+|other versions=
+}}
+{{Aichic|Fuso|2023-12}}
+
+=={{int:license-header}}==
+{{self|cc-by-4.0}}
+
+[[Category:Minamiyana, Fuso]]
+[[Category:Trees in Aichi prefecture]]

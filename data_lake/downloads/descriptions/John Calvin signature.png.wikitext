@@ -1,0 +1,12 @@
+=={{int:filedesc}}==
+{{Information
+|Description=Signature of John Calvin
+|Source=[[:Image:John Calvin's handwriting 01.jpg]]
+|Date=1855
+|Author=John Calvin
+|Permission={{PD-old}}
+|other_versions=
+}}
+{{vva|John Calvin signature.svg}}
+
+[[Category:Signatures of John Calvin]]

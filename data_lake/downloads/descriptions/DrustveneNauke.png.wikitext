@@ -1,0 +1,19 @@
+== {{int:filedesc}} ==
+{{Information
+|Description=Social sciences
+|Source={{Transferred from|bs.wikipedia}}
+|Date={{original upload date|2006-07-15}}
+|Author={{original uploader|Mhare|wikipedia|bs}}
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{GFDL|migration=relicense}}
+
+== {{original upload log}} ==
+{{original description page|bs.wikipedia|DrustveneNauke.png}}
+* 2006-07-15 12:50 [[:bs:User:Mhare|Mhare]] 128×128×8 (20293 bytes) ''<nowiki></nowiki>''
+
+[[Category:Social sciences]]
+[[Category:Unidentified social sciences]]

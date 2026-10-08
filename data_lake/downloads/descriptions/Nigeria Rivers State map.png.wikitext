@@ -1,0 +1,15 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|1=Map locator of Nigeria.}}
+|Source=Based on [[:File:Nigeria location map.svg]]
+|Author=Himalayan Explorer based on work by Uwe Dedering
+|Date=2010-02-11
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{Cc-by-sa-3.0}}
+
+[[Category:Locator maps of Rivers State]]
+[[Category:Maps of Rivers State]]

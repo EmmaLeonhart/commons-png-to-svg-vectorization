@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=A correct rendering of “ahom” in “Noto Sans Ahom”.}}
+|date=2018-11-12
+|source={{own}}
+|author=[[User:CaibsSAM|CaibsSAM]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Ahom script]]
+[[Category:Noto Sans Ahom]]

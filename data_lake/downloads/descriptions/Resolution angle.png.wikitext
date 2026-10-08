@@ -1,0 +1,8 @@
+[[Category:Media missing infobox template]]
+<!--This file was moved here using FileImporter from https://en.wikipedia.org/wiki/File:Resolution_angle.png-->
+== {{int:filedesc}} ==
+Placeholder for a picture of a resolution angle (this picture is very unclear and needs replacement)
+== {{int:license-header}} ==
+{{PD-self|date=October 2006}}
+
+[[Category:Wikipedia image placeholders]]

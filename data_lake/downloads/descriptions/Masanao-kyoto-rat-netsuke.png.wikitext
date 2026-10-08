@@ -1,0 +1,17 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Image of a netsuke by Masanao of Kyoto from The British Museum collection. A sleeping rat carved in ivory.}}
+|date=2010-01-01
+|source=https://www.britishmuseum.org/collection/image/1367409001
+|author=The British Museum
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{cc-by-sa-4.0}}
+
+[[Category:Netsuke of rats]]
+[[Category:Room 92, lobby, British Museum]]
+[[Category:Augustus Wollaston Franks bequest]]
+[[Category:Ivory netsuke in the British Museum]]

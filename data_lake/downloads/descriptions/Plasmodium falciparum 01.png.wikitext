@@ -1,0 +1,39 @@
+== {{int:filedesc}} ==
+{{Information
+|Description= {{en|This photomicrograph of a blood smear contains a macro- and microgametocyte of the Plasmodium falciparum parasite.
+
+Both macro- and microgametocytes are products of the erythrocytic life cycle. Within a few minutes after the Anopheles sp. vector ingests the gametocytes, microgametocytes develop into microgametes, which are able to fertilize gametes.}}
+This image was copied from wikipedia:en. The original description was:
+Blood smear containing both macro- and micro-[[w:en:gametocytes]] of '''''[[w:en:Plasmodium falciparum]]'''''.
+|Source={{CDC-PHIL|2704}}
+|Date= 1973
+|Author= 
+* Photo Credit: 
+* Content Providers(s): CDC/Dr. Mae Melvin
+* Transwiki approved by: [[w:en:User:Dmcdevit]]
+|Permission=PD-USGov-HHS-CDC {{en|None - This image is in the public domain and thus free of any copyright restrictions. As a matter of courtesy we request that the content provider be credited and notified in any public or private usage of this image.}}
+|other_versions=}}
+
+== {{int:license-header}} ==
+{{PD-USGov-HHS-CDC}}
+
+=== {{original upload log}} ===
+{| class=wikitable
+! date/time || username || resolution || size || edit summary
+|----
+| 04:38, 27 February 2006 || [[w:en:User:MarcoTolo]] || 710×476 || 421 KB || <nowiki>Blood smear containing both macro- and micro-<a href="/wiki/Gametocytes" title="Gametocytes">gametocytes</a> of '''''<a href="/wiki/Plasmodium_falciparum" title="Plasmodium falciparum">Plasmodium falciparum</a>'''''.  Obtained from the CDC [http://phil.cdc.gov/phil/home.asp Public Health Image Library].  Image credit: CDC/Dr. Mae Melvin (PHIL #2704), 1973.  == Licensin</nowiki>
+|}
+
+=== Image description page history ===
+{| class=wikitable
+! link || date/time || username || edit summary
+|----
+| http://en.wikipedia.org/w/index.php?title=Image:Plasmodium_falciparum_01.png&redirect=no&oldid=41417752 || 11:05, 11 September 2007 || [[w:en:User:Dmcdevit]] ||  
+|----
+| http://en.wikipedia.org/w/index.php?title=Image:Plasmodium_falciparum_01.png&redirect=no&oldid=41417752 || 04:38, 27 February 2006 || [[w:en:User:MarcoTolo]] || <nowiki>(Blood smear containing both macro- and micro-<a href="/wiki/Gametocytes" title="Gametocytes">gametocytes</a> of '''''<a href="/wiki/Plasmodium_falciparum" title="Plasmodium falciparum">Plasmodium falciparum</a>'''''.  Obtained from the CDC [http://phil.cdc.gov/phil/home.asp Public Health Image Library].  Image credit: CDC/Dr. Mae Melvin (PHIL #2704), 1973.  == Licensin)</nowiki>
+|}
+
+[[Category:Files moved to Commons by BetacommandBot]]
+[[Category:Plasmodium falciparum in blood films]]
+[[Category:Malaria in Uganda]]
+[[Category:Plasmodium gametocytes]]

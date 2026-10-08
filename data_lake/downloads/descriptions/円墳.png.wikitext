@@ -1,0 +1,13 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ja|[[:ja:円墳|円墳]]の形状 ([[:ja:Template:日本の古墳|Template:日本の古墳]]用)}}
+|date=2015-10-21
+|source={{own}}
+|author=[[:ja:user:Saigen Jiro|Saigen Jiro]]
+|permission=
+|other versions={{Vector version available|円墳.svg}}
+}}
+=={{int:license-header}}==
+{{PD-self}}
+[[Category:Kofun icons]]
+[[Category:Files uploaded by Saigen Jiro]]

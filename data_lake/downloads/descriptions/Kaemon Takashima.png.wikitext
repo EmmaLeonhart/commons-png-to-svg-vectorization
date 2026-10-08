@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ja|1=[[:ja:高島嘉右衛門|高島嘉右衛門]]の写真。}}
+|date=1922-06
+|source=『横浜電気株式会社沿革史』横浜電気株式会社、1922年6月
+（横浜市立図書館デジタルアーカイブ 都市横浜の記憶　https://www.lib.city.yokohama.lg.jp/Archive/ より）
+|author= {{unknown|author}}
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+
+{{PD-Japan-oldphoto}}
+
+[[Category:Kaemon Takashima]]

@@ -1,0 +1,13 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Logotipo de Transmetro en Monterrey}}
+|date=2012-08-09
+|source={{own}}
+|author=[[User:Mty14|Mty14]]
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-3.0}}
+
+[[Category:Monterrey Metro logos]]
+[[Category:Rapid transit icons of Mexico]]

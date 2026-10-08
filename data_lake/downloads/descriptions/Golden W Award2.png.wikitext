@@ -1,0 +1,17 @@
+{{Convert to SVG|award}}
+
+<!--This file was moved here using FileImporter from https://en.wikipedia.org/wiki/File:Golden_W_Award2.png-->
+
+== {{int:filedesc}} ==
+{{Information
+ |Description    ={{en|Golden W Award.}}
+ |Source         = {{Own}} ({{original text|1=I (<big>[[:w:User:Noraft|<span style="color: green;">ɳorɑfʈ</span>]]</big><small><sup>[[:w:User talk:Noraft| Talk!]]</sup></small>) created this work entirely by myself.|nobold=1}})
+|Date           = 11:07, 17 March 2010 (UTC)
+ |Author         = <big>[[:w:User:Noraft|<span style="color: green;">ɳorɑfʈ</span>]]</big><small><sup>[[:w:User talk:Noraft| Talk!]]</sup></small>
+ |other_versions =
+}}{{userpage image}}
+
+== {{int:license-header}} ==
+{{PD-self}}
+
+[[Category:Wikimedia gold awards]]

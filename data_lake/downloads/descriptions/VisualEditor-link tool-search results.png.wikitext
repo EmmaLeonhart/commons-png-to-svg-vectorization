@@ -1,0 +1,8 @@
+{{information 
+|Description={{en|1=Screenshot showing how the link inspector displays search results in VisualEditor for en.wp.  The thumbnail image (e.g., [[:File:Earth_Eastern_Hemisphere.jpg]] for [[w:en:World]], public domain) is the first image on the page, and the descriptive text is taken from Wikidata}} 
+|Source=Screenshot 
+|Date=2015-06-04 
+|Author=WhatamIdoing 
+|Permission={{Wikipedia-screenshot|1=en|logo=no}} 
+}}
+[[Category:VisualEditor-en]]

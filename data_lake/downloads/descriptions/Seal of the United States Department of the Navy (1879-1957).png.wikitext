@@ -1,0 +1,18 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Seal of the United States Department of the Navy (1879-1957)}}
+|date=1879
+|source=http://etc.usf.edu/clipart/25100/25108/navy_departm_25108.htm
+|author=United States Navy Department
+|permission={{PD-old}}
+|other versions=
+|other fields=
+}}
+{{SVG|seal}}
+
+=={{int:license-header}}==
+{{PD-US}}
+{{PD-USGov-Military-Navy}}
+
+[[Category:1879 works in the United States]]
+[[Category:Historical seals of the United States Navy]]

@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=This is a map of Ise Jingu Naiku. Base map is [[:w:OpenStreetMap|OpenStreetMap]]. I also used these materials: <br/>* Fukuyama Toshio et, al.(1975):"Jingu: Dai 60 Kai Jingu Shikinen Sengu"Shogakukan Inc., tokyo, Japan.<br/>* Gakken Publishing Co.,Ltd.(2013)”Ise Jingu ni Iko"Gakken Mook Shrine Travel Literature　vol.1, supervisor: Sonoda Minoru, Gakken Marketing Co.,Ltd., Tokyo, Japan. {{ISBN|978-4-05-610047-1}} <br/>* ISEBUNKASHA ed.(2008):"Oise-san 125 Sha Meguri"Bessatsu "Isebito", ISEBUNKASHA, Ise, Japan. {{ISBN|978-4-900759-37-4}}<br/>* Ise Chamber of Commerce and Industry & ISEBUNKASHA eds.(2006):"Kenkei Oise-san Official Textbook"Ise Chamber of Commerce and Industry & ISEBUNKASHA, Ise, Japan. {{ISBN|4-900759-31-7}}<br/>* Publishing Division Domestic Information Section 3rd Editorial Department ed.(2014):"Rurubu Oise Mairi"Rurubu Joho Ban Kinki 21, Vol. 4615, JTB Publishing, Inc. Tokyo, Japan. {{ISBN|978-4-533-09761-4}}<br/>* "Ima Iku! Ise Jingu Omairi Perfect Book"Mirai Publishing Co., Ltd, tokyo, Japan. 2013, {{ISBN|978-4-907292-14-0}}<br/>* Map of Geospatial Information Authority of Japan<br/>* Zenrin House Map Print Service<br/>* [http://www.isejingu.or.jp/news/annnaizu/naikuannaizu.JPG Naiku Map](official site of Ise Jingu)}}{{ja|1=伊勢神宮内宮の地図。基図に[[:w:ja:オープンストリートマップ|オープンストリートマップ]]を使用し、次の文献をもとに図の再構成を行った。<br/>* 伊勢商工会議所・（有）伊勢文化舎 編『検定 お伊勢さん 公式テキストブック』伊勢商工会議所・（有）伊勢文化舎、2006年4月24日、223p. {{ISBN|4-900759-31-7}}<br/>伊勢文化舎 編『お伊勢さん125社めぐり』別冊『伊勢人』、伊勢文化舎、平成20年12月23日、151p. {{ISBN|978-4-900759-37-4}}<br />* 学研パブリッシング『伊勢神宮に行こう』Gakken Mook神社紀行セレクションvol.1、薗田稔監修、学研マーケティング、2013年7月4日、82p. {{ISBN|978-4-05-610047-1}}<br/>* 出版事業本部 国内情報部 第三編集部 編『るるぶ お伊勢まいり』るるぶ情報版近畿21、通巻4615号、JTBパブリッシング、2014年5月1日、92p. {{ISBN|978-4-533-09761-4}}<br/>* 福山敏男・稲垣榮三・村瀬美樹・胡麻鶴醇之『神宮―第六十回神宮式年遷宮―』小学館、昭和50年4月20日、246p.<br/>* 『いま行く!伊勢神宮お参りパーフェクトブック』みらい出版、2013年12月10日、107p. {{ISBN|978-4-907292-14-0}}<br/>* 地理院地図<br/>* ゼンリン住宅地図プリントサービス<br/>* [http://www.isejingu.or.jp/news/annnaizu/naikuannaizu.JPG 内宮地図]（伊勢神宮公式サイト）}}
+|date=2015-01-18
+|source={{own}}
+|author={{u|Miyuki Meinaka}}
+|Other fields={{Igen|A|+|s=m}}
+}}
+{{Location dec|34.456425|136.724162}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+{{OpenStreetMap}}
+
+[[Category:Naiku]]

@@ -1,0 +1,8 @@
+{{information 
+|Description={{en|1=Screenshot showing the link inspector, with a link to [[w:en:World]] in VisualEditor.  The link is to a Wikipedia article, so the "Search pages" tab is open.  The "External link" tab can be used for adding or editing links to URLs.}} 
+|Source=Screenshot 
+|Date= 2015-06-04
+|Author=WhatamIdoing 
+|Permission={{Wikipedia-screenshot|1=en|logo=no}}
+ }}
+[[Category:VisualEditor]]

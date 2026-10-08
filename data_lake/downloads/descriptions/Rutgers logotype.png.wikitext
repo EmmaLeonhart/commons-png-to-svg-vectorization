@@ -1,0 +1,19 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|The logo is from the http://identity.rutgers.edu/identity_manual.pdf website.Rutgers University}}
+|Source={{transferred from|en.wikipedia|}}
+|Date={{original upload date|2008-12-07}}
+|Author={{original uploader|Meganfoxx|wikipedia|en}}
+|Permission=
+|other_versions={{vva|Rutgers University with the state university logo.svg}}
+}}
+
+== {{int:license-header}} ==
+{{PD-textlogo}}
+{{Trademarked}}
+
+== {{Original upload log}} ==
+{{original description page|en.wikipedia|Rutgers_logotype.png}}
+* 2008-12-07 17:30 [[:en:User:Meganfoxx|Meganfoxx]] 390×145× (10849 bytes) ''<nowiki>{{PD-textlogo}} {{logo fur <!-- REQUIRED --> |Article=Rutgers University |Use=Org <!-- HIGHLY RECOMMENDED --> |Source=Rutgers University <!-- ADDITIONAL INFORMATION --> |Used_for= |Owner= |Website=http://identity.rutgers.edu/identity_manual.pdf |History=</nowiki>''
+
+[[Category:Logos of Rutgers University]]

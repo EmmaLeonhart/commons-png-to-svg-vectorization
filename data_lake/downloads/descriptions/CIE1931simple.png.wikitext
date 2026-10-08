@@ -1,0 +1,10 @@
+== {{int:filedesc}} ==
+{{Convert to SVG|art}}
+
+From en: wiki
+
+== {{int:license-header}} ==
+{{GFDL-en|migration=relicense}}
+
+[[Category:CIE 1931 color space chromaticity diagram]]
+[[Category:Media missing infobox template]]

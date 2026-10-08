@@ -1,0 +1,18 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Indian armed forces logo}}
+|date=2015-10-27
+|source={{own}}
+|author=[[User:Vydya.areyur|Vydya.areyur]]
+|permission=
+|other versions=
+}}
+
+{{insignia}}
+
+=={{int:license-header}}==
+{{PD-India}}
+{{Convert to SVG|military insignia}}
+
+[[Category:Military coats of arms and insignia of India]]
+[[Category:National emblem of India in other emblems]]

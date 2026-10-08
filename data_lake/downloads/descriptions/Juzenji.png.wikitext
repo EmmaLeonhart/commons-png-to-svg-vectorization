@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Juzenji as a youth}}
+|date=1500-01-01
+|source=(Gods of Medieval Japan, 3) Bernard Faure - Rage and Ravage_ Gods of Medieval Japan, Volume 3-University of Hawaii Press (2021) page 210 figure 6.25
+|author=16th century Buddhist painter
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-Art|PD-old-70}}
+
+[[Category:Photos by Immanuelle]][[Category:Photos_by_Immanuelle]]
+[[Category:Jūzenji]]

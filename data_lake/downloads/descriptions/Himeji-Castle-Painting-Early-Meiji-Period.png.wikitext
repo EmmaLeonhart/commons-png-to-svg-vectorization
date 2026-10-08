@@ -1,0 +1,17 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Himeji castle painting, early Meiji period. This artwork is from a hanging scroll painting of [[Himeji Castle]]. It shows the moats, the central Keep on top of a hill called Himeyama is 45.6 m (150 ft) above sea level, and a maze of buildings and passageways with plants in front of them. The intricate layout of the castle, and the complex arrangement of walls and paths would present a considerable obstacle to an invading army.}} 
+{{ja|姫路城内、見取り図}}
+|date=Circa 1870, early Meiji period.
+|source=Himeji Castle Entrance Sign has an old artwork from the Meiji period.
+|author={{unknown|author}}
+|permission=
+|other versions=<gallery>
+File:Old_painting_of_Himeji_castle.jpg|Hanging scroll version of the painting.
+</gallery>
+}}
+
+=={{int:license-header}}==
+{{PD-Art|PD-old-100}}
+
+[[Category:A Bird's Eye View of the Himeji Castle]]

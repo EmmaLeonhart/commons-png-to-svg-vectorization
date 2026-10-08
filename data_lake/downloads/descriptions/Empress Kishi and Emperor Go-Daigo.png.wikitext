@@ -1,0 +1,21 @@
+=={{int:filedesc}}==
+{{Information
+|description=
+{{ja|1=紙本著色『太平記絵巻』第二巻「中宮{{ruby|御嘆事|おんなげきのこと}}」に描かれた[[:ja:後醍醐天皇|後醍醐天皇]]と中宮[[:ja:西園寺禧子|西園寺禧子]]、[[:ja:埼玉県立歴史と民俗の博物館|埼玉県立歴史と民俗の博物館]]収蔵}}
+{{en|1=[[:en:Emperor Go-Daigo|Emperor Go-Daigo]] and [[:en:Saionji Kishi|Empress Saionji Kishi]], depicted in ''Taiheiki Emaki'' vol. 2, ''Chūgū On'nageki no Koto '' ("The Lamentation of the Empress"), paper on color, a collection of [[:en:Saitama Prefectural Museum of History and Folklore|Saitama Prefectural Museum of History and Folklore]]}}
+|date=江戸時代初期<br />Early 17th century
+|source=埼玉県立博物館編『太平記絵巻の世界』23頁、1996年<br />Saitama Prefectural Museum Press ''Taiheiki Emaki no Sekai'' ("The World of Taiheiki Emaki")
+|author=伝[[:ja:海北友雪|海北友雪]]画<br />Attributed to Kaihō Yūsetu (1598–1677)
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+
+{{PD-art-two|PD-Japan|PD-old-100-1923}}
+
+[[Category:Empresses of Japan]]
+[[Category:Paintings of Emperor Go-Daigo]]
+[[Category:Saionji family]]
+[[Category:Taiheiki Emaki]]
+[[Category:17th-century paintings from Japan]]

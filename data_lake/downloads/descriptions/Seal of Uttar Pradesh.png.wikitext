@@ -1,0 +1,23 @@
+{{Information
+|Description=Uttar Pradesh Government Seal
+|Source=*[[:File:Seal_of_Uttar_Pradesh.jpg|Seal_of_Uttar_Pradesh.jpg]]
+|Date=2010-12-16 23:25 (UTC)
+|Author=*http://en.wikipedia.org/wiki/File:Upgovt-logo.jpg: Uploader: [[User:Faizhaider |Faizhaider]]
+*derivative work: [[User:Beao|Bea]]'''[[User talk:Beao|o]]'''
+|Permission={{PD-India|Government of Uttar Pradesh}}
+|other_versions=*[[:File:Seal_of_Uttar_Pradesh.jpg|JPG version]]
+{{vva|Seal of Uttar Pradesh.svg}}
+}}
+
+{{PD-India}}
+
+== {{Original upload log}} ==
+This image is a derivative work of the following images:
+
+*[[:File:Seal_of_Uttar_Pradesh.jpg]] licensed with PD-India
+**2010-04-08T21:52:09Z [[User:Satyajit Ray|Satyajit Ray]] 331x331 (73285 Bytes) ''<nowiki>{{Information |Description=Uttar Pradesh Government Seal |Source=http://en.wikipedia.org/wiki/File:Upgovt-logo.jpg |Date=2007 |Author=Uploader: Faizhaider |Permission={{PD-India|Government of Uttar Pradesh}} |other_versions= </nowiki>''
+
+{{Uploaded with derivativeFX}}
+
+[[Category:Seals of Uttar Pradesh]]
+[[Category:Small images]]

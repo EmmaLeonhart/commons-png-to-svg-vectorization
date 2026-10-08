@@ -1,0 +1,18 @@
+{{should be svg|flag}}
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Ensign of the United States Revenue-Marine (1815)}}
+|date=1815
+|source=[[:Category:Ensigns_of_the_United_States_Revenue-Marine]]
+|author={{Unknown|author}}
+|permission=
+|other_versions={{Attrib|Ensign of the United States Revenue-Marine (1799).png}}{{Attrib|Ensign of the United States Revenue-Marine (1836).png}}{{Attrib|Ensign of the United States Revenue-Marine (1841).png}}{{Attrib|Ensign of the United States Revenue-Marine (1867).png}}{{Attrib|Ensign of the United States Revenue-Marine (1868).png}}{{attrib|Ensign of the United States Coast Guard (1915–1953).png}}
+|other_fields={{should be svg|flag}}{{easy border|flag}}
+}}
+
+=={{int:license-header}}==
+{{PD-old-assumed}}
+{{PD-USGov-Treasury}}
+
+[[Category:Ensigns of the United States Revenue-Marine]]
+[[Category:1815 in the United States]]

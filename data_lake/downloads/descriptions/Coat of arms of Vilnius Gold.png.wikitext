@@ -1,0 +1,12 @@
+=={{int:filedesc}}==
+{{Information
+|Description={{en|Coat of arms of Vilnius}}
+|Source=redraw ([[User:Arz|Arz]])
+|Date=2008-02-22
+|Author= [[User:Arz|Arz]]
+|Permission={{PD-LT-exempt|type=coats of arms}}
+|other_versions=[[:File:Coat_of_Arms_of_Vilnius.svg]]
+}}
+
+[[Category:Coats of arms of Vilnius]]
+{{Vector version available |1= Coat of Arms of Vilnius.svg}}

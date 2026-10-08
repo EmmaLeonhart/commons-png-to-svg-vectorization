@@ -1,0 +1,13 @@
+<!--This file was moved here using FileImporter from //en.wikipedia.org/wiki/File:Floater_script_screenshot.png-->
+=={{int:filedesc}}==
+{{Information
+|Description = {{en|Screenshot of script [[:w:User:Equazcion/Floater]] in action.}}
+|Source = Modified screenshot of Wikipedia website.
+|Date = 2013-09-27
+|Author = [[:w:User:Equazcion|Equazcion]]
+}}
+
+=={{int:license-header}}==
+{{self|GFDL|cc-by-sa-3.0}}
+
+[[Category:Wikipedia user scripts]]

@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ja|1=原島（はるしま）}}
+|date=2011-09-04
+|source={{own}}
+|author=[[User:Ackeyyama|Ackeyyama]]
+|permission=
+|other_versions=
+|other_fields=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-3.0}}
+
+[[Category:Maps of Iki, Nagasaki|*map]]

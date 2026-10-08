@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=First milestone on a wiki: "you've made your first edit".}}
+|date=2016-08-21
+|source={{own}}
+|author=[[User:Trizek (WMF)|Trizek (WMF)]]
+|permission=
+|other versions=
+}}
+
+{{MediaWiki screenshot}}
+
+=={{int:license-header}}==
+{{self|cc-zero}}
+
+[[Category:Echo (Notifications) extension]]

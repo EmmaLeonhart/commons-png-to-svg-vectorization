@@ -1,0 +1,14 @@
+== {{int:filedesc}} ==
+{{Information
+|Description=God of Toshitoku. 歳徳神
+|Source=安部晴明簠簋内傳圖解（あべのせいめい ほきないでんずかい） 東京神誠館　1912年 http://kindai.ndl.go.jp/index.html
+|Date=
+|Author=柄沢照覚（柄澤照覺）
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{PD-Japan}}
+
+[[Category:Hachishoujin]]

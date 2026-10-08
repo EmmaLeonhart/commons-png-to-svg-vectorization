@@ -1,0 +1,14 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Seema Malaka, on an island in Beira Lake, Sri Lanka}}
+|date=2017-05-08
+|source={{own}}
+|author=[[User:ChanakaW|ChanakaW]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Seema Malaka]]

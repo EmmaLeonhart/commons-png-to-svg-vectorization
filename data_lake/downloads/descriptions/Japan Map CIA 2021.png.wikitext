@@ -1,0 +1,17 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Japan map showing major cities and islands of this archipelagic Pacific Ocean country as well as parts of surrounding countries.}}
+{{ja|1=CIAによる日本地図、2021年。}}
+|date=2021
+|source=The World Factbook 2021. Washington, DC: Central Intelligence Agency, 2021. - https://www.cia.gov/the-world-factbook/countries/japan/map
+|author=CIA
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-USGov-CIA-WF}}
+
+[[Category:CIA World Factbook maps of Japan]]
+[[Category:Japanese Archipelago]]
+[[Category:2021 maps of Japan]]

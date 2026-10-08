@@ -1,0 +1,20 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Kagura Dance (Shinto theatrical dance) in circa 1914. It is a Kabuki performed dedicated to a god in Japanese Shinto rituals.}}
+{{ja|神楽のダンス（1914年頃）。神楽（かぐら）は、日本の神道の神事において神に奉納するため奏される歌舞。}}
+|date={{other date|between|1914|1918}}
+|source= https://www.flickr.com/photos/adavey/4862976227/in/photostream/
+|author=Elstner Hilton
+|permission= {{PD-Old-100}}
+|other versions=<gallery>
+File:Kagura_dance_in_Japan_(1914_by_Elstner_Hilton).jpg|Full version
+</gallery>
+}}
+
+=={{int:license-header}}==
+{{Flickrreview|Leoboudv|2020-12-10}}{{cc-by-2.0}}
+
+[[Category:Kagura]]
+[[Category:Shintō festivals]]
+[[Category:kabuki]]
+[[Category:Japan 1914 - 1918, by Elstner Hilton]]

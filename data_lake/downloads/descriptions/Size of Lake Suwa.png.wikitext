@@ -1,0 +1,18 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Comparison of the present Lake Suwa to its estimated size around 1000-1500 years before present (Kofun and Heian periods).<br/>
+(Map based on ''[https://www.cellamasumi.jp/suwazine02/ suwazine, vol. 2]'' (2017), pp. 07-08)}}
+{{ja|1=現在と古墳～平安時代（1000～1500年前）の諏訪湖の大きさの比較。<br/>
+（参照：「[https://www.cellamasumi.jp/suwazine02/ 特集 諏訪の海は]」『suwazine 02号』（2017年）、07-08頁。）}}
+|date=2021-11-28
+|source={{own}}
+|author=[[User:Pat457|Pat457]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Lake Suwa]]
+[[Category:Maps of Suwa Taisha]]

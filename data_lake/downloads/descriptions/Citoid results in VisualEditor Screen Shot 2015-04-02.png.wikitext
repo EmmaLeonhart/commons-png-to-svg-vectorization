@@ -1,0 +1,10 @@
+{{information
+|Description={{en|1= Screenshot showing how to add a citation via [[mw:Citoid]].  This screenshot shows the results after looking up a source via URL.  Original image shows April 2015 screenshot; interface will change soon.}}
+|Source=Screenshot
+|Date=2015-04-02
+|Author=Wikipedia Authors, see the history of [[w:en:Cancer of unknown primary origin]]
+|Permission={{Wikipedia-screenshot|1=en|logo=no}}
+}}
+
+[[Category:Citoid]]
+[[Category:Wikimedia projects and science]]

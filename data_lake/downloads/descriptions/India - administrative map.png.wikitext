@@ -1,0 +1,26 @@
+{{Information
+|Description=
+{{en|Administrative Map of India with States an Union Territories}}
+{{de|Administrative Karte von Indien mit Bundesstaaten und Unionsterritorien}}
+|Source = {{own}}
+|Date   = see file history
+|Author = [[:de:User:Chumwa|Maximilian Dörrbecker]] ([[:de:User:Chumwa|Chumwa]])
+|Permission={{self|cc-by-sa-2.5}}
+|other versions=[[:File:India - administrative map-ar.png|Arabic]]
+Sie dürfen das Bild zu den folgenden Bedingungen nutzen:
+* Sie müssen den Namen des Autors nennen.
+* Im Falle einer Verbreitung müssen Sie anderen die Lizenzbedingungen, unter die dieses Bild fällt, mitteilen. 
+* Sie müssen das Bild unter gleichen Bedingungen weitergeben. Wenn sie das Bild abändern oder Arbeiten auf diesem Bild aufbauen, müssen Sie das Ergebnis aus dieser Arbeit ebenfalls unter diese Lizenz stellen.
+* Jede dieser Bedingungen kann nach schriftlicher Einwilligung des Rechtsinhabers aufgehoben werden.
+
+&nbsp;
+|other_versions =
+<gallery>
+File:India - administrative map.png|Map with full state and capital names
+File:Indien Verwaltungsgliederung.png|Map with ISO_3166-2:IN state codes
+File:IndiaStatesByRTOcodes.png|Map with RTO state codes
+File:India - administrative map-ar.png|الخريطة الإدارية للهند مع الولايات والأقاليم الاتحادية
+</gallery>}}
+
+[[Category:User:Maximilian Dörrbecker]]
+[[Category:Administrative maps of India]]

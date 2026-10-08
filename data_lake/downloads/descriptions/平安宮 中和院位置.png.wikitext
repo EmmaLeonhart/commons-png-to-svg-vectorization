@@ -1,0 +1,12 @@
+<!--This file was moved here using FileImporter from https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:%E5%B9%B3%E5%AE%89%E5%AE%AE_%E4%B8%AD%E5%92%8C%E9%99%A2%E4%BD%8D%E7%BD%AE.png-->
+== {{int:filedesc}} ==
+{{Information
+|Description={{ja|平安宮 中和院位置}}
+|Source= 投稿者自身による作品。出典：『日本大百科全書』大内裏項。
+|Date= 2021-02-13
+|Author= [[:ja:user:Saigen Jiro|Saigen Jiro]]
+|Permission={{PD-self}}
+|other_versions=
+}}
+
+[[Category:Plans of Heian Palace]]

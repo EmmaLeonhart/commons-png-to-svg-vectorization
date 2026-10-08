@@ -1,0 +1,28 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{de|1=Übersicht der wichtigsten Grabstätten in [[:de:Theben-West|Theben-West]]}}
+|Source=Google Earth, http://www.luxor-westbank.com/bilder/karten/map_theban_sites_d.jpg
+|Date=2007-08-17
+|Author=[[:de:Benutzer:C.lingg|c.lingg]] 19:46, 17. Aug. 2007 (CEST)
+|Permission=
+|Other versions= Bild:Grab_des_nacht.png
+|Other fields=
+}}
+
+== {{int:license-header}} ==
+{{Bild-CC-by-sa/2.0/de}}
+
+== {{Original upload log}} ==
+<div class="delh">
+{{transferred from|de.wikipedia|Wdwdbot|script ''bot_filetrans.pl (r85M)''}}
+{{original description|de.wikipedia|Karte_grabstaetten_theben_west.png}}
+* 2007-09-18 07:35:43  [[:de:User:C.lingg|C.lingg]] (265495 Bytes) ''<nowiki>Beschriftungen sind näher an den Objekten</nowiki>''
+* 2007-08-17 17:46:22  [[:de:User:C.lingg|C.lingg]] (263226 Bytes) ''<nowiki>{{Information |Beschreibung = Übersicht der wichtigsten Grabstätten in [[Theben-West]] |Quelle = Google Earth, http://www.luxor-westbank.com/bilder/karten/map_theban_sites_d.jpg |Urheber = ~~~~ |Datum = 17.08.2007 |Andere Versionen = Bild:Grab_des_nacht</nowiki>''
+</div>
+{{User:Wdwdbot/Files uploaded by Wdwdbot}}
+
+
+[[Category:Colossi of Memnon| map]]
+[[Category:Kom el-Hettan| map]]
+[[Category:Medinet Habu| map]]
+[[Category:Maps and plans of the Theban Necropolis]]

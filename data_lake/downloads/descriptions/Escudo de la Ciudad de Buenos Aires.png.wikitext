@@ -1,0 +1,22 @@
+{{vva|Coat of Arms of Buenos Aires (1649).svg}}
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|1=[[:en:Coat of arms of Buenos Aires]], 1649.}}
+{{es|1=[[:es:Escudo de la Ciudad de Buenos Aires]] de 1649.}}
+{{pt|[[:pt:Brasão da cidade de Buenos Aires]], 1649.}}
+|Source= [http://www.buenosaires.gov.ar/areas/com_social/constitucion/bandera.php?menu_id=11170#a History of the Seal], Buenos Aires Government; <br />Ordinance of the Buenos Aires Municipality from December 3, 1923, copy of the original available on the [http://www.cedom.gov.ar/es/legislacion/institucional/simbolos/ Information and Documentation Center and Legislative Archive (CEDOM)]
+|Date= 5 November 1649 <br> Officially promulgated on December 3, 1923
+|Author= {{unknown|author}}
+|Permission=PD in Argentina
+|other versions=
+}}
+
+== {{int:license-header}} ==
+{{PD-art|PD-old}}
+{{insignia}}
+
+[[Category:Coats of arms of Buenos Aires city]]
+[[Category:1 anchor sable in heraldry]]
+[[Category:1 pigeon in heraldry]]
+[[Category:Caravels in heraldry]]
+[[Category:Pigeons of Argentina in art]]

@@ -1,0 +1,54 @@
+{{Information
+|Description={{en|Screenshot for AjaxMassDelete documentation}}
+{{de|Bildschirmfoto für die Dokumentation von AjaxMassDelete}}
+|Source=*[[:File:YANMAR_Ke-3_above_view.JPG|YANMAR_Ke-3_above_view.JPG]]
+*[[:File:YANMAR_Ke-3_front_view.JPG|YANMAR_Ke-3_front_view.JPG]]
+*[[:File:YANMAR_Ke-3_left_view.JPG|YANMAR_Ke-3_left_view.JPG]]
+*[[:File:YANMAR_Ke-3_right.JPG|YANMAR_Ke-3_right.JPG]]
+*[[:File:20_Sankt-Petri-Strasse_7_Pfarrhaus.jpg|20_Sankt-Petri-Strasse_7_Pfarrhaus.jpg]]
+*[[:File:19_Sankt-Petri-Strasse_5-7_Torbogen_Museum.jpg|19_Sankt-Petri-Strasse_5-7_Torbogen_Museum.jpg]]
+*[[:File:18_Sankt-Petri-Strasse_5-7_Torbogen.jpg|18_Sankt-Petri-Strasse_5-7_Torbogen.jpg]]
+|Date=2011-04-28 21:57 (UTC)
+|Author=*[[:File:YANMAR_Ke-3_above_view.JPG|YANMAR_Ke-3_above_view.JPG]]: Neozoon
+*[[:File:YANMAR_Ke-3_front_view.JPG|YANMAR_Ke-3_front_view.JPG]]: Neozoon
+*[[:File:YANMAR_Ke-3_left_view.JPG|YANMAR_Ke-3_left_view.JPG]]: Neozoon
+*[[:File:YANMAR_Ke-3_right.JPG|YANMAR_Ke-3_right.JPG]]: Neozoon
+*[[:File:20_Sankt-Petri-Strasse_7_Pfarrhaus.jpg|20_Sankt-Petri-Strasse_7_Pfarrhaus.jpg]]: Beate Uibel
+*[[:File:19_Sankt-Petri-Strasse_5-7_Torbogen_Museum.jpg|19_Sankt-Petri-Strasse_5-7_Torbogen_Museum.jpg]]: Beate Uibel
+*[[:File:18_Sankt-Petri-Strasse_5-7_Torbogen.jpg|18_Sankt-Petri-Strasse_5-7_Torbogen.jpg]]: Beate Uibel
+*derivative work: [[User:Rillke|<b><i><span style="font-family:Arial;color:#0C9;background-color:#FFF">RE</span></i></b>&nbsp;rillke]]&nbsp;[[User talk:Rillke|questions?]]
+|Permission=
+|other_versions=
+}}
+
+{{RetouchedPicture|Script thumbnails|editor=Rillke|orig=18_Sankt-Petri-Strasse_5-7_Torbogen.jpg}}
+
+{{Cc-by-sa-3.0}}
+
+== {{Original upload log}} ==
+This image is a derivative work of the following images:
+
+*[[:File:YANMAR_Ke-3_above_view.JPG]] licensed with Cc-by-sa-3.0
+**2011-04-28T18:49:52Z [[User:Neozoon|Neozoon]] 3168x4752 (8300398 Bytes) ''<nowiki></nowiki>''
+
+*[[:File:YANMAR_Ke-3_front_view.JPG]] licensed with Cc-by-sa-3.0
+**2011-04-28T18:48:24Z [[User:Neozoon|Neozoon]] 3168x4752 (8932693 Bytes) ''<nowiki></nowiki>''
+
+*[[:File:YANMAR_Ke-3_left_view.JPG]] licensed with Cc-by-sa-3.0
+**2011-04-28T18:46:49Z [[User:Neozoon|Neozoon]] 4752x3168 (6734959 Bytes) ''<nowiki></nowiki>''
+
+*[[:File:YANMAR_Ke-3_right.JPG]] licensed with Cc-by-sa-3.0
+**2011-04-28T18:45:36Z [[User:Neozoon|Neozoon]] 4752x3168 (7504493 Bytes) ''<nowiki></nowiki>''
+
+*[[:File:20_Sankt-Petri-Strasse_7_Pfarrhaus.jpg]] licensed with Cc-by-sa-3.0
+**2011-04-16T01:30:53Z [[User:Neozoon|Neozoon]] 750x563 (98309 Bytes) ''<nowiki></nowiki>''
+
+*[[:File:19_Sankt-Petri-Strasse_5-7_Torbogen_Museum.jpg]] licensed with Cc-by-sa-3.0
+**2011-04-16T01:30:29Z [[User:Neozoon|Neozoon]] 750x563 (154693 Bytes) ''<nowiki></nowiki>''
+
+*[[:File:18_Sankt-Petri-Strasse_5-7_Torbogen.jpg]] licensed with Cc-by-sa-3.0
+**2011-04-16T01:29:49Z [[User:Neozoon|Neozoon]] 750x1000 (185715 Bytes) ''<nowiki></nowiki>''
+
+{{Uploaded with derivativeFX}}
+
+[[Category:Obsolete screenshots of VisualFileChange]]

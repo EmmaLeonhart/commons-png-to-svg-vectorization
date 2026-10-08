@@ -1,0 +1,14 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Murasaki Shikibu composing Genji Monogatari (Tale of Genji) by Tosa Mitsuoki (1617-1691).}}
+|date=Before 1691, late 17th century.
+|source=Ishiyama-dera Temple, in Ōtsu in Japan's Shiga Prefecture, [https://www.wnyc.org/story/review-genji-arrives-new-york/]
+|author=Tosa Mitsuoki (1617 - 1691)
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-Art|PD-old-100}}
+
+[[Category:Portrait of Murasaki Shikibu by Tosa Mitsuoki]]

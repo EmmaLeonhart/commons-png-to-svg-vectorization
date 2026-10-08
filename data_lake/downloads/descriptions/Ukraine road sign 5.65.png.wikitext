@@ -1,0 +1,15 @@
+{{vva|UA road sign 5.71.svg}}
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Aeroport.}} {{uk|1=Аеропорт.}}
+|date=2013-06-04
+|source=[http://pddua.com/33/]
+|author={{en|1=Government of Ukraine}} {{uk|1=Уряд України}}
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-UA-exempt|type=road signs}}
+
+[[Category:Diagrams of road signs of Ukraine obsoleted by SVG replacement]]

@@ -1,0 +1,18 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ja|1=中野犬小屋 元禄9年}}
+{{en|1=Tokugawa Tsunayoshi built large kennels in Nakano (Nakano ward), Yotsuya and Okubo (Shinjuku ward) in Tokyo. On October 29th, 1695, during the great famine of Genroku (1695 to 1696), doghouses in Nakano were completed.
+Even during the famine the Shogunate accommodated 80,000 wild dogs in the kennels in Nakano and gave them 3 go (0.18L) of polished rice, 50 moon (187g) of bean paste and 1 go of sardines daily.
+The total space for the dog shelters in Nakano was approximately 750,000 square meters in 1702.}}
+|date=1928
+|source=『武蔵野歴史地理. 第2冊』1928
+|author=武蔵野歴史地理学会
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+
+{{PD-Japan-oldphoto}}
+
+[[Category:Nakano Dog Shelter]]

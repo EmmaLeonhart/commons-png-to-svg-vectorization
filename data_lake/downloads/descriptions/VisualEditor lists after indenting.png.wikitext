@@ -1,0 +1,10 @@
+{{Information
+|Description={{en|1=Screenshot from [[:mw:Help:Sample page]] showing list formatting in VisualEditor}}
+|Source=Screenshot
+|Date=2015-08-13
+|Author=Own work; VisualEditor interface by authors of [[mw:VisualEditor]]
+|Permission={{Wikimedia-screenshot|logo=no}}
+|other_versions=
+}}
+[[Category:VisualEditor]]
+[[Category:Indentation (typesetting)]]

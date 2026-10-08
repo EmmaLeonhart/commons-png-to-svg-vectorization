@@ -1,0 +1,10 @@
+earth
+== {{int:filedesc}} ==
+Based on [[:Image:The Earth seen from Apollo 17.jpg]] and modified with a transparent background.
+
+== {{int:license-header}} ==
+{{PD-USGov-NASA}}
+
+
+[[Category:The Blue Marble]]
+[[Category:Media missing infobox template]]

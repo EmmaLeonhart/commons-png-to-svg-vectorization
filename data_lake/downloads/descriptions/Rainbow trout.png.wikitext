@@ -1,0 +1,13 @@
+== {{int:filedesc}} ==
+{{Information
+|Description=An image of a [[:en:rainbow trout|rainbow trout]] derived from the public domain photo [[:Image:RainbowTrout.jpg]]. This image has been modified to the extent that it is not an accurate or representative image of this species. It is primarily intended for decorative and/or humorous use.
+|Source=self-made, derived from [[:Image:RainbowTrout.jpg]] (public domain)
+|Date=2007-07-25
+|Author= [[User:Heqs|Heqs]]
+|other_versions={{Other versions/Rainbow trout}}
+}}
+
+== {{int:license-header}} ==
+{{PD-self}}
+[[Category:Oncorhynchus mykiss]]
+[[Category:Animals on transparent background]]

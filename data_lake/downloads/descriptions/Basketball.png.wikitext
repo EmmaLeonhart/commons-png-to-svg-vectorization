@@ -1,0 +1,25 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|A typical "M1-LF league" basketball with a rubber-type outer surface.}}
+{{es|Un típico balón de baloncesto barato con un tipo de hule de superficie exterior.}}
+{{fr|Un ballon de basket-ball.}}
+{{ga|Cispheil.}}
+{{it|Una tipica palla da basket a buon mercato.}}
+{{ru|[[:ru:Баскетбол|Баскетбольный]] мяч.}}
+|Source={{own}}
+|Date=2006-01-26
+|Author=[[User:Reisio|Reisio]]
+|Permission={{PD-user|Reisio}}
+|Other versions=
+<gallery>
+File:Basketball.jpeg|JPEG
+File:Basketball ball.svg|SVG
+File:Basketball.svg|SVG
+</gallery>
+}}
+{{vva|Basketball Clipart.svg}}
+
+
+[[Category:Basketballs]]
+[[Category:Location not applicable]]
+[[Category:Sports gear with transparent background]]

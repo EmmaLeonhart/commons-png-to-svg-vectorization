@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ko|1=평양신사배치도}}
+|date=1942
+|source=《朝鮮と建築》 第二十輯 第十一號, 朝鮮建築會, 1942.
+|author={{unknown|author}}
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+
+{{PD-Korea-1910-1945-photo}}
+
+[[Category:Heijō Shrine]]
+[[Category:Floor plans of South Korea]]

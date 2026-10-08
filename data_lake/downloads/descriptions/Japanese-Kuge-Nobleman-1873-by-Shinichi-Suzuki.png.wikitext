@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=A Japanese kuge (nobleman).}}
+{{ja|日本の公家（くげ）。}}
+|date=1873
+|source=Digital image courtesy of the Getty's Open Content Program. Getty.edu [http://www.getty.edu/art/collection/objects/163856/shinichi-suzuki-a-japanese-kuge-nobleman-japanese-about-1873-1883/]
+|author=Photography by Shinichi Suzuki (Japanese, 1835 - 1919)
+|permission= 
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-Art|PD-old-100}}
+
+[[Category:Kuge]]
+[[Category:Ikan (traditional dress of Japan)]]

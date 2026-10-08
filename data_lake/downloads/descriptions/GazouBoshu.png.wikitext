@@ -1,0 +1,23 @@
+== {{int:filedesc}} ==
+{{Information |Description= 画像募集メッセージ |Source= 投稿者が作成 |Date= 2008/10/06 |Author= [[:ja:User:Yukke123|Yukke123]] |Permission= 投稿者自身が作成 |other_versions= }}
+
+== {{int:license-header}} ==
+{{PD-user|Yukke123|ja}}
+
+== {{Original upload log}} ==
+The original description page is/was [[w:ja:%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:GazouBoshu.png|here]]. All following user names refer to ja.wikipedia.
+* 2011-10-28 13:36 [[:ja:User:Pedia-City|Pedia-City]] 250×150 (18058 bytes) ''<nowiki>(2010年10月13日 (水)11:25の版へ差し戻し)</nowiki>''
+* 2011-10-28 11:01 [[:ja:User:Nishimurahiroaki|Nishimurahiroaki]] 1,961×1,407 (3567801 bytes) ''<nowiki>(2010年10月13日 (水)07:44の版へ差し戻し)</nowiki>''
+* 2010-10-13 11:25 [[:ja:User:Kyube|Kyube]] 250×150 (18058 bytes) ''<nowiki>(2010年9月27日 (月) 07:18 の版へ差し戻し 別の場所にアップロード願います)</nowiki>''
+* 2010-10-13 07:46 [[:ja:User:Aic hiroshima|Aic hiroshima]] 250×150 (18058 bytes) ''<nowiki>(2010年9月27日 (月) 07:18 の版へ差し戻し)</nowiki>''
+* 2010-10-13 07:44 [[:ja:User:Aic hiroshima|Aic hiroshima]] 1,961×1,407 (3567801 bytes) ''<nowiki>(2010年9月27日 (月) 02:47 の版へ差し戻し)</nowiki>''
+* 2010-09-27 07:18 [[:ja:User:Akb99|Akb99]] 250×150 (18058 bytes) ''<nowiki>(2009年3月12日 (木) 15:15 の版へ差し戻し)</nowiki>''
+* 2010-09-27 02:47 [[:ja:User:Aic hiroshima|Aic hiroshima]] 1,961×1,407 (3567801 bytes) ''<nowiki>(({{Information |Description= シェラトンホテル広島 |Source= 投稿者自身が撮影 |Date= 2010/9/27 |Author= Aic hiroshima |Permission= 投稿者自身が著作権者である |other_versions= }} ))</nowiki>''
+* 2009-03-12 15:15 [[:ja:User:Atsasebo|Atsasebo]] 250×150 (18058 bytes) ''<nowiki>(2009年1月31日 (土) 02:52 の版へ差し戻し)</nowiki>''
+* 2009-03-12 14:33 [[:ja:User:ヤン提督|ヤン提督]] 3,264×2,448 (11087808 bytes) ''<nowiki>({{Information |Description= 高山本線杉崎駅 |Source= 投稿者自身が撮影 |Date= 2009/3/7 |Author= ヤン提督 |Permission= 投稿者自身が著作権者である |other_versions= }} )</nowiki>''
+* 2009-01-31 02:52 [[:ja:User:Miya|Miya]] 250×150 (18058 bytes) ''<nowiki>(サイズダウン)</nowiki>''
+* 2008-10-07 15:38 [[:ja:User:Yukke123|Yukke123]] 250×150 (181247 bytes) ''<nowiki>(<div style="background-color: #d7e1f2; border: 1px solid #abd5f5; padding: 1em;"> <big style="font-size: 120%; line-height: 140%;">あなたの著作物である画像（例 あなたが撮ったり、あなたが描いたもの）で[[ウィキペディ)</nowiki>''
+* 2008-10-06 17:10 [[:ja:User:Yukke123|Yukke123]] 250×250 (268539 bytes) ''<nowiki>({{self|GFDL|cc-by-3.0}})</nowiki>''
+
+[[Category:Japanese-language image placeholders]]
+[[Category:Japanese text]]

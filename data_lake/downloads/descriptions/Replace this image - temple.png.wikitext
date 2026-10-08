@@ -1,0 +1,28 @@
+<!--This file was moved here using FileImporter from https://en.wikipedia.org/wiki/File:Replace_this_image_-_temple.png-->
+<div  style="background-color: #d7e1f2; border: 1px solid #abd5f5; padding: 1em;">
+
+<big style="font-size: 120%; line-height: 140%;">'''If you hold the copyright to an image (e.g. you photographed or drew it yourself) and would like Wikipedia to be able to use it, you will need to release it under a [[:w:Wikipedia:Image copyright tags#For image creators|free license]], such as the [[:w:Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License|cc-by-sa (Creative Commons-Attribution-Share alike)]] license.'''</big>
+
+</div><div  class="plainlinks" style="background: #f1f5fc; border: 1px solid #abd5f5; border-top: none; padding: 1em;">
+
+<div style="text-align: center; margin: 2em 0 3em 0;">
+<big style="font-size: 200%; line-height: 140%;">'''If you are prepared to do this,<br>and are logged in to your Wikipedia account,<br>[{{fullurl:Special:Upload|uselang=en-placeholder-temples}} click here]'''</big>
+</div>
+
+* Before you can upload images you will need to [http://en.wikipedia.org/w/index.php?title=Special:Userlogin&type=signup register an account].
+* Only use this if you hold the copyright on the image. Otherwise, please go [[:w:special:upload|here]].
+
+</div>
+
+== {{int:filedesc}} ==
+{{Information
+ |Description    = {{en|Image place holder for LDS temples}}
+ |Source         = I Trodel created this work entirely by myself.
+ |Date           = 3 August 2009
+ |Author         = --[[:w:User_talk:Trödel|<span style="color:#06C">Trödel</span>]]
+ |other_versions = none
+}}
+== {{int:license-header}} ==
+{{self|cc-by-sa-3.0}}
+
+[[Category:Wikipedia image placeholders]]

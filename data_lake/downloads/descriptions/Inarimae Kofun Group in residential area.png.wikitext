@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Inarimae Kofun Group in residential area}}
+|date=2020-06-15
+|source={{own}}
+|author=[[User:Hovering Cat|Hovering Cat]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-zero}}
+
+[[Category:Inarimae Kofun Group]]
+[[Category:Aerial photographs of Yokohama]]
+[[Category:Geography of Aoba-ku, Yokohama]]

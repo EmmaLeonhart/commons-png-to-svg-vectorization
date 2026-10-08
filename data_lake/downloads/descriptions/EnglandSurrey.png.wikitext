@@ -1,0 +1,11 @@
+{{Convert to SVG|locator map}}
+
+From [[:en:Image:EnglandSurrey.png]]
+
+map of Surrey within [[England]]
+
+{{GFDL|migration=relicense}}
+
+[[Category:Locator maps of counties of England]]
+[[Category:Maps of Surrey]]
+[[Category:Media missing infobox template]]

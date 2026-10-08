@@ -1,0 +1,9 @@
+{{Information
+|Description={{en|1=Screenshot from [[:mw:Help:Sample page]] showing list formatting in VisualEditor.  This list combines bullets (unordered) and numbered (ordered) list formatting.}}
+|Source=Screenshot
+|Date=2015-08-13
+|Author=Own work
+|Permission={{Wikimedia-screenshot|logo=no}}{{Cc-zero}}
+|other_versions=
+}}
+[[Category:VisualEditor]]

@@ -1,0 +1,14 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Excerpt of Yegun's Epitaph mentioning the placename "日本". 日本餘噍 據扶桑以逋誅}}
+|date=2025-05-05
+|source=西安博物院
+|author=Xi'an Museum
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-4.0}}
+
+[[Category:History of Korea]]

@@ -1,0 +1,24 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{Multilingual description
+|de=Ein illustratives Beispiel für den japanischen Begriff {{Label|Q1054122|lang=de}}, der soviel wie zweigeschlechtig bedeutet. In diesem Bild sind die zwei häufigst vorkommenden Varianten in einer typischen Szene dargestellt. Entsprechend der Herkunft des Begriffes und Genres sind beide Figuren im {{Label|Q492090|lang=de}} dargestellt.
+|en=An example illustration for the Japanese term {{Label|Q1054122|lang=en}}, meaning hermaphrodite, as depicted in {{Label|Q492090|lang=en}}. The image shows the two most common futanari variants: Intact vagina and a penis with or without testicles.
+|fr=Une illustration exemplaire du terme de l'art japonais {{Label|Q1054122|lang=fr}}, qui signifie plus ou moins "hermaphrodite". Ici, les deux variantes (pénis avec ou sans testicule à coté d'un vagin intact) que l'ont rencontre le plus fréquemment sont placés dans une scène typique.
+|ja={{Label|Q1054122|lang=ja}}の絵。ふたなりとは男性器と女性器の両方を持ち、何れの性行為も行うことができる、アダルト漫画・アニメにしばしば登場する人のこと。医学的な{{Label|Q5282521|ja}}でもあるが、異なることが多様にある。
+|zh={{Label|Q1054122|lang=zh}}示意圖. "扶他那裡"是一中文ACG界的用語, 音譯自日語的"ふたなり", 指的是同時擁有男性及女性生殖器官的陰陽人. 此圖顯示兩種典型的"扶他那裡": 擁有完整的陰道與陰莖(有或無睪丸).
+}}
+|Source={{own}}
+|Author={{U|Niabot}}
+|Date={{Upload date|2010-06-14T16:10}}
+|Permission=
+|other_versions={{Derivative versions|Futanari-banned.png}}{{Vector version available}}
+}}
+
+== {{int:license-header}} ==
+{{self|GFDL|cc-by-3.0|author=Niabot |attribution=“[[User:Niabot|Niabot]], because wikimedia commons lost his roots”}}
+
+[[Category:Mutual masturbation in art]]
+[[Category:Pre-ejaculate]]
+[[Category:People having sex in anime and manga]]
+[[Category:Sanny and Tess]]
+[[Category:2010s erotic art]]

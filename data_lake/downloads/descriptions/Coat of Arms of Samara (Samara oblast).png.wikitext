@@ -1,0 +1,15 @@
+{{vva}}
+== {{int:filedesc}} ==
+{{Information
+ |description    = {{en|Samara, coat of arms}}
+{{ru|Самара, герб}}
+ |date           = 
+ |source         = [http://vector-images.com/image.php?epsid=1872 Vector-images.com]
+ |author         = {{unknown}}. Author of vectorization can be found at [http://vector-images.com/image.php?epsid=1872 Vector-images.com].
+ |permission     =
+ |other_versions =
+}}
+== {{int:license-header}} ==
+{{vector-images|PD-RU-exempt|type=coats of arms}}
+
+[[Category:Coats of arms of Samara]]

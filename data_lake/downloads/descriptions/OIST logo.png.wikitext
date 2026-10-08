@@ -1,0 +1,22 @@
+{{vector version available|OIST logo.svg}}
+
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=The logo of the [[:en:Okinawa Institute of Science and Technology]]}}{{ja|1=[[:ja:沖縄科学技術大学院大学|沖縄科学技術大学院大学]]のロゴ}}
+|date=2013-06-06 22:09:20
+|source=http://www.oist.jp/photo/oist-logo
+|author=[[:en:Okinawa Institute of Science and Technology|Okinawa Institute of Science and Technology]]/[[:ja:沖縄科学技術大学院大学|沖縄科学技術大学院大学]]
+|permission=
+|other_versions=
+|other_fields=
+}}
+
+=={{int:license-header}}==
+{{Change-of-license}}
+{{CC-BY-2.0|[http://www.oist.jp/photo/oist-logo Unless otherwise noted, images are free for anyone to re-use, and should be credited to OIST.]}}
+{{LicenseReview|site=http://www.oist.jp/photo/oist-logo|user=轻语者|date=2020-06-22}}
+
+[[Category:Logos of universities and colleges in Japan]]
+[[Category:Government organizations of the State of Japan]]
+[[Category:Okinawa Institute of Science and Technology]]
+[[Category:4 letter alphabet logos of Japan]]

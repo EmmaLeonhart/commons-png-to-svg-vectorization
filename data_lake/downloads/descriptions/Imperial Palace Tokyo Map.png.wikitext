@@ -1,0 +1,17 @@
+{{vector version available|Imperial Palace Tokyo Map.svg}}.
+
+This is a map of the Imperial Palace in Tokyo (Kokyo), drawn by me based on various sources and satelite pics. 
+
+See [[:Image:Imperial Palace Tokyo Map.sxd]] for the OpenOffice.Org source file where the entire map can be edited. 
+
+Disclaimer: Many locations are only approximate, not all streets, buildings, and waterways are shown, I give no guarantee for accuracy, use at your own risk. 
+
+{{User:Chris 73/License}}
+
+
+== derivative works ==
+{{DerivativeVersions|Imperial Palace Tokyo Map.svg}}
+
+
+[[Category:Maps of the Tokyo Imperial Palace| 01]]
+[[Category:Media missing infobox template]]

@@ -1,0 +1,18 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{uk|Герб Львівської області (Україна)}}
+{{Ru|Герб Львовской области (Украина)}} 
+{{eo|Blazono de la Oblasto Lviva en Ukrainio}}
+{{de|Das Wappen der Oblast Lemberg (Ukraine)}}
+{{en|Coat of arms of Lviv Oblast, Ukraine}}
+|Source=[https://www.crwflags.com/fotw/flags/ua-lv.html FOTW]
+|Date={{upload date|2007-12-19}}
+|Author=Unknown heraldics
+|Permission=PD-UA-EXEMPT
+|other_versions=
+}}
+{{Vector version available|Coat of Arms of Lviv Oblast SVG.svg}}
+== {{int:license-header}} ==
+{{PD-UA-exempt|type=coats of arms}}
+
+[[Category:Coats of arms of Lviv Oblast]]

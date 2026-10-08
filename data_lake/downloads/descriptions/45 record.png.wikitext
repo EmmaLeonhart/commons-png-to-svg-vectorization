@@ -1,0 +1,10 @@
+{{Information
+|Description    ={{en|1=Here is an Inkscape drawing of a vintage 45 record}}
+|Source         =[http://www.openclipart.org/detail/132667 Open Clip Art Library image's page]
+|Author         =[http://www.openclipart.org/user-detail/laurianne laurianne]
+|Date           =
+|Permission     =
+|other_versions =
+}}
+{{PD-OpenClipart}}
+[[Category:Vinyl records]]

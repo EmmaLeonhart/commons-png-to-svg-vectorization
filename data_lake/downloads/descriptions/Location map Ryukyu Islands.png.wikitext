@@ -1,0 +1,24 @@
+{{Convert to SVG|locator map}}
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|1=Map showing Ryukyu Islands for pin
+* Geographic limits of the map:
+:* N: 31.959° N
+:* S: 23.312° N
+:* W: 119.817° E
+:* E: 135.824° E
+}}
+|Source=http://www.maps-for-free.com/ 
+|Date=2012-10-26
+|Author=Modified by Dr. Blofeld
+|Permission=http://www.maps-for-free.com/html/about.html
+|other_versions=[[File:Ryukyu cultural regions.svg|50px]]
+}}
+
+== {{int:license-header}} ==
+{{free screenshot|license={{GPL}} }} 
+{{cc-by-3.0}}
+
+[[Category:Maps of Ryukyu Islands]]
+[[Category:Topographic maps of the Nansei Islands]]
+[[Category:Topographic maps of Japan by series (maps-for-free.com)]]

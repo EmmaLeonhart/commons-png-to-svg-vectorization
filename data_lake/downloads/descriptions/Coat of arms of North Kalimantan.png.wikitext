@@ -1,0 +1,18 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Emblem of North Kalimantan Province.}} {{id|1=Lambang Provinsi Kalimantan Utara.}}
+|date=2014-02-21 16:35:24
+|source=North Kalimantan Government
+|author=North Kalimantan Government
+|permission=
+|other_versions={{superseded|Coat of arms of North Kalimantan (2021 version).svg|reason=As of 18 May 2021 the emblem is slightly changed with additional elements such as a mountain, a boat, and a pair of ''Buceros'' head.}}
+|other_fields=
+}}
+
+== {{int:license-header}} ==
+{{PD-IDGov}}
+
+[[Category:Coats of arms from North Kalimantan]]
+[[Category:Coats of arms of North Kalimantan]]
+[[Category:North Kalimantan]]
+[[Category:Historical coats of arms of provinces of Indonesia]]

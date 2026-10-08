@@ -1,0 +1,28 @@
+{{Vector version available|Coat of arms of Tilburg.svg}}
+== {{int:filedesc}} ==
+{{Information
+|Description={{nl|Wapen van de gemeente Tilburg}}
+|Source=http://www.ngw.nl/t/tilburg.htm
+|Date=
+|Author=Ralf Hartemink, 1995
+|Permission={{ngw2}}
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{PD-NL-gemeentewapen}}
+
+== {{original upload log}} ==
+(All user names refer to nl.wikipedia)
+* 2006-04-12 10:01 [[:nl:User:Tibor|Tibor]] 200×289×8 (7613 bytes) ''<nowiki>Wapen gemeente Aalburg, bron: http://www.ngw.nl/</nowiki>''
+
+{| class="wikitable"
+|-
+! {{int:filehist-datetime}} !! {{int:filehist-dimensions}} !! {{int:filehist-user}} !! {{int:filehist-comment}}
+|-
+| {{ISOdate|2007-09-16 19:50:46}} || 80 × 100 (4180 bytes) || {{User|Havang(nl)}} || ''<nowiki>{{Information&#10;|Description={{nl|Wapen van de gemeente Tilburg}}&#10;|Source=http://www.ngw.nl/t/tilburg.htm&#10;|Date=&#10;|Author=Ralf Hartemink, 1995&#10;|Permission=Author has granted use of his images on www.ngw.nl on Wikipedia&#10;|other_versions=&#10;}}&#10;&#10;== License informa</nowiki>''
+|}
+
+{{DEFAULTSORT:Tilburg}}
+[[Category:Coats of arms of municipalities of North Brabant]]
+[[Category:Symbols of Tilburg| Coat of arms]]

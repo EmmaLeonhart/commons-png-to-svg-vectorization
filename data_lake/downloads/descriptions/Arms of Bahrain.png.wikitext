@@ -1,0 +1,23 @@
+{{Information
+|Description={{en|Arms of the national coat of arms of Bahrain. Used by the government and other organisations, such as the Bahrain men's national ice hockey team badge.}}
+|Source=*[[:File:Emblem_of_Bahrain.svg|Emblem_of_Bahrain.svg]]
+|Date=2011-01-31 09:00 (UTC)
+|Author=*[[:File:Emblem_of_Bahrain.svg|Emblem_of_Bahrain.svg]]: [[:User:Tonyjeff|Tonyjeff]], based on national symbol.
+*derivative work: [[User:Salavat|Salavat]] ([[User talk:Salavat|<span class="signature-talk">talk</span>]])
+|Permission=
+|other_versions=
+}}
+
+{{RetouchedPicture|Coat of arms of Bahrain minus the mantling|editor=Salavat|orig=Emblem_of_Bahrain.svg}}
+
+{{self|PD-self}}
+
+== {{Original upload log}} ==
+This image is a derivative work of the following images:
+
+*[[:File:Emblem_of_Bahrain.svg]] licensed with PD-self
+**2008-02-04T03:38:50Z [[User:BetacommandBot|BetacommandBot]] 567x567 (369843 Bytes) ''<nowiki>move approved by: [[User:ChristianBier]]  This image was moved from [[:Image:Emblem of Bahrain.svg]]   {{Information |Description=Emblem of Bahrain. |Source=symbol created in the 1930s by the British advisor to the King of</nowiki>''
+
+{{Uploaded with derivativeFX}}
+
+[[Category:National coat of arms of Bahrain]]

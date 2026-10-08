@@ -1,0 +1,18 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ja|1=月影杏葉（つきかげ ぎょうよう）日本の家紋の一種。杏葉（ぎょうよう）紋。
+堯葉・襄容・魚葉・魚腸と書いて「 ぎょうよう 」とも呼称される。
+
+月影杏葉（つきかげ ぎょうよう）紋は、日本の仏教の一派「 浄土宗（じょうどしゅう） 」の宗紋である。}}
+|date=2023-09-29
+|source={{own}}
+|author=[[User:KfskzsuRPkwt|KfskzsuRPkwt]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Japanese crests of flowers and plants]]
+[[Category:Mon with embracing motif]]

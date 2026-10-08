@@ -1,0 +1,28 @@
+{{Vector version available|Flag of France.svg}}
+== {{int:filedesc}} ==
+{{Information
+|description={{en|''Tricolore'' of [[France]]}}
+{{fr|Drapeau de la France}}
+{{als|Flagge vo Frànkrich}}
+{{br|Banniel Bro-C'hall}}
+{{ca|Bandera de França}} 
+{{co|Bandera di a Francia}}
+{{en|Flag of France}} 
+{{hr|Zastava Francuske}}
+{{la|Vexillum Franciae}}
+{{nrm|Couleu d'Fraunce}}
+{{oc|Drapèu de França}}
+{{ty|Te reva nō Farāni}}
+|date={{Upload date|2004-11-22}}
+|source={{Own}}
+|author={{U|SKopp}}
+|permission=
+}}
+
+== {{int:license-header}} ==
+{{PD-self}}
+
+{{DEFAULTSORT:France}}
+[[Category:PNG flags of France]]
+[[Category:Flags with an aspect ratio of 3:2]]
+[[Category:National flag of France]]

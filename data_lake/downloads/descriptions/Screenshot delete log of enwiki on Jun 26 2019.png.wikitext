@@ -1,0 +1,14 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Screenshot of the deletion log on the English Wikipedia, taken on June 26, 2019, at 12:24 PM UTC.}}
+|date=2019-06-29
+|source={{own}}
+|author=[[User:K6ka|K6ka]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{Wikipedia-screenshot}}
+
+[[Category:English Wikipedia screenshots]]

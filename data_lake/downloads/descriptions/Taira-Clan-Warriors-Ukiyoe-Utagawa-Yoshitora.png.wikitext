@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Warriors of the Taira Clan.}} {{ja|平氏の戦士。}}
+|date= 1855
+|source=Ukiyo-e.org https://ukiyo-e.org/image/mfa/sc168209  Museum of Fine Arts Boston
+|author={{en|Utagawa Yoshitora}} {{ja|歌川 芳虎}}
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-Art|PD-old-100}}
+
+[[Category:Taira clan]]
+[[Category:Ukiyo-e of people of the Genpei War]]
+[[Category:Utagawa Yoshitora]]

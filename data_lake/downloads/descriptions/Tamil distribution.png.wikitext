@@ -1,0 +1,42 @@
+{{Map
+ |title            = Tamil speakers map
+ |description      = Detail of [[:Image:Tamil speakers map.svg]]; Areas in India and Sri Lanka where Tamil is spoken (1981).
+ |legend           = 
+ |author           = [[w:user:Planemad]]
+ |date             = 2007-04
+ |source           = 
+{{own}}<br/>
+'''International Borders:''' [http://www.lib.utexas.edu/maps/ University of Texas map library] - [http://www.lib.utexas.edu/maps/middle_east_and_asia/india_pol01.jpg India Political map 2001]<br/>
+'''Disputed Borders:''' [http://www.lib.utexas.edu/maps/ University of Texas map library] - [http://www.lib.utexas.edu/maps/middle_east_and_asia/china_india_border_88.jpg China-India Borders] - [http://www.lib.utexas.edu/maps/middle_east_and_asia/china_india_e_border_88.jpg Eastern Sector 1988] & [http://www.lib.utexas.edu/maps/middle_east_and_asia/china_indiaw_border_88.jpg Western Sector 1988] - [http://www.lib.utexas.edu/maps/middle_east_and_asia/kashmir_region_2004.jpg Kashmir Region 2004] - [http://www.lib.utexas.edu/maps/kashmir.html Kashmir Maps].<br/>
+'''State and District boundaries:''' [http://www.censusindia.net Census of India] - [http://www.censusindia.gov.in/ 2001 Census State Maps] - [http://www.surveyofindia.gov.in/soi_geo.html Survey of India Maps].<br/>
+'''Other sources:''' [http://www.lib.utexas.edu/maps/ams/india/ US Army Map Service], [http://www.surveyofindia.gov.in:8080/website/utmdata/viewer.htm Survey of India Map Explorer], [http://www.columbia.edu/itc/mealac/pritchett/00maplinks/ Columbia University] <br/>
+'''Map specific sources:''' [http://www.himalmag.com/2003/april/images/inside_back_map.jpg Himalag - Language families and dialects in South Asia map].
+ |permission       = {{Self|cc-by-sa-3.0}}<br />
+[[File:Nuvola_apps_important.svg|20px]]The frontiers depicted on the Indian maps in Wikipedia are from a neutral point of view and may differ from official government maps of India, Pakistan and China. Please consult local laws governing publication of maps before usage.
+ |map date         = {{complex date|conj=and|adj1=second half|date1=20|units=century|date2=21}}
+ |location         =
+ |projection       = 
+ |scale            =
+ |heading          =
+ |latitude         = 
+ |longitude        = 
+ |warped           =
+ |set              = 
+ |sheet            =
+ |type             =
+ |language         =
+ |publisher        =
+ |printer          =
+ |print date       =
+ |institution      =
+ |accession number =
+ |dimensions       =
+ |medium           =
+ |inscriptions     =
+ |notes            = Part of [[w:WP:INMAP|WikiProject India Maps]]
+ |other versions   =  
+}}
+
+[[Category:WikiProject India Special Maps]]
+[[Category:Linguistic maps of the Tamil language]]
+[[Category:Maps showing 1981]]

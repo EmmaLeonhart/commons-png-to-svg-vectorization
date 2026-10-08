@@ -1,0 +1,14 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ja|1=150以上前のもので著作権なし}}
+|date=2019-03-16
+|source={{own}}
+|author=[[User:Kashiwamon|Kashiwamon]]
+|permission=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Kashiwa mon (Japanese crests of daimyo oak)]]
+[[Category:Mon with enclosing circle; black on white]]

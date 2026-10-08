@@ -1,0 +1,15 @@
+{{Vector version available |1= Arms of Leicester.svg}}
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Coat of arms of the English city of Leicester. Blazon: ''Gules, a cinquefoil ermine pierced of the field''. Generally referred to as "Bellomont arms", referring to the de Beaumont (Latinized to Bellomont) family, Earls of Leicester.}}
+|date=2014-12-14
+|source={{own}}
+|author=[[User:Zacwill16|Zacwill16]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Coats of arms of Leicester]]

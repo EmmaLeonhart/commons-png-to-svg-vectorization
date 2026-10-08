@@ -1,0 +1,20 @@
+{{Information
+|Description = {{Mld
+  |en = Japanese family crest for kabuki actors "Kotobuki Ebi", depicting a Japanese spiny lobster using a kanji "壽" (''kotobuki'', the old glyph of "寿", happiness).
+  |ja = 役者文様「寿海老」（染抜）。
+  }}
+|Source = {{Own}}
+|Date = 2012-07-09
+|Author = file created on Adobe Illustrator and Photoshop
+|Permission = {{PD-self}}
+}}
+
+[[Category:Asymmetrical rondel mon]]
+[[Category:Moji mon (Japanese crests)]]
+[[Category:Yakusha mon (Japanese crests of Kabuki actors)]]
+[[Category:Japanese crests of animals and creatures]]
+[[Category:Ichikawa (kabuki line)|Jukai]]
+[[Category:Ichikawa Jukai III]]
+[[Category:Panulirus japonicus]]
+[[Category:Lobsters in heraldry]]
+[[Category:Symbols based on 壽]]

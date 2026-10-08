@@ -1,0 +1,18 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Coat of arms of Wallachia, engraving above a dedication by Prince "Peter" (Radu Paisie).}}
+|date=1545-01-20
+|source=''Molitvenik'' (at [https://tiparituriromanesti.wordpress.com/2012/01/03/dimitrie-liubavici-molitvenic-slavonesc-targoviste-1545/ tiparituriromanesti.wordpress.com])
+|author={{Creator:Dimitrije Ljubavić}}
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-Art|PD-old-auto-expired|deathyear=1564}}
+
+[[Category:Coats of arms of Wallachia with the Wallachian Bird|1545]]
+[[Category:Wallachian Bird, Sable]]
+[[Category:Radu VII Paisie]]
+[[Category:1545 engravings]]
+[[Category:Romania in the 1540s]]

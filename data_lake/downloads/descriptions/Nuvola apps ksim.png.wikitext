@@ -1,0 +1,23 @@
+{{Information
+|Description    = 
+{{bn|[[KDE]] ৩.x-এর জন্য  [[:Category:Nuvola icons|Nuvola]] [[:Category:Icons by theme|icon theme]] for [[KDE]] 3.x.}}
+{{es|Icono del [[:Category:Icons by theme|tema de iconos]] [[:Category:Nuvola icons|Nuvola]] para [[KDE]] 3.x.}}
+{{fr|Icône du [[:Category:Icons by theme|thème d'icônes]] [[:Category:Nuvola icons|Nuvola]] pour [[KDE]] 3.x.}}
+{{ru|Иконка из [[:Category:Icons by theme|темы]] [[:Category:Nuvola icons|Nuvola]] для KDE 3.x.}}
+{{de|Icon von [[:Category:Nuvola icons|Nuvola]] [[:Category:Icons by theme|icon theme]] für [[KDE]] 3.x.}}
+{{vi|Biểu tượng lấy từ [[:Category:Icons by theme|chủ đề icon]] [[:Category:Nuvola icons|Nuvola]] cho [[KDE]] 3.x.}}
+{{gr|Εικόνα από το [[:Category:Icons by theme|θέμα εικόνων]] [[:Category:Nuvola icons|Nuvola]]  για το [[KDE]] 3.x.}}
+|Source         = http://icon-king.com
+|Date           = 2004-10-15
+|Author         = [[w:David Vignoni|David Vignoni]] / ICON KING
+|Permission     = http://www.icon-king.com/projects/nuvola/ {{LGPL}}
+|other_versions = [[File:Nuvola devices ksim cpu.png|90px]] [[File:Nuvola apps package settings.png|90px]] [[File:Nuvola apps hwinfo.png|90px]]
+}}
+
+{{Convert to SVG|icon}}
+{{LGPL}}
+
+
+[[Category:Computer board icons]]
+[[Category:Integrated circuit icons]]
+[[Category:Nuvola PNG icons]]

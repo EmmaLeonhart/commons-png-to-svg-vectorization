@@ -1,0 +1,22 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Nippon ryakushi, “A Brief History of Japan”. The Goddess Amaterasu Omikami's younger brother, Susanoo no Mikoto, was banished from Takamagahara. The artwork shows Susanoo no Mikoto slays the 8 – headed serpent Yamata-no-Orochi upstream of the river at Hirokawa in Izumo Province. Published by Izawa Genjiro, 1887. Designed in the same format as the set Dai Nippon shiyaku zue, 1879. An extremely rare triptych. Very fine impression and colour. Signed Taiso Yoshitoshi ga.}}
+{{ja|1=『日本略史　素戔嗚尊』　作者：月岡芳年。明治20年作（1887）。アマテラスオオミカミの弟、スサノオノミコトが高天原から追放されて出雲国、簸の川の上流でヤマタノオロチを退治する場面。}}
+|date=1887
+|source= Artmatome.com http://artmatome.com/『日本略史%E3%80%80素戔嗚尊』%E3%80%80月岡芳年/
+|author= {{Creator:Yoshitoshi}}
+|permission= {{PD-Japan}}
+
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-Art|PD-old-100}}
+
+[[Category:Susano o no mikoto]]
+[[Category:Yamata no Orochi]]
+[[Category:Izumo Province]]
+[[Category:Tsukioka Yoshitoshi]]
+[[Category:1887 prints]]
+[[Category:Prints of Japanese dragons]]
+[[Category:Kushinadahime]]

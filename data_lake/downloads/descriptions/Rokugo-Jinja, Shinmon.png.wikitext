@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ja|1=六郷神社 神門}}{{en|1=Shinmon (Main gate) of Rokugo-Jinja}}
+|date=2015-06-01
+|source={{own}}
+|author=[[User:Editor in cheap|Editor in cheap]]
+|permission=
+|other versions=
+}}
+{{Location dec|35.543507|139.712948}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Rokugo-jinja]]

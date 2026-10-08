@@ -1,0 +1,10 @@
+{{Convert to SVG|symbol}}
+Floating torii at [[Itsukushima Shrine]] on [[Miyajima Island]], Japan. Modification of photograph taken by Michael Reeve, 23 March 2004.
+
+Modification of [[:Image:Miyajima-torii.jpg]], for the purpose of {{tl|Japan-stub}}
+
+{{Self|GFDL|Cc-by-sa-3.0-migrated}}
+
+[[Category:Torii icons]]
+[[Category:Itsukushima-jinja torii]]
+[[Category:Media missing infobox template]]

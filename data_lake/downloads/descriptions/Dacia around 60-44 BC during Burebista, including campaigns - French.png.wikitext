@@ -1,0 +1,38 @@
+== {{int:filedesc}} ==
+{{Information
+|description=
+  {{bg|Карта на походите на Буребиста. Дакийски градове и крепости в Дакия по времето на Буребиста.}}
+  {{cs|Dácie za vlády krále Burebista, 60 - 44 př. n. l.}}
+  {{en|{{link|Dacian Kingdom}} around 60-44 BC during the time of {{link|Burebista}} (r. 82-44 BC), including the {{link|Dacian king}}'s military campaigns}}
+  {{es|Dacia en la época del rey Berebistas (60-44&nbsp;a.&nbsp;C.), incluyendo sus campañas militares.}}
+  {{fr|La Dacie au temps de Burebiste de 60 à 44 av. J.-C. - Campagne militaires dace de Burebista}}
+  {{hu|Boirebisztasz hadjáratai.}}
+  {{it|Mappa di Dacia, Mesia e dei dintorni durante le campagne di Burebista.}}
+  {{mk|Дакиското царство на Буребиста во 1 в. пр н. е.}}
+  {{ro|{{w|Dacia|Dacia|ro}} în perioada 60-44 î.Hr., în timpul regelui {{w|Burebista|Burebista|ro}} (r. 82 î.Hr. - 44 î.Hr). Include campanii militare şi triburi geto-dacice.}}
+  {{sh|Pohodi Burebiste.}}
+  {{vi|Bản đồ khu vự trong các chiến dịch của Burebista.}}
+|date={{ISOdate|2008-01-26}} (creation date)<br /> {{ISOdate|2008-10-10}} (derivation date)
+|source={{Derived from|Dacia around 60-44 BC during Burebista, including campaigns - Italian.png}}
+|author=[[User:Cristiano64]] (original author) <br /> [[User:Coldeel]] (derivative author)
+|permission=
+|other_versions=
+{{DerivativeVersions|Dacia around 60-44 BC during Burebista, including campaigns - Czech.png}}
+All versions:
+  <gallery>
+   File:Dacia around 60-44 BC during Burebista, including campaigns - Czech.png|Czech version
+   File:Dacia around 60-44 BC during Burebista, including campaigns - Italian.png|Italian version
+  </gallery>
+}}
+
+{{RetouchedPicture|Translation to French language|editor=Coldeel|orig=Dacia around 60-44 BC during Burebista, including campaigns - Italian.png}}
+
+== {{int:license-header}} ==
+{{GFDL-self|author=I, [[User:Cristiano64|Cristiano64]]|migration=relicense}}
+
+[[Category:Maps of Dacia under Burebista]]
+[[Category:Costoboci]]
+[[Category:Anartes]]
+[[Category:Triballi]]
+[[Category:Moesi]]
+[[Category:French-language maps]]

@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Important cultural property "Toyotomi Hideyoshi portrait" (part of artwork). Acclaimed in the 3rd year of Keicho (1598), Kōdai-ji Temple, Kyoto.}}
+{{ja|1=重要文化財《豊臣秀吉像》（部分）。慶長3年（1598）賛　京都・高台寺蔵。}}
+|date={{other date|~|1598}}
+|source=Osaka City Museum of Fine Arts (大阪市立美術館) - https://ocmfa.official.ec/blog/2021/04/08/175618
+|author= Kanō Mitsunobu (狩野 光信, 1565–1608)
+|permission=
+|other versions={{Image extracted|1=Toyotomi Hideyoshi c1598 Kodai-ji Temple (cropped).png}}
+}}
+
+=={{int:license-header}}==
+{{PD-Art|PD-old-100}}
+
+[[Category:Toyotomi Hideyoshi (inscription by Nanka Genkō, Kōdai-ji)]]

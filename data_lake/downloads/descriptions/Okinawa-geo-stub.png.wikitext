@@ -1,0 +1,15 @@
+{{vector version available|Flag map of Okinawa Prefecture.svg}}
+{{Information
+|Description=Flag/map image for use in stub templates.
+|Source=From [[:Image:Shadow picture of Okinawa prefecture.png]] and [[:Image:Flag of Okinawa, Japan.svg]], both of them public domain.
+|Date=2008-07-11
+|Author=[[:wikipedia:User:Kzaral|Kzaral]]
+|Permission={{PD-self}}
+|other versions=
+}}
+
+[[Category:Maps of Okinawa prefecture]]
+
+[[Category:Subdivisions of Japan stub icons|Okinawa]]
+[[Category:Flag maps of prefectures of Japan|Okinawa]]
+[[Category:Prefectural flag of Okinawa prefecture|Okinawa]]

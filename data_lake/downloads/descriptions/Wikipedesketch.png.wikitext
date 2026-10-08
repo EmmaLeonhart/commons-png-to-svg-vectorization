@@ -1,0 +1,13 @@
+== {{int:filedesc}} ==
+A "wikipede" (think Wikipedian + centipede), a mascot of sorts for Wikipedia (''see [[:en:Wikipedia:Mascot]]'')
+
+*from [[:en:Image:Wikipedesketch1.png|en:wiki]]
+*self made by [[:en:User:Stevertigo|Stevertigo]]
+*the drink in his hand is a [[:en:Mate (beverage)|mate]], a South American tea <!--loosely defined-->with a particular culture of sharing. The position of the [[:en:Bombilla#Insertion of the bomba / bombilla|bombilla]] indicates he is offering it to the next person.
+
+== {{int:license-header}} ==
+{{GFDL-user-en-no-disclaimers|Stevertigo|migration=relicense}}
+
+[[Category:Centipedes in art]]
+[[Category:Wikipede]]
+[[Category:Media missing infobox template]]

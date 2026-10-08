@@ -1,0 +1,21 @@
+{{Convert to SVG|ethnographic map}}
+{{Allow Overwriting}}
+=={{int:filedesc}}==
+{{Information
+|Description    =
+{{en|1=Map of Scottish highland clans and lowland families.}}
+{{fr|1=Carte des clans des ''highlands'' et des familles des ''lowlands'' écossais.}}
+|Source         =Originally based on the "Clan Map of Scotland" from The Scottish Clans & Their Tartans, W. & A.K. Johnston, 1939.  Also used [http://www.scottishradiance.com/clanmapf.htm a map from ScottishRadiance].
+|Author         = [[user:Gsl|Gsl]]
+|Date           =
+|Permission     =
+|other_versions = Blank version of this map is at [[:Image:Scottish clan map blank.png]]
+}}
+
+=={{int:license-header}}==
+{{PD-user|Gsl}}
+
+[[Category:Maps of Scotland]]
+[[Category:Clans of Scotland]]
+[[Category:Maps of ethnic groups in Europe]]
+[[Category:W. & A. K. Johnston]]

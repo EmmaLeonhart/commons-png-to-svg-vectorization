@@ -1,0 +1,15 @@
+== {{int:filedesc}} ==
+{{Information
+|description={{ja|1=福岡城曲輪分界図。}}
+|date=2013-10-03 16:30:41
+|source={{own}}
+|author=[[User:Hiroshi Nishida|Hiroshi Nishida]]
+|permission=
+|other_versions=
+|other_fields=
+}}
+
+== {{int:license-header}} ==
+{{self|cc-by-sa-3.0}}
+[[Category:Plans of Fukuoka Castle]]
+[[Category:Japanese-language maps of Japan]]

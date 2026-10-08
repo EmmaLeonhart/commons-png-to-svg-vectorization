@@ -1,0 +1,23 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|Coat of arms of the municipality of [[:en:Esch-sur-Alzette|Esch-sur-Alzette]], Luxembourg}}
+{{fr|Armoiries de la ville luxembourgeoise d'[[:fr:Esch-sur-Alzette|Esch-sur-Alzette]]}}
+|Source=*Heraldic description: Armorial Communal du Grand Duché de Luxembourg
+*Images: heraldic project French Wikipedia
+*Putting it all together by me
+|Date=2006-09-19
+|Author=[[User:Spanish Inquisition|Spanish Inquisition]]
+|other versions={{VVA|Coat of arms esch alzette luxbrg v2.svg}}
+}}
+
+== {{int:license-header}} ==
+{{insignia}}
+{{self|GFDL|Cc-by-sa-3.0-migrated|Cc-by-sa-2.5,2.0,1.0}}
+
+{{DEFAULTSORT:Esch-sur-Alzette}}
+[[Category:1 tower in heraldry]]
+[[Category:2 escutcheons]]
+[[Category:Coats of arms of municipalities of Luxembourg]]
+[[Category:Symbols of Esch-sur-Alzette| ]]
+[[Category:Wavy heraldic divisions]]
+[[Category:Barry of 10 argent and azure]]

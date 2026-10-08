@@ -1,0 +1,22 @@
+== {{int:filedesc}} ==
+This image was copied from wikipedia:de. The original description was:
+
+{{Information
+|Description= 
+     {{de|Landhemisphäre, Landhalbkugel}}
+     {{en|Land hemisphere}}
+|Source = {{own}}
+|Date= 2003-05-09
+|Author= {{Creator:Stefan Kühn}}
+|Permission= {{Cc-zero}} {{self2|GFDL|cc-by-sa-2.5,2.0,1.0|migration=relicense}}
+}}
+
+{{Atelier graphique carte}}
+
+== {{int:license-header}} ==
+{{GFDL|migration=relicense}}
+
+
+[[Category:Maps of Earth's land and water hemispheres|03]]
+[[Category:Land Hemisphere|03]]
+[[Category:Photographs by User:Stefan Kühn]]

@@ -1,0 +1,21 @@
+{{Protected file}}{{portal usage|all}}
+
+== {{int:filedesc}} ==
+{{Information
+|description = The Wikinews logo without text. This is a cropped version of [[:Image:Wikinews-logo-en.png]].
+
+Note that the Wikinews project itself is at [[Wikinews:Main Page]].
+|source      = This is a cropped version of [[:Image:Wikinews-logo-en.png]].
+|date        = {{Date|2006|08}} April 2007
+|author      = by [[User:David Vasquez|David Vasquez]]
+|permission  =
+|other versions ={{supersededSVG|Wikinews-logo.svg}}
+|other fields = 
+}}
+
+== {{int:license-header}} ==
+{{cc-by-sa-3.0}}
+{{Wikimedia trademark}}
+{{CopyrightByWikimedia}}
+
+[[Category:Wikinews logos]]

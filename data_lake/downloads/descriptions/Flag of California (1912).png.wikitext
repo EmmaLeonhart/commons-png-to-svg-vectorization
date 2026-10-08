@@ -1,0 +1,31 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Flag of California (1912).  	
+California State parade flag, printed on cotton. The bear in this example is executed with a copperplate engraving. The words “California Republic and the star appear to be block-printed, and the red bar achieved by either block or roller-printed. Absent is the familiar green grass seen on modern examples. In its place is a barren surface, within which is a small rectangular window, just behind the back-most foot, which includes the signature of either the maker or the engraver: “D&M Co.” Though I have yet to identify this mark, the flag is signed by a the former owner along the hoist end, above the red bar, in the following manner: “N.S.G.W.; Stockton, Calif., Sept. 7,8,9 1912; Swell Time.” Inscribed with a dip pen, this notation is significant because it makes this the earliest California flag I have ever had the opportunity to acquire.
+
+N.S.G.W. is the acronym for Native Sons of the Golden West, a fraternal organization founded in San Francisco in 1875. This is a charitable group committed to the history of California, with a specific focus on the Gold Rush and the preservation of historic events and sites. Richard Nixon was a former president of the organization, which is still active today.
+
+Early state flags fall between very scarce and extraordinarily rare in the antiques marketplace. One primary reason for this is that most states, even if they existed during the 18th or 19th century, didn’t actually adopt flags until the early 20th century. The Maryland State Legislature, for example, didn’t find need for a state banner until 1904, in spite of the fact that Maryland was one of the original 13 colonies. Other states had crests or symbols that were tied to the state legislature in some way, or to local patriotism, but didn't accept an official design until many years following statehood.
+
+The bear flag did not become the official California state flag until it was adopted by the California State Legislature and signed into law by Governor Hiram Johnson in 1911. States were regularly participating in World’s Fair events by this time—popular between the late 19th and mid 20th centuries—and were probably compelled to create state banners because other states were doing so. Fair committees were no doubt requesting that states submit the official designs for their seal and flag, and anyone not doing so would be left out of displays where all were shown, etc.
+
+In the case of California, the "Bear Flag," as all California state flags and variations thereof are often called, is based on a significant early example. The eldest of these is thought to date to the 1846 “Bear Flag Revolt,” which occurred when Major John Fremont arrived in the state on a so-called mission to reach the Pacific and encouraged an uprising against Mexican rule in the territory. Fremont claimed himself military governor of the California Republic and was brought up on charges of treason for his actions, but was pardoned by President James Polk. Polk was an expansionist and Fremont’s actions brought California to statehood in 1850, immediately following the 1849 Gold Rush.
+
+  The original Bear Flag was designed and made by William L. Todd, a first cousin to Abraham Lincoln’s wife, Mary Todd. Painted on cotton, it had a white field with a red stripe along the bottom, just the like modern design. The star image was taken from what was known as the “California Lone Star Flag”, flown during California's previous, 1836 revolt. Like the modern California flag, the red star appeared the upper hoist-end corner, but the bear was placed next to the star. On a later version, designed by a man named Peter Storm in 1870, the bear was fierce and walking. On the modern design it is black and brown, centered on the field, prominently huge, and walking.
+
+The bear on the first bear flag and other early bear flags more closely resembles the more common American black bear than a grizzly, seen in the lack of shoulder hump and narrower muzzle. The bear on Storm’s 1870 version closely resembles the coat of arms of Bern, Switzerland, its capital city. The coat of arms displays a black bear walking toward the left with fierce claws and a protruding tongue. It is of interest to note that Switzerland was the home country of John Sutter, who established Sutter's Fort, in the area which would spawn the California Gold Rush and eventually become Sacramento, California's state capital.
+
+On Todd’s 1846 flag, the words “California Republic” were likewise in black, but the letters spanned the width of the star and bear images and were placed immediately below them. Today they are underneath the large bear, just above the red bar. Unfortunately, Todd’s flag was destroyed in the fires following the 1906 San Francisco earthquake, but an image of it survives in a photograph, taken in 1890.
+}}
+|date=1912-09
+|source=https://jeffbridgman.com/inventory/index.php?page=out&id=3711
+|author={{unknown|author}}
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-US expired}}
+{{Convert to SVG|flag}}
+
+[[Category:Flag of California (1911–1953)]]

@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ja|1=宇佐八幡宮}}
+|date=1928
+|source=『氏神と八幡の正体』岸一太 (明道会, 1928)
+|author=岸一太
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+
+{{PD-Japan-oldphoto}}
+
+[[Category:Jōgū, Usa Shrine]]

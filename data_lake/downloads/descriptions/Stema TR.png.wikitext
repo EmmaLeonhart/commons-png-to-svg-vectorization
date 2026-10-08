@@ -1,0 +1,27 @@
+== {{int:filedesc}} ==
+{{Information
+|Description=
+  {{en|Coat of arms of [[:en:Wallachia|Wallachia]]}}
+|Source={{transferred from|ro.wikipedia}}
+|Date={{Original upload date|2008-08-08}}
+|Author={{user at project|Dan Rascanu|wikipedia|ro}}
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{PD-user-ro|Dan Rascanu}}
+{{Coat of Arms}}
+{{Insignia}}
+
+== {{Original upload log}} ==
+{{transferred from|ro.wikipedia|Codrinb|CommonsHelper}}
+{{original description|ro.wikipedia|Stema_TR.png}}
+* 2008-08-08 17:19 [[:ro:User:Dan Rascanu|Dan Rascanu]] 272×343× (61420 bytes) ''<nowiki>{{Informaţii |Descriere= |Sursa= |Data=8.08.2008 |Autor=Dan Rascanu |Permisiune= |alte_versiuni= }} </nowiki>''
+{{DEFAULTSORT:Wallachia}}
+[[Category:Coats of arms of Wallachia with the Wallachian Bird]]
+[[Category:Wallachian Bird, Or]]
+[[Category:Azure an eagle or]]
+[[Category:1 crescent or in heraldry]]
+[[Category:Sun without face in heraldry]]
+[[Category:Crosses or]]

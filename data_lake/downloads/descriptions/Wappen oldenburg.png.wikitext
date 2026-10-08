@@ -1,0 +1,10 @@
+== {{int:filedesc}} ==
+Das Wappen der Stadt [[Oldenburg (Oldenburg)]] von der offiziellen Website der Stadt.
+
+{{vector version available|oldenburg_coat_of_arms.svg}}
+
+== {{int:license-header}} ==
+{{PD-Coa-Germany}}
+
+[[Category:Coats of arms of Oldenburg (Oldenburg)|Oldenburg]]
+[[Category:Media missing infobox template]]

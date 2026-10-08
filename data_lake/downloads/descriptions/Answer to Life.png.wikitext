@@ -1,0 +1,29 @@
+== {{int:filedesc}} ==
+
+{{Information
+|Description=
+{{en|'''42''', [[w:The Answer to the Ultimate Question of Life, the Universe, and Everything|The Answer to the Ultimate Question of Life]] according to [[w:The Hitchhiker's Guide to the Galaxy|The Hitchhiker's Guide to the Galaxy]].}}
+{{ru|'''42''', [[:ru:Ответ на главный вопрос жизни, вселенной и всего такого|Ответ на главный вопрос жизни]] в произведении [[:ru:Автостопом по галактике|Автостопом по галактике]].}}
+{{de|'''[[w:de:42 (Antwort)|42]]''', die Antwort auf die große Frage nach dem Leben, dem Universum und dem ganzen Rest, bezogen auf [[W:de:Per Anhalter durch die Galaxis|Per Anhalter durch die Galaxis]] von [[W:de:Douglas Adams|Douglas Adams]].}}
+{{it|'''42''', [[w:it:La risposta alla domanda fondamentale sulla vita, l'universo e tutto quanto| La risposta  Fondamentale alla Domanda sulla Vita]] secondo la [[w:it:Guida galattica per gli autostoppisti (romanzo)|Guida galattica per gli autostoppisti]].}}
+{{nl|'''42''', [[w:nl:Het antwoord op de ultieme vraag over het Leven, het Universum, en Alles|Het antwoord op de ultieme vraag over het Leven, het Universum, en Alles]] volgens [[w:nl:Het transgalactisch liftershandboek|het transgalactisch liftershandboek]].}}
+|Source=[[:en:Image:Answer to Life.png]]
+|Date={{original upload date|2005|03|29}}
+|Author=Originally uploaded by [[:en:User:Martinultima]]
+|Permission=
+|other_versions=
+}}
+{{Vva|File:Answer to Life 42.svg}}
+
+== {{int:license-header}} ==
+{{GFDL-en|migration=relicense}}
+
+==File upload history on en.wikipedia==
+ 20:22, 5 December 2005 . . AnonMoos (Talk) . . 346x221 (53641 bytes) (Better PNG compression)
+ 03:40, 6 November 2005 . . JW1805 (Talk) . . 346x221 (99408 bytes) (crop out extra white space)
+ 03:02, 29 March 2005 . . Martinultima (Talk) . . 346x374 (54736 bytes) (The Answer to Life, the Universe, and Everything according to The Hitchhiker's Guide to the Galaxy. <nowiki>{{gfdl}}</nowiki>)
+
+[[Category:42 (answer)]]
+[[Category:42 icons]]
+[[Category:Blue number 42]]
+[[category:transparent background]]

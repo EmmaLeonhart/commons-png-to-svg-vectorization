@@ -1,0 +1,10 @@
+Chinese Character (Kanji) of Gi, Used on Japanese place and person's name. eg Gion ([[:ja:祇園]]).
+U+7947 祇
+Created by [[User:Tamago915|Tamago915]] 01:34, 10 December 2005 (UTC).
+
+{{PD-text}}
+{{SupersededSVG|Chinese character gi of gion.svg}}
+
+[[Category:祇]]
+[[Category:Media missing infobox template]]
+[[Category:Chinese characters obsoleted by SVG replacement]]

@@ -1,0 +1,22 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Yokohama Sumo Wrestler Defeating a Foreigner. Ukiyo-e (Woodblock print).}}
+{{ja|「横浜誉勝屓附」図（1861年）。開国当時の攘夷の気分が絵画にも現れている。攘夷論の風刺図（開港直後の横浜で行われた相撲の模様を描いている）。}}
+|date=1861-02
+|source=https://www.metmuseum.org/art/collection/search/73544
+|author=Ippōsai Yoshifuji (Japanese, 1828–1887) (一鵬斎芳藤)
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-Art|PD-old-100}}
+
+[[Category:Yokohama-e by Utagawa Yoshifuji]]
+[[Category:Sumō-e]]
+[[Category:Sonnō jōi]]
+[[Category:The end of Edo shogunate]]
+[[Category:1861 in Yokohama]]
+[[Category:Emperor Kōmei]]
+[[Category:1861 paintings in Japan]]
+[[Category:Sumo in art]]

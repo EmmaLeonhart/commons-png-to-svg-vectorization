@@ -1,0 +1,19 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Harr Nishaan (Symbol of Ravidassia Religion) in Hindi.
+Made background transparent including inside.}}
+|date=2012-02-14
+|source={{Derived from |HarrNishaan.jpg|display=50}}
+|author=*[[:File:HarrNishaan.jpg| File:HarrNishaan.jpg]]: [[User: Superiorfaither | Superiorfaither]]
+*derivative work: [[User:Phoenix7777| Phoenix7777]] ([[User talk: Phoenix7777|<span class="signature-talk">talk</span>]])
+
+|permission=
+|other_versions=http://en.wikipedia.org/wiki/File:HarrNishaan2.png
+|other_fields=
+}}
+
+=={{int:license-header}}==
+{{cc-by-sa-3.0}}
+
+[[Category:Ravidasi]]
+[[Category:Symbols of religion]]

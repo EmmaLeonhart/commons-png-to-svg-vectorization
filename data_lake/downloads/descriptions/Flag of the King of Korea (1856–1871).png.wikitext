@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Flag of {{w|Joseon}} (1856&ndash;1871).}}
+|date=1856
+|source=[https://www.crwflags.com/fotw/flags/kr_hist.html#1856 http://www.crwflags.com/]
+|author=Jaume Ollé (note that Jaume Ollé has released all his images on FOTW under a GFDL license: https://commons.wikimedia.org/w/index.php?title=User:ALE%21/Flags&oldid=593659 )
+|permission=
+|other versions= {{Convert to SVG|flag}}
+}}
+
+=={{int:license-header}}==
+{{PD-old-100-1923}}
+[[Category:Flags of Joseon Dynasty]]
+[[Category:1856 works in Korea]]
+[[Category:Royal Standards of Korea]]

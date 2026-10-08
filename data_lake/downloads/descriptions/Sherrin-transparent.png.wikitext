@@ -1,0 +1,12 @@
+{{Convert to SVG|icon}}
+{{Information
+|Description=Sherrin [[:en:Australian Football League|AFL]] football (moved from en:)
+|Source=[[User:Moondyne]].  Own photograph Photoshopped to remove background
+|Date=2005-08-26
+|Author= [[User:Moondyne|Moondyne]]
+}}
+
+=={{int:license-header}}==
+{{PD-self}}
+
+[[Category:Sherrin Australian rules footballs]]

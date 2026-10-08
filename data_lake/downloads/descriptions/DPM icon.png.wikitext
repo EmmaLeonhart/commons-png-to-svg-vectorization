@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Icon for the {{w|Detroit People Mover}}}}
+|date=2015-07-28
+|source={{own}}
+|author=[[User:Secondarywaltz|Secondarywaltz]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-zero}}
+{{PD-shape}}
+
+[[Category:Detroit People Mover]]
+[[Category:Rapid transit icons of the United States of America]]

@@ -1,0 +1,18 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Screenshot of the "Cite web" dialogue from the RefToolbar, with the "Ref name" input highlighted.}}
+|date=2013-06-19 12:44:05
+|source=English Wikipedia
+|author=MediaWiki
+|permission=
+|other_versions=
+|other_fields=
+}}
+{{Derived from|Cite web.png}}
+
+
+=={{int:license-header}}==
+{{cc-by-sa-3.0}}
+{{free screenshot}}
+
+[[Category:RefToolbar]]

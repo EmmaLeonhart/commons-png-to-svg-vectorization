@@ -1,0 +1,15 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|1=Stylized Macedonian coat of arms from 1620.}}
+{{mk|1=Стилизиран македонски грб од 1620.}}
+|Source={{own}}
+|Author=[[User:MacedonianBoy|MacedonianBoy]]
+|Date=
+|Permission=
+|other_versions=
+}}
+
+
+[[Category:Historical national coats of arms of North Macedonia]]
+== {{int:license-header}} ==
+{{self|cc-by-sa-3.0|GFDL}}

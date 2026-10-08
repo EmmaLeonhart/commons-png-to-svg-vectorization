@@ -1,0 +1,13 @@
+== {{int:filedesc}} ==
+{{Information
+|Description=Transilvanian Seal, as shown in an austrian heraldry album from 1550
+|Source=The image was published in Dogaru, Maria — «Din Heraldica României. Album», Ed. Jif, Braşov, 1994.<br>
+The image was scanned by me, '''[[User:Alex:D|Alex:D]]'''.
+|Date=
+|Author= 
+}}
+{{PD-Art}}
+
+[[Category:Din Heraldica României]]
+[[Category:Coats of arms of Transylvania|1550]]
+[[Category:Seals of Hungary]]

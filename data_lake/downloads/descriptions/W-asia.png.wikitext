@@ -1,0 +1,16 @@
+== {{int:filedesc}} ==
+{{Information
+|Description=map of western asia
+|Source={{Own}}
+|Date=1-3-2008
+|Author=[[S19991002]]
+|Permission={{PD-self}}
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{PD-self}}
+
+
+[[Category:Maps of West Asia]]
+[[Category:Locator maps of Asia (gray scheme)]]

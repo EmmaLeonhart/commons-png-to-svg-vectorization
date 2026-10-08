@@ -1,0 +1,14 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Failed mention notification screenshot (August 2016)}}
+|date=2016-08-10
+|source={{own}}
+|author=[[User:Leszek Manicki (WMDE)|Leszek Manicki (WMDE)]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Echo (Notifications) extension]]

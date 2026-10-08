@@ -1,0 +1,20 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Regimentary flag of the Royal Moroccan Air Force}}
+|date=2011-11-24
+|source={{own}}, derived from:<br/> [[File:Moroccan Air Force.png|20px]] by [[:en:User:Aminovich|Aminovich]]<br/> and:<br/> [[File:Flag of the Royal Moroccan Navy.svg|20px]] by [[user:Flad]]
+|author=[[User:Omar-Toons|Omar-Toons]]
+|permission=
+|other_versions= 
+<gallery>
+File:Roundel of Morocco.svg | Roundel of Morocco
+</gallery>
+|other_fields=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-3.0}}
+
+[[Category:Military flags of Morocco]]
+[[Category:PNG flags of Morocco]]
+[[Category:Air force flags]]

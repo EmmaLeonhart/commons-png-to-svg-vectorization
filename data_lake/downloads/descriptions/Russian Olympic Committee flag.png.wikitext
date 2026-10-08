@@ -1,0 +1,16 @@
+<!--This file was moved here using FileImporter from https://ru.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Russian_Olympic_Committee_flag.png-->
+== {{int:filedesc}} ==
+{{Information
+| Description       = {{ru|Флаг Олимпийского комитета России, использовавшийся на Олимпийских играх 2020 и 2022 годов}}<br/>{{en|Russian Olympic Committee flag used in 2020 and 2022, for the Olympics}}
+| Source       = https://olympics.com/ioc/russian-federation
+| Date = 
+| Author          = [[:ru:Олимпийский комитет России]] <br/> [[:en:Russian Olympic Commitee]]
+| other versions = {{vva|Russian Olympic Committee competing flag}}
+}}
+
+== {{int:license-header}} ==
+{{PD-textlogo}}
+{{tm}}
+
+[[Category:PNG flags of Russia]]
+[[Category:Russian Olympic Committee flags]]

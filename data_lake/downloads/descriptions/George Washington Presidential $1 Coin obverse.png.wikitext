@@ -1,0 +1,22 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|[[:en:Presidential $1 Coin Program|Presidential $1 Coin Program]] coin for [[:en:George Washington|George Washington]].  Obverse.}}
+|Source=[https://web.archive.org/web/20090216104825/http://usmint.gov/pressroom/index.cfm?flash=no&action=Photo US Mint Pressroom Image Library].
+|Date=2007-03-24
+|Author=[[:en:United States Mint|United States Mint]]
+|Permission=Public Domain
+|other_versions=
+}}
+
+== {{original upload log}} ==
+All names refer to English Wikipedia
+*  (Delete all revisions of this file) (cur) 19:40, 18 March 2007 . . Timrem (Talk | contribs | block) . . 2000×2000 (2,421,124 bytes) (Reverted to earlier revision)
+* (del) (rev) 19:24, 18 March 2007 . . Timrem (Talk | contribs | block) . . 2000×2000 (2,417,746 bytes) (transparent background)
+* (del) (rev) 21:05, 7 February 2007 . . ACupOfCoffee (Talk | contribs | block) . . 2000×2000 (2,421,124 bytes) (optimized for web)
+* (del) (rev) 04:22, 6 February 2007 . . Aido2002 (Talk | contribs | block) . . 2000×2000 (7,029,777 bytes) (2007 $1 Washington coin. From [http://www.usmint.gov/pressroom/index.cfm?flash=no&action=photo#Pres here] {{Wayback|url=http://www.usmint.gov/pressroom/index.cfm?flash=no&action=photo#Pres |date=20060420161518 }}. All works of the US gov't. are in the public domain, and this is no exception. <nowiki>{{money-US}}</nowiki>)
+
+== {{int:license-header}} ==
+{{PD-USGov-money}}
+{{currency}}
+
+[[Category:Presidential dollar (George Washington)]]

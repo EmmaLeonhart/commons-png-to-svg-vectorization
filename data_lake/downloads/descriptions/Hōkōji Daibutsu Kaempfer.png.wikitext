@@ -1,0 +1,16 @@
+== {{int:filedesc}} ==
+{{Information
+|Description    ={{en|1=Sketch of Hōkōji Daibutsu by Kaempfer (Kyoto, Japan). It once existed in Kyoto and boasted the highest height in Japan.}}
+{{ja|かつて京都に存在し、日本一の高さを誇っていた方広寺大仏（京の大仏）のスケッチ。<ref> ベアトリス・M・ボダルト=ベイリー『ケンペルと徳川綱吉 ドイツ人医師と将軍との交流』中央公論社 1994年 p.95</ref> 方広寺大仏は洛陽大仏・洛東大仏とも称されていた。}}
+|Source         =British Library Sloane 3060 f.544
+|Author         ={{Creator:Engelbert Kaempfer}}
+|Date           ={{other date|before|1716}}
+|Permission     =
+|other_versions =
+}}
+
+== {{int:license-header}} ==
+{{PD-old-100}}
+
+[[Category:Hokoji Daibutsu]]
+[[Category:Engelbert Kaempfer]]

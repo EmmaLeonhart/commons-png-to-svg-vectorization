@@ -1,0 +1,22 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Posthumous portrait of Saigō Takamori (1828-1877) in uniform by Tokonami Masayoshi. 1887 painting on canvas (181 cm by 103.5 cm). Tokonami was a member of the Satsuma domain and he knew Saigo as an acquaintance. It is said that the face of Saigo drawn by Tokonami is very similar to Saigo's real face.}}
+{{de|Posthumes Portrait von Saigō Takamori (1828-1877) in Uniform von Tokonami Masayoshi. 1887 Gemälde auf Leinwand (181 cm x 103,5 cm). Tokonami war ein Mitglied der Satsuma-Domäne und kannte Saigo als Bekannten. Es wird gesagt, dass das von Tokonami gezeichnete Gesicht von Saigo Saigos echtem Gesicht sehr ähnlich ist.}}
+{{es|Retrato póstumo de Saigō Takamori (1828-1877) en uniforme por Tokonami Masayoshi. 1887 pintura sobre lienzo (181 cm por 103,5 cm). Tokonami era miembro del dominio Satsuma y conocía a Saigo como un conocido. Se dice que el rostro de Saigo dibujado por Tokonami es muy similar al rostro real de Saigo.}}
+{{fr|Portrait posthume de Saigō Takamori (1828-1877) en uniforme par Tokonami Masayoshi. 1887 peinture sur toile (181 cm sur 103,5 cm). Tokonami était membre du domaine Satsuma et il connaissait Saigo comme une connaissance. On dit que le visage de Saigo dessiné par Tokonami est très similaire au vrai visage de Saigo.}}
+{{it|Ritratto postumo di Saigō Takamori (1828-1877) in uniforme di Tokonami Masayoshi. 1887 dipinto su tela (181 cm per 103,5 cm). Tokonami era un membro del dominio Satsuma e conosceva Saigo come conoscente. Si dice che il volto di Saigo disegnato da Tokonami sia molto simile al vero volto di Saigo.}}
+{{pt|Retrato póstumo de Saigō Takamori (1828-1877) em uniforme por Tokonami Masayoshi. 1887 pintura sobre tela (181 cm por 103,5 cm). Tokonami era um membro do domínio Satsuma e conhecia Saigo como um conhecido. Diz-se que o rosto de Saigo desenhado por Tokonami é muito semelhante ao rosto real de Saigo.}}
+{{ja|1=床次正精の「西郷肖像」。油彩・キャンバス。鹿児島市立美術館収蔵。1887年（西郷隆盛死後）、西郷を個人的に知っていた床次が描いたもの。181 cm × 103.5 cm。床次は薩摩藩士族で西郷とは面識があり、床次の描く西郷の顔は実物によく似ていると言われている。}}
+|date=1887
+|source=Twitter - https://twitter.com/darbyz80/status/1074900737279156224 / Collection of Kagoshima City Museum of Art (鹿児島市立美術館蔵)
+|author=Tokonami Masayoshi (床次正精), 1842–1897
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-Art|PD-old-100}}
+
+[[Category:Saigo Takamori in art]]
+[[Category:Tokonami Masayoshi]]
+[[Category:Historic depictions of samurai]]

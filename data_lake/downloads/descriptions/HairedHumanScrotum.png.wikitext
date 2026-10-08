@@ -1,0 +1,14 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|1=Haired human scrotum}}
+|Source={{own}}
+|Author=[[User:JamesFranelli|JamesFranelli]]
+|Date=2009-06-27
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{self|cc-by-sa-3.0|GFDL}}
+
+[[Category:Photographs of scrotum and testicles]]

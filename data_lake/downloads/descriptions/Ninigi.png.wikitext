@@ -1,0 +1,26 @@
+{{Information
+|Description=
+{{en|Ninigi-no-Mikoto, grandson of the sun goddess Amaterasu by Toyohara Chikanobu}}
+{{ja|ニニギ、瓊瓊杵尊（ににぎのみこと）は日本神話の神。}}
+{{pl|Ninigi, wnuk bogini słońca Amaterasu autorstwa Toyohara Chikanobu}}
+|Source=*[[:File:Meiji-tenno_among_kami_and_emperors.JPG|Meiji-tenno_among_kami_and_emperors.JPG]]
+|Date=2010-08-19 18:59 (UTC)
+|Author=*[[:File:Meiji-tenno_among_kami_and_emperors.JPG|Meiji-tenno_among_kami_and_emperors.JPG]]: Toyohara Chikanobu (1838-1912)
+*derivative work: [[User:Vigilium|Vigilium]] ([[User talk:Vigilium|<span class="signature-talk">talk</span>]])
+|Permission=
+|other_versions=
+}}
+
+{{PD-Art|PD-old}}
+
+== {{Original upload log}} ==
+This image is a derivative work of the following images:
+
+*[[:File:Meiji-tenno_among_kami_and_emperors.JPG]] licensed with PD-Art, PD-old
+**2008-11-14T22:42:57Z [[User:Taichi|Taichi]] 1000x491 (165675 Bytes) ''<nowiki>{{Information |Description={{en|1=Engrave of Toyohara Chikanobu (1838 - 1912), of 1878. In the center the [[Emperor Meiji]] and his wife, sorrounded by various kami and ancestors.}} {{es|1=Grabado de Toyahara Chikanobu (1838 </nowiki>''
+
+{{Uploaded with derivativeFX}}
+
+[[Category:Mythology of Japan]]
+[[Category:Toyohara Chikanobu]]
+[[Category:Ninigi-no-Mikoto]]

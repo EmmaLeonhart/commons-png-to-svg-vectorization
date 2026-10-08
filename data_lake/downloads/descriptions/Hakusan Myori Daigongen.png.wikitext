@@ -1,0 +1,18 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ja|1=白山妙理大権現<br>
+元亨ニ曰伊弉諾ノ尊也<br>
+養老元年泰澄法師登白山持誦専注也<br>
+忽ニ九頭ノ龍出ヅ是方便見躰也ト<br>
+時ニ十一面観自在菩薩現ジ玉フ}}
+|date=1783
+|source=http://www.lib.ehime-u.ac.jp/SUZUKA/316/index.html
+|author=Hidenobu Tosa, 土佐秀信
+|permission=
+|other_versions=
+}}
+
+=={{int:license-header}}==
+{{PD-Art|PD-old-100}}
+
+[[Category:Buddhist deities of Japan]]

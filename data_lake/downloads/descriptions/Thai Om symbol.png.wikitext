@@ -1,0 +1,14 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Thai Om symbol}}
+|date=2020-10-29
+|source={{own}}
+|author=[[User:Amshpatten|Amshpatten]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Om (Thai)]]

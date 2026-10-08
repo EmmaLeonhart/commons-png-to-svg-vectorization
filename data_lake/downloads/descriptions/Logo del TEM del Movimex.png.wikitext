@@ -1,0 +1,17 @@
+=={{int:filedesc}}==
+{{Information
+|description={{es|1=Ícono del sistema de Tren Eléctrico Mexiquense (TEM)}}
+|date=Octubre de 2025
+|source={{own}}
+|author=
+* Secretaría de Movilidad del Estado de México (original)
+* [[User:Alejocat19|Alejocat19]] (representation)
+|permission=
+|other versions={{vector version available|Logo TEM Movimex.svg}}
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-4.0}}
+{{PD-Coa-Mexico}}
+
+[[Category:Movimex]]

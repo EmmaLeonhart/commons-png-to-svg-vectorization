@@ -1,0 +1,14 @@
+=={{int:filedesc}}==
+{{Information
+|description={{fr|1=Une toque de chef}}
+|date=2015-03-23
+|source={{own}}
+|author=[[User:Omondi|Omondi]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Chef's hat|01]]

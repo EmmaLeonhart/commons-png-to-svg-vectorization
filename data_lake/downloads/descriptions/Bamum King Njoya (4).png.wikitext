@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=The name of King Ibrahim Njoya in the Bamum Script that he created}}
+|date=2017-07-02
+|source={{own}}
+|author=[[User:Khu'hamgaba Kitap|Khu'hamgaba Kitap]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Bamum text]]
+[[Category:Ibrahim Njoya]]

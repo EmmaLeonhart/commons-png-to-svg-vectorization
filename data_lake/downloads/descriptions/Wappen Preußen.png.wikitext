@@ -1,0 +1,15 @@
+{{Convert to SVG|coat of arms}}
+{{Information
+|other_versions={{DerivativeVersions|Wappen Preußen 2.png}}
+|Description=
+{{pl|1=Herb Prus z monogramem: Fridericus Rex (Król Fryderyk)}}
+{{de|Ursprüngliches Wappen des Königreichs Preußen und der späteren Provinz Ostpreußen.}}
+|Source= Custom Creation according to blazon of the coats of arms.
+|Date= 2010-03-23
+|Author= [[User:David Liuzzo|David Liuzzo]]
+|Permission=Since the arms are historic (i.e. not longer used by the authorities), and to the fact that this depiction my individual interpretation of the blazon the following Licenses apply: {{attribution|User:David Liuzzo|David Liuzzo}}
+}}
+
+[[Category:Coats of arms of the Holy Roman Empire]]
+[[Category:Coats of arms of the Kingdom of Prussia]]
+[[Category:Coats of arms of East Prussia province]]

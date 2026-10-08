@@ -1,0 +1,12 @@
+== {{int:filedesc}} ==
+{{Information
+|Description = Family tree of shinto kami from Izanagi and Izanami to Emperor Jimmu  天皇家系図 神代
+|Source = selfmade by MS-Paint
+|Date = 2005-02-16
+|Author = [[User:Nnh|nnh]]
+|Permission = GFDL or cc-by-2.5
+|other_versions =}}
+== {{int:license-header}} ==
+{{Self|GFDL|Cc-by-sa-3.0-migrated|Cc-by-2.5}}
+
+[[Category:Family trees of the Japanese imperial dynasty]]

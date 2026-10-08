@@ -1,0 +1,18 @@
+{{vva|Botón Me gusta.svg}}
+
+== {{int:filedesc}} ==
+{{Information
+|Description    ={{en|1=The thumb graphic from the Facebook "like" button.}}
+{{es|1=Icono del botón de "Me gusta" de Facebook.}}
+{{it|1=Icona raffigurante il pulsante "mi piace" di Facebook.}}
+|Source         =[[:File:Botón Me gusta.svg]]
+|Author         =[[User:Enoc vt|Enoc vt]]
+|Date           =
+|Permission     ={{PD-shape}}{{TM}}
+|Other versions =
+<gallery>
+File:Facebook-like-button.png
+</gallery>
+}}
+
+[[Category:Facebook Like button]]

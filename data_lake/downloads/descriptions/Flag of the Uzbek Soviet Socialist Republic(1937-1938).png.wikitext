@@ -1,0 +1,12 @@
+== {{int:filedesc}} ==
+{{Uploaded with en.wp UW marker|year=2020|month=11|day=05}}
+{{Information
+|Description = {{en|This is a recreation of the flag of the Uzbek SSR, used from 1937 to 1938.}}
+|Source = I created this on paint.net, using the description in the Wikipedia page.
+|Date = 2020-11-05
+|Author = [[User:Whaales|Whaales]]
+}}
+
+
+{{self|cc-by-4.0}}
+[[Category:Flags of the Uzbek Soviet Socialist Republic]]

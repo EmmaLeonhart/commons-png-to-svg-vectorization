@@ -1,0 +1,18 @@
+== {{int:filedesc}} ==
+{{Information
+|Description=
+* {{en|4-eyed knots of the family crest}} <br/>
+* {{ja|家紋の四つ目結}}
+|Source=http://ja.wikipedia.org/wiki/%E7%94%BB%E5%83%8F:Kamon_yotumeyui.png
+|Date=2005-2-17 (木) 15:46 
+|Author=[[:ja:利用者:俊|俊 (Shun Toshi)]]
+|Permission=
+|other_versions=
+}}
+{{Vva|File:Japanese crest Yotumeyui.svg}}
+
+== {{int:license-header}} ==
+{{PD-user|俊}}
+
+[[Category:Meyui mon (Japanese crests)]]
+[[Category:Kyōgoku clan]]

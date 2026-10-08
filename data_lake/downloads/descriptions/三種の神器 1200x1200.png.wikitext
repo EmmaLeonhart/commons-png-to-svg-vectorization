@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description=
+* {{en|1=These are three types of ritual vessels that have been handed down in the Japanese imperial family since ancient times. This is a depiction, as the actual items are not revealed to the public.}}
+* {{ja|歴代天皇に伝わる三種の神器／想像図であり、実物は非公開。}}
+|date=1995-12-10
+|source={{own}}
+|author=[[User:菊竹若狭|菊竹若狭 (Kikutake Wakasa)]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Three sacred treasures of Japan]]

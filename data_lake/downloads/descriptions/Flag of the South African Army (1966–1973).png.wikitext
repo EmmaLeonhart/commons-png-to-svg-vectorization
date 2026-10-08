@@ -1,0 +1,20 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Flag of the South African Army (1966-1973)}}
+|date=1966
+|source=http://www.crwflags.com/fotw/flags/za-army.html#51
+|author=South African Army
+|permission={{PD-US-no notice}}{{Old South African flag}}
+|other versions=
+|other fields=
+}}
+{{svg|flag}}
+
+=={{int:license-header}}==
+{{PD-South-Africa-exempt|type=flags}}
+
+[[Category:Army flags of South Africa]]
+[[Category:Flags with the national flag of South Africa (1928–1994) in the canton]]
+[[Category:PNG flags of South Africa]]
+[[Category:Red ensigns of South Africa]]
+[[Category:Blue, green, orange, red, white, yellow flags]]

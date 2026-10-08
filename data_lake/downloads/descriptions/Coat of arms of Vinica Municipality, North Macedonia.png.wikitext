@@ -1,0 +1,17 @@
+== {{int:filedesc}} ==
+{{Information
+|Description    ={{en|1=Coat of arms of Vinica Municipality, Macedonia.}}
+{{mk|1=Грб на Општина Виница, Македонија.}}
+|Source         =[http://67.23.251.196/~opstinav/index.php?option=com_content&view=article&id=34&Itemid=59&lang=mk Vinica Municipality], public domain, no rights reserved. 
+|Author         =Vinica Municipality
+|Date           =
+|Permission     =
+|other_versions =
+}}
+{{SVG available|Coat of arms of Vinica Municipality, Macedonia.svg}}
+== {{int:license-header}} ==
+{{Cc-by-sa-2.5-mk}}
+
+[[Category:Vinica, North Macedonia]]
+[[Category:Vinica Municipality]]
+[[Category:Coats of arms of municipalities of North Macedonia]]

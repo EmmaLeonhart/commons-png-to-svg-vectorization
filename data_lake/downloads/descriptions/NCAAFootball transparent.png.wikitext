@@ -1,0 +1,17 @@
+{{Information
+|Description=Ball used in [[College football]]
+|Source=cropped, reduced version of [[:Image:NCAAFootball.jpg]]
+|Date=none
+|Author=[[:en:User:CJC47|C. John Chavis]]
+|Permission={{GFDL-user-en-with-disclaimers|CJC47|migration=relicense}}
+|other_versions=<gallery>
+Image:NCAAFootball.jpg|original
+</gallery>
+}}
+
+==Citation information for original image==
+*  (del) (cur) 20:21, 21 July 2006 . . BigDT (Talk | contribs) . . 1128×1048 (799,540 bytes) (brightened version)
+* (del) (rev) 19:31, 21 July 2006 . . BigDT (Talk | contribs) . . 1104×1020 (766,650 bytes) (Cropped image to try and make it a bit lighter)
+* (del) (rev) 18:54, 21 July 2006 . . CJC47 (Talk | contribs) . . 1600×1200 (714,002 bytes) (Author: C. John Chavis)
+
+[[Category:Wilson American footballs]]

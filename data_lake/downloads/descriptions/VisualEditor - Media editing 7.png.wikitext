@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=a screenshot of the alternative text box in VE's media dialog}}
+|date=2014-02-24 17:02:25
+|source=MediaWiki software
+|author=MediaWiki developers
+|permission=
+|other_versions=
+|other_fields=
+}}
+
+=={{int:license-header}}==
+{{cc-by-sa-3.0}}
+
+[[Category:Wikimedia screenshots]]
+[[Category:VisualEditor]]

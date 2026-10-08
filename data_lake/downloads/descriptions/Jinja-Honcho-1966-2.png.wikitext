@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ja|1=上杉一枝。神道政治連盟初代会長。}}
+|date={{other date|?}}
+|source=『神社本庁二十年史』[[:ja:神社本庁|神社本庁]]、1966年5月20日。
+|author=神社本庁
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-Japan-organization}}
+
+[[Category:Black and white portrait photographs of men of Japan]]
+[[Category:Kannushi]]

@@ -1,0 +1,19 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|1=Swastika - solar symbol}}
+{{pl|1=Swastyka - symbol solarny}}
+|Source={{own}}
+|Author=Ratomir Wilkowski, www.rodzimowierca.prv.pl
+|Date=2010-01
+|Permission=
+|other_versions=
+}}
+
+
+== {{int:license-header}} ==
+{{PD-ineligible}}
+
+{{Nazi symbol}}
+<!-- german law prohibits also symbols that can be confused with nazi symbols, they do not have to be used by the nazis-->
+
+[[Category:Swastika geometry]]

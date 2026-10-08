@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Screenshot of the gallery in [[:mw:Help:Sample page]] with the Gallery dialog link visible.  (Prior versions from en.wikipedia article "Apple")}}
+|date=2014-03-12 12:47:59
+|source=MediaWiki software
+|author=MediaWiki Developers, flagstaff.au, user:Rasbak, user:Marcin Floryan
+|permission=
+|other_versions=
+}}
+
+=={{int:license-header}}==
+{{cc-by-sa-3.0}}
+
+[[Category:VisualEditor]]
+[[Category:Wikimedia screenshots]]

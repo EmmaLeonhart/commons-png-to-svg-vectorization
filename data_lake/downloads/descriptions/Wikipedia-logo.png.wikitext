@@ -1,0 +1,18 @@
+== {{int:filedesc}} ==
+
+{{Information
+|Description = Wikipedia logo, square, no text 
+|Source      = based on the first version of the Wikipedia logo, by Nohat.
+|Date        = 
+|Author      = version 1 by [[:m:User:Nohat|Nohat]] (concept by [[:m:User:Paullusmagnus|Paullusmagnus]]);
+|Permission  = {{GFDL|migration=redundant}}
+{{cc-by-sa-3.0}}
+{{Wikimedia trademark}}
+|other_versions = 
+}}
+
+{{Protected file}}
+{{notice|1=This image is used on the portal page at [http://www.wikipedia.org www.wikipedia.org].  This use does ''not'' show up in the "File usage" sections below.}}
+{{Vector version available|Wikipedia-logo-v2.svg}}
+
+[[Category:Wikipedia logos (2010)]]

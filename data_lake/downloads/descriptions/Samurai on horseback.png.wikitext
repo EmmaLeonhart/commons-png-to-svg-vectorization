@@ -1,0 +1,17 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|1=Samurai on horseback, wearing armor and horned helmet, carrying bow and arrows}}
+|Source=Library of Congress[http://hdl.loc.gov/loc.pnp/jpd.01046]
+|Author={{unknown|Author}}
+|Date={{other date|~|1878}}
+|Permission=
+|other_versions=
+}}
+
+
+
+== {{int:license-header}} ==
+{{PD-Japan}}
+[[Category:Historic depictions of kyudo on horses]]
+[[Category:Historic samurai prints]]
+[[Category:Horned helmets]]

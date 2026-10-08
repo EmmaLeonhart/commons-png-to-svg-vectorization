@@ -1,0 +1,23 @@
+{{Information
+|Description=三神器, Artist's impression of the [[Imperial Regalia of Japan]]
+|Source=*[[:File:三神器.jpg|三神器.jpg]]
+|Date=2010-06-20 08:58 (UTC)
+|Author=*[[:File:三神器.jpg|三神器.jpg]]: Unclemc
+*derivative work: [[User:PawełMM|PawełMM]] ([[User talk:PawełMM|<span class="signature-talk">talk</span>]])
+|Permission=
+|other_versions={{Extracted from|三神器.png}}
+}}
+
+{{RetouchedPicture|jpg to png, background clear|editor=PawełMM|orig=三神器.jpg}}
+
+{{self|PD-self}}
+
+== {{original upload log}} ==
+This image is a derivative work of the following images:
+
+*[[:File:三神器.jpg]] licensed with PD-self
+**2007-08-16T20:43:05Z [[User:Unclemc|Unclemc]] 361x458 (22079 Bytes) ''<nowiki>{{Information |Description=三神器 |Source=自己 |Date=2007/08/17 |Author=Unclemc |Permission= |other_versions=No }} </nowiki>''
+
+{{Uploaded with derivativeFX}}
+
+[[Category:Yata-no-Kagami]]

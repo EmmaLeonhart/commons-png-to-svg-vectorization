@@ -1,0 +1,23 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|glacial retreat in [[:en:Jōmon period|Jomon period]]
+[[:en:Kantō region|Kanto region]] in Jomon period
+from Ryushichi Touki(1926), “Old coastline around Low Kanto judged by topography and midden (i), (ii), (iii)” . ''Geographical criticism'', 2 . p. 597-607, p. 659-678, p. 746-773.}}
+{{ja|1=縄文海進
+縄文時代の関東平野　
+東木龍七 (1926) 地形と貝塚分布より見たる関東低地の旧海岸線 (一) (二) (三). 地理学評論, 2, p. 597-607, p. 659-678, p. 746-773.内の図から}}
+|date=2014-12-06
+|source=http://ci.nii.ac.jp/els/110009479813.pdf?id=ART0009947013&type=pdf&lang=jp&host=cinii&order_no=&ppv_type=0&lang_sw=&no=1417850167&cp=
+|author=東木龍七(Touki Ryushichi) 1892-1943
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-old-70}}
+{{PD-1996}}
+
+[[Category:Shell midden sites]]
+[[Category:Old maps of Tokyo Bay]]
+[[Category:Maps of the history of Japan]]
+[[Category:Transgression flandrienne]]

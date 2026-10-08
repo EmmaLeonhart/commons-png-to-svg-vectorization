@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Screenshot of the "convert" button in Visual Editor}}
+|date=2022-11-12
+|source={{own}}
+|author=[[User:Mvolz|Mvolz]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{free screenshot|license=CC-BY-SA 4.0}}
+
+[[Category:Citoid]]
+[[Category:Wikipedia citing sources]]
+[[Category:MediaWiki screenshots in en]]

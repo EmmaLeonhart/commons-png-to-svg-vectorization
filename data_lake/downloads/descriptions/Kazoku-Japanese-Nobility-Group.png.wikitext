@@ -1,0 +1,22 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Kazoku, Japanese nobility, group photo. These are some prominent members of the social class.}}
+{{ja|1=華族、日本の貴族、集合写真。
+立つ左から：鹿島晃久伯爵、藤麿夫人喜代子、山階芳麿侯爵、芳麿夫人寿賀子。
+筑波藤麿侯爵、細川護立侯爵、細川夫人博子、浅野長武侯爵、浅野夫人安子。
+座る左から：近衛文麿公爵、葛城茂麿伯爵、山階宮常子妃、茂麿夫人敏子、近衛夫人千代子。
+}}
+|date=Circa before 1930
+|source= Easthall.blog.jp http://easthall.blog.jp/archives/16127435.html
+|author={{unknown|author}}
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-Art|PD-old-70}}
+
+[[Category:Kazoku]]
+[[Category:Nobility of Japan]]
+[[Category:Fumimaro Konoe]]
+[[Category:Yamashina Yoshimaro]]

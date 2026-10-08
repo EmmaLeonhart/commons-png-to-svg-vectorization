@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=[https://web.archive.org/web/20190602173212/https://www.navyhistory.org/2015/08/legati-ad-defendendam-libertatem-uss-john-warner-commissioned/ Naval jack of the United States from October 1975 to December 1976]; this differs from the September 2002 to June 2019 version in that the snake [https://web.archive.org/web/20221003060510/https://www.navyhistory.org/wp-content/uploads/2015/08/DSC_9062.jpg doesn't have red spots].}}
+|date=[https://web.archive.org/web/20190602173212/https://www.navyhistory.org/2015/08/legati-ad-defendendam-libertatem-uss-john-warner-commissioned/ {{Date|1975|10|13}}]
+|source=https://web.archive.org/web/20190602173212/http://www.ederflag.com/media/k2/galleries/188/us-first-navy-jack-flag.jpg
+|author=U.S. Navy
+|permission=
+|other versions=
+}}
+{{Convert to SVG|flag}}
+
+=={{int:license-header}}==
+{{PD-US-no notice}}{{PD-USN}}
+
+[[Category:First Navy Jack]]
+[[Category:PNG flags of the United States]]

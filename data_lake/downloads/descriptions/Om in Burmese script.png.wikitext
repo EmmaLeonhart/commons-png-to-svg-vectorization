@@ -1,0 +1,16 @@
+{{Convert to SVG|text}}
+
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Om in Burmese script}}
+|date=2020-10-15
+|source={{own}}
+|author=[[User:Amshpatten|Amshpatten]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Om (Burmese)]]

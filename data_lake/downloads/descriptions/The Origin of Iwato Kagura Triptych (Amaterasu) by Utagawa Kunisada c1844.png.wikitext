@@ -1,0 +1,41 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Iwato Kagura no Kiaki (?) (translation: The Origin of Iwato Kagura). Made by Utagawa Kunisada (Utagawa Toyokuni III), Takanoya edition. Large triptych. Each page is about 37 x 25.5 cm. Average printing, good preservation, top and bottom scratches repaired with supplementary paper. Around the first year of Kouka (around 1844).}}
+{{ja|1=岩戸神楽乃起顕。国貞改豊国画（豊国三代画）、高野屋版。大判三枚続。各紙面３７×２５・５センチ位。刷り並　保存良　上下スレ補修補紙有り。弘化元年頃（１８４４年頃）。}}
+|date={{other date|~|1844}}
+|source=https://ukiyoe.yamabosi.jp/?p=44974 (see also: https://lapis.nichibun.ac.jp/zai/Detail?gid=G1309439 )
+|author= {{Creator:Utagawa Kunisada}} (Utagawa Toyokuni III)
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-Art|PD-old-70}}
+
+[[Category:Amaterasu Ōmikami]]
+[[Category:Utagawa Kunisada]]
+[[Category:Ame-no-Uzume-no-Mikoto]]
+[[Category:Triptychs in Japan]]
+[[Category:Sarutahiko Ōkami in art]]
+[[Category:Ama no Iwato]]
+{{ImageNote|id=1|x=362|y=697|w=26|h=26|dimx=2634|dimy=1266|style=2}}
+Sarutahiko
+{{ImageNoteEnd|id=1}}
+{{ImageNote|id=2|x=1093|y=579|w=26|h=26|dimx=2634|dimy=1266|style=2}}
+Uzume
+{{ImageNoteEnd|id=2}}
+{{ImageNote|id=3|x=1561|y=891|w=26|h=26|dimx=2634|dimy=1266|style=2}}
+Koyane
+{{ImageNoteEnd|id=3}}
+{{ImageNote|id=4|x=1643|y=575|w=26|h=26|dimx=2634|dimy=1266|style=2}}
+Futodama
+{{ImageNoteEnd|id=4}}
+{{ImageNote|id=5|x=1995|y=615|w=26|h=26|dimx=2634|dimy=1266|style=2}}
+Tajikarao
+{{ImageNoteEnd|id=5}}
+{{ImageNote|id=6|x=1841|y=529|w=26|h=26|dimx=2634|dimy=1266|style=2}}
+Amaterasu
+{{ImageNoteEnd|id=6}}
+{{ImageNote|id=7|x=230|y=763|w=26|h=26|dimx=2634|dimy=1266|style=2}}
+Omoikane
+{{ImageNoteEnd|id=7}}

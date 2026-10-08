@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Okumura Masanobu - Taking the Evening Cool by Ryōgoku Bridge}}
+|date=1745
+|source=[http://classconnection.s3.amazonaws.com/8/flashcards/3243008/png/taking_the_evening_cool_by_ryogoku_bridge-13E811AEBCD3D101F8B.png]
+|author=[[Okumura Masanobu]]
+|permission=
+|other_versions=
+|other_fields=
+}}
+
+=={{int:license-header}}==
+{{PD-US}}
+
+[[Category:Uki-e by Okumura Masanobu]]
+[[Category:Ryōgoku Bridge in ukiyo-e]]

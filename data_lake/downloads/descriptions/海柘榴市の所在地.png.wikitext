@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ja|1=海柘榴市ならびに飛鳥時代の主要施設の位置関係。地図は地理院タイル（[https://maps.gsi.go.jp/development/ichiran.html 地理院タイル一覧 - 国土地理院]）をベースに投稿者が作成。古代の道については『桜井市史』の記述を参照。}}
+|date=2023-08-02
+|source={{own}}
+|author=[[User:あずきごはん|あずきごはん]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Maps of Japan in the Asuka period]]
+[[Category:Fujiwara-kyō]]

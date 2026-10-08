@@ -1,0 +1,22 @@
+== {{int:filedesc}} ==
+{{Information
+|description=「鶴の丸」紋（染抜）
+|source= {{own}}
+|date= 2012-06-27
+|author= File created on Adobe Illustrator and Photoshop.
+|permission=
+|other_versions= <gallery>
+File:Tsuru no Maru inverted B.png|Style B
+File:Tsuru no Maru inverted C.png|Style C
+</gallery>
+}}
+
+== {{int:license-header}} ==
+{{PD-self}}
+
+{{vva|Japanese crest Tsuru no Maru.svg}}
+
+[[Category:Tsuru-maru mon (Japanese crests of crane)]]
+[[Category:Yakusha mon (Japanese crests of Kabuki actors)]]
+[[Category:Kuge mon (Japanese crests of court nobles)]]
+[[Category:Karasumaru family]]

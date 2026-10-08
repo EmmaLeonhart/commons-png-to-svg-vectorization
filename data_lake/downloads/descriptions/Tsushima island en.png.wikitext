@@ -1,0 +1,12 @@
+{{Information
+|other_versions={{DerivativeVersions|Tsushima island de.png}}
+|Description={{en|Location of Tsushima island}}
+|Source=[http://www.demis.nl/wms/mapclip.htm here]
+|Date=
+|Author=LERK
+|Permission={{PD-Demis}}
+}}
+[[Category:English-language maps]]
+[[Category:Locator maps of Japanese islands]]
+[[Category:Figures of Tsushima Island]]
+[[Category:Maps of Tsushima, Nagasaki]]

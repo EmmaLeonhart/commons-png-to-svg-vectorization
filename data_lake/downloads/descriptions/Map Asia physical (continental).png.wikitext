@@ -1,0 +1,14 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Map Asia physical (continental)}}
+|date=2023-02-04
+|source={{extracted from|File:World map geographical (drab).png}}
+|author=naturalearthdata.com, offered to the Public Domain [http://www.naturalearthdata.com/about/terms-of-use/ per Terms of Use]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{cc-by-sa-4.0}}
+
+[[Category:Topographic maps of Asia]]

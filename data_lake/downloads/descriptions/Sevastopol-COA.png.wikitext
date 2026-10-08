@@ -1,0 +1,20 @@
+== {{int:filedesc}} ==
+{{Information
+|Description= {{en|Official Coat of Arms of [[:en:Sevastopol|Sevastopol]].}}
+{{ru|Официальный герб [[:ru:Севастополь|Севастополя]].}}
+{{uk|Офіційний герб [[:uk:Севастополь|Севастополя]].}}
+|Source= http://sev.gov.ua/cityinfo/simvolika_goroda/
+|Date= Сreated in 1969. This variant was officially approved at 2000-04-21
+|Author= С. Шахунов и Н. Крылова (S. Shakhunov and N. Krylova)
+|Permission=
+|other_versions=
+}}
+{{Vva|COA of Sevastopol.svg}}
+
+== {{int:license-header}} ==
+
+{{PD-UA-exempt|type=coats of arms}}
+
+[[Category:Coats of arms of Sevastopol]]
+[[Category:Monument to Sunken Ships, Sevastopol]]
+[[Category:Honorary title «Hero City»]]

@@ -1,0 +1,18 @@
+{{Protected file}}
+{{vva|Broom icon.svg}}
+
+{{Information
+|description= {{en|40px "style" icon for use in [[:en:Template:Imbox]] and dependent templates}}
+|date= Original art 2005-10-01, SVG version created 22 July 2006
+|source= Transferred from [http://en.wikipedia.org en.wikipedia]; transferred to Commons by [[User:Firilacroco]] using [http://tools.wikimedia.de/~magnus/commonshelper.php CommonsHelper].<br/>
+(Original text : ''Derived from [[:en:Image:Broom icon.svg]], a vector version of a [http://www.kde-look.org/content/show.php?content=29699 KDE raster image]'')
+|author= [http://kde-look.org/usermanager/search.php?username=gg3po gg3po (Tony Tony)], SVG version by [[w:en:User:Booyabazooka|User:Booyabazooka]]. Original uploader was [[:en:User:David Levy|David Levy]] at [http://en.wikipedia.org en.wikipedia].
+|permission= {{GPL}}
+|other_fields=
+}}
+
+== {{original upload log}} ==
+{{original description page|en.wikipedia|Imbox_style.png}}
+* 2008-05-10 04:35 [[:en:User:David Levy|David Levy]] 40&times;40&times;8 (2900 bytes) ''<nowiki>{{pp-template}}  {{Information |Description=40px "style" icon for use in [[Template:Imbox]] and dependent templates |Source=Derived from [[:Image:Broom icon.svg]], a vector version of a [http://www.kde-look.org/content/show.php?content=29699 KDE raster im</nowiki>''
+
+[[Category:Broom icons]]

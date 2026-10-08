@@ -1,0 +1,20 @@
+{{Protected}}
+== {{int:filedesc}} ==
+{{Information
+|Description   = {{en|1=MediaWiki logo, consistent naming scheme with the other project logos.}} 
+|Source        = {{derived from|Tournesol.png}}
+|Date          = 2003-06-14
+|Author        = {{author
+ |original  |[[User:Anthere  |Anthere  ]]}}. {{author
+ |derivative|[[User:Eloquence|Eloquence]]}}: [[m:International logo contest/Finalists|International logo contest 2003 finalist]].
+|Permission    = {{PD-user|Anthere}}
+|other fields  = 
+|other versions= <gallery widths="100px">
+File:Mediawiki-large.png|Large PNG
+File:MediaWiki_logo_without_tagline.svg|SVG without tagline
+File:MediaWiki.svg|SVG with tagline
+File:PoweredBy_MediaWiki.svg|SVG button
+</gallery>}}
+{{Vector version available|MediaWiki-notext.svg}}
+
+[[Category:MediaWiki logos (2003-2020)]]

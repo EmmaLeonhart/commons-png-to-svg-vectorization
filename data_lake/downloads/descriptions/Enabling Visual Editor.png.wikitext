@@ -1,0 +1,14 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=How to enable the visual editor}}
+|date=2021-09-01
+|source={{own}}
+|author=[[User:Adam Harangozó (OSA WiR)|Adam Harangozó (OSA WiR)]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:VisualEditor-en]]

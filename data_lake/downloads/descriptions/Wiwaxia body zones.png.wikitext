@@ -1,0 +1,25 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|Cross-section of ''[[:en:Wiwaxia|Wiwaxia]]'' to iillustrate dorsal etc. [[:en:sclerite|sclerite]] zones. To be annotated using [[:en:Template:Annotated image|Template:Annotated image]]}}
+|Source={{own}} ({{original text|1=I created this work entirely by myself.|nobold=1}})
+|Date={{original upload date|2008-08-03}}
+|Author=[[:en:User:Philcha|Philcha]] ([[:en:User talk:Philcha|talk]])
+|Permission=
+|other_versions=
+}}
+
+{{convert to SVG|diagram}}
+
+== {{int:license-header}} ==
+{{PD-user-en|Philcha}}
+
+== {{Original upload log}} ==
+{{transferred from|en.wikipedia|Magnus Manske|CommonsHelper}} {{original description page|en.wikipedia|Wiwaxia_body_zones.png}}
+* 2008-08-04 10:40 [[:en:User:Philcha|Philcha]] 138×89× (2018 bytes) ''<nowiki>Correct position of spines</nowiki>''
+* 2008-08-04 09:03 [[:en:User:Philcha|Philcha]] 0×0× (2008 bytes) ''<nowiki>Correct spine angle</nowiki>''
+* 2008-08-03 21:43 [[:en:User:Philcha|Philcha]] 0×0× (1731 bytes) ''<nowiki>Make frontal solid</nowiki>''
+* 2008-08-03 21:40 [[:en:User:Philcha|Philcha]] 0×0× (1763 bytes) ''<nowiki>Add frontal</nowiki>''
+* 2008-08-03 21:29 [[:en:User:Philcha|Philcha]] 0×0× (1672 bytes) ''<nowiki>Make clearer</nowiki>''
+* 2008-08-03 21:05 [[:en:User:Philcha|Philcha]] 0×0× (2463 bytes) ''<nowiki>{{Information |Description=Cross-section of ''[[Wiwaxia]]'' to iillustrate dorsal etc. [[sclerite]] zones. To be annotated using [[Template:Annotated image]] |Source=I created this work entirely by myself. |Date= |Author=~~~ |other_versions= }}</nowiki>''
+
+[[Category:Wiwaxia]]

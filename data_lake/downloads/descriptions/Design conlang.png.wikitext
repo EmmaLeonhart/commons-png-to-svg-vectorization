@@ -1,0 +1,16 @@
+{{Convert to SVG|icon}}
+
+== {{int:filedesc}} ==
+Modified image under the terms of the GNU Lesser General Public License from the Nuvola icon theme for KDE 3.x
+{{N2+subject}}
+{{N2+SVG}}
+{{N2+style}}
+
+== {{int:license-header}} ==
+{{GFDL|migration=relicense}}
+
+[[Category:Design icons]]
+[[Category:Media missing infobox template]]
+[[Category:Nuvola 2.0+ icons]]
+[[Category:Set square icons]]
+[[Category:Writing icons]]

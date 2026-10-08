@@ -1,0 +1,27 @@
+{{Convert to SVG|map}}
+
+=={{int:filedesc}}==
+{{Information
+|description=
+{{ru|1=Физическая карта Калифорнии (США).}}
+{{en|1=Relief map of California, USA.}}
+|date=2012-10-14 12:54:18
+|source=
+* ETOPO1 for relief and bathymetry using GMT package
+* [[:File:USA California location map.svg]] for borders, rivers, lakes, coastline
+* {{own}} using
+{{Created with GMT}}
+{{Inkscape}}
+|author=[[User:Nzeemin|Nzeemin]]
+|permission=
+|other_versions={{Image extracted|1=Relief map of Northern California.png}}<gallery>File:USA California location map.svg</gallery>
+|other_fields=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-3.0}}
+
+[[Category:Location maps of California]]
+[[Category:Relief location maps of the United States]]
+[[Category:Topographic maps of California]]
+[[Category:Vaca Mountains]]

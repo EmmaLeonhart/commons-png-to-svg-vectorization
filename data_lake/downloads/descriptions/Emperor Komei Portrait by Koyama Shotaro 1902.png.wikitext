@@ -1,0 +1,18 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Portrait of Emperor Komei (1831-1867) by Koyama Shotaro, 1902.}}
+{{ja|孝明天皇宸影。作者:小山正太郎。時代:明治35年（1902）。}}
+|date=1902
+|source=Tokyo National Museum - https://webarchives.tnm.jp/imgsearch/show/C0066837
+|author=Koyama Shotaro (1857 - 1916)
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-Art|PD-old-auto-expired|deathyear=1916}}
+
+[[Category:Emperor Kōmei]]
+[[Category:Paintings by Koyama Shōtarō]]
+[[Category:1900s portrait paintings from Japan]]
+[[Category:1902 paintings from Japan]]

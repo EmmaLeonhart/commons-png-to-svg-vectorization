@@ -1,0 +1,37 @@
+{{Information
+|Description={{en|This 2k file is a multiple example for following ''hints'':
+# '''PNG''' is a very flexible format.
+# In case you have to display text as pixel graphics, PNG will do best.
+# Reduce number of colours to reduce filesize.
+# Furthermore use a PNG compression tool.
+# Even the humblest example can be made something special, if you want. 
+
+This elaborate ''piece of art'' may be used for tracking test edits, amongst others. Such use is however no reason to use a boring design.}}
+{{de| Dies ist eine Beispieldatei mit mehrfachem Nutzen. Sie eignet sich unter anderem als Ersatz für Ähnliches, je nach Geschmack.}}
+{{fr| Ce n'est qu'un autre exemple, crée pour être moins insipide que d'autres -- chacun à son goût.}}
+
+|Source=This image, based on a gentle creative idea and on [[:File:Exemplum JPEGis.jpg]], is as third generation derivative work from [[:File:Cartoon explaining how to orphan an image.png]] cartoon drawing, originally created by [[w:User:pfctdayelise|User:pfctdayelise]], photographed by herself using Casio QV-R41. ''Elise'' publishes her creations under CC-BY-SA, all versions, but allowed thisone to be published under PD. 
+|Date=preliminary work done in Februrary 2006 - finished and published 2006-03-11
+|Author=[[User:W.|Wolfgang]]
+|Permission={{PD-self}}
+|other_versions=*[[:File:Cartoon explaining how to orphan an image.png]] The mother file, by [[user:pfctdayelise]]
+*[[:File:Foo.jpg]] Derivate from above quoted file.
+*[[:File:Exemplum JPEGis.jpg]] Artwork by ''The.Perfect.Beginner,'' derivate from ''Foo.jpg.'' Also an example of typical JPEGitis. 2006. 
+
+'''More ...'''
+*[[:Image:Example.jpg]] Artwork by [[user:Bdk]], first uploaded 21:22, 25 July 2005 (UTC)
+*[[:Image:Example.svg]] Artwork by users [[User:Nethac DIU|Nethac DIU]] (original version) and [[User:Benoit Rochon|Benoit Rochon]] (updated version), 2006/2008.
+*[[:Image:Beispiel.jpg]] German version, created with "Gründlichkeit" (thoroughness). Three versions, 2005-2007. 
+*[[:Image:Ví dụ.jpg]]&nbsp;&ndash; used in Vietnamese Wikimedia projects
+*[[:Image:Example-zh.jpg]]&nbsp;&ndash; used in Chinese Wikimedia projects
+*[[:Image:Contoh.jpg]]&nbsp;&ndash; used in Malay Wikimedia projects
+|other_fields= {{User:Benoit Rochon/Autorisation}}
+}}
+
+{{ImageNote|id=1|x=351|y=217|w=8|h=8|dimx=791|dimy=600|style=2}}
+كريم عبد العليم
+{{ImageNoteEnd|id=1}}
+
+[[Category:Wikimedia Commons]]
+[[Category:W.'sTests]]
+[[Category:Example images]]

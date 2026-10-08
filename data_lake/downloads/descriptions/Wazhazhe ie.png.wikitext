@@ -1,0 +1,13 @@
+<!--This file was moved here using FileImporter from https://en.wikipedia.org/wiki/File:Wazhazhe_ie.png-->
+=={{int:filedesc}}==
+{{Information
+|Description = {{en|"Osage language" (''wazhazhe ie'') in Osage script}}
+|Source = http://www.osagetribe.com/language/index.aspx
+|Date = 22:23, 14 July 2012 (UTC)
+|Author = {{anonymous}}
+}}
+
+=={{int:license-header}}==
+{{PD-text}}
+
+[[Category:Osage text]]

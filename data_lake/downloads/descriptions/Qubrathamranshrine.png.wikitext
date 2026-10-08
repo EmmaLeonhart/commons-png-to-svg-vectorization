@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Shrine of Qubrat Hamran, 15th or 16th century.}}
+|date=1929
+|source="Among Some Unknown Tribes of South Arabia", Bertram Thomas, ''Journal of the Royal Anthropological Institute'', Volume 59 (January-June, 1929), pp. 97-111 [https://www.jstor.org/stable/2843560]
+|author=Bertram Thomas (civil servant)
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+
+{{PD-UKGov}}
+
+[[Category:Shrines]]
+[[Category:Religious buildings in Oman]]

@@ -1,0 +1,19 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=This ukiyo-e depicts the appearance of Emperor Meiji (center) worshiping "Ise Jingu" on a portable shrine on March 11, 1869 (Meiji 2).}}
+{{ja|1=本皇族浮世絵は、1869年（明治2年）3月11日に「明治天皇」（画面中央）が鳳輦に乗って「伊勢神宮」を参拝したときの様子を描写した作品です。}}
+|date=1869-03-11
+|source=https://www.touken-world-ukiyoe.jp/emperor/art0011580/
+|author=Sadahide Utagawa (1807-1873), 歌川 貞秀
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-Art|PD-old-70}}
+
+[[Category:Ise Shrine]]
+[[Category:Utagawa Sadahide]]
+[[Category:Fujiokaya Keijirō]]
+[[Category:Emperor Mutsuhito in 1869]]
+[[Category:Horen (palanquin)]]

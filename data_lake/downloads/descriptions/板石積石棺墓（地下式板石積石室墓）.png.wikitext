@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ja|1=板石積石棺墓（地下式板石積石室墓）の模式図}}
+|date=2017-08-16
+|source={{own}}
+|author=[[User:エカシ・オトンプイ|エカシ・オトンプイ]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Models of Kofun]]
+[[Category:Kofun of Kagoshima prefecture]]
+[[Category:Drawings of Kofun]]

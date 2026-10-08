@@ -1,0 +1,15 @@
+{{Convert to SVG|flag map}}
+{{Information
+|Description=Flag/map image for use in stub templates.
+|Source=From [[:Image:Shadow picture of Wakayama prefecture.png]] and [[:Image:Flag of Wakayama.svg]], both of them public domain.
+|Date=2008-07-11
+|Author=[[:wikipedia:User:Kzaral|Kzaral]]
+|Permission={{PD-self}}
+|other versions=
+}}
+
+{{DEFAULTSORT:Wakayama}}
+[[Category:Maps of Wakayama prefecture]]
+[[Category:Subdivisions of Japan stub icons]]
+[[Category:Flag maps of prefectures of Japan]]
+[[Category:Prefectural symbols of Wakayama prefecture]]

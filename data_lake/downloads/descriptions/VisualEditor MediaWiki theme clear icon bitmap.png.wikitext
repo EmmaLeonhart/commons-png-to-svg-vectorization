@@ -1,0 +1,14 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=VisualEditor MediaWiki theme clear icon bitmap}}
+|date=2014-11-17
+|source=MediaWiki VisualEditor source repository
+|author=SVG created MediaWiki VisualEditor developers; Converted to PNG by [[User:Amire80]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{MIT}}
+
+[[Category:VisualEditor]]

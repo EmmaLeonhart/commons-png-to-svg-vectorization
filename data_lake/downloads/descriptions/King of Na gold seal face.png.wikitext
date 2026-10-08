@@ -1,0 +1,18 @@
+=={{int:filedesc}}==
+{{Information
+|description=
+{{en|1=Seal face of the [[:w:King of Na gold seal|King of Na gold seal]]. Inscribed with ''King of Na, Vassal of Han [Dynasty]'' in mirrored Chinese characters ({{lang|zh-hant|漢委奴國王}}).}}
+{{zh|1=漢封倭奴國王金印—印面刻“{{lang|zh-hant|漢委奴國王}}”}}
+
+|date=[[Han Dynasty|Eastern Han]]<br>{{Original upload date|2005-06-30}}
+|source=Adapted from [[:File:Weinuguowangyin.jpg|Weinuguowangyin.jpg]]
+|author=Original uploader: [[:zh:User:金翅大鹏鸟|User:金翅大鹏鸟]]
+|other_versions='''[[:File:King of Na gold seal imprint.svg|King of Na gold seal imprint.svg]]''' {{see also cat|King of Na gold seal}}
+}}
+
+=={{int:license-header}}==
+Original license: {{t|PD-Art}}
+{{PD-Art|1=PD-old-auto-1923|country=China|date=Han Dynasty}}
+
+[[Category:King of Na gold seal]]
+[[Category:Seal faces]]

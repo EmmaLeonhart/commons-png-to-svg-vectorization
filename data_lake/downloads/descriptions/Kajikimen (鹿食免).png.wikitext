@@ -1,0 +1,18 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=A ''kajikimen'' (鹿食免 'permit to eat deer') issued by Suwa Shrine, held to allow the bearer to eat venison and other meat at a time when meat eating was mostly frowned upon in Japan due to Buddhist influence.}}
+|date=1850 (嘉永三庚戌年九月吉日, 9th month of [https://en.wikipedia.org/wiki/Kaei Kaei] 3)
+|source=[https://books.google.co.jp/books?id=4hBVjsO2GOgC 諏訪史 第二卷 前編] (1931)
+|author=Miyachi, Naokazu (宮地直一, 1886-1949)
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+
+{{PD-Japan}}{{PD-1996}}
+
+[[Category:Suwa Province]]
+[[Category:Suwa Taisha]]
+[[Category:History of Suwa]]
+[[Category:Ofuda]]

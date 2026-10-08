@@ -1,0 +1,26 @@
+{{vva}}
+== {{int:filedesc}} ==
+{{Information
+|Description = {{en|Diagram illustrating how groups labeled "libertarian" relate to one another.}}
+|Source = {{own}}
+|Date = 2014-05-20
+|Author = {{uap|Finx|wikipedia|en}}
+|Permission = Ineligible for copyright but, just in case, released unconditionally into public domain by author.
+}}
+
+== {{int:license-header}} ==
+{{PD-user-en|Finx}}
+
+== {{Original upload log}} ==
+{{original description|en.wikipedia|Libertarianism-groups-diagram.png}}
+{| class="wikitable filehistory"
+! {{int:filehist-datetime}} !! {{int:filehist-dimensions}} !! {{int:filehist-user}} !! {{int:filehist-comment}}
+|-
+| 2014-05-20 12:54 || 647×647× (36862 bytes) || [[:en:User:Finx|Finx]] || ''<nowiki>corrected error in grouping</nowiki>''
+|-
+| 2014-05-20 12:43 || 647×647× (37537 bytes) || [[:en:User:Finx|Finx]] || ''<nowiki>included some more terminology</nowiki>''
+|-
+| 2014-05-20 11:59 || 647×647× (31830 bytes) || [[:en:User:Finx|Finx]] || ''<nowiki>Self-authored diagram illustrating how groups labeled "libertarian" relate to one another, intended for article talk page. Ineligible for copyright but, just in case, released unconditionally into public domain by author. {{PD-self}}</nowiki>''
+|}
+
+[[Category:Charts relating to libertarianism]]

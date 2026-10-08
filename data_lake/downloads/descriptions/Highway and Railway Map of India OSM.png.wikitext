@@ -1,0 +1,19 @@
+{{Update|the map is outdated. There is ongoing conversion of all narrow-gauge and metre-gauge tracks to broad-gauge tracks in India, with completion expected in 2022. The map should be updated every year.}}
+
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Map of the National Highways, State Highways and Railways of India.}}
+|date=2012-01-18
+|source=Map Data: OSM, NASA, Natural Earth Data
+|author=Arun Ganesh, Openstreetmap Project and Contributers
+|permission=
+|other_versions=
+|other_fields=
+}}
+
+=={{int:license-header}}==
+{{cc-by-sa-3.0}}
+{{user:planemad/Info}}
+
+[[Category:Road maps of India]]
+[[Category:Rail transport maps of India]]

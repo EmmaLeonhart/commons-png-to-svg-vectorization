@@ -1,0 +1,43 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=This 1877 print (ukiyo-e) depicts the 1873 Seikanron Debates in the Meiji government's Court Council over whether to invade Korea for ignoring the diplomatic overtures of the Meiji government and "insulting" the Japanese nation. The outcome led to Saigō Takamori's resignation from the government.  (Saigō would go on to lead the 1877 Satsuma Rebellion against the Meiji government.)
+
+The leaders of opposing factions, Iwakura and Saigō, are prominently shown in the center panel with their partisans shown in the side panels. The debates were fueled by political infighting and the artist Suzuki Toshimoto (active c. 1877-1890s) captures the intensity of emotions. The following major figures in the debate are depicted in the print. 
+People in this ukiyo-e:
+
+* Saigō Takamori 西郷隆盛 - hero of the battles that brought an end to the Tokugawa shogunate in 1868, ushering in the Meiji government that made Japan into a modern nation.  Court councilor and leader of the Seikanron faction arguing to send a last diplomatic mission, led by himself, to Korea before launching an invasion.  Saigō knew the mission would fail, its failure serving as the final justification for Japan's invasion.
+
+* Etō Shinpei 江藤新平 - Minister of Justice and court councilor who sided with Saigō and resigned from his post due to a defeat in the debates.
+
+* Iwakura Tomomi 岩倉具視 - Minister of the Right who led the "Iwakura mission," a two-year journey visiting European countries and the United States to renegotiate the unequal treaties and gather information for Japan's modernization.  Instrumental in defeating Saigō's plan and preventing the invasion of Korea.
+
+* Okubo Toshimichi 大久保利通 – member of the "Iwakura mission" who sided with Iwakura against Saigō. As Home Minister he suppressed regional rebellions by the former samurai class that ended with the Satsuma Rebellion, but was assassinated by a former samurai in 1878.
+
+* Sanjo Sanetomi 三条実美  - imperial envoy. Sided with Iwakura in the debate against Saigō.  He assumed the post of dajo daijin (grand minister of state) in 1871.
+
+* Kido Takayoshi 木戸孝允 – court councilor. He became sangi (councilor) in 1870.  In 1871, he took part in the Iwakura mission as deputy envoy. He sided with Iwakura against Saigō.
+
+* Itagaki Taisuke 板垣退助  – Minister of the Interior. As a sangi (court councilor), he ran the government temporarily after the Iwakura mission was dispatched.  Siding with Saigō, he resigned in 1873 after the debates.
+
+* Kuroda Kiyotaka 黑田清隆  – statesman and army general.  Objected to Saigō's plan, claiming dispute with Russia over Sakhalin was more urgent.  Led a flotilla of six ships in 1876 in a show of gunboat diplomacy to weaken Chinese influence in Korea by recognizing Korean independence while imposing unequal treaty terms on them. Briefly served as provisional Prime Minister in 1896.}}
+{{ja|1=岩倉具視（中央左）と西郷隆盛（中央右）らによる征韓論争は岩倉派が勝利し、敗れた西郷・江藤らによる士族反乱に繋がった。年基　３枚続「西郷隆盛前功紀」征韓議論図。年基の明治６年の３枚続「西郷隆盛前功紀」征韓議論です。３５，８ｃｍX２３ｃｍ～２４，２ｃｍX３枚。}}
+|date=1877
+|source=https://aucview.aucfan.com/yahoo/b287123534/ , additional info is on [https://www.myjapanesehanga.com/home/artists/suzuki-toshimoto-active-c-1870s-1880s/the-debate-over-invading-korea-seikanron.html this website].
+|author=Suzuki Toshimoto  (active c. 1877-1890s)
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-Art|PD-old-100}}
+
+[[Category:Ukiyo-e triptychs]]
+[[Category:Seikanron]]
+[[Category:Saigo Takamori in art]]
+[[Category:Etō Shinpei in art]]
+[[Category:Iwakura Tomomi]]
+[[Category:Ōkubo Toshimichi]]
+[[Category:Kido Takayoshi]]
+[[Category:Itagaki Taisuke]]
+[[Category:Kiyotaka Kuroda]]
+[[Category:Meiji era]]

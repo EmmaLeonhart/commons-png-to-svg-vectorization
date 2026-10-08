@@ -1,0 +1,24 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Seven Gods of Good Fortune (Shichi-fukujin) playing music and dancing in a dragon-headed treasure ship (Takarabune). The seven lucky deities of Japanese mythology are Ebisu, Daikokuten, Bishamonten, Benzaiten, Fukurokuju, Hotei, and Jurōjin. They're accompanied by a heron and a turtle. An ukiyo-e woodblock-printed "ōban" triptych; ink and color on paper.}}
+{{ja|七福神と宝船、歌川豊国（1806年）。}}
+|date=1806
+|source=Harvard Art Museum - https://harvardartmuseums.org/art/209339 (three parts)
+|author=Utagawa Toyokuni I (1769-1825)
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-US-expired}}
+
+[[Category:Ukiyo-e of Ebisu]]
+[[Category:Ukiyo-e of Daikokuten]]
+[[Category:Ukiyo-e of Bishamonten]]
+[[Category:Ukiyo-e of Benzaiten]]
+[[Category:Ukiyo-e of Fukurokuju]]
+[[Category:Ukiyo-e of Hotei]]
+[[Category:Ukiyo-e of Jurōjin]]
+[[Category:Ukiyo-e of the Takarabune]]
+[[Category:Ukiyo-e triptychs]]
+[[Category:Utagawa Toyokuni]]

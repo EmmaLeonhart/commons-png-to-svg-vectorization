@@ -1,0 +1,17 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Ukiyo-e of Oda Nobunaga. From the "Kuniyoshi's Warriors" collection. Musha-e (武者絵), warrior print. Made by Utagawa Kuniyoshi.}}
+{{ja|1=織田信長の浮世絵。武者絵。歌川国芳製。}}
+|date=1830-01-02
+|source=https://risingsunprints.com/blogs/read/introducing-our-new-collection-kuniyoshis-warriors
+|author=Utagawa Kuniyoshi
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-old-70-1923}}
+{{PD-Japan}}
+
+[[Category:Ukiyo-e of Oda Nobunaga]]
+[[Category:Taiheiki eiyū-den by Utagawa Kuniyoshi|01]]

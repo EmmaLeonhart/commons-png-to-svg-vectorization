@@ -1,0 +1,18 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|[[:en:Shinran]](親鸞) (1173-1263), the teacher of [[:en:Nembutsu]], founder of the [[:en:Shin Buddhism]]}}
+|Source={{Transferred from|en.wikipedia}}
+|Date={{original upload date|2007-04-19}}
+|Author={{user at project|Kosigrim|wikipedia|en}}
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{PD-user-en|Kosigrim}}
+
+== {{original upload log}} ==
+{{original description page|en.wikipedia|ShinranShonin.jpg}}
+* 2007-04-19 15:11 [[:en:User:Kosigrim|Kosigrim]] 371×507×8 (58719 bytes) ''<nowiki>[[Shinran]](親鸞) (1173-1263), the teacher of [[Nembutsu]], founder of the [[Shin Buddhism]]</nowiki>''
+
+[[Category:Anjō no Goei]]

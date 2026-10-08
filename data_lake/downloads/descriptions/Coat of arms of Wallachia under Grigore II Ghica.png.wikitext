@@ -1,0 +1,23 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Coat of arms of Wallachia (reunited with the coat of arms of Moldavia) under Grigore II Ghica.}}
+{{ru|1=Объединённый герб Молдавии и Валахии при [[:ru:Григорий II Гика|Григорие II Гике]]}}
+|date=1734-03-12
+|source=[https://tiparituriromanesti.wordpress.com/2012/06/28/documente-din-epoca-fanariota-cu-stemele-reunite-ale-moldovei-si-tarii-romanesti/ Tiparituriromanesti]
+|author=Wallachian Chancellery
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+
+{{PD-Art|PD-old-auto|deathyear=1800}}
+{{PD-1923}}
+{{PD-RO-exempt|type=seals}}
+
+[[Category:1734 paintings]]
+[[Category:1734 works in Romania]]
+[[Category:Combined Moldavian aurochs and Wallachian Bird in arms of pretense|1734]]
+[[Category:Coats of arms of Wallachia with the Wallachian Bird|1734]]
+[[Category:Wallachian Bird, Sable]]
+[[Category:Grigore II Ghica]]

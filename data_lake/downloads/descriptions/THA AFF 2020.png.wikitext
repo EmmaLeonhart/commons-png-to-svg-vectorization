@@ -1,0 +1,19 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=White flag with a simplified version of the Thailand national team logo for small infobox use.}}
+|date=2021-12-04
+|source=Recreated from flag/symbol used to represent Thailand for the [https://www.affsuzukicup.com/2020/ 2020 AFF Suzuki Cup]. Flag intentionally simplified since a fully accurate flag would be protected by copyright. This image is only suitable for small-scale use.
+|author=Own work (image file)
+|permission=
+|other versions=
+|other fields=
+}}
+
+=={{int:license-header}}==
+{{self|cc-zero}}
+
+[[Category:Association football flags of Thailand]]
+[[Category:PNG flags of Thailand]]
+[[Category:Thailand national association football team]]
+[[Category:Heraldic shields in logos]]
+[[Category:PNG text logos with white background]]

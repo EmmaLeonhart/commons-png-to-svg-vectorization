@@ -1,0 +1,8 @@
+== {{int:filedesc}} ==
+An example picture for [[meta:Help:User style/floating quickbar]]
+
+
+== {{int:license-header}} ==
+{{User:Omegatron/License}}
+[[Category:Wikipedia screenshots]]
+[[Category:Media missing infobox template]]

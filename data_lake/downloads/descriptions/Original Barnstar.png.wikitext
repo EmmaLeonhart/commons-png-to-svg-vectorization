@@ -1,0 +1,38 @@
+=={{int:filedesc}}==
+{{Information
+|Description = {{en|1=The Wikipedia Original Barnstar}} 
+|Source      = Work by [[meta:User:SunirShah]]
+|Date        = August 10, 2005 December 19, 2004 February 17, 2004 January 31, 2004 January 30, 2004 January 30, 2004 January 10, 2004 December 30, 2003 December 19, 2003 December 19, 2003
+|Author      = [[meta:User:SunirShah]]
+|Permission  = "Image may be used elsewhere without restriction", says [[meta:User:SunirShah]], creator, on [[Meatball:BarnStar]]. 
+|other_versions=
+<gallery>
+Image:New Barnstar.png|New Barnstar
+Image:Original Barnstar Hires.png|[[:en:Wikipedia:Barnstars 2.0|Barnstar 2.0]] version
+</gallery>
+{{DerivativeVersions|Above and beyond barnstar.png|Antivandal barnstar ani.gif|Barnstar - protected areas in the Czech Republic.png|Barnstar Radioactive.png|Barnstar-roboty.png|BarnstarUni.png|Bot operator's barnstar.png|Cat Barnstar.png|Cleanup Barnstar.png|Empire State Barnstar.png|Hollywood Barnstar2.png|MetricStar2.jpg|NARA barnstar.png|Obstruction barnstar.png|Peace Barnstar 6.png|Self-Harm-Barnstar.jpg|Tennis barnstar.png|Wikipe tan no Barnstar.png|cowstar.png|pointless barnstar.png|Peachy Barnstar.png|File:Beerstar - 01.jpg}}
+}}
+
+=={{int:license-header}}==
+{{PD-user|SunirShah|meta}}
+
+== {{Original upload log}} ==
+Original image from Barnstar Subterfuge (currently not available online). 
+* 21:31, 1 May 2004 . . [[w:User:Guanaco|Guanaco]] (4056 bytes) 
+* 23:50, 19 February 2004 . . [[w:User:Brion VIBBER|Brion VIBBER]] (4174 bytes) ''(De-uglify)'' 
+* 06:34, 19 February 2004 . . [[w:User:Silsor|Silsor]] (4948 bytes) ''(deuglify)'' 
+* 00:13, 17 February 2004 . . [[w:User:Silsor|Silsor]] (13711 bytes) ''(updated barnstar image)'' Page history (the actual file history was deleted) from the original [[w:en:Image:Barnstar.gif]] which this was converted from: 
+* 01:13, August 10, 2005 . . Zscout370 
+* 00:15, December 19, 2004 . . Quadell (<nowiki>{{GFDL}}</nowiki>) 
+* 06:55, February 17, 2004 . . Silsor (obsolete) 
+* 16:04, January 31, 2004 . . MyRedDice 
+* 00:24, January 30, 2004 . . MyRedDice (See also: Media:Barn star free zone.png) 
+* 00:23, January 30, 2004 . . MyRedDice (See also: Image:Barn star free zone.png) 
+* 21:52, January 10, 2004 . . MyRedDice 
+* 18:07, December 30, 2003 . . MyRedDice (expand on) 
+* 02:01, December 19, 2003 . . MyRedDice (For now, see Meatball:BarnStar) 
+* 02:00, December 19, 2003 . . MyRedDice ("Image may be used elsewhere without restriction", says SunirShah, creator)  
+[[Category:Simple barnstars]]
+[[Category:Stars with transparent background]]
+[[Category:Language-neutral Wikimedia barnstars]]
+[[Category:Emoji and stickers from Wikimedia Community]]

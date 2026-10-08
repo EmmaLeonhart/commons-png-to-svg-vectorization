@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=The coat of arms of Grenada}}
+{{la|1=Insigne Granatae}}
+|date=2016-05-26
+|source=[[File:File:Grenadacolorcrest.jpg]]
+|author=ArthurE.Wil
+|permission=
+|other versions=
+}}
+{{superseded|Coat of arms of Grenada (shield).svg}}
+
+=={{int:license-header}}==
+{{cc-by-sa-4.0}}
+
+[[Category:National coat of arms of Grenada]]

@@ -1,0 +1,18 @@
+== {{int:filedesc}} ==
+{{Information
+|Description = {{ja|1=浅草松屋屋上から見た仲見世と付近の焼跡。}} {{en|1=Destroyed [[:en:Sensō-ji#Nakamise-dōri|Nakamise-dōri]] seen from the top of ''Asakusa Matsuya'' Department Store}}
+|Source = 早乙女勝元監修『決定版 東京空襲写真集 アメリカ軍の無差別爆撃による被害記録』、2015年、勉誠出版、{{ISBN|978-4585270195}}、p.278.
+|Date = 1945-03-19
+|Author = {{ja|1=日本写真公社・深尾晃三}} {{en|1=Fukao Kōzō}}
+|Permission = {{PD-Japan-oldphoto}}
+|other fields={{Information field|name=Notes|value=
+{{ja|1=写真は『決定版 東京空襲写真集』からのスキャン。1956年までに公表されたか否かは調べがつかなかった。撮影年が1945年なので旧著作権法の規定により著作権保護期間は満了している。詳しくは、[[:ja:著作権の保護期間#日本国における著作権の保護期間|著作権の保護期間#日本国における著作権の保護期間]]の写真の著作物の項を参照のこと。}} {{en|1=On 10 March, 1945 was Tokyo bombed by The Operation Meetinghouse 2 of the US force, which killed and injured 83,793 and 40,918 people, respectively, and destroyed 268,358 houses. These are the figures investigated by then Japanese police but do not include ten thousands missing people. At the same time the air raid produced a great deal of orphans. See [[:en:Bombing_of_Tokyo|Bombing of Tokyo]] and [[:ja:東京大空襲|東京大空襲]]. As of 2015 is the original negative film extant.}}
+}}
+}}
+
+[[Category:Bombing of Tokyo, 10 March 1945]]
+[[Category:1945 black and white photographs]]
+[[Category:Black and white photographs of Japan in the 1940s]]
+[[Category:History of Nakamise, Asakusa]]
+== {{int:license-header}} ==
+{{PD-Japan-oldphoto}}

@@ -1,0 +1,14 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Colored picture of the Hōkan Miroku}}
+|date=1942
+|source=上野直昭『上代の彫刻』（朝日新聞社、1942）
+|author=小川晴暘
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-old-auto|deathyear=1960}}
+
+[[Category:Unidentified statues]]

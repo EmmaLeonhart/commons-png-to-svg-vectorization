@@ -1,0 +1,24 @@
+== {{int:filedesc}} ==
+{{Information
+|Description=
+|Source={{Own work}}<br/>{{DF|Star of Sophia Ribbon.png}}
+|Date={{Original upload date|2007-03-03}}
+|Author={{user at project|Herostratus|wikipedia|en}}
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{GFDL-user-en-no-disclaimers|1=Herostratus|migration=relicense}}
+
+== {{Original upload log}} ==
+{{original description|en.wikipedia|Placeholder+barnstar+ribbon.png}}
+{| class="wikitable"
+! {{int:filehist-datetime}} !! {{int:filehist-dimensions}} !! {{int:filehist-user}} !! {{int:filehist-comment}}
+|-
+| 2007-03-03 04:40 || 640×227× (89402 bytes) || [[:en:User:Herostratus|Herostratus]] || ''<nowiki>Own work, based on GDFL image [[:Image:Star of Sophia Ribbon.png}}</nowiki>''
+|}
+
+[[Category:Wikipedia image placeholders]]
+[[Category:Barnstar ribbons]]
+[[Category:Ribbon bar placeholders]]

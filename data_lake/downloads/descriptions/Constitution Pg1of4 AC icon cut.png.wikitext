@@ -1,0 +1,14 @@
+{{Information
+|Description=[[United States Constitution|Constitution of the United States]]
+{{en|[[:en:United States Constitution|United States Constitution]]: Preamble and beginning of the first article}}
+{{de|Präambel und Beginn des ersten Artikels der [[:de:Verfassung der Vereinigten Staaten|Verfassung der Vereinigten Staaten]]}}
+|Source= {{en|crop of [[:Image:Constitution Pg1of4 AC.jpg]]}}
+|Date=Constitutional Convention. (05/14/1787 – 09/17/1787)
+|Author=Constitutional Convention
+|Permission=
+}}
+
+{{NARA-image|id=1667751}}
+{{PD-Art}}
+
+[[Category:We the People (text)]]

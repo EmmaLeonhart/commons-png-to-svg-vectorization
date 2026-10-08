@@ -1,0 +1,26 @@
+== {{int:filedesc}} ==
+{{information
+| description    = {{en|1=PNG transparency demonstration<br>24bit PNG with 8bit alpha layer}}
+| author         = [[User:ed g2s/Dice.pov|POV-Ray source code]]. 2005 version by [[user:Daniel G.|Daniel G.]]. 2009 version by [[user:ed_g2s|Ed g2s]]. 2022 version by [[user:Nguyễn Trí Minh Hoàng|Nguyễn Trí Minh Hoàng]].
+| source         = {{own}}: Rendered in [[POV-Ray]]. 
+| date           = {{date|2005|07|12}}, {{date|2009|04|22}}, {{date|2022|02|01}}
+| permission     = 
+| other_versions = See also: [[:Image:PNG transparency demonstration 1.png]], [[:Image:PNG transparency demonstration 3.png]]
+|other_fields   = {{Information field|name=Source code|value=[[User:ed g2s/Dice.pov|POV-Ray source code]]|Style=wiki}}
+}}
+
+== {{int:license-header}} ==
+{{self|cc-by-sa-3.0|GFDL}}
+
+{{Created with Persistence of Vision}}
+
+[[Category:PNG encoding]]
+[[Category:Semi-transparent]]
+[[Category:4 dice]]
+[[Category:Cubic dice]]
+[[Category:Blue, gray, green, red, yellow]]
+[[Category:White on blue dice]]
+[[Category:White on green dice]]
+[[Category:White on red dice]]
+[[Category:Images with Povray source code]]
+[[Category:Raytraced cubes]]

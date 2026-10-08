@@ -1,0 +1,17 @@
+{{vva|Coat of arms of Volgograd city.svg}}
+{{Information
+|Description =
+{{en|Volgograd, coat of arms}}
+{{ru|Волгоград, герб}}
+|Source = http://vector-images.com/image.php?epsid=345 
+|Date=
+|Author = vector-images.com
+|Permission = 
+|other_versions = [[Image:Coat_of_arms_of_Volgograd.png|50px]]
+}}
+
+{{vector-images|PD-RU-exempt|type=coats of arms}}
+
+
+[[Category:Coats of arms of Volgograd]]
+[[Category:Honorary title «Hero City»]]

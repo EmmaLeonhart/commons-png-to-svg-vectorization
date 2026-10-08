@@ -1,0 +1,9 @@
+5px green bar.
+
+{{PD-shape}}
+[[Category:Solid bar graph components]]
+[[Category:solid green images]]
+[[Category:Images - aspect ratio 1:2]]
+[[Category:Green rectangles]]
+[[Category:Vertical rectangles]]
+[[Category:Media missing infobox template]]

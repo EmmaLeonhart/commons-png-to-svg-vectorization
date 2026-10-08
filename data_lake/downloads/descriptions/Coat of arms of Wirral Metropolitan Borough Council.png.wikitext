@@ -1,0 +1,71 @@
+{{Information
+|Description={{en|1=The '''Coat of arms of Wirral Metropolitan Borough Council''', the local government authority for the Metropolitan Borough of Wirral, in Merseyside, England. The blazon is:<br>'''''ARMS:''' Vert issuant from the base a Trident erect pendant therefrom by the strings a Bugle Horn Or all between two Flaunches Argent on each two Bars wavy Azure.''<br>'''''CREST:''' On a Wreath of the Colours within a Crown Palisade Or upon a Red Sandstone Rock between two Sprigs of Bog Myrtle (Myrica gale Linnaeus) an Oystercatcher (Haemotopus ostralegus) rising proper.''<br>'''''SUPPORTERS:''' On the dexter side a Lion Gules gorged with a Collar dancetty of two points downward Argent and on the sinister side a Lion Argent gorged with a like Collar Gules each holding aloft in the interior forepaw a Crosier head outward Or.''}}
+|Source=*[[:File:Meuble_héraldique_Crosse.svg|Meuble_héraldique_Crosse.svg]]
+*[[:File:Britishentomologyvolume6Plate763.jpg|Britishentomologyvolume6Plate763.jpg]]
+*[[:File:Oyster_catcher_aerobics.jpg|Oyster_catcher_aerobics.jpg]]
+*[[:File:Pied_Oystercatcher.jpg|Pied_Oystercatcher.jpg]]
+*[[:File:Coat_of_Arms_of_Edward_IV_of_England_(1461-1483).svg|Coat_of_Arms_of_Edward_IV_of_England_(1461-1483).svg]]
+*[[:File:Torse_of_a_British_Gentleman.svg|Torse_of_a_British_Gentleman.svg]]
+*[[:File:Georgian_heraldry_motto.svg|Georgian_heraldry_motto.svg]]
+*[[:File:FlagOfHuntingdonshire.PNG|FlagOfHuntingdonshire.PNG]]
+|Date=2011-01-06 14:32 (UTC)
+|Author=*[[:File:Meuble_héraldique_Crosse.svg|Meuble_héraldique_Crosse.svg]]: [[user:-Strogoff-|Frédéric Michel]]
+*[[:File:Britishentomologyvolume6Plate763.jpg|Britishentomologyvolume6Plate763.jpg]]: Curtis
+*[[:File:Oyster_catcher_aerobics.jpg|Oyster_catcher_aerobics.jpg]]: [https://www.flickr.com/people/43145783@N00 John Haslam] from Dornoch, Scotland
+*[[:File:Pied_Oystercatcher.jpg|Pied_Oystercatcher.jpg]]: [[User:Glen Fergus|Glen Fergus]]
+*[[:File:Coat_of_Arms_of_Edward_IV_of_England_(1461-1483).svg|Coat_of_Arms_of_Edward_IV_of_England_(1461-1483).svg]]: [[User:Sodacan|Sodacan]]{{Inkscape}}
+*[[:File:Torse_of_a_British_Gentleman.svg|Torse_of_a_British_Gentleman.svg]]: [[User:Sodacan|Sodacan]]{{Inkscape}}
+*[[:File:Georgian_heraldry_motto.svg|Georgian_heraldry_motto.svg]]: [[User:Gaeser|Gaeser]]
+*[[:File:FlagOfHuntingdonshire.PNG|FlagOfHuntingdonshire.PNG]]: The Flag Institute
+*derivative work: [[User:Jza84|Jza84]] ([[User talk:Jza84|<span class="signature-talk">talk</span>]])
+|Permission={{Cc-by-sa-3.0}}{{insignia}}{{Coat of Arms}}
+|other_versions=
+}}
+
+{{SVG|Coat of arms}}
+
+
+== {{Original upload log}} ==
+This image is a derivative work of the following images:
+
+*[[:File:Meuble_héraldique_Crosse.svg]] licensed with Cc-by-sa-3.0,2.5,2.0,1.0, GFDL
+**2010-10-04T18:02:46Z [[User:Adelbrecht|Adelbrecht]] 252x1025 (7657 Bytes) ''<nowiki>{{Information |Description={{en|1=Better colors}} |Source=Wikimedia Commons |Author=-Strogoff-, recolored by Albrecht. |Date= |Permission={{self|GFDL|cc-by-sa-all}} |other_versions= }} </nowiki>''
+**2008-03-13T23:05:20Z [[User:-Strogoff-|-Strogoff-]] 744x1052 (6798 Bytes) ''<nowiki>Mise en taille plus grande par rapport à la page</nowiki>''
+**2008-03-13T23:01:07Z [[User:-Strogoff-|-Strogoff-]] 744x1052 (5439 Bytes) ''<nowiki>{{COAElementInformation |meublefr=Crosse |meubleen=Crozier |meublede=Krummstab |meubleit=Bastone pastorale |meublees=Baculo |Source= my own work |Date= 14 mars 2008 |Author= [[User:Strogoff11an189|Frédéric MICHEL]] |Permis</nowiki>''
+
+*[[:File:Britishentomologyvolume6Plate763.jpg]] licensed with Cc-pd-mark-footer, PD-old
+**2010-07-12T14:25:53Z [[User:Notafly|Notafly]] 1051x1749 (100832 Bytes) ''<nowiki>{{Information |Description={{en|1=s file}} |Source=http://www.biodiversitylibrary.org |Author=Curtis |Date=Pre 1840 |Permission= |other_versions= }} [[Category:John Curtis's British Entomology Volume 6]]</nowiki>''
+
+*[[:File:Oyster_catcher_aerobics.jpg]] licensed with Cc-by-2.0
+**2010-06-26T23:41:56Z [[User:Electron|Electron]] 2128x1376 (1311369 Bytes) ''<nowiki>{{Information |Description=I think this is the male of the pair of oyster catchers living on the hotel. When I started watching them this fellow was stood on sentry duty at the edge of the roof, then after about 30 minutes he</nowiki>''
+
+*[[:File:Pied_Oystercatcher.jpg]] licensed with Cc-by-sa-2.5
+**2006-06-24T05:15:01Z [[User:Glen Fergus|Glen Fergus]] 1833x1222 (371894 Bytes) ''<nowiki>{{Information |Description=Pied Oystercatcher (''Haematopus longirostris'') |Source=Own Work |Date=April 2006 |Author=[User:Glen Fergus|Glen Fergus] |Permission=All Uses, with attribution}}</nowiki>''
+
+*[[:File:Coat_of_Arms_of_Edward_IV_of_England_(1461-1483).svg]] licensed with Cc-by-sa-3.0,2.5,2.0,1.0, GFDL
+**2010-08-26T16:39:36Z [[User:Sodacan|Sodacan]] 1550x1450 (2033206 Bytes) ''<nowiki>{{Information |Description=Coat of Arms of King Edward IV of England |Source={{own}} |Date=2010-08-26 |Author= [[User:Sodacan|Sodacan]]{{Inkscape}} |Permission={{Insignia}} {{Self|GFDL|cc-by-sa-3.0,2.5,2.0,1.0}} |other_versio</nowiki>''
+
+*[[:File:Torse_of_a_British_Gentleman.svg]] licensed with Cc-by-sa-3.0,2.5,2.0,1.0, GFDL
+**2010-07-21T10:47:53Z [[User:Sodacan|Sodacan]] 205x42 (48106 Bytes) ''<nowiki>{{Information |Description=Torse of a Gentlemen |Source={{own}} |Date=2010-07-20 |Author= [[User:Sodacan|Sodacan]]{{Inkscape}} |Permission={{Insignia}} {{Self|GFDL|cc-by-sa-3.0,2.5,2.0,1.0}} }} [[Category:Heraldic crowns of </nowiki>''
+
+*[[:File:Georgian_heraldry_motto.svg]] licensed with Cc-by-sa-3.0, GFDL
+**2010-12-10T18:10:08Z [[User:Gaeser|Gaeser]] 449x153 (3985 Bytes) ''<nowiki>== {{int:filedesc}} == {{Information |Description={{en|1=The element of Georgian COAs.}} |Source={{own}} |Author=[[User:Gaeser|Gaeser]] |Date=2010-12-10 |Permission= |other_versions= }} [[Category:Coat of arms </nowiki>''
+
+*[[:File:FlagOfHuntingdonshire.PNG]] licensed with PD-author
+**2010-07-29T18:51:11Z [[User:Hogweard|Hogweard]] 430x260 (11537 Bytes) ''<nowiki>{{Information |Description=Huntingdonshire flag |Source=[http://www.flaginstitute.org The Flag Institute] |Author=[http://huntingdonshire.org.uk The Huntingdonshire Society] and The Flag Institute |Permission=see below |other</nowiki>''
+
+{{Uploaded with derivativeFX}}
+
+[[Category:Croziers in supporters]]
+[[Category:Metropolitan Borough of Wirral]]
+[[Category:Birds in heraldry]]
+[[Category:Coats of arms of metropolitan boroughs of England]]
+[[Category:Metropolitan borough councils in England]]
+[[Category:Heraldic lambrequins or and vert]]
+[[Category:Haematopus ostralegus in art]]
+[[Category:English-language mottos in heraldry]]
+[[Category:Coats of arms in Merseyside]]
+[[Category:PNG created with Inkscape]]
+[[Category:Lions rampant gules armed and langued azure]]
+[[Category:Lions gules in supporters]]
+[[Category:Lions argent in supporters]]

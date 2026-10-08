@@ -1,0 +1,25 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|A Bouncing Ball.}}
+|Source=Author
+|Date=2008
+|Author=Marko75
+|Permission=
+|other_versions=
+}}
+{{Convert to SVG|realistic}}
+{{Image-Poor-Quality|1=very low resolution}}
+
+== {{int:license-header}} ==
+{{Pd-ineligible}}
+
+== {{Original upload log}} ==
+{{original description|en.wikipedia|Boingball.png}}
+{| class="wikitable"
+! {{int:filehist-datetime}} !! {{int:filehist-dimensions}} !! {{int:filehist-user}} !! {{int:filehist-comment}}
+|-
+| 2008-11-20 23:40 || 96×96× (9043 bytes) || [[:en:User:Marko75|Marko75]] || ''<nowiki>== Summary == {{Information |Description=A Bouncing Ball. |Source= |Author= |Date=2008 |Permission= |other_versions= }} {{ImageUpload|full}} == [[Commons:Copyright tags|Licensing]]: == {{pd-ineligible}} </nowiki>''
+|}
+
+[[Category:Balls]]
+[[Category:Commodore Amiga logos]]

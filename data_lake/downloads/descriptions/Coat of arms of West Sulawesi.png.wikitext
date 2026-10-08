@@ -1,0 +1,18 @@
+== {{int:filedesc}} ==
+{{Information
+|Description= Coat of Arms of [[Indonesia|Indonesian]] province of West Sulawesi.
+|Source=http://www.sulbarprov.go.id/images/Logo.gif (converted to png)
+|Date= 2007-03-14
+|Author= Government of Indonesia
+|Permission= PD. This Indonesian Coat of Arms is free of copyrights (according to Indonesian Law: UU No. 19 Tahun 2002, Pasal 14 (b)).
+|other_versions={{vva}}
+}}
+
+'''NB''' Please note this is the best resolution version of the file that can be found at the moment - please upload a better quality image if you find one.
+
+== {{int:license-header}} ==
+
+{{PD-IDGov}}
+
+[[Category:Coats of arms from West Sulawesi]]
+[[Category:Coats of arms of West Sulawesi]]

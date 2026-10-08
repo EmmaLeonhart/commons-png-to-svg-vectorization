@@ -1,0 +1,17 @@
+=={{int:filedesc}}==
+{{Information
+|Description={{en|1=secondary Stanford wordmark}}
+|Source= [http://www.underconsideration.com/brandnew/archives/stanford_gets_classier.php]
+|Author= Stanford University
+|Date= 2012
+|Permission= 
+|other_versions= [[File:Stanford wordmark (2012).svg|150px]]<br> (primary wordmark) <br> [[File:Stanford logo (2008-2012).png|150px]] <br> (wordmark used until 2012)
+}}
+{{Convert to SVG|text logo}}
+
+== {{int:license-header}} ==
+{{PD-textlogo}}
+{{Trademark}}
+<!-- Categories by CheckUsage -->
+
+[[Category:Logos of Stanford University]]

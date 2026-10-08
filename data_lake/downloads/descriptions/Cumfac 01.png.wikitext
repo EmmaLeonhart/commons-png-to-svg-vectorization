@@ -1,0 +1,27 @@
+== {{int:filedesc}} ==
+{{SupersededSVG|Cumfac-01.svg }}
+
+{{Information
+|Description={{en|Name: Chris
+Illustration: Sperm Facial}}
+|Source={{transferred from|en.wikipedia|}}
+|Date={{original upload date|2007-12-03}}
+|Author={{user at project|Kitetop|wikipedia|en}}
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{GFDL-user|Kitetop|en|migration=relicense}}
+{{GFDL-user-en-no-disclaimers|1=Kitetop|migration=redundant}}
+
+== {{Original upload log}} ==
+{{original description page|en.wikipedia|Cumfac_01.png}}
+* 2007-12-03 09:09 [[:en:User:Kitetop|Kitetop]] 754×491×8 (47398 bytes) ''<nowiki>Name: Chris Illustration: Sperm Facial</nowiki>''
+
+[[Category:Facial cumshot in art|Cris]]
+[[Category:21st-century erotic art|Cris]]
+[[Category:Penile sexual activity in art|Cris]]
+
+[[Category:Heterosexual activity in art]]
+[[Category:Sex drawings by Cris]]

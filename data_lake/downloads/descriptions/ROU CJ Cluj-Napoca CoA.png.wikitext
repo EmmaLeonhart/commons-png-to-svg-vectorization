@@ -1,0 +1,23 @@
+== {{int:filedesc}} ==
+{{Information
+|Description    ={{en|1=[[w:en:Coat_of_arms_of_Cluj-Napoca|Coat of arms of Cluj-Napoca]]}}
+|Source         =http://primariaclujnapoca.ro/
+|Author         =Out slide
+|Date           =
+|Permission     =
+|other_versions =
+}}
+{{ro|[https://files.primariaclujnapoca.ro/dezbatere_publica/Statutul-Municipiului-Cluj-Napoca.pdf Descrierea stemei:]}}
+În urma unui concurs desfășurat în 1995, a fost aleasă stema
+(vezi foto), realizată de Abrudan Maria Bianca, elevă în clasa a XI-a a Liceului de Artă din
+Cluj-Napoca. Această nouă reprezentare combină imaginea Monumentului Memorandiștilor,
+situat pe Bulevardul Eroilor, cu aceea a zeiței Minerva, deasupra cărora este plasată imaginea
+lupului dacic, precum și imaginea a șapte metereze/turnuri.
+
+
+{{PD-RO-exempt|type=coats of arms}}
+
+[[Category:Coats of arms of cities and communes of Romania]]
+[[Category:Coats of arms of cities and communes of Cluj County]]
+[[Category:Coats of arms of capital cities of Romania]]
+[[Category:Coats of arms of Cluj-Napoca]]

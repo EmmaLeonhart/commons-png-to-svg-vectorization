@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ja|1=「官幣中社諏訪上社」（守矢実久編『諏訪神社略縁起』より）}}
+|date=1902 (Meiji 35)
+|source=[https://dl.ndl.go.jp/info:ndljp/pid/815696 諏訪神社略縁起] (守矢実久 編)
+|author=Artist unknown / 作者不明
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+
+{{PD-Japan}}{{PD-old-auto-expired}}
+
+[[Category:Suwa Taisha Honmiya]]

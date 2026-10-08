@@ -1,0 +1,26 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=From right to left:
+-Red banner of the Taira clan. Treasure at the Kamakura Fudaraku temple. Gold lettering "Kyuuman hassan gunjin": "God of 98,000 armies" on red ground with pink brocade at the top. Tozawa writes that the lettering is said to have been the calligraphy of Taira Kyomori, whose excesses and power-mongering were catalysts for the Genpei war 1180-1185. This banner is said short because it is said that the monks at the Fudaraku temple would brew tiny pieces cut from the banner in tea to heal patrons.
+-Old banner found in Wada village of Yoshino county Yamata province. Course silk with heather brocade border at top; black lettering "hachiman daibosatsu" "Great Bodhisattva Hachiman"; "Amaterasu koutaijinguu" "Grand Imperial Ise Shrines"; "Kasuga daimyoujin" "Great God of Light Kasuga" above embroidered double hawk feathers.
+-Takeda Shingen hata-jirushi, white ground with black four-diamond crest and white pendant. Tozawa notes that this banner has been used for generations by the Takeda family.
+-Hata-jirushi, white ground with blue border, white pendant, and red lettering, "Suwa hosshou kamishimo daimyoujin" "Great Gods of Light of Suwa."
+
+https://files.lib.byu.edu/exhibits/guns-scrolls-swords/2B.pdf}}
+|date=1800-01-02
+|source=Seiki Shuzu
+Collected Illustrations of Banners and Standards
+Ink and color on kōzo paper, bound in one volume
+
+https://archive.org/stream/seikishzu008800#page/n12/mode/2up
+|author=Tozawa Morinori 戸澤盛徳 (dates unknown)
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-old-70-1923}}
+
+[[Category:Hata-jirushi]]
+[[Category:Takeda Shingen]]
+[[Category:Images from the Harold B. Lee Library]]

@@ -1,0 +1,13 @@
+{{Information
+|Description= {{en|1=Logo of GO Game.}}
+{{de|1=Logo eines GO Spiels.}}
+|Source= {{own}}
+|Date=2006-03-23 
+|Author=[[:en:User:Siriudie|Siriudie]] 
+|Permission=GDFL
+|other_versions=
+}} 
+
+{{GFDL|migration=relicense}}
+
+[[Category:Go theory]]

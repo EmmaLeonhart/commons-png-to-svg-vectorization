@@ -1,0 +1,20 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=[[:en:Saionji no Kishi|Empress Kishi]] (Saionji Kishi) and [[:en:Emperor Go-Daigo|Emperor Go-Daigo]]. From ''Taiheiki Emaki'' (c. 17th century), vol. 2, On the Lamentation of the Empress. Owned by [[:en:Saitama Prefectural Museum of History and Folklore|Saitama Prefectural Museum of History and Folklore]]}}
+{{ja|1=中宮[[:ja:西園寺禧子|禧子]]（西園寺禧子）と[[:ja:後醍醐天皇|後醍醐天皇]]。『太平記絵巻』（17世紀ごろ）第2巻「中宮御嘆事」より。[[:ja:埼玉県立歴史と民俗の博物館|埼玉県立歴史と民俗の博物館]]所蔵。}}
+|date=1600-01-01
+|source=『太平記絵巻の世界』、埼玉県立博物館、1996年。p. 23
+|author={{unknown|author}}
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+
+{{PD-art-two|PD-Japan|PD-old-100-1923}}
+
+[[Category:Empresses of Japan]]
+[[Category:Paintings of Emperor Go-Daigo]]
+[[Category:Saionji family]]
+[[Category:Taiheiki Emaki]]
+[[Category:Gissha (ox-drawn carriage) in art]]

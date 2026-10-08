@@ -1,0 +1,15 @@
+== {{int:filedesc}} ==
+
+{{Information
+|Description={{en|1= Regions of Japan. Source: http://de.wikipedia.org/wiki/Bild:Regionen_japans.png Own Work by Christian Günther (Löschen) (Aktuell) 13:57, 28. Okt 2004 . . Christian Günther (Diskussion) . . 470 x 600 (32978 Byte) }}
+|Source= http://de.wikipedia.org/wiki/Bild:Regionen_japans.png
+|Date=
+|Author=Christian Günther
+|Permission=Released under the [[GNU Free Documentation License]].
+|other_versions=
+
+}}
+== {{int:license-header}} ==
+{{GFDL|migration=relicense}}
+
+[[Category:Maps of regions of Japan]]

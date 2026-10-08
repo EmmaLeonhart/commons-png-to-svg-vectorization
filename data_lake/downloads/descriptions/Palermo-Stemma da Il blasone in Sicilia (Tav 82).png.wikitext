@@ -1,0 +1,14 @@
+== {{int:filedesc}} ==
+
+{{Information
+|Description=Stemma della città di Palermo, dalla tavola 82 de ''Il blasone in Sicilia'', (1871-75).
+|Source= Pubblico dominio, da ''[https://archive.org/details/ilblasoneinsicil00pali Il blasone in Sicilia]'', Palermo, 1871-75, Vincenzo Palizzolo Gravina
+|Date= 2009-06-17 
+|Author= Vincenzo Palizzolo Gravina
+|Permission={{PD-Art}} pubblico dominio
+|other_versions=
+}}
+
+
+[[Category:Coats of arms of Palermo]]
+[[Category:SPQ in heraldry|Palermo]]

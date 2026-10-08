@@ -1,0 +1,25 @@
+== {{int:filedesc}} ==
+{{Information 
+|description    = {{en| Test logo for [[:en:Wikipedia talk:WikiProject Gaelic Games|Wikipedia talk:WikiProject Gaelic Games]] }} 
+|date           = {{Original upload date|2006-11-16}} 
+|source         = Transferred from [http://en.wikipedia.org en.wikipedia] by [[User:SreeBot|SreeBot]] 
+|author         = [[:en:User:Pauric|Pauric]] at en.wikipedia
+|Permission     = 
+|other versions = 
+}}
+
+== {{int:license-header}} ==
+{{GFDL-user-en-with-disclaimers|Pauric|migration=relicense}}
+
+== {{Original upload log}} ==
+{{original description page|en.wikipedia|GaelicGamesProjectLogo.png}}
+
+Upload date | User | Bytes | Dimensions | Comment
+* 2006-11-16 00:20 (UTC) | [[:en:User:Pauric|Pauric]] | 177801 (bytes) | 1200×1192 | <small><nowiki>Test logo for [[Wikipedia talk:WikiProject Gaelic Games]]</nowiki></small>
+
+[[Category:1932 in Europe]]
+[[Category:1932 in the United Kingdom]]
+[[Category:Sports clubs established in 1932]]
+[[Category:Sports in Waterford]]
+[[Category:Gaelic games logos]]
+[[Category:Gaelic games equipment]]

@@ -1,0 +1,16 @@
+{{Information
+|Description={{uk|Герб Житомирської області (Україна)}}{{eo|Blazono de la Oblasto Ĵitomira en Ukrainio}}
+{{de|Das Wappen der Oblast Schytomyr (Ukraine)}}
+{{en|Coat of arms of Zhytomyr Oblast, Ukraine}}
+{{ru|Герб Житомирской области (Украина)}}
+|Source=[http://upload.wikimedia.org/wikipedia/commons/2/29/Zhytomyr-oblast-COA.png]
+|Date=October 25, 2007 (upload date)
+|Author=Unknown heraldics
+|Permission=PD-UA-EXEMPT
+|other_versions={{F|Smaller Coat of Arms of Zhytomyr Oblast.jpg|G}}
+{{vva}}
+}}
+{{PD-UA-exempt|type=coats of arms}}
+
+[[Category:Coats of arms of Zhytomyr Oblast]]
+[[Category:PNG Columns of Gediminas]]

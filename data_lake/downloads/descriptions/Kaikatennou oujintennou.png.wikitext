@@ -1,0 +1,8 @@
+== {{int:filedesc}} ==
+投稿者自身が製作した画像
+== {{int:license-header}} ==
+{{GFDL|migration=relicense}}
+
+
+[[Category:Family trees of the Japanese imperial dynasty]]
+[[Category:Media missing infobox template]]

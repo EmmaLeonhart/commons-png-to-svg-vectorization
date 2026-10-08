@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ja|1=兵庫県伊丹市にある（あった）伊丹郷町の範囲。}}
+|date=2017-07-29
+|source=[[OpenStreetMap]]
+|author=OpenStreetMap contributor
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{ODbL OpenStreetMap}}
+
+[[Category:Neighborhoods in Itami, Hyogo]]
+[[Category:Maps of Itami, Hyogo]]

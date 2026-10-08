@@ -1,0 +1,42 @@
+[[Category:Media missing infobox template]]
+<!--This file was moved here using FileImporter from https://en.wikipedia.org/wiki/File:NoDVDcover_copy.png-->
+== {{int:filedesc}} ==
+Image indicates that no DVD cover image is yet available.
+
+== {{int:license-header}} ==
+{{PD-self|date=November 2006}}
+
+== How to add a DVD cover ==
+
+If you want to add the image of a DVD to an album that shows this image, '''do not modify this page or image'''. The correct procedure is:
+
+{|
+|-
+| 1. || go to [[:w:Special:Upload]] to upload the image
+|-
+| 2. || go back to the album page, click edit, and change the following:
+|-
+| || <pre>
+{{Infobox Film
+...
+| image          = NoDVDcover.png
+</pre>
+|-
+| || into:
+|-
+| || <pre>
+{{Infobox Film
+...
+| image          = Name of image you have uploaded
+</pre>
+|}
+
+Add the line "image = " if not present already.
+
+Do not include the "Image:" part in the name of the image.
+
+== Why you don't want to change <u>this</u> image ==
+
+The image described in this page is used to indicate that no DVD cover image has been placed in a particular album page. As a result, it must not be changed with a specific album cover image. Follow the above instructions for inserting a new album cover image.
+
+[[Category:Wikipedia image placeholders]]

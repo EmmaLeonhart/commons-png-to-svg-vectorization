@@ -1,0 +1,12 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{es|1=Agenesia de Vagina, Síndrome de Mayer-Rokitansky-Küster-Hauser.}}{{en|1=Vaginal agenesis, Mayer-Rokitansky-Küster-Hauser syndrome.}}
+|Source=Trabajo Propio, [[:es:Consentimiento_informado|Consentimiento informado]]
+|Date={{original upload date|2007-04-25}}
+|Author= Dr. Antonio Jose Marrero Ochoa. [[:es:Usuario:Josea69|Josea69]]
+}}
+
+== {{int:license-header}} ==
+{{self|cc-by-sa-2.5}}
+[[Category:Vaginal agenesis]]
+[[Category:Labiar hair]]

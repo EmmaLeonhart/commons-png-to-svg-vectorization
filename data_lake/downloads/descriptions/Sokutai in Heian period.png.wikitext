@@ -1,0 +1,11 @@
+{{Information
+|Description={{ja|1=束帯（平安時代）}}
+|Source=小学館 日本百科大事典 1962年
+|Date=
+|Author={{unknown|author}}
+|Permission=
+|other_versions=
+}}
+{{PD-Japan-organization}}
+{{Not-PD-US-URAA|country=Japan}}
+[[Category:Sokutai]]

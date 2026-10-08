@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{id|1=Lambang Provinsi Banten}}
+|source=https://bantenprov.go.id/profil-provinsi/arti-lambang
+|author=Dhimam Prahara Khan
+|Date= 2011-01-06
+|permission= 
+|other_versions={{vaa|Coat of arms of Banten.svg}}
+|other_fields=
+}}
+
+=={{int:license-header}}==
+{{PD-IDGov}}
+
+[[Category:Coats of arms of Banten]]
+[[Category:Coats of arms from Banten]]

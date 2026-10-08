@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{id|1=Ikon Transjakarta Koridor 1}}
+{{en|1=Icon for TransJakarta BRT Corridor 1}}
+|date=2023-12-31
+|source={{own}}
+|author=Enperfectify World
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-simple}}
+
+[[Category:TransJakarta icons]]
+[[Category:Transjakarta Corridor 1]]

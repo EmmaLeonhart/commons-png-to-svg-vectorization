@@ -1,0 +1,26 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|Horse burial in roman ditch on a development funded site in [[London]]. Note "out of phase" pipe intrusion left in for practical reasons.}}
+|Source={{sf}}
+|Date={{Upload date|2006-11-02}}
+|Author={{User|Mididoctors}}
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{PD-self}}
+
+[[Category:2006 in London]]
+[[Category:Ancient Roman archaeological sites in England]]
+[[Category:Archaeological sites in London]]
+[[Category:Archaeologists at work]]
+[[Category:Found in 2006]]
+[[Category:Graves in London]]
+[[Category:History of use of horses]]
+[[Category:Horse burials]]
+[[Category:Horses of London]]
+[[Category:Men at work in the United Kingdom]]
+[[Category:People of the United Kingdom in 2006]]
+[[Category:Rescue archaeology]]
+[[Category:Pipes]]

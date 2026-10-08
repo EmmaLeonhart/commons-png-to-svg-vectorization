@@ -1,0 +1,11 @@
+=={{int:filedesc}}==
+{{Information
+|Description = {{en|1=An icon of a mother, father and child.}}
+|Source      = {{derivedfrom|P social sciences.png}}
+|Date        = 15 April 2006
+|Author      = '''Original:''' {{User at project|1= נעמה מ. |2=wikipedia|3=he}}<br>'''Derivative:''' [[User:San Jose]]
+|Permission  = {{GFDL-user|נעמה מ|he|migration=relicense}}
+}}
+
+[[Category:German Wikipedia main page images]]
+[[Category: Wikipedia portal icons, bitmap, blue]]

@@ -1,0 +1,41 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|1=Facsimile of the so-called "Horiuzi Palm-leaf MSS." of [[:w:Hōryū-ji|Hōryū-ji]] monastery. 
+The manuscript was preserved in Hōryū-ji since 609 AD. The manuscript itself dates from the first half of the 6th century[https://books.google.ch/books?id=yUhvfR1S_UEC&pg=PA102&lpg=PA102&dq=horiuzi&source=bl&ots=vgWsPcnLeO&sig=v_jf0pLuFdQJjCHsu1c9U-5yclw&hl=de&sa=X&ei=tKFjT8DhJsXtOcCa6IEI&ved=0CF4Q6AEwCDgK#v=onepage&q=horiuzi&f=false].
+
+Original caption:
+:"Facsimile of the two palm-leaves of Horiuzi, sent to Prof. Max Müller in 1880. Catal. of Japanese books and mss. in the Bodleian Library, No. 45."
+
+The manuscript begins with the ''Heart Sūtra''. From page 2, line 2 we find the ''Uṣnīṣavijaya Dhāraṇī''. The last line is a complete Sanskrit syllabary in ''Siddhaṃ'' script - preceded by the word ''siddhaṃ'' and ending with ''llaṃ kṣa''. Each texts begins with the auspiscious mark called ''yigmo'' in Tibetan, which is sometimes erroneously interpreted as ''oṃ''.
+
+The text of the Heart Sūtra on this ms. is extremely corrupt. It contains numerous errors and omissions (visargas and anusvāras, syllables, words, and one whole phrase) and one repetition of part of a phrase. The writing is poor and difficult to read in places. `This ms. is cited as a source by Dr {{w|Edward Conze}} in his critical edition of the Heart Sutra as J<sup>a</sup>. Note that instead of ''namo bhagavatyai prajñāpāramitāyai'', this text opens with the salutation: ''namas sarvajñāya''.
+
+日本法隆寺所藏《梵本心経并尊勝陀羅尼》,以悉曇體梵文書寫於貝葉之上。
+{{zh-hant|1=日本法隆寺所藏《梵本心経并尊勝陀羅尼》,以悉曇體梵文書寫於貝葉之上。}}}}
+{{sa|1=होर्यूजीविहारस्य तालपत्रग्रन्थप्रतिकृतिः। अयं ग्रन्थः षट्शतोत्तरनवतमे ख्रिष्टाब्दे आरभ्य तत्रैव संरक्षितः। अस्य निर्माणकालः षष्ठशताब्द्याः पूर्वार्धः॥
+प्राचीनलेखः। अयं होर्यूजीतालपत्रद्वयस्य प्रतिकृतिः या दशोत्तरशताधिकसहस्रतमे ख्रिष्टाब्दे मोक्षमूलरपण्डिताय प्रेषिता। बोडलियनपुस्तकालयस्य जपानीग्रन्थसूचीसंख्या पञ्चचत्वारिंशत्॥
+
+ग्रन्थोऽयं प्रज्ञापारमिताहृदयसूत्रेण आरभ्यते। द्वितीयपत्रस्य द्वितीयपङ्क्तौ उष्णीषविजयधारणी वर्तते। अन्तिमा पङ्क्तिः सिद्धं इति शब्देन आरब्धा सिद्धंलिपिवर्णमाला अस्ति या ल्लं क्ष इति अक्षरद्वयेन समाप्यते। प्रत्येकपाठस्य आरम्भे भोटभाषायां यिग्मो इति प्रसिद्धं मङ्गलचिह्नं वर्तते यत् केचित् भ्रान्त्या ओङ्कारम् इति मन्यन्ते॥
+
+अस्मिन् ग्रन्थे हृदयसूत्रस्य पाठः अत्यन्तम् अशुद्धः। अत्र विसर्गानुस्वारवर्णपदवाक्यानां लोपाः पुनरुक्तयश्च बह्व्यः सन्ति। लेखनमपि कुत्सितं पठने काठिन्यं च वर्तते। प्रज्ञापारमिताहृदयसूत्रस्य परिशोधितसंस्करने एडवर्डकोन्झमहोदयेन अयं ग्रन्थः ज इति नाम्ना प्रमाणत्वेन स्वीकृतः। अत्र नमो भगवत्यै प्रज्ञापारमितायै इति स्थाने नमः सर्वज्ञाय इति मङ्गलाचरणं वर्तते॥}}
+{{ja|1=法隆寺所蔵、いわゆる「法隆寺伝来梵本（ぼんぽん）貝葉（ばいよう）」の複製である。本写本は西暦６０９年より法隆寺に伝存されてきたが、写本自体の成立時期は6世紀前半に遡る。
+【原本解説文】
+「１８８０年にマックス・ミュラー教授へ送られた法隆寺貝葉二枚の複製。ボドリアン図書館所蔵日本関連書籍・写本目録、第45号。」
+
+本写本は『般若心経』に始まり、二枚目の二行目からは『尊勝陀羅尼（そんしょうだらに）』が記されている。最終行は悉曇（しったん）文字による完全な梵字悉曇字母表であり、冒頭に「siddhaṃ（成就あれ）」の語、末尾に「llaṃ kṣa」の音節が置かれている。各テキストの冒頭には、チベット語で「イグモ（yigmo）」と呼ばれる吉祥記号が付されているが、これはしばしば誤って「オーム（oṃ）」と解釈されることがある。
+
+本写本における『般若心経』の本文は極めて乱れており、多くの誤記や脱漏（ヴィサルガ、アヌスヴァーラ、音節、単語、さらには一文全体の欠落）、およびフレーズの一部の重複が見られる。書体は拙く、各所で解読が困難である。エドワード・コンゼ博士による『般若心経』校訂本では、本写本は「Ja」という記号で引用されている。なお、本テキストの冒頭の帰敬文は、「namo bhagavatyai prajñāpāramitāyai（聖なる般若波羅蜜多に帰依したてまつる）」ではなく、「namas sarvajñāya（一切智者に帰依したてまつる）」となっている。}}
+|Source=Buddhist Texts from Japan. (Anecdota Oxoniensia, Aryan series), 1881. [https://archive.org/stream/p1anecdotaoxonie01oxfouoft#page/n299/mode/2up]
+
+|Author=facsimile by "Autotype, London"
+|Date= 6th century; 1880
+|Permission=
+|other_versions=[[File:Falongsibeiye.svg|400px]]
+=[[File:Falongsibeiye1.png|400px]]
+}}
+
+== {{int:license-header}} ==
+{{PD-old}}
+
+[[Category:Hōryū-ji Palm-leaf Manuscripts]]
+[[Category:Dharani]]

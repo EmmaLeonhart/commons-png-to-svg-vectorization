@@ -1,0 +1,4 @@
+[[Category:Media missing infobox template]]
+<!--This file was moved here using FileImporter from https://en.wikipedia.org/wiki/File:Japan_yashima.png-->
+== {{int:license-header}} ==
+{{self|GFDL|cc-by-sa-3.0,2.5,2.0,1.0}}

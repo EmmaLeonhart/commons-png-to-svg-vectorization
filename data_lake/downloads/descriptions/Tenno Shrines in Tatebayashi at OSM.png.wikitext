@@ -1,0 +1,14 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ja|1=館林の天王社所在地図、OSM}}
+|date=2020-05-30
+|source={{own}}
+|author=[[User:Kochizufan|Kochizufan]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Tenno Shrines in Tatebayashi]]

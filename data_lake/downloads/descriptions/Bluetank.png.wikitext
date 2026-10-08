@@ -1,0 +1,12 @@
+{{Information
+|Description=A generic U.S. World War II tank, a derivate of [[:Image:TM-9-374-T25E1-1.jpg]], background removed (transparent), hue set to steel blue, reduced size and colors.
+|Source={{Own}}
+|Date=2008-03-30
+|Author= [[User:LA2|LA2]]
+|Permission=I claim no copyright to the derivate. The original is PD.
+|other_versions=
+}}
+{{PD-USGov-Military}}
+
+
+[[Category:T25 Medium Tank]]

@@ -1,0 +1,14 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|1=[[w:Canadian Football League|Canadian Football League]] ball with transparent background}}
+|Source={{Own}}
+|Author=[[User:DoubleBlue|DoubleBlue]]
+|Date=2009-07-12
+|Permission=
+|other_versions=[[File:CFL_football.jpg|thumb|left|[[:File:CFL_football.jpg]]]]
+}}
+
+== {{int:license-header}} ==
+{{self|cc-by-sa-3.0|GFDL}}
+
+[[Category:Canadian football balls]]

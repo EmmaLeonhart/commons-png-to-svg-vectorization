@@ -1,0 +1,12 @@
+== {{int:filedesc}} ==
+{{Information
+|description={{en|1=Screenshot of [[w:User:Nardog/IPAInput|IPAInput]], a user script that assists in inserting IPA symbols on English Wikipedia}}
+|date=2021
+|source={{own}}
+|author={{u|Nardog}}, [[w:Special:PageHistory/Help:IPA/English|contributors]] to [[w:Help:IPA/English]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{Free screenshot|license={{Wikipedia-screenshot|en}}}}

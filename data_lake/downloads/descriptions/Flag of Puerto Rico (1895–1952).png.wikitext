@@ -1,0 +1,19 @@
+== {{int:filedesc}} ==
+
+
+
+{{Information
+|Description    = Flag of Puerto Rico (1895-1952)
+|Source         = {{own}}
+|Author         = [[User:Aventurero98|Aventurero98]]
+|Date           = 2015-03-03
+|Permission     = Mine
+|other_versions =
+}}
+
+== {{int:license-header}} ==
+{{self|cc-by-3.0}}
+{{vector version available|Flag of Puerto Rico (1895–1952).svg}} 
+
+[[Category:Historical flags of Puerto Rico]]
+[[Category:PNG flags of Puerto Rico]]

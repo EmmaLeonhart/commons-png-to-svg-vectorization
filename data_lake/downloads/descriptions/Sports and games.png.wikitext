@@ -1,0 +1,22 @@
+{{Vector version available|Sports and games.svg|q=s}}
+
+=={{int:filedesc}}==
+{{Information
+|Description = Sports and games icon
+|Source      = See author field
+|Date        = 
+|Author      =  made by [[User:Kmf164]], combining:
+* [[:Image:Basketball.png]] 
+* [[:Image:Soccerball.png]] 
+* [[:Image:Two red dice 01.svg]]
+|Permission  = 
+|other_versions = 
+{{DerivativeVersions|Sports and games in Russia.png}}
+}}
+
+== {{int:license-header}} ==
+{{GFDL|migration=relicense}}
+
+[[Category:Sports icons]]
+[[Category:Dice icons]]
+[[Category:White on red dice]]

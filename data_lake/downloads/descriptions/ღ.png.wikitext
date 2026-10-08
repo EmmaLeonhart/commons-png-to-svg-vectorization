@@ -1,0 +1,14 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Letter <span style="font-size:200%;">ღ</span> of the '''[[:en:Georgian alphabet|Georgian alphabet]]'''}}
+|date=2013
+|source={{own}}
+|author=[[User:Jaqeli|Jaqeli]]
+|permission={{PD-self}}
+|other_versions=
+|other_fields=
+}}
+{{vector version available|Ghani Mkhedruli.svg}}
+
+[[Category:Mkhedruli letter Ghan]]
+[[Category:Hearts with transparent background]]

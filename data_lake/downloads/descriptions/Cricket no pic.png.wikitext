@@ -1,0 +1,34 @@
+== {{int:filedesc}} ==
+{{Information
+|Description    = {{en|Wikipedia has no licensable picture of this cricketer. Please help [[:en:Wikipedia:WikiProject Cricket|Wikipedia:WikiProject Cricket]] by supplying one if you can!<blockquote>'''Please do not edit this picture directly, because it will change the picture on all cricketers: [[:en:Special:Upload|Upload]] a new picture instead. But make sure you have the''' '''''permission of the photographer''''' '''to use it first (unless it's so old that copyright has expired).'''</blockquote>}}
+|Source         = {{Own}}
+|Date           = 2005-11-11
+|Author         ={{user at project|Stephen Turner|wikipedia|en}}
+|other_versions =
+}}
+
+== {{int:license-header}} ==
+{{PD-ineligible}}
+
+== {{Original upload log}} ==
+{{original description page|en.wikipedia|Cricket_no_pic.png}}
+* 2005-11-11 09:42 [[:en:User:Stephen Turner|Stephen Turner]] 154×1× (129 bytes) ''<nowiki>{{PD-ineligible}}</nowiki>''
+* 2005-10-07 08:56 [[:en:User:Stephen Turner|Stephen Turner]] 153×158× (5935 bytes) ''<nowiki>Reverted to earlier revision</nowiki>''
+* 2005-10-07 05:27 [[:en:User:T naimesh|T naimesh]] 276×394× (149137 bytes) ''<nowiki>http://members.tripod.com/~ARPITKALA/sachin.html</nowiki>''
+* 2005-09-08 19:17 [[:en:User:Secretlondon|Secretlondon]] 153×158× (5935 bytes) ''<nowiki>replacing with "freely licensed" rather than "non copyrighted"</nowiki>''
+* 2005-08-05 11:40 [[:en:User:Ngb|Ngb]] 153×158× (2163 bytes) ''<nowiki>Wikipedia has no licensable picture of this cricketer. Can you help [[Wikipedia:WikiProject Cricket|WikiProject Cricket]] by supplying one? This image made by [[User:Ngb|Nick Boalch]] for [[Wikipedia:WikiProject Cricket|WikiProject Cricket]]. {{GFDL}}</nowiki>''
+* 2005-08-02 03:56 [[:en:User:Moondyne|Moondyne]] 154×154× (1936 bytes) ''<nowiki>Reverted to earlier revision</nowiki>''
+* 2005-08-02 03:47 [[:en:User:Moondyne|Moondyne]] 154×154× (1936 bytes) ''<nowiki>Reverted to earlier revision</nowiki>''
+* 2005-08-01 20:14 [[:en:User:Teflondon|Teflondon]] 160×172× (23264 bytes) ''<nowiki>http://content.cricinfo.com/england/content/player/10666.html</nowiki>''
+* 2004-12-24 00:11 [[:en:User:Ngb|Ngb]] 154×154× (1936 bytes) ''<nowiki>Wikipedia has no licensable picture of this cricketer. Please help [[Wikipedia:WikiProject Cricket]] by supplying one if you can!</nowiki>''
+* 2004-12-24 00:10 [[:en:User:Ngb|Ngb]] 155×155× (2037 bytes) ''<nowiki>Wikipedia has no licensable picture of this cricketer. Please help [[Wikipedia:WikiProject Cricket]] by supplying one if you can!</nowiki>''
+
+[[Category:Wikimedia cricket files]]
+[[Category:Wikipedia image placeholders|Blank]]
+
+{{original description page|en.wikipedia|Cricket_no_pic.png}}
+* 2005-11-11 09:42 [[:en:User:Stephen Turner|Stephen Turner]] 154×1× (129 bytes) ''<nowiki>{{PD-ineligible}}</nowiki>''
+* 2005-09-08 19:17 [[:en:User:Secretlondon|Secretlondon]] 153×158× (5935 bytes) ''<nowiki>replacing with &quot;freely licensed&quot; rather than &quot;non copyrighted&quot;</nowiki>''
+* 2005-08-05 11:40 [[:en:User:Nine Tail Fox|Nine Tail Fox]] 153×158× (2163 bytes) ''<nowiki>Wikipedia has no licensable picture of this cricketer. Can you help [[Wikipedia:WikiProject Cricket|WikiProject Cricket]] by supplying one? This image made by [[User:Ngb|Nick Boalch]] for [[Wikipedia:WikiProject Cricket|WikiProject Cricket]]. {{GFDL}}</nowiki>''
+* 2004-12-24 00:11 [[:en:User:Nine Tail Fox|Nine Tail Fox]] 154×154× (1936 bytes) ''<nowiki>Wikipedia has no licensable picture of this cricketer. Please help [[Wikipedia:WikiProject Cricket]] by supplying one if you can!</nowiki>''
+* 2004-12-24 00:10 [[:en:User:Nine Tail Fox|Nine Tail Fox]] 155×155× (2037 bytes) ''<nowiki>Wikipedia has no licensable picture of this cricketer. Please help [[Wikipedia:WikiProject Cricket]] by supplying one if you can!</nowiki>''

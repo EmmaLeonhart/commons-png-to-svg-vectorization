@@ -1,0 +1,21 @@
+{{Information
+|Description={{en|1=Sarutahiko Ōkami, (comical) painting; sumi ink & watercolours, late 19th century (more likely Meiji era than late-Edo period). Seal marking, artist not identified; Wittig collection, painting-03.  
+
+Photograph of painting; working print of re-touched version intended for Wikipedia article about Sarutahiko Ōkami.}}
+|Source=re-touched photo of painting, self-authored by uploader
+|Author=unidentified late 19th century Japanese artist, [[User:Lx_121]]
+|Date=original painting: circa 1850-1900; crop & photo-editing is present-day
+|Permission={{PD-Art|PD-old}}
+|other_versions={{Image extracted|1=Sarutahiko Ōkami.crop.4.wp.working.print (cropped).png}}in-process
+}}
+Working print
+
+Re-touched photograph of painting:  cropped, edges filled-in, & some blemishes & staining removed from the unpainted areas.
+
+''Note:  painted areas & artist's seal have '''NOT''' been altered.''
+
+This file is a WORKING PRINT, please feel free to improve it!
+
+{{RetouchedPicture|cropped; cropped, edges filled-in, & some blemishes & staining removed from the unpainted areas|editor=Lx_121|orig=Sarutahiko Ōkami from Wittig collection.png}}
+
+[[Category:Sarutahiko Ōkami in art]]

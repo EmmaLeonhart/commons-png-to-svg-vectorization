@@ -1,0 +1,14 @@
+=={{int:filedesc}}==
+{{Information
+|description = {{en|An image from the [[mw:Extension:VisualEditor|VisualEditor]] module.}}
+|date = 
+|source = https://phabricator.wikimedia.org/diffusion/EVED/browse/master/modules/ve-mw/ui/styles/tools/images/
+|author = https://phabricator.wikimedia.org/diffusion/EVED/browse/master/AUTHORS.txt
+|permission = https://phabricator.wikimedia.org/diffusion/EVED/browse/master/LICENSE.txt
+|other_versions = 
+}}
+
+=={{int:license-header}}==
+{{MIT|1=[https://phabricator.wikimedia.org/diffusion/EVED/browse/master/AUTHORS.txt VisualEditor Team and other contributors]|3=2011–2017}}
+
+[[Category:VisualEditor]]

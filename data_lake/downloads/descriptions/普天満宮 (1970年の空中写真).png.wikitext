@@ -1,0 +1,18 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ja|1=普天満宮 (1970年の空中写真)}}
+|date=1970
+|source=国土地理院地図・空中写真閲覧サービス
+
+|author=撮影・琉球政府 1970年 (国土地理院・空中写真 MOK701-C5-9) より加工
+
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+
+{{GJSTU-2.0|terms=http://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html|attr=国土地理院 (GSI)}}
+
+[[Category:Futemma-gū]]
+[[Category:Aerial photographs of Okinawa Island]]

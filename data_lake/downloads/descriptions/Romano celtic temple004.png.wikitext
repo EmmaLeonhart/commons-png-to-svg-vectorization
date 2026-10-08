@@ -1,0 +1,13 @@
+== {{int:filedesc}} ==
+{{Information
+|Description=Romano celtic temple reduced in phase to occupation level at 56 Gresham Street, London
+|Source=molas site photo
+|Date=2007-01-27
+|Author=mididoctors
+|Permission=Public domain
+|other_versions=
+}}
+== {{int:license-header}} ==
+{{PD-self}}
+
+[[Category:Romano-Celtic temple in Gresham Street]]

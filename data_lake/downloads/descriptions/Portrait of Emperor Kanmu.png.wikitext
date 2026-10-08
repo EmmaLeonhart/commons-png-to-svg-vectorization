@@ -1,0 +1,17 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Portrait of Emperor Kanmu. Silk painting. Description: "In this portrait, Emperor Kanmu sits on a chair with a backrest placed on a tatami mat with decorated borders, with the interior design resembling a shrine or altar. He is fully clothed in formal coronation attire. Most likely, this portrait was a deified image drawn to be worshipped, for example, on the occasion of annual ceremonies given on March 17 in the emperor’s honor at the Enryakuji Temple in Mt. Hiei. (This temple was founded by the aforementioned Priest Saicho. The ceremony is called the “Tenno-Ko.”) The majesty emanating from the large portrait is one of the best renditions of this powerful ancient ruler."}}
+{{ja|1=桓武天皇像。 絹本着色。説明：「神殿風の室内に、繧繝縁（うんげんべり）の上畳に毛氈を敷き、その上に置かれた背もたれ付きの椅子に衣冠姿で椅坐する桓武天皇を描く。これは、桓武天皇を神格化し、礼拝の対象として描かれたものであろう。比叡山延暦寺では桓武天皇の命日である毎年３月17日に天皇講と称する桓武天皇への謝恩の法会が開かれているが、こうした行事に用いられたものではなかったか。大幅の堂々とした肖像画で、桓武天皇像としては出色の作品といえる。」}}
+|date=AC15 (Anno Christi 15)
+|source={{en|Keio Museum Commons (Century Akao Collection) - https://objecthub.keio.ac.jp/en/object/1785}}
+{{ja|慶應義塾ミュージアム・コモンズ（センチュリー赤尾コレクション）}}
+|author={{unknown|author}}
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{cc-by-4.0}}
+
+[[Category:Emperor Kanmu]]
+[[Category:Portraits of Japanese monarchs]]

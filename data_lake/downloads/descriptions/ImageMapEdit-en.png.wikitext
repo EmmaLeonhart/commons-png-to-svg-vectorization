@@ -1,0 +1,14 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=ImageMapEdit gadget example}}
+|date=2020-01-20
+|source={{own}}
+|author=[[User:Jmarchn|Jmarchn]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-3.0}}
+
+[[Category:ImageMapEdit]]

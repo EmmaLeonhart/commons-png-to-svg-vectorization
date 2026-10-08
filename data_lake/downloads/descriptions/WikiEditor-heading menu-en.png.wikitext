@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Enhanced toolbar- Heading toolbar}}
+|date=2015-01-31
+|source=Screenshot
+|author=Wikipedia development team
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{free screenshot|license={{Wikipedia-screenshot|logo=no}}}}
+
+[[Category:MediaWiki edit toolbar screenshots]]
+[[Category:WikiEditor-en]]

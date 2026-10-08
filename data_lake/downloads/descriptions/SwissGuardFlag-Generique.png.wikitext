@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{vva|Generic Swiss Guard banner.svg}}
+{{Information
+|description={{it|1=Bandiera generica della Guardia Svizzera Pontificia senza lo stemma del comandante in carica}}
+|date=2016-10-18
+|source={{own}}
+|author=[[User:Skukifish|Skukifish]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Flags of the Swiss Guard]]

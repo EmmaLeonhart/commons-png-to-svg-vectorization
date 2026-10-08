@@ -1,0 +1,30 @@
+== {{int:filedesc}} ==
+{{Information
+|Description=
+{{de|1=Amaterasu ist die Sonnengöttin in Japanische Mythologie.}}
+{{en|1=Amaterasu is the goddess of the sun in Japanese mythology.}}
+{{es|1=Amaterasu es la diosa del sol en mitología japonesa.}}
+{{fr|1=Amaterasu est la déesse du soleil dans mythologie japonaise.}}
+{{ja|1=天照大神は日本伝説における太陽の女神である。}}
+{{ko|1=아마테라스 오미카미는 일본 전설에서의 태양의 여신이다.}}
+{{nl|1=Amaterasu (天照) is in de Japanse mythologie de godin van de zon}}
+{{zh-hans|1=天照大神是日本传说的太陽女神。}}
+{{zh-hant|1=天照大神是日本傳說的太陽女神。}}
+|Source={{Own}}
+|Author=[[User:TI.A|TI.A]]
+|Date=1987
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{PD-self}}
+
+[[Category:Amaterasu Ōmikami]]
+== {{Original upload log}} ==
+{| class="wikitable"
+|-
+! {{int:filehist-datetime}} !! {{int:filehist-dimensions}} !! {{int:filehist-user}} !! {{int:filehist-comment}}
+|-
+| {{ISOdate|2008-12-27 22:14:11}} || 443 × 850 (282040 bytes) || {{User|TI.A}} || ''<nowiki>{{Information&#10;|Description={{nl|1=Amaterasu (天照) is in de Japanse mythologie de godin van de zon}}&#10;|Source=Own work&#10;|Author=[[User:TI.A|TI.A]]&#10;|Date=1987&#10;|Permission=&#10;|other_versions=&#10;}}&#10;&#10;&lt;!--{{ImageUpload|full}}--&gt;</nowiki>''
+|}

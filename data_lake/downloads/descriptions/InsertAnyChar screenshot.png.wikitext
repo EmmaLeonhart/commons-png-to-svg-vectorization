@@ -1,0 +1,12 @@
+== {{int:filedesc}} ==
+{{Information
+|description={{en|1=Screenshot of [[w:User:Nardog/InsertAnyChar|InsertAnyChar]], a user script for wikitext editing}}
+|date=2024
+|source={{own}}
+|author={{u|Nardog}}
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{Free screenshot|license={{Wikipedia-screenshot|en}}}}

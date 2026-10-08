@@ -1,0 +1,31 @@
+{{VG_doubt|Colour of the original is rather towards ''dark olive green'' than towards violet. Besides, colour seriously differs from left to right margin. Rather use [[:File:Van-willem-vincent-gogh-die-kartoffelesser-03850.jpg]]. [[User:W.|[w.]]] 12:51, 2 January 2009 (UTC)}}
+{{Artwork
+| wikidata = Q154469
+ |artist           = {{Creator:Vincent van Gogh}}
+ |title            = {{en|The Potato Eaters}}
+{{de|Die Kartoffelesser}}
+{{es|Comedores de batatas}}
+{{fr|Les mangeurs de pommes de terre}}
+{{nl|'''De aardappeleters'''}}
+{{pl|Jedzący kartofle}}
+{{it|I mangiatori di patate}}
+ |description      = 
+ |date             = 1885-04
+ |medium           = {{Oil on canvas}}
+ |dimensions       = {{size|cm|81.5|114.5}}
+ |institution      = {{Institution:Van Gogh Museum}}
+ |location         = {{Amsterdam}}
+ |accession number = 
+ |object history   = 
+ |credit line      = 
+ |inscriptions     = 
+ |notes            = Created in Nuenen, The Netherlands.
+ |references       = {{Van Gogh catalogues|F=82|JH=764}}
+ |source           = [??? - see original upload data]. However, thisone seems to be 'borrowed' from some file or print of the original.
+ |permission       = {{PD-Art|PD-old-auto-expired|deathyear=1890}}
+ |other_versions   = 
+}}
+
+
+
+[[Category:The Potato Eaters, van Gogh museum]]

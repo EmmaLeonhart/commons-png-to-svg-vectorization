@@ -1,0 +1,13 @@
+{{Information
+|Description=Symbol of Buddhism, white and golden version.
+|Source=Created by [[:it:user:Tinette|Tinette]] user of [[w:it:Pagina_principale|Italian Wikipedia]].
+|Date=2006-07-11
+|Author=[[:it:user:Tinette|Tinette]].
+|Permission=
+|other_versions=
+* [[:Image:BuddhismSymbolWhite.PNG]]
+}}
+
+{{GFDL|migration=relicense}}
+
+[[Category:Dharmachakra]]

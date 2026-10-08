@@ -1,0 +1,14 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|1=Sample of New Tai Lue Script}}
+|Source={{own}}
+|Author=[[User:Alifshinobi|Alifshinobi]]
+|Date=2010-02-03
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{self|cc-by-sa-3.0}}
+
+[[Category:New Tai Lue script]]

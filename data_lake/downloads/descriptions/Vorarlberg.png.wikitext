@@ -1,0 +1,17 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Map of Vorarlberg}}
+{{de|1=Karte von Vorarlberg}}
+|date=2016-10-30
+|source={{own}}
+|author=[[User:Arivaio|Ariva.io]]
+|permission=
+|other versions=
+}}
+
+Base on OpenStreetMap data http://ariva.io/at/vorarlberg/
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Maps of Vorarlberg]]

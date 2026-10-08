@@ -1,0 +1,15 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|1=Screenshot of [[:en:Wikipedia|Wikipedia]]'s homepage}}
+|Source=https://en.wikipedia.org
+|Author=Self Taken
+|Date=2023-06-07
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{Wikipedia-screenshot|en|main page}}
+{{Wikimedia trademark}}
+
+[[Category:Files uploaded by Sebbog13]]

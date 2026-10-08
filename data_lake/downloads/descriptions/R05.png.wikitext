@@ -1,0 +1,8 @@
+5px red bar.
+
+{{PD-shape}}
+[[Category:Solid bar graph components]]
+[[Category:Red rectangles]]
+[[Category:solid red images]]
+[[Category:Images - aspect ratio 1:2]]
+[[Category:Media missing infobox template]]

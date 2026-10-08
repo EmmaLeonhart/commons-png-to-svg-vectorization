@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Coat of arms of Remich canton}}
+|date=2017-05-22
+|source={{own}}
+|author=[[User:PotvinSux|PotvinSux]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Coats of arms of municipalities of Luxembourg]]
+[[Category:Symbols of Remich]]

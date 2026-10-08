@@ -1,0 +1,15 @@
+== {{int:filedesc}} ==
+{{Uploaded with en.wp UW marker|year=2012|month=03|day=27}}
+{{Information
+|Description = {{en|Mon of the [[:en:Toyotomi clan|Toyotomi clan]].}}
+|Source = Created by myself<br/>
+'''Previously published:''' Total War Wiki
+|Date = 2012
+|Author = [[User:Muneshige|Muneshige]]
+}}
+
+== {{int:license-header}} ==
+{{self|GFDL|cc-by-sa-3.0|migration=redundant}}
+
+[[Category:Toyotomi clan]]
+[[Category:Kiri mon (Japanese crests of empress tree)]]

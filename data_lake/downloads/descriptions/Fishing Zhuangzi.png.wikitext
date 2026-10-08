@@ -1,0 +1,14 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Illustration of the tortoise in the mud parable from the Zhuangzi.}}
+|date={{other date|?}}
+|source=http://www.cdzihua.com/a/chanpin/23.html
+|author={{unknown|author}}
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-Art|PD-old-70}}
+
+[[Category:Zhuangzi]]

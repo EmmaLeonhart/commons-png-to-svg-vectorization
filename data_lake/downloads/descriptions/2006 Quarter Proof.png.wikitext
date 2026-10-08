@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|Description=Removed background, cropped, and converted to PNG with Macromedia Fireworks.
+|Source=[https://web.archive.org/web/20160304052941/https://www.usmint.gov/pressroom/index.cfm?flash=yes&action=photo United States Mint]
+|Date=2006-04-06
+|Author=United States Mint
+|Permission=
+|other_versions=
+}}
+
+=={{int:license-header}}==
+{{PD-USGov-money}}
+{{currency}}
+
+[[Category:Obverses of Washington quarters]]
+[[Category:2006 coins]]

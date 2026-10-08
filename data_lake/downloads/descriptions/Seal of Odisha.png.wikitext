@@ -1,0 +1,15 @@
+{{vva|Seal of Odisha.svg}}
+== {{int:filedesc}} ==
+{{Information
+|description={{en|1=Seal of Odisha}}
+|date=2016-01-24
+|source=Government of Odisha
+|author=Government of Odisha
+}}
+{{svg|emblem}}
+
+== {{int:license-header}} ==
+{{PD-India}}
+{{Insignia}}
+
+[[Category:Government of Odisha]]

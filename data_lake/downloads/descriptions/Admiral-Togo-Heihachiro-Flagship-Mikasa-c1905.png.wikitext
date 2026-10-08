@@ -1,0 +1,18 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Inset photo of Admiral Tōgō Heihachirō, c. 1905, over a photograph of his flagship, Mikasa, leading the Imperial Japanese Navy battle line into action against the Imperial Russian Navy. “Being in the Empire’s world war, let each member work harder. In the 38th year of Meiji, the great victory of Japan.” The photo was inverted to show the original colors.}}
+{{ja|1905年頃の東郷提督と三笠（みかさ、旗艦）の写真。}}
+|date={{other date|~|1905}}
+|source=Old Tokyo - http://www.oldtokyo.com/this-is-the-japanese-greatest-admiral-admiral-togo-1906/
+|author=Imperial Japanese Navy
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-old-100-expired}}
+
+[[Category:Tōgō Heihachirō]]
+[[Category:Mikasa (ship, 1902)]]
+[[Category:Battle of Tsushima]]
+[[Category:Imperial Japanese Navy]]

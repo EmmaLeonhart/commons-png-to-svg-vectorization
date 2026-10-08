@@ -1,0 +1,14 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Former [[:en:Air force ensign|Ensign]] of [[:en:Myanmar Air Force|Myanmar Air Force]]}}
+|date=2022-03-29
+|source=Changed colour of field from [[:File:Air Force Ensign of Myanmar.svg]], <br>based on [https://www2.irrawaddy.com/articlefiles/21996-intent-01.jpg] and [https://www.crwflags.com/fotw/images/m/mm%5Eaf.gif]
+|author=[[:File:Air Force Ensign of Myanmar.svg]] : {{u|Zedlander}}
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{cc-by-sa-4.0}}
+
+[[Category:Air force ensigns of Myanmar]]

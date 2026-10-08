@@ -1,0 +1,18 @@
+== {{int:filedesc}} ==
+{{Information
+|Description    ={{en|1=Shield:Or, a dragon rampant gules holding a mace erect azure
+Motto: ''SUMORSAETE EALLE'' (All the people of Somerset)}}
+|Source         =own work derived from [[:File:County Flag of Somerset.png]]
+|Author         =DrKay
+|Date           =this version created 2011; original arms granted to the County of Somerset on 29 December 1911 by English College of Arms
+|Permission     =
+|other_versions = {{SVG available|Arms of Somerset County Council 1911.svg}}
+}}
+
+== {{int:license-header}} ==
+{{cc-by-sa-3.0}}
+
+[[Category:Symbols of Somerset]]
+[[Category:Dragons in heraldry]]
+[[Category:Red dragons]]
+[[Category:Dragons facing left]]

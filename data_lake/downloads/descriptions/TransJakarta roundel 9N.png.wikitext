@@ -1,0 +1,14 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=symbol for TransJakarta BRT Corridor 9N Pinang Ranti - Simpang Cawang}}
+|date=2024-01-29
+|source={{own}}
+|author=[[User:Desta231206|Desta231206]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-simple}}
+
+[[Category:TransJakarta icons]]

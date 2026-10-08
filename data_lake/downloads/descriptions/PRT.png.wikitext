@@ -1,0 +1,25 @@
+=={{int:filedesc}}==
+{{Information
+|description  = {{en|1=Crest of Porto municipality - Portugal.}}
+|date         = 2005-07-27 21:53
+|source       = [http://www.fisicohomepage.hpg.ig.com.br/ Sérgio Horta.]
+|author       = [[User:Brian Boru|Brian Boru]]
+|other_versions = 
+|other_fields = 
+}}
+The author has agreed to usage of his works under the GNU-FDL, as long as he is quoted as the source:
+
+:''Caro Senhor.
+:''Gostaria de saber se os brasões que tem no seu site estão no domínio público ou se estão protegidos por direitos de autor. Estou a participar na WIkipédia em português (pt.wikipedia.org) e gostaria de ilustrar os artigos sobre freguesias potuguesas com brasões como os que tem no seu site. Se estiver de acordo com essa utilização, deve estar informado que qualquer pessoa poderá ter acesso às imagens utilizando-as para qualquer fim legal, incluindo fins comerciais. Se estiver de acordo em colocar as imagens no domínio público, agradecia que me contactasse. Obrigado.
+:''Manuel Anastácio
+
+::''Olá, as imagens que estão no meu site são de livre utilização, só gostaria que, se os usa-sem no vosso site, indicassem a página de origem dos mesmos. Cumprimentos Sérgio Horta.
+{{GFDL|migration=relicense}}
+{{insignia}}
+{{SVG|coat of arms}}
+
+[[Category:Coats of arms of Porto]]
+[[Category:Madonna and Child in heraldry]]
+[[Category:Order of the Tower and of the Sword in heraldry]]
+[[Category:5 plates of Portugal]]
+[[Category:Location not applicable]]

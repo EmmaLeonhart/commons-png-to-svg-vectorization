@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Organizational chart of the Agency for Cultural Affairs as of March 27, 2023}}
+{{ja|1=文化庁組織図（2023年3月27日時点）}}
+|date=2024-11-23
+|source={{own}}
+|author=[[User:Narenko|Narenko]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-zero}}
+
+[[Category:Agency for Cultural Affairs]]

@@ -1,0 +1,15 @@
+== {{int:filedesc}} ==
+{{vva|Ninedots.svg}}
+{{Information
+|Description= Solution of the Nine Dots puzzle
+|Source= Steve Gustafson (aka Smerdis of Tlön)
+|Date= 2006-08-02
+|Author= Steve Gustafson (Smerdis of Tlön)
+|Permission= GFDL
+|other_versions= 
+}}
+
+== {{int:license-header}} ==
+{{Self|GFDL|Cc-by-sa-3.0-migrated}}
+
+[[Category:Nine Dot Problem]]

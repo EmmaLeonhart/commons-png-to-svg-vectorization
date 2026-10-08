@@ -1,0 +1,20 @@
+{{Convert to SVG|map}}
+{{Map datasource missing}}
+{{Map datasource missing}}
+
+=={{int:filedesc}}==
+{{Information
+|description={{es|1={{legend|#1E90FF|Donde es mayoritario}}
+{{legend|#87CEEB|Donde es minoritario}}}}
+|date=2014-03-29 22:08:55
+|source={{own}}
+|author=[[User:Fobos92|Fobos92]]
+|permission=
+|other_versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-3.0}}
+
+[[Category:Linguistic bichromatic maps of single language]]
+[[Category:Linguistic maps of the Ossetian language]]

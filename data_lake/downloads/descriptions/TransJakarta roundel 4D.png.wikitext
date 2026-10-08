@@ -1,0 +1,14 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=symbol for TransJakarta BRT Corridor 4D}}
+|date=2024-05-23
+|source={{own}}
+|author=[[User:Desta231206|Desta231206]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-simple}}
+
+[[Category:TransJakarta icons]]

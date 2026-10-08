@@ -1,0 +1,25 @@
+{{Information
+|Description={{ja|尺八の前面（左）と背面（右）。前面には4つ、背面には1つ穴がある}} {{en|A '''shakuhachi''' ('''尺八'''), a Japanese bamboo flute, blowing edge up. * Left - top view, four holes. * Right - bottom view, fifth hole. }} {{he|עורך את שאקוהאצ'י}} {{nl|Een '''shakuhachi''', blaaskant boven. * Links - voorkant, vier gaatjes. * Rechts - achterkant, één gaatje. }}
+|Source=*[[:File:Shakuhachi.jpg|Shakuhachi.jpg]]
+|Date=2010-05-05 12:19 (UTC)
+|Author=*[[:File:Shakuhachi.jpg|Shakuhachi.jpg]]: [[User:Lombroso|Lombroso]]
+*derivative work: [[User:PawełMM|PawełMM]] ([[User talk:PawełMM|<span class="signature-talk">talk</span>]])
+|Permission=
+|other_versions=
+}}
+
+{{RetouchedPicture|jpg to png - transparent background|editor=PawełMM|orig=Shakuhachi.jpg}}
+
+{{self|PD-self}}
+
+== {{original upload log}} ==
+This image is a derivative work of the following images:
+
+*[[:File:Shakuhachi.jpg]] licensed with PD-self
+**2010-05-05T11:43:54Z [[User:PawełMM|PawełMM]] 446x1324 (74299 Bytes) ''<nowiki>shading removed</nowiki>''
+**2006-03-14T14:30:08Z [[User:Lombroso|Lombroso]] 880x1500 (133917 Bytes) ''<nowiki>{{Information| |Description = Shakuhachi (尺八), a Japanese bamboo flute |Source = Photo taken by [[User:Lombroso|Lombroso]] |Date = March 12, 2006 |Author = [[User:Lombroso|Lombroso]] |Permission = PD |other_versions = - }</nowiki>''
+
+{{Uploaded with derivativeFX}}
+
+[[Category:Shakuhachi]]
+[[Category:Musical instruments on transparent background]]

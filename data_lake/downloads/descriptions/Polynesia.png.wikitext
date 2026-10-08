@@ -1,0 +1,15 @@
+{{Convert to SVG|locator map}}
+{{Information
+|Description={{en|Polynesian triangle stretching from New Zealand in the south to Easter Island in the east and Hawaii in the north. This is a modification of [[:File:French Polynesia (orthographic projection, yellowblue).svg]].}}
+|Source=See [[:File:French Polynesia (orthographic projection, yellowblue).svg]]; Map information based on ''Vaka Moana: Voyages of the Ancestors - the discovery and settlement of the Pacific'', ed K.R. Howe, 2008, p57.
+|Date=2010-10-25 (
+|Author=[[User:Kahuroa]]
+|Permission={{PD-user|Kahuroa}}.
+|other_versions=
+}}
+[[Category:Maps of Polynesia]]
+[[Category:Linguistic maps of Central–Eastern Oceanic languages]]
+[[Category:Polynesian Triangle]]
+{{ImageNote|id=1|x=294|y=41|w=89|h=155|dimx=386|dimy=298|style=2}}
+[[:en:Polynesia|Polynesia]]
+{{ImageNoteEnd|id=1}}

@@ -1,0 +1,66 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ru|1=Физическая карта Вест-Индии.}}
+* GMT coords: -R-93/-58/7/28
+|date=2012-08-27
+|source=
+* ETOPO1 for relief and bathymetry
+* GSHHS data for coastline, rivers and borders
+* {{own}}
+|author=[[User:Nzeemin|Nzeemin]]
+|permission=
+|other_versions=
+|other_fields=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-3.0}}
+
+== Source code ==
+<pre>
+set PATH=C:\programs\GMT5\bin;%PATH%
+set GSBIN=C:\PROGRA~2\gs\gs9.04/bin
+
+set COORDSCUT=-93/-58/7/28
+rem width = xmaxsvg / 150.0 * 2.54
+set PAPERX=15.0876
+rem height = ymaxsvg / 150.0 * 2.54
+set PAPERY=9.4996
+
+grdcut.exe ETOPO1_Bed_g_gmt4.grd -R%COORDSCUT% -Gh_cor_cut.grd
+if not errorlevel 0 goto End
+grdgradient h_cor_cut.grd -Ne0.2 -A315 -M -Ghi.grd  
+if not errorlevel 0 goto End
+
+grdsample h_cor_cut.grd -I4m -nb -Gh_cor_cut2.grd
+if not errorlevel 0 goto End
+grdgradient h_cor_cut2.grd -Ne0.0333 -A315 -M -Ghi2.grd  
+if not errorlevel 0 goto End
+
+grdimage h_cor_cut2.grd -Ihi2.grd -Cwiki-water-verlauf2.cpt -P -R%COORDSCUT% -JX%PAPERX%cd/%PAPERY%cd --PAPER_MEDIA=Custom_%PAPERX%cx%PAPERY%c -X0 -Y0 -K > map.eps
+if not errorlevel 0 goto End
+
+pscoast.exe -JX%PAPERX%cd/%PAPERY%cd -R%COORDSCUT% -Gc -P -Di --PAPER_MEDIA=Custom_%PAPERX%cx%PAPERY%c -X0 -Y0 -O -K >> map.eps
+if not errorlevel 0 goto End
+
+grdimage h_cor_cut.grd -Ihi.grd -Cmount.cpt -P -R%COORDSCUT% -JX%PAPERX%cd/%PAPERY%cd --PAPER_MEDIA=Custom_%PAPERX%cx%PAPERY%c -X0 -Y0 -O -K >> map.eps
+if not errorlevel 0 goto End
+
+pscoast.exe -JX%PAPERX%cd/%PAPERY%cd -R%COORDSCUT% -Q -P -Di --PAPER_MEDIA=Custom_%PAPERX%cx%PAPERY%c -X0 -Y0 -O -K >> map.eps
+if not errorlevel 0 goto End
+
+pscoast.exe -JX%PAPERX%cd/%PAPERY%cd -R%COORDSCUT% -N1/0.5p,#646464 -I2/0.25p,#0978AB -W0.25,#0978AB -P -Di --PAPER_MEDIA=Custom_%PAPERX%cx%PAPERY%c -X0 -Y0 -O >> map.eps
+if not errorlevel 0 goto End
+
+%GSBIN%\gswin32c.exe -dSAFER -dBATCH -dNOPAUSE -dGraphicsAlphaBits=4 -sDEVICE=pngalpha -dEPSCrop -r150 -sOutputFile=Oblast_etopo.png map.eps
+if not errorlevel 0 goto End
+
+del h.grd
+del hi.grd
+
+:End
+</pre>
+
+[[Category:Location maps of Caribbean|1]]
+[[Category:Location maps of water bodies|1]]
+[[Category:Topographic maps of the Caribbean]]

@@ -1,0 +1,28 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1={{Information
+|Description=Map of the former Japanese provinces, with Dewa highligted
+|Source=Own work, based on [[:Image:Provinces of Japan-Dewa.svg]]
+|Date=2007-02-08
+|Author=Yota00
+|Permission= {{Self|GFDL|Cc-by-sa-3.0-migrated|Cc-by-2.5}}
+|other_versions=
+}}
+
+[[Category:SVG locator maps of former provinces in Japan (location map scheme)]]
+[[Category:Uzen Province]]
+[[Category:Ugo Province]]
+[[Category:Dewa Province]]}}
+|date=2021-04-23
+|source={{own}}
+|author=[[User:Yota00|Yota00]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Dewa Province]]
+[[Category:Maps of the provinces of Japan]]
+[[Category:Maps of Tōhoku region]]

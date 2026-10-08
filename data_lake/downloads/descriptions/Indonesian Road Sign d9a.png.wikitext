@@ -1,0 +1,19 @@
+{{SVG|road sign}}
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Indonesian Road Sign according to KM 61/1993 tentang Rambu Lalu Lintas}}
+|date=2014-06-18 10:35:26
+|source={{own}}
+|author=[[User:AdriansyahYS|AdriansyahYS]]
+|permission=
+|other_versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-3.0}}
+{{IHL Symbol}}
+
+[[Category:Diagrams of guide road signs of Indonesia]]
+[[Category:Diagrams of hospital road signs]]
+[[Category:Bed icons]]
+[[Category:Road signs with red cross]]

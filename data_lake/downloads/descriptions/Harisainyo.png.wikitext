@@ -1,0 +1,19 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|1=Harisainyo as one of buddhist deities}}
+{{ja|1=頗梨采女。仏像図彙 (1783年)より。<br>頗梨采天女。南海娑竭羅龍王第三子也。牛頭天王ノ后トナル簠簋ニ云フ所ノ如シ。}}
+|Source=http://www.lib.ehime-u.ac.jp/SUZUKA/316/index.html
+|Author=Hidenobu Tosa, 土佐秀信
+|Date=1783
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{PD-old-100}}
+
+[[Category:Buddhist deities of Japan]]
+[[Category:Butsuzō Zui]]
+[[Category:Kushinadahime]]
+[[Category:Gozu Tennō in art]]
+[[Category:Shintō deities in art]]

@@ -1,0 +1,7 @@
+[[Category:Media missing infobox template]]
+<!--This file was moved here using FileImporter from https://en.wikipedia.org/wiki/File:Wikipedia-The_Missing_Manual_I_replacement2.png-->
+== {{int:filedesc}} ==
+{{Cc-zero}}
+Replacement image for new Vector skin.
+
+[[Category:English Wikipedia screenshots]]

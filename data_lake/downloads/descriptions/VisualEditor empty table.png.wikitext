@@ -1,0 +1,9 @@
+{{Information
+|Description={{en|1=Screenshot showing a blank table in VisualEditor.}}
+|Source=Screenshot
+|Date=2015-09-01
+|Author=MediaWiki authors (user interface)
+|Permission={{wikimedia-screenshot|logo=no}}
+|other_versions=
+}}
+[[Category:VisualEditor]]

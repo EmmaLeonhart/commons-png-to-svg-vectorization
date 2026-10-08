@@ -1,0 +1,18 @@
+== {{int:filedesc}} ==
+{{Information
+|Description=''[[Boletus edulis]]''
+{{fi|Herkkutatti}}
+{{sv|Karl Johanssvamp}}
+|Source=[[Iduns kokbok]], scanned by Project Runeberg; transparency added by [[User:Ilmari Karonen|Ilmari Karonen]]
+|Date=1911
+|Author=Elisabeth Östman (1869–1933)
+|Permission=
+|other_versions=<gallery>Image:Karl Johanssvamp, Iduns kokbok.jpg|Original JPEG scan, no transparency</gallery>
+}}
+
+== {{int:license-header}} ==
+{{PD-old}}
+{{PD-US}}
+
+[[Category:Boletus edulis - botanical illustrations]]
+[[Category:Iduns kokbok]]

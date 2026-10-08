@@ -1,0 +1,19 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|If you own the copyright to an image and would like wikipedia to be able to use it you will need to release it under a [[:en:Wikipedia:Image copyright tags#For image creators|free license]] such as the [[:en:Wikipedia:Text of the GNU Free Documentation License|GFDL]]. If you are prepared to do this [{{fullurl:Special:Upload|uselang=fromowner}} click here].}}
+|Source=Made by [[:en:User:Geni|Geni]]. {{transferred from|en.wikipedia|Kelly|CommonsHelper}}
+|Date={{original upload date|2007-02-22}}
+|Author={{user at project|Geni|wikipedia|en}}
+|Permission=
+|other_versions=[[:File:Male no free image yet.svg]] (derivative work)
+}}
+
+== {{int:license-header}} ==
+{{PD-user-en|Geni}}
+
+== {{Original upload log}} ==
+{{original description page|en.wikipedia|Male_no_free_image_yet.png}}
+* 2007-02-22 23:33 [[:en:User:Geni|Geni]] 251×251× (5516 bytes) ''<nowiki>made myself. provisional</nowiki>''
+
+[[Category:Wikipedia image placeholders]]
+[[Category:Persons placeholders in English]]

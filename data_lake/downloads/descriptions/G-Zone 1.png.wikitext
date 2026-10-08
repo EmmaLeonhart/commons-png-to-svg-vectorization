@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{de|1=G-Zone, eine bei vielen Frauen erogene Zone im vorderen Scheidendach. Umgangssprachlich wird sie im Deutschen auch als G-Punkt bezeichnet, es handelt sich aber um einen wenige Quadratzentimeter großen erektilen Gewebebereich.}}
+|date=2021-02-03
+|source=Bodysculptor.com, Neuzeichnung nach [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5084726/] Abbildung 4 b, [https://www.researchgate.net/figure/Relative-dexterity-in-stimulating-external-and-internal-pelvic-structures-associated-with_fig2_309450118], [https://www.webmd.com/men/features/sex-fact-fiction#3], [https://en.wikipedia.org/wiki/File:Blausen_0400_FemaleReproSystem_02b.png]  
+|author=[[User:Sciencia58|Sciencia58]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-zero}}
+
+[[Category:G-spot]]
+[[Category:German-language diagrams]]
+[[Category:Lateral cross-section of penile-vaginal intercourse]]

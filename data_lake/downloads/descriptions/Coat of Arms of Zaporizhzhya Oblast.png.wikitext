@@ -1,0 +1,15 @@
+{{Information
+|Description={{Uk|Герб Запорізької області (Україна)}}{{eo|Blazono de la Oblasto Zaporiĵa en Ukrainio}}{{de|Das Wappen der Oblast Saporischschja (Ukraine)}}
+{{en|Coat of Arms of the Zaporizhzhya Oblast, Ukraine}}{{Ru|Герб Запорожской области (Украина)}}
+|Source=[https://www.crwflags.com/fotw/flags/ua-zp.html FOTW]
+|Date={{upload date|2007-12-2}}
+|Author=Пилипенко Виталий Павлович
+|Permission=PD-UA-EXEMPT
+|other_versions=[[:File:Coat of arms of Zaporizhia Oblast.png]]
+}}
+{{PD-UA-exempt|type=coats of arms}}
+{{Vector version available|Coat of arms of Zaporizhia Oblast.svg}}
+
+{{DEFAULTSORT:Zaporizhzhia Oblast}}
+[[Category:Coats of arms of Zaporizhzhia Oblast]]
+[[Category:Location not applicable]]

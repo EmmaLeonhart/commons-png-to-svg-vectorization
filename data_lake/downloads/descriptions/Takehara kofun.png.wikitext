@@ -1,0 +1,11 @@
+{{Information
+|Description    ={{en|1=Takehara Kofun, Miyawaka, Fukuoka, Japan}}
+|Source         =http://kyuhaku.jmc.or.jp/d_frame.php/40/25/
+|Author         =Anonymous sixth-century artist craftsmen
+|Date           =Sixth Century
+|Permission     ={{PD-Art|PD-old-100}}
+|other_versions =
+}}
+
+[[Category:Interiors of Kofun of Fukuoka prefecture]]
+[[Category:Takehara Kofun]]

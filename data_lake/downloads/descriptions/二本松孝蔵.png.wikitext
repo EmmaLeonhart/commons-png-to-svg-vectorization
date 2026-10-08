@@ -1,0 +1,14 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=nihonmatshukouzou}}
+|date=1935-01-01
+|source=『別格官幣社山内神社御造営誌』山内豊信公・山内豊範公別格官幣社奉祀期成会
+|author=山内豊信公・山内豊範公別格官幣社奉祀期成会
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-Japan-oldphoto}}
+
+[[Category:Unidentified people of Japan]]

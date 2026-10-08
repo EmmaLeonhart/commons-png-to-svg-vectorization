@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+| description = {{en|1=VisualEditor_edit_tab-en.png}} Tab that switches between VisualEditor and wikimarkup source editor - as seen in VisualEditor.
+| date = 2015-03-15
+| source = [[User:LanguageScreenshotBot|Automatically created by LanguageScreenshotBot]]
+| author = [[User:LanguageScreenshotBot|Automatically created by LanguageScreenshotBot]] Manually updated by [[user:Evolution and evolvability]]
+| permission = 
+| other_versions = Source editor version [[:File:Source Editor edit tab-en.png]]
+| other_fields = 
+}}
+
+=={{int:license-header}}==
+{{Wikipedia-screenshot}}
+
+[[Category:VisualEditor-en]]

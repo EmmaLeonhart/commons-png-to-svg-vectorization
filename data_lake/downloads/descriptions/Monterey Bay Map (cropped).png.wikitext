@@ -1,0 +1,14 @@
+== {{int:filedesc}} ==
+{{Information
+|description={{en|1=Map of the Monterey Bay Area using OSM Data}}
+|date=2023-01-09
+|source={{own}} using OpenStreetMap
+|author=[[User:Qneiro|Qneiro]]
+}}
+{{Extracted from|1=Monterey Bay Map.png}}
+
+== {{int:license-header}} ==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Maps of Monterey, California]]
+[[Category:OpenStreetMap maps of California]]

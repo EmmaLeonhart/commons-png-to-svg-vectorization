@@ -1,0 +1,32 @@
+{{Convert to SVG|icon}}
+
+== {{int:filedesc}} ==
+{{Information
+|Description    ={{en|1=[[Wikipe-tan]] [[manga]] [[magazine]]}}
+|Source         =*[[:File:Wikipe-tan_without_body.png|Wikipe-tan_without_body.png]] *[[:File:Icono_comic.png|Icono_comic.png]]
+|Author         =*[[:File:Wikipe-tan_without_body.png|Wikipe-tan_without_body.png]]: '''PLEASE COMPLETE AUTHOR INFORMATION''' *[[:File:Icono_comic.png|Icono_comic.png]]: Cómic Nación y mia propia *derivative work: [[User:Hyju|Hyju]] ([[User talk:Hyju|<span class="signature-talk">talk</span>]])
+|Date           =2011-06-27
+|Permission     =
+|other_versions =
+}}
+{{RetouchedPicture||editor=Hyju|orig=Icono_comic.png}}
+
+== {{int:license-header}} ==
+{{Cc-by-sa-3.0}}
+
+== {{Original upload log}} ==
+This image is a derivative work of the following images:
+
+*[[:File:Wikipe-tan_without_body.png]] licensed with Cc-by-sa-3.0-migrated, GFDL
+**2008-05-23T23:04:04Z [[User:TomTheHand|TomTheHand]] 917x769 (62013 Bytes) ''<nowiki>Losslessly reduced file size by 61%</nowiki>''
+**2006-07-29T06:39:07Z [[User:A.I.|A.I.]] 917x769 (157540 Bytes) ''<nowiki>A variant of the image [[:Image:Wikipe-tan.jpg]] from the author [[:ja:利用者:Kasuga]].</nowiki>''
+
+*[[:File:Icono_comic.png]] licensed with Cc-by-sa-3.0,2.5,2.0,1.0, GFDL
+**2011-04-11T00:58:04Z [[User:WoWoW|WoWoW]] 525x425 (184317 Bytes) ''<nowiki>{{Information |Description ={{es|1=Icono DC Comics}} |Source =http://comicnacion.blogspot.com/p/pedidos.html |Author =Cómic Nación y mia propia |Date =2010-04-10 |Permission = |other_version</nowiki>''
+
+{{Uploaded with derivativeFX}}
+
+[[Category:Comic book icons]]
+[[Category:Manga magazines]]
+[[Category:Wikipe-tan (manga)]]
+[[Category:Wikipe-tan icons]]

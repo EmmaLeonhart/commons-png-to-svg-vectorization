@@ -1,0 +1,28 @@
+== {{int:filedesc}} ==
+{{Information
+|Description=Newfoundland Red Ensign
+|Source=[[:en:Newfoundland_Red_Ensign.png|en.wikipedia]]
+|Date=2006-11-27
+|Author=Lexicon
+|Permission=
+|other_versions=
+}}
+{{vector version available|File:Dominion_of_Newfoundland_Red_Ensign.svg}}
+
+== {{int:license-header}} ==
+{{GFDL-user-en|Lexicon|migration=relicense}}
+{{Insignia}}
+
+== Upload log from en.wikipedia ==
+*<nowiki>15:36, 27 November 2006 . . Lexicon (Talk | contribs) . . 600×300 (58,264 bytes) (Newfoundland Red Ensign)</nowiki>
+
+[[Category:Flags of Newfoundland and Labrador]]
+[[Category:Flags with people]]
+[[Category:Historical flags of Canada]]
+[[Category:Newfoundland and Labrador in the 1900s]]
+[[Category:PNG flags of Canada]]
+[[Category:Red ensigns of Canada]]
+[[Category:Red Ensigns (British Empire)]]
+[[Category:Flags of former colonies of the United Kingdom]]
+[[Category:Union Jack cantons]]
+[[Category:Britannia]]

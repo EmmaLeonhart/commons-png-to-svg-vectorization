@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=352nd Chikugo river Fireworks Festival which is held on 5th, Aug. 2011(Kurume, Fukuoka, Japan).}}
+|date=2011-08-05
+|source={{own}}
+|author=[[User:久留米市民|久留米市民(Kurume-Shimin)]]
+|permission=
+|other_versions=
+|other_fields=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-3.0}}
+
+[[Category:Fireworks in Fukuoka prefecture]]
+[[Category:Culture of Kurume]]

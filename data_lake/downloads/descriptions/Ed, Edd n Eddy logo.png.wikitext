@@ -1,0 +1,23 @@
+=={{int:filedesc}}==
+{{vector version available|File:Ed, Edd n Eddy.svg}}
+{{Information
+|description=
+{{en|1=Logo of the animated series Ed, Edd n Eddy.}}
+{{th|1=โลโก้ ของ เอ็ด เอ็ดด กับ เอ็ดดี้}}
+{{es|1=Logotipo de la serie animada Ed, Edd, y Eddy.}}
+{{fr|1=Logo de la série animée Ed, Edd et Eddy}}
+{{hu|1=Az Ed, Edd és Eddy rajzfilmsorozat logója.}}
+{{tr|1=Çizgi dizi serisi olan Ed, Edd ve Eddy'nin logosu.}}
+|date=2012-07-23
+|source=http://www.cartoonnetwork.com/tv_shows/eds/index.html
+|author=Presumably Danny Antonucci
+|permission=
+|other_versions=
+|other_fields=
+}}
+
+=={{int:license-header}}==
+{{PD-text}}
+{{Trademarked}}
+
+[[Category:Ed, Edd n Eddy logos]]

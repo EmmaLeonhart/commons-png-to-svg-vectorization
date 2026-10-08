@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Coat of Arms of Veneto}}{{vec|1=Stema del Vèneto}}{{it|1=Stemma del Veneto}}{{Coa blazon}}
+|date=2016-01-23
+|source={{own based}} [https://www.regione.veneto.it/web/comunicazione-e-informazione/stemma-regionale Manuale di immagine coordinata della Regione del Veneto]
+|author=[[User:Tohaomg|Tohaomg]]
+|permission=
+|other versions={{vva|Arms of Veneto.svg}}
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Coats of arms of Veneto]]
+[[Category:Lion of Saint Mark in heraldry]]

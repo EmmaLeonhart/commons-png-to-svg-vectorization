@@ -1,0 +1,22 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Coat of arms of Wallachia, miniature painting above a dedication by Prince Alexander Ypisilantis.}}
+|date=1795
+|source=''Condica Mânăstirii Bistrița'' (at [https://tiparituriromanesti.wordpress.com/2013/07/13/dionisie-eclesiarhul-condica-manastirii-bistrita-jud-valcea-1795/ /tiparituriromanesti.wordpress.com])
+|author=Dionisie Eclesiarhul (ca. 1750–1820)
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-Art|PD-old-100}}
+
+[[Category:Dionisie Eclesiarhul]]
+[[Category:Coats of arms of Wallachia with the Wallachian Bird|1795]]
+[[Category:Alexander Ypsilantis (voivode)]]
+[[Category:1795 works in Romania]]
+[[Category:1795 paintings]]
+[[Category:Argent shields]]
+[[Category:Crowned coats of arms]]
+[[Category:Swords in crest]]
+[[Category:Sceptres in heraldry]]

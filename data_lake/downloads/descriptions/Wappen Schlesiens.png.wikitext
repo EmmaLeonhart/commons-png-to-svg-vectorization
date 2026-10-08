@@ -1,0 +1,14 @@
+== {{int:filedesc}} ==
+{{Information
+|Description    ={{de|1=Wappen Schlesiens}} {{sli|1=Woappa vo Schläsing}}
+|Source         ={{own}}
+|Author         =[[User:Schläsinger|Schläsinger]]
+|Date           =2011
+|Permission     =
+|other_versions =
+}}
+
+== {{int:license-header}} ==
+{{PD-Coa-Germany}}{{PD-Polishsymbol}}{{PD-CzechGov}}
+
+[[Category:Coats of arms of Silesia]]

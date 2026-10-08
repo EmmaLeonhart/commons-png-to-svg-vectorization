@@ -1,0 +1,19 @@
+=={{int:filedesc}}==
+{{Information
+|description=
+{{en|Flag of Mexican Search and rescue}}
+{{es|bandera Búsqueda y Rescate Marítimo del Mexico}}
+|date=2014-02-27 21:47:39
+|source=Maritime Search and Rescue
+|author=Secretaría de Marina
+|permission=
+|other_versions=
+|other_fields=
+}}
+{{svg|flag}}
+
+=={{int:license-header}}==
+{{PD-Coa-Mexico}}
+
+[[Category:Maritime flags of Mexico]]
+[[Category:PNG flags of Mexico]]

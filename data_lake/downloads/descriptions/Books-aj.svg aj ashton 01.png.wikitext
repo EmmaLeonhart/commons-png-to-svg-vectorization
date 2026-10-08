@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{information
+|description={{en|Two books icon.}}{{fr|Deux livres.}}
+|date=2011-01-20
+|source=https://openclipart.org/detail/105859/booksajsvg-aj-ashton-01
+|author=[https://openclipart.org/user-detail/AJ AJ] on [https://openclipart.org/ openclipart.org]
+|permission=
+|other versions={{supersededSVG|Books-aj.svg aj ashton 01.svg}}{{DerivativeVersions|Lur Wikipediaratzeko Lantegia.jpg}}
+ [[Image:Books-aj.svg aj ashton 01b.svg|64px]] [[Image:Books-aj.svg aj ashton 01c.svg|64px]] [[Image:Books-aj.svg aj ashton 01e.svg|64px]] [[Image:Books-aj.svg aj ashton 01f.svg|64px]] [[Image:Books-aj.svg aj ashton 01g.svg|64px]]
+}}
+
+=={{int:license-header}}==
+{{PD-OpenClipart}}
+
+[[Category:2 books icons]]
+[[Category:Book stub icons]]

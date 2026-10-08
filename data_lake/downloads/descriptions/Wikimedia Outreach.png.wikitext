@@ -1,0 +1,17 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|1=Wikimedia Outreach Project Logo}}
+|Source=Wikimedia Foundation, [[File:Wikimedia Foundation RGB logo with text.svg|20px]]
+|Author=Logo and trademark of the Wikimedia foundation designed by Wikipedia user [[:en:User:Neolux|Neolux]], SVG version created by [[:User:DarkEvil|DarkEvil]] and revised by [[:en:User:Sakurambo|Philip Ronan]] and optimized by {{U|Zscout370}} and [[User:SkyBon|Artem Karimov]], Outreach version created by [[User:RobH|RobH]]
+|Date=2009-10-27
+|Permission=
+|other_versions=
+}}
+{{vector version available|file:Wikimedia Outreach.svg}}
+
+== {{int:license-header}} ==
+{{PD-shape}}
+{{Wikimedia trademark}}
+
+[[Category:Wikimedia Foundation logos]]
+[[Category:Wikimedia Outreach| ]]

@@ -1,0 +1,13 @@
+<!--This file was moved here using FileImporter from https://en.wikipedia.org/wiki/File:Mobile_view_problem_climate_change.png-->
+=={{int:filedesc}}==
+{{Information
+|Description = {{en|Example of bad formatting cuz of template}}
+|Source = {{own}}
+|Date = 2020-05-05
+|Author = [[:w:User:Moxy|Moxy]]
+}}
+
+=={{int:license-header}}==
+{{Wikipedia screenshot|logo=no}}
+
+[[Category:English Wikipedia screenshots]]

@@ -1,0 +1,15 @@
+{{Information
+|Description=「三つ猿／三つ括り猿」紋（染抜）
+|Source={{own}}
+|Date=2012-07-09, 2023-05-31
+|Author=hand drawn on Adobe Photoshop by the author/uploader, [[user:白拍子花子|白拍子花子]]
+|Permission={{PD-self}}{{self|cc-by-sa-4.0}}
+|other_versions=
+}}
+
+[[Category:Yakusha mon (Japanese crests of Kabuki actors)]]
+[[Category:Triskelion]]
+[[Category:Japanese crests of tools and household objects]]
+{{ImageNote|id=1|x=103|y=32|w=164|h=151|dimx=525|dimy=525|style=2}}
+Saru, a hook for holding a pot higher or lower on its chain.
+{{ImageNoteEnd|id=1}}

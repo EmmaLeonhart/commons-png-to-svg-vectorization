@@ -1,0 +1,18 @@
+=={{int:filedesc}}==
+{{Information
+|description={{Mld
+  |en=Glyph for Tangut character #2403 “<bdi style="font-family:{{Tangut fonts}}">𗏇</bdi>” (U+173C7) in Li Fanwen's 2008 "Tangut-Chinese Dictionary": 11 strokes (left  radical component-067 “<bdi style="font-family:{{Tangut fonts}}">𘡂</bdi>” + 8 residual strokes).
+  }}
+|date=2013-04-08 02:26:42
+|source={{own}}
+|author=[[User:BabelStone|BabelStone]]
+|permission=
+|other_versions=
+|other_fields=
+}}
+
+=={{int:license-header}}==
+{{self|cc-zero}}
+
+[[Category:𗏇]]
+[[Category:Tangut Yinchuan]]

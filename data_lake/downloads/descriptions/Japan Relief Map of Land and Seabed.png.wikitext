@@ -1,0 +1,19 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=This is a relief map of the land and the seabed of Japan. It shows the surface and underwater terrain of the Japanese archipelago. It includes all the Japanese islands such as Minami-Tori-Shima, Benten-jima, Okinotorishima and Yonaguni.}}
+{{ja|1=日本近海海底地形図と日本列島。}}
+|date=2009-01-01
+|source=ETOPO1, Global Relief Model, https://www.ngdc.noaa.gov/mgg/global/global.html
+|author=NASA, National Geophysical Data Center, NOAA
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-USGov-NASA}}
+
+[[Category:Extreme points of Japan]]
+[[Category:Topographic maps of Japan]]
+[[Category:Japanese Archipelago]]
+[[Category:Bathymetric maps of the Pacific Ocean]]
+[[Category:Back-arc basins]]

@@ -1,0 +1,14 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Show how to create a permalink using Page history of page.}}
+|date=2025-02-27
+|source={{own}}
+|author=[[User:Waddie96|Waddie96]]
+|permission={{Wikipedia screenshot|logo=no}}
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:View history (MediaWiki feature)]]

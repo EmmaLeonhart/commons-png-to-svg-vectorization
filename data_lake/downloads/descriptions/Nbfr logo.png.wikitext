@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Symbol of National Badminton Federation of Russia}}
+|date=2021-09-30
+|source=https://extranet.bwfbadminton.com/docs/flags/nfr.png
+|author=National Badminton Federation of Russia
+http://www.badm.ru/index.php?page_id=263
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+
+{{PD-RU-exempt|type=logos and emblems}}
+
+[[Category:Logos of Russia]]

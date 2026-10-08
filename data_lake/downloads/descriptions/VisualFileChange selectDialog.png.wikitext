@@ -1,0 +1,17 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Nominate for deletion, replacing text, moving sections, adding text, tagging files with no permission, insert OTRS tags for lots of files by one user or in one category -- No problem with VisualFileChange.}}
+|date=2012-02-15
+|source={{own}}, [[:File:GeoGebra icon help.png]], [[:Category:Crystal Project Easy Notice Icons]], [http://jqueryui.com/themeroller/ themeroller@jquery]
+|author=Icons: The jQuery UI-Team, Everaldo Coelho; Help icon: Markus Hohenwarter, Michael Borcherds; Thumbs: Rainer Rillke (User:Rillke)
+|permission=
+|other_versions=
+|other_fields=
+}}
+
+=={{int:license-header}}==
+{{Free screenshot|template=GPL}} 
+=== Thumbs ===
+{{self|GFDL|cc-by-sa-3.0}}
+
+[[Category:Screenshots of VisualFileChange]]

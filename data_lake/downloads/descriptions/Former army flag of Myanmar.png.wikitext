@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Former flag of [[:en:Myanmar Army|Myanmar Army]], used probably between 1948 and mid-1990s}}
+|date=2022-04-13
+|source=Recreated, based on [[:File:Army Flag of Myanmar.svg|current flag of Myanmar Army]], [[:File:Flag of Commander-in-Chief of the Burma Army.png|the former flag of Commander-in-Chief of Army]], two pictures of Lieutenant General Tin Oo :[http://3.bp.blogspot.com/-4slloqHT4Yk/Ujw_VFwJ_tI/AAAAAAAASvs/WWKFX1rf0bA/s1600/23.jpg] and [https://cdn.myanmarseo.com/file/client-cdn/peoplemedia/wp-content/uploads/2020/12/131890924_830186797554222_6883452705617225898_n.jpg]
+|author=[[User:နေနီဝန်း|နေနီဝန်း]]
+|permission=
+|other versions= {{vva|Old Flag of Burma Army.svg}}
+}}
+
+
+=={{int:license-header}}==
+{{self|cc-zero}}
+
+[[Category:Army flags of Myanmar]]
+[[Category:PNG flags of Myanmar]]

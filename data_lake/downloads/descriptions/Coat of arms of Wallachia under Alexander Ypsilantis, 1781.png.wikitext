@@ -1,0 +1,22 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Coat of arms of Wallachia under Prince Alexander Ypsilantis.}}
+|date=1781-02-10
+|source=[http://aleph500.biblacad.ro:8991/F/NLK14TGEQLJ9847LY6DUSI6Y75VVGYB8KM8BNDBYFJVY4UG6BX-12487?func=full-set-set&set_number=001898&set_entry=000202&format=999 Romanian Academy Library]
+|author=Wallachian Chancellery
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+
+{{PD-Art|PD-old-auto|deathyear=1800}}
+{{PD-1923}}
+{{PD-RO-exempt|type=seals}}
+
+[[Category:Coats of arms of Wallachia with the Wallachian Bird|1781]]
+[[Category:Wallachian Bird, Or]]
+[[Category:1780s seals]]
+[[Category:1781 paintings]]
+[[Category:1781 works in Romania]]
+[[Category:Alexander Ypsilantis (voivode)]]

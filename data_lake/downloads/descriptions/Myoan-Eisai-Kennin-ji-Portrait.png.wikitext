@@ -1,0 +1,18 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Zen master Yōsai. Myōan Yōsai was the founder of Japanese Rinzai Zen and abbot of Kennin-ji. The characteristic skull shape can be found on other portraits of him. Yōsai sits on the traditional abbot chair, Linji's cane in hand. Note that although Yōsai is sitting on a raised chair, he has taken off his shoes and crossed his legs. This way of sitting can also be observed in many other monk portraits.}}
+{{de|1=Zenmeister Yōsai (Bild: Kurokawa Takao no Bi). Myōan Yōsai war der Begründer des japanischen Rinzai-Zen und Abt des Kennin-ji. Die charakteristische Schädelform findet sich auf anderen Portraits von ihm. Yōsai sitzt auf dem traditionellen Abtsessel, in der Hand den Stock Linjis. Man beachte, dass Yōsai zwar auf einem erhöhten Stuhl sitzt, die Schuhe aber ausgezogen und die Beine überkreuzt hat. Diese Sitzweise ist auch auf vielen anderen Mönchsportraits zu beobachten.}}
+|date={{other date|century|12}}
+|source= https://www.univie.ac.at/rel_jap/an/Geschichte/Zen#/media/File:Eisai_kenninji.jpg
+|author={{unknown|author}}
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-Art|PD-old-100-expired}}
+
+[[Category:Eisai]]
+[[Category:Paintings of historical figures from Japan]]
+[[Category:Kennin-ji]]
+[[Category:Zen Buddhists]]

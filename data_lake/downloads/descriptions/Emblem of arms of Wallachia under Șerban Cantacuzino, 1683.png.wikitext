@@ -1,0 +1,22 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Emblem of Wallachia under Prince Șerban Cantacuzino, one of several variants with the Cantacuzino arms (double-headed eagle) and the Wallachian bird.}}
+|date=1683-04-25
+|source=[http://aleph500.biblacad.ro:8991/F/9J673BLSFU6X7HRQXCD4DE7883634U75MN7S6U4RQBDGMURE8S-22183?func=full-set-set&set_number=013836&set_entry=000028&format=037 Romanian Academy Library]
+|author=Wallachian Chancellery
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+
+{{PD-Art|PD-old-auto|deathyear=1700}}
+{{PD-1923}}
+{{PD-RO-exempt|type=seals}}
+
+[[Category:Cantacuzino (coat of arms)]]
+[[Category:Coats of arms of Wallachia with the Wallachian Bird|1683]]
+[[Category:Wallachian Bird, Or]]
+[[Category:Șerban Cantacuzino]]
+[[Category:1683 paintings]]
+[[Category:1683 in Romania]]

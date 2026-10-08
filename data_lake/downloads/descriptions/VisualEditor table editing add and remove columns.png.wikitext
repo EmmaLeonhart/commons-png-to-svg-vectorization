@@ -1,0 +1,8 @@
+{{information
+|Description={{en|1=Details from the table editing feature in VisualEditor.  This table was created by me for the purpose of making these screenshots.  December 2014 (original) version may become outdated rapidly.}}
+|Source=Screenshot taken at MediaWiki.org.  
+|Date=2014-12-16
+|Author=Own work
+|Permission={{Wikimedia-screenshot|1=en|logo=no}}
+|other_versions={{Other versions/VisualEditor table editing add and remove columns}}
+}}

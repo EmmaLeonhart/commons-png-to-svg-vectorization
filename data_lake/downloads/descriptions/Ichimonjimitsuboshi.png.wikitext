@@ -1,0 +1,24 @@
+{{Vva|Ichimonjimitsuboshi (black).svg|q=s}}
+=={{int:filedesc}}==
+{{Information
+|description={{ja|1=日本の家紋の一種。「 字（じ）紋・文字（もじ）紋 」と「 星（ほし）・曜（よう）紋 」の組み合わせ。
+
+毛利氏（安芸国の戦国大名から長州藩藩主、そして華族（侯爵）に列した家。）の家紋。
+
+毛利三つ星（もうり みつぼし）・毛利家一に三つ星（もうり け  いち に  みつぼし）・一文字三つ星（いちもんじ みつぼし）・長門三つ星（ながと みつぼし）・長門一に三つ星（ながと いち に みつぼし）・一文字三光（いちもんじ みつひかり／いちもんじ さんこう）など様々な呼称がある。
+
+
+※  150年以上前のもので、家紋に著作権なし。}}
+|date=2020-06-13
+|source={{own}}
+|author=[[User:Kashiwamon|Kashiwamon]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Mitsuboshi mon (Japanese crests of three stars)]]
+[[Category:Moji mon (Japanese crests)]]
+[[Category:Mōri clan]]

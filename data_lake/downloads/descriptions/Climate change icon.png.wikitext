@@ -1,0 +1,18 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Climate change is a change in the statistical distribution of weather patterns when that change lasts for an extended period of time (i.e., decades to millions of years)}}
+|date=2019-02-01
+|source={{own}}
+|author=[[User:Tommaso.sansone91|Tommaso.sansone91]]
+|permission=
+|other versions=
+}}
+{{SVG|icon}}
+
+=={{int:license-header}}==
+{{self|cc-zero}}
+
+[[Category:Blue and green globe icons]]
+[[Category:Earth icons]]
+[[Category:Fire icons]]
+[[Category:Climate change icons]]

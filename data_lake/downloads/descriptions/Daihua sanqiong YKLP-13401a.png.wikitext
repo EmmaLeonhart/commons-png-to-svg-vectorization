@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Figure 3: Fossils from the Chengjiang biota. (E) ''Daihua sanqiong'' YKLP-13401a (Zhao et al., 2019). Scale bar: 10 mm. YKLP is at Yunnan Key Laboratory for Palaeobiology (Yunnan University).}}
+|date=2022-08-23
+|source=Saleh F, Ma X, Guenser P, Mángano MG, Buatois LA, Antcliffe JB. 2022. Probability-based preservational variations within the early Cambrian Chengjiang biota (China) PeerJ 10:e13869 https://doi.org/10.7717/peerj.13869
+|author=Farid Saleh​, Xiaoya Ma​, Pauline Guenser, M. Gabriela Mángano, Luis A. Buatois, Jonathan B. Antcliffe
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{cc-by-4.0}}
+
+[[Category:Chengjiang biota]]
+[[Category:Ctenophora fossils]]
+[[Category:Extinct Ctenophora]]

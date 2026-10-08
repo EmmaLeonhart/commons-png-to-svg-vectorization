@@ -1,0 +1,12 @@
+{{convert to SVG|map}}
+== {{int:filedesc}} ==
+{{Information
+|Description=The location of islands in Okinawa.
+|Source=[[:en:Image:Map-okinawa-pref.png]]
+|Date=
+|Author=Source is made by [[:en:user:Jpatokal]] based on PD rendering from demis.nl map server.
+|Permission=GFDL
+}}
+== {{int:license-header}} ==
+{{GFDL|migration=relicense}}
+[[Category:Maps of Ryukyu Islands]]

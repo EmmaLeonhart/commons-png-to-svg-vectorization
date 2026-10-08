@@ -1,0 +1,17 @@
+=={{int:filedesc}}==
+{{Information
+|description={{zh|1=仙佛奇蹤插圖}}
+|date=2017-10-05
+|source={{#invoke:Wikidata|getLabel|entity=Q18860929}}
+|author={{Creator|Wikidata=Q5895740}}
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-old-70-1923}}
+
+
+
+[[Category:Buddhist monks in art]]
+[[Category:仙佛奇蹤]]

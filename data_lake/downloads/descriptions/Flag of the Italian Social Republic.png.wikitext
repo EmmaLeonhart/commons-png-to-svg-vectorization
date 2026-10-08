@@ -1,0 +1,19 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=The Flag of the Italian Social Republic, as described in the LEGISLATIVE DECREE OF THE DUCE January 28, 1944-XXII - n. 141, published in [http://augusto.agid.gov.it/gazzette/index/download/id/1944107_P1_GI Gazetta Ufficiale d'Italia on 6th May 1944]:
+
+Art. 1
+The flag of the Italian Social Republic is formed by a rectangular-shaped drape interspersed in a pole of green, white and red, with green at the pole surmounted by the beam Republican fascio. The banner must be two-thirds of its width and the three colors must be distributed in the above mentioned order and in equal parts.}}
+|date=2021-01-08
+|source={{own}}
+|author=[[User:3mnaPashkan|3mnaPashkan]]
+|permission={{insignia}}
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Flags of the Italian Social Republic]]
+[[Category:Historical flags of Italy]]
+[[Category:Italian Fascism]]

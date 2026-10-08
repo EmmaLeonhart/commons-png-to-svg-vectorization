@@ -1,0 +1,10 @@
+{{Information
+|Description=Screenshot showing where to find your changes in the edit-conflict resolution window.
+|Source=Screenshot
+|Date=2016-03-021
+|Author=Text is public domain; user interface is authors of MediaWiki software
+|Permission={{wikimedia-screenshot}}
+|other_versions=
+}}
+[[Category:MediaWiki screenshots]]
+[[Category:Screenshots of edit conflict]]

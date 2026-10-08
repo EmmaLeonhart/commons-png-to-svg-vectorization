@@ -1,0 +1,19 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|Coat of arms of the municipality of [[:en:Mondorf-les-Bains|Mondorf-les-Bains]], Luxembourg}}
+{{fr|Armoiries de la commune luxembourgeoise de [[:fr:Mondorf-les-Bains|Mondorf-les-Bains]]}}
+|Source=*Heraldic description: Armorial Communal du Grand Duché de Luxembourg
+*Images: mainly heraldic project on French Wikipedia but also other heraldic sources on Commons
+*Minor design changes and putting it all together by me
+|Date=2006-09-27
+|Author=[[User:Spanish Inquisition|Spanish Inquisition]]
+|Permission=GNUFDL
+|other versions={{Vector version available|Coat of arms mondorf les bains luxbrg.svg}}
+}}
+
+== {{int:license-header}} ==
+{{self|GFDL|Cc-by-sa-3.0-migrated|Cc-by-sa-2.5,2.0,1.0}}
+
+[[Category:Coats of arms of municipalities of Luxembourg]]
+[[Category:Symbols of Mondorf-les-Bains| ]]
+{{DEFAULTSORT:Mondorf-les-Bains}}

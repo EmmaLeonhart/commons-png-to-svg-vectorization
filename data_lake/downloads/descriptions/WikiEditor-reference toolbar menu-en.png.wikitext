@@ -1,0 +1,25 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=A screenshot of the Wikipedia reference toolbar in March 2020.}}
+|date=2020-03-19
+|source=WikiMedia
+|author=Sdkb
+|permission=
+|other versions=<gallery>
+WikiEditor-reference toolbar menu-en.png|{{#language:en}}
+WikiEditor-reference toolbar menu-ar.png|{{#language:ar}}
+WikiEditor-reference toolbar menu-ko.png|{{#language:ko}}
+WikiEditor-reference toolbar menu-shn.png|{{#language:shn}}
+WikiEditor-reference toolbar menu-sl.png|{{#language:sl}}
+WikiEditor-reference toolbar menu-tr.png|{{#language:tr}}
+RefToolBar Screenshot on zhwiki (zh-cn).png|{{#language:zh-cn}}
+RefToolBar Screenshot on zhwiki (zh-tw).png|{{#language:zh-tw}}
+</gallery>
+}}
+
+=={{int:license-header}}==
+
+{{MediaWiki screenshot}}
+
+[[Category:MediaWiki screenshots in en]]
+[[Category:WikiEditor-en]]

@@ -1,0 +1,37 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|{{w|Stormfront (website)}} coat of arms featuring a variation of the [[:en:Celtic cross|Celtic cross]] or [[:en:Sun cross|Sun cross]] and the motto "white pride, world wide"}}
+|Source=
+# http://www.stormfront.org/stormfront/
+# Appears to have been uploaded to English Wikipedia as [[:en:File:Stormfrontlogo.gif]] by  [[:en:User:Grandpafootsoldier]], 2007-07-08 23:52:42 UTC
+# Converted to [[:en:File:Stormfrontlogo.png]] by [[:en:User:718 Bot]], 2008-12-16 15:18:12 UTC
+# Copied to Commons by {{user|-Nikolo-2}}, 2011-04-27 13:15:20 UTC
+|Date={{other date|before|2007-07-08 23:52:42}}
+|Author=Stormfront
+|Permission=Public domain, as this is a United States work that appears to consist solely of simple text and geometric shapes:
+* The center object is a simple geometric rendering of the [[w:Celtic cross|Celtic cross]], which has been in widespread use long before copyrights existed, and possibly as early as the 7th century A.D.: see, for example, [[:File:Käina kirik 2.jpg]] dating from the 15th century; an even earlier similar shape is known as a [[w:sun cross|sun cross]] and is prehistoric.
+* The text is not itself subject to copyright, and its representation consists only of a standard circular text layout that which is not subject to U.S. copyright.
+|other_versions=
+}}
+== {{int:license-header}} ==
+{{PD-textlogo}}
+{{Nazi symbol}}<!-- possibly similar to a Volkssozialistische Bewegung Deutschlands/Partei der Arbeit symbol, as well as many others -->
+
+==History of en:File:Stormfrontlogo.gif==
+Before being converted to PNG by :
+*2008-01-29T04:31:20Z [[User:Yahel Guhan|Yahel Guhan]] ([[User talk:Yahel Guhan|Talk]] | [[Special:Contributions/Yahel Guhan|contribs]]) (657 bytes)
+*2008-01-29T04:30:58Z [[User:Yahel Guhan|Yahel Guhan]] ([[User talk:Yahel Guhan|Talk]] | [[Special:Contributions/Yahel Guhan|contribs]]) (645 bytes)
+*2008-01-29T04:30:39Z [[User:Yahel Guhan|Yahel Guhan]] ([[User talk:Yahel Guhan|Talk]] | [[Special:Contributions/Yahel Guhan|contribs]]) (644 bytes)
+*2008-01-29T04:30:06Z [[User:Yahel Guhan|Yahel Guhan]] ([[User talk:Yahel Guhan|Talk]] | [[Special:Contributions/Yahel Guhan|contribs]]) (649 bytes) ''(<nowiki>fix rationale</nowiki>)''
+*2007-10-14T14:51:29Z [[User:217.159.174.187|217.159.174.187]] ([[User talk:217.159.174.187|Talk]] | [[Special:Contributions/217.159.174.187|contribs]]) (435 bytes) ''(<nowiki>/* Licensing */</nowiki>)''
+*2007-10-12T15:23:09Z [[User:65.115.60.11|65.115.60.11]] ([[User talk:65.115.60.11|Talk]] | [[Special:Contributions/65.115.60.11|contribs]]) (867 bytes) ''(<nowiki>/* Licensing */</nowiki>)''
+*2007-07-08T23:55:40Z [[User:Grandpafootsoldier|Grandpafootsoldier]] ([[User talk:Grandpafootsoldier|Talk]] | [[Special:Contributions/Grandpafootsoldier|contribs]]) (435 bytes) ''(<nowiki>added source</nowiki>)''
+*2007-07-08T23:52:42Z [[User:Grandpafootsoldier|Grandpafootsoldier]] ([[User talk:Grandpafootsoldier|Talk]] | [[Special:Contributions/Grandpafootsoldier|contribs]]) (386 bytes) ''(<nowiki>==Summary==</nowiki>)''
+
+[[Category:White on black circle logos]]
+[[Category:White supremacist celtic crosses in art]]
+[[Category:PNG logos of the United States]]
+[[Category:PNG text logos of websites with white background]]
+[[Category:Racism in the United States]]
+[[Category:White Pride World Wide]]
+[[Category:Alt-right logos]]

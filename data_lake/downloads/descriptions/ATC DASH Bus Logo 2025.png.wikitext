@@ -1,0 +1,18 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=The logo for the DASH bus system in Alexandria, VA}}
+|date=2025-04-17
+|source=https://www.dashbus.com/
+
+https://www.dashbus.com/wp-content/uploads/word-logo-blue.png
+|author=Alexandria Transit Company (DASH)
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{pd-textlogo}}
+
+[[Category:Logos of bus operators in the United States]]
+[[Category:Logos of governments and government agencies in Virginia]]
+[[Category:PD textlogo]]

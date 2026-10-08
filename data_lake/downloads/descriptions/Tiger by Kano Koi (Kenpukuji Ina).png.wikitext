@@ -1,0 +1,12 @@
+{{Information
+|Description    ={{en|1=Kannon flanked by a Dragon and a Tiger, by Kano Koi, Kenpukuji, Ina, Nagano, Japan}}
+{{ja|1=紙本墨画中観音左右竜虎図 狩野興以筆}}
+|Source         =http://www.82bunka.or.jp/bunkazai/detail.php?no=2196&seq=0
+|Author         =Kano Koi [[:ja:狩野興以|狩野興以]] (?-1636)
+|Date           =early Edo period
+|Permission     ={{PD-art|PD-old-100}}
+|other_versions =
+}}
+
+[[Category:Kanō Kōi]]
+[[Category:Kenpuku-ji (Ina, Nagano)]]

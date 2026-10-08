@@ -1,0 +1,12 @@
+{{information
+|Description={{en|1=[[mw:Citoid|Citoid]] button in [[mw:VisualEditor|VisualEditor]].}}
+{{fr|1=Bouton de [[mw:Special:MyLanguage/VisualEditor|VisualEditor]] qui appelle une popup pour le service [[mw:Special:MyLanguage/Citoid|Citoid]] - version EN.}}
+{{pt|1=Botão do [[mw:Citoid|Citoid]] no [[mw:VisualEditor|Editor Visual]], em inglês.}}
+|Source=Screenshot
+|Date=2015-06-26
+|Author=MediaWiki authors
+|Permission={{Wikipedia-screenshot|1=en|logo=no}}
+|Other versions={{Other versions/VisualEditor citoid Cite button}}
+}}
+[[Category:MediaWiki extension Cite]]
+[[Category:Citoid]]

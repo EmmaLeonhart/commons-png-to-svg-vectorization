@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Wikidata article on English Wikipedia as of Nov 3 2023 Header}}
+|date=2023-11-03
+|source=https://en.wikipedia.org/wiki/Wikidata
+|author=User:Denny
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{cc-by-sa-4.0}}
+
+[[Category:Wikidata]]
+[[Category:English Wikipedia screenshots]]

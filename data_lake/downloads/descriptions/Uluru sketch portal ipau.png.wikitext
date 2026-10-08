@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Sketch of Uluru. Based on [[:File:Uluru mark.svg|SVG drawing published by Outstandy]]}}
+|date=2017-07-31
+|source={{own}}
+|author=[[User:Wasechun tashunka|Wasechun tashunka]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Uluru]]
+[[Category:Mountains in art]]

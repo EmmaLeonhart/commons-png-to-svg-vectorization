@@ -1,0 +1,24 @@
+{{Information
+|Description=10 [[Yen]] [[coin]] of [[Japan]]. Inscription: 日本国 (Nippon-koku) 十円 (Ten [[yen]]). Design: [[Byodoin]], a [[Buddhism|Buddhist]] [[temple]] in [[Uji]], [[Kyoto Prefecture]], Japan. I scanned this coin.
+|Source=*[[:File:JuEnDamaByodoinWP.jpg|JuEnDamaByodoinWP.jpg]]
+|Date=2010-03-15 10:57 (UTC)
+|Author=*[[:File:JuEnDamaByodoinWP.jpg|JuEnDamaByodoinWP.jpg]]: [[User:FG2]]
+*derivative work: [[User:Fred the Oyster|Fred the Oyster]] ([[User talk:Fred the Oyster|<span class="signature-talk">talk</span>]])
+|Permission=
+|other_versions=
+}}
+{{RetouchedPicture|remove background, introduce transparency, assign sRGB colour space, slight sharpening|editor=Fred the Oyster|orig=JuEnDamaByodoinWP.jpg}}
+
+{{PD-self}}
+
+== {{Original upload log}} ==
+This image is a derivative work of the following images:
+
+*[[:File:JuEnDamaByodoinWP.jpg]] licensed with PD-user
+**2005-09-03T02:24:36Z [[User:Fg2|Fg2]] 297x297 (158738 Bytes) ''<nowiki>10 [[Yen]] [[coin]] of [[Japan]]. Inscription: 日本国 (Nippon-koku) 十円 (Ten [[yen]]). I scanned this coin. {{PD_user|Fg2}}</nowiki>''
+
+{{Uploaded with derivativeFX}}
+
+[[Category:10 yen bronze coins]]
+[[Category:Images created by Fred the Oyster]]
+[[Category:Buddhism on coins]]

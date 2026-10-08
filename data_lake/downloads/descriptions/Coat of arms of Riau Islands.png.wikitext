@@ -1,0 +1,17 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Coat of arms of Riau Islands Province, Indonesia}}
+{{id|1=Lambang Provinsi Kepulausan Riau}}
+|date=2017-02-27
+|source=https://www.kepriprov.go.id
+|author=Riau Islands Province
+|permission=
+|other versions={{vva}}
+}}
+
+=={{int:license-header}}==
+{{PD-IDGov}}
+
+[[Category:Coats of arms of Riau Islands]]
+[[Category:Krises in heraldry]]
+[[Category:Coats of arms from Riau Islands]]

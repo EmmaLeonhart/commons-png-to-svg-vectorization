@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=The first generations of the Moriya clan (from Moreya-no-Kami to Yakushi-no-Kami)}}
+{{ja|1=守矢氏（始祖の洩矢神から５代の八櫛神まで）}}
+|date=2018-09-01
+|source={{own}}
+|author=[[User:Pat457|Pat457]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Family trees of Japan]]
+[[Category:Moriya clan]]

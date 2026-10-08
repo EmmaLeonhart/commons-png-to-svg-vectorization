@@ -1,0 +1,8 @@
+== {{int:filedesc}} ==
+{{Nuvola}}
+
+{{vector version available|Crystal128-kanagram.svg}}
+
+[[Category:ABC letter combinations]]
+[[Category:Font icons]]
+[[Category:Blue, green, red logos]]

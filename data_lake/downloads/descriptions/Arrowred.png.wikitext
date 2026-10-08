@@ -1,0 +1,13 @@
+{{Information
+|Description=An icon from icon theme [[Crystal Clear]].  
+|Source= [http://www.kde-look.org/content/show.php?content=8341 All Crystal icons were posted by the author as LGPL on kde-look]
+|Date=
+|Author=[[w:Everaldo Coelho|Everaldo Coelho]] and [http://www.yellowicon.com YellowIcon]
+|Permission={{LGPL}}([[Template_talk:Crystal_clear|View authorization]])
+|other_versions=
+}}
+
+[[Category:Crystal Clear derivative icons]]
+[[Category:Right arrow icons]]
+[[Category:Location not applicable]]
+[[Category:Red arrow icons]]

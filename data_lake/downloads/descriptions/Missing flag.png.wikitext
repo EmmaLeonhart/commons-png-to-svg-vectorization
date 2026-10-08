@@ -1,0 +1,14 @@
+{{Information
+|Description={{en|A filler for wherever a flag is missing (in an infobox, for example).}}
+|Source=Made by [[User:Rainer Zenz|Rainer Zenz]]<br />
+first upload as Image:Flag-joker.png: ''13:34, 2005-10-18 . . Rainer Zenz . . 210×130 (1.757 Bytes)''
+|Date=2005
+|Author=[[User:Rainer Zenz|Rainer Zenz]]
+|Permission={{PD-user|Rainer Zenz}}
+|other_versions=<gallery>Image:Flag of None.svg|SVG version</gallery>
+}}
+'''Don't delete this file, it's still used and it's the original PNG file.'''
+{{supersededSVG|Flag of None.svg}}
+
+[[Category:Flag placeholders]]
+[[Category:Flags with question marks]]

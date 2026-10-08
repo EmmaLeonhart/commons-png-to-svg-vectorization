@@ -1,0 +1,10 @@
+{{Information
+|Description={{en|1="Simple link" tool in [[w:VisualEditor|VisualEditor]].}}
+{{pt|1=Ferramenta de ligação simples no Editor Visual.}}
+|Source=Screenshot
+|Date=2015-09-11
+|Author=MediaWiki authors
+|Permission={{wikimedia-screenshot|logo=no}}
+|other versions={{Other versions/VisualEditor link tool simple link}}
+}}
+[[Category:VisualEditor]]

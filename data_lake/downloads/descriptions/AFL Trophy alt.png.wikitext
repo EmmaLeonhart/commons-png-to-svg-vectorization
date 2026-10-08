@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+ | description =
+{{LangSwitch
+ | en = American Football League trophy (1960-1969)
+ | it = Trofeo dell'American Football League (1960-1969)
+}}
+ | date = 2014-07-10 18:35:32
+ | source = Derived from [[:User:Teo's89|Teo's89]]’s [[:File:AFL Trophy.png|AFL Trophy.png]]
+ | author = [[User:Blackcat|Blackcat]]
+ | permission = {{cc-by-sa-3.0}}
+ | other_versions = {{extracted from|AFL Trophy.png}} {{Retouched picture|cropped|Blackcat|orig=AFL Trophy.png}}
+}}
+
+[[Category:American Football League]]
+[[Category:American football trophy icons]]

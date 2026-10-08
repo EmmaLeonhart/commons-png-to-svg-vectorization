@@ -1,0 +1,12 @@
+== {{int:filedesc}} ==
+{{Information
+|description={{en|1=A memorial tower for Lord Suwa Teruun Yorishige (Miyagawa, Chino City, Nagano Prefecture; the top of the tower shows signs of repair.)}}
+|date=2024-08-24
+|source={{own}}
+|author=[[User:David Copperfry|David Copperfry]]
+}}
+
+== {{int:license-header}} ==
+{{self|cc-by-sa-4.0}}
+
+{{Uncategorized|year=2024|month=August|day=24}}

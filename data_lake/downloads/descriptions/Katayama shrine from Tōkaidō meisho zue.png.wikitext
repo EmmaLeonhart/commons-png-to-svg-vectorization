@@ -1,0 +1,18 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ja|1=鈴鹿社.片山神社（三重県亀山市）1910年刊の東海道名所図会より}}
+{{en|1=Katayama shrine in Kammeyama, Mie, Japan from Tōkaidō meisho zue}}
+|date=1910
+|source=国立国会図書館デジタルコレクション　東海道名所図会. 上冊 89コマ目より抜粋 [http://dl.ndl.go.jp/info:ndljp/pid/765194  国立国会図書館デジタルコレクション:インターネット公開（保護期間満了）]
+|author=秋里籬島他
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+
+{{PD-Japan}}
+国立国会図書館デジタルコレクション:インターネット公開（保護期間満了）
+
+[[Category:Tōkaidō meisho zue]]
+[[Category:Katayama-Jinja]]

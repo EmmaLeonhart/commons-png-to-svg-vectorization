@@ -1,0 +1,21 @@
+== {{int:filedesc}} ==
+{{Information
+|Description    ={{en|1=A complete set of [[:en:Billiard_ball#Snooker|snooker balls]].}}
+{{de|1=Ein kompletter Satz [[:de:Billardkugel#Kugeln_beim_Snooker|Snookerkugeln]].}}
+|Source         ={{own}}
+|Author         =[[User:Barfisch|barfisch]]
+|Date           =2011-11-18
+|Permission     =CC-BY-SA 3.0<br>credit to '''[[User:Barfisch|barfisch]]''' (with link) if you will use this image outside wikipedia
+|other_versions =
+}}
+
+== {{int:license-header}} ==
+{{self|cc-by-sa-3.0}}
+
+[[Category:Red snooker balls]]
+[[Category:Yellow snooker balls]]
+[[Category:Green snooker balls]]
+[[Category:Brown snooker balls]]
+[[Category:Blue snooker balls]]
+[[Category:Pink snooker balls]]
+[[Category:Black snooker balls]]

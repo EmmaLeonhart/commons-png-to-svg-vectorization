@@ -1,0 +1,18 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ja|1=江戸時代の大山道（主要8道）}}
+{{en|1=This Map is Ōyamadō-roads(大山道) in Kanto area, Edo period.in the history of Japan.}}
+|date=2016-11-09
+|source={{own}}
+|author=[[User:Koshi2016|Koshi2016]]
+|permission=
+|other versions=
+}}
+
+File:大山通.svg「いせはら」№946（平成21年7月1日）の「江戸時代の大山道（主要8道）」図を基に作成。したものをPNGファイルで再アップロード。
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Ōyamadō]]
+[[Category:Schematic drawing of Road (Japan)]]

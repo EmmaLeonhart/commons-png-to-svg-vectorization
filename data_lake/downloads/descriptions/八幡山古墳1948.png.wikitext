@@ -1,0 +1,12 @@
+== {{int:filedesc}} ==
+{{Information
+|description={{en|1=The upper left is the Mikatazuka Tumulus.}}{{ja|1=左上は三方塚古墳。}}
+|date=2021-09-20
+|source=国土地理院ウェブサイト（    https://mapps.gsi.go.jp/contentsImageDisplay.do?specificationId=202980&isDetail=true）
+|author=国土地理院<br />Geospatial Information Authority of Japan
+}}
+
+== {{int:license-header}} ==
+{{AerialPhotograph-mlitJP}}
+
+[[Category:Hachiman-yama Kofun (Gyoda)]]

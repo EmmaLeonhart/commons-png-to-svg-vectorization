@@ -1,0 +1,20 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|1=Tagalog language in Spanish-modified Baybayin script (aka Post Kudlit).
+
+The text in utf-8 read when language support is properly installed:<br>
+ᜀᜅ᜔ ᜊᜏᜆ᜔ ᜆᜂ ᜀᜌ᜔ ᜁᜐᜒᜈᜒᜎᜅ᜔ ᜈ ᜋᜌ᜔ ᜃᜍᜉᜆᜈ᜔{{!}}<br>
+ᜀᜆ᜔ ᜉᜈ᜔ᜆᜌ᜔ ᜐ ᜇᜒᜄ᜔ᜈᜒᜇᜇ᜔ ᜀᜆ᜔ ᜃᜍᜉᜆᜈ᜔᜔{{!}}<br>
+ᜀᜅ᜔ ᜆᜂ ᜀᜌ᜔ ᜊᜒᜈᜒᜌᜌᜀᜈ᜔ ᜅ᜔ ᜉᜄᜒᜁᜐᜒᜉ᜔ ᜀᜆ᜔ ᜃᜍᜓᜈᜓᜅᜈ<br>᜔
+ᜈ ᜃᜁᜎᜅᜅ᜔ ᜋᜄ᜔ᜃᜁᜐ ᜐ ᜃᜉᜆᜒᜍᜈ᜔}}
+|Source={{own}}
+|Author=[[User:JL 09|JL 09]]
+|Date=
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{self|cc-by-sa-3.0|GFDL}}
+
+[[Category:Rendered texts in Baybayin]]

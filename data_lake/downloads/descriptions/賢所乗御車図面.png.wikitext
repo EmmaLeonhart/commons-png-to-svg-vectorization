@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|Drawing for Kashikodokoro Jogyosha }}{{ja|賢所乗御車の図面}}
+|date=1930
+|source={{en|Japanese book "Record of Showa Enthronement Appendix" published by Ministry of Railways.}}{{ja|『昭和大礼記録 附図』鉄道省より。}}
+|author={{en|Ministry of Railways}}{{ja|鉄道省}}
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+
+{{PD-Japan-organization}}
+
+[[Category:Kashikodokoro Jōgyosha]]

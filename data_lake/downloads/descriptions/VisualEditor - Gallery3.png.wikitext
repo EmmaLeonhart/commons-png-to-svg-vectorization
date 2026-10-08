@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Illustration of the Gallery inserter tool for VisualEditor}}
+|date=2014-03-12 13:06:40
+|source=MediaWiki software
+|author=MediaWiki developers
+|permission=
+|other_versions=
+}}
+
+=={{int:license-header}}==
+{{cc-by-sa-3.0}}
+
+[[Category:VisualEditor]]
+[[Category:Wikimedia screenshots]]
+[[Category:MediaWiki galleries]]

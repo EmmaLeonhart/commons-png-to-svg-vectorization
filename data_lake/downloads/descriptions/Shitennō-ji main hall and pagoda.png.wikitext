@@ -1,0 +1,16 @@
+== {{int:filedesc}} ==
+{{Artwork
+|author={{Creator:Kusakabe Kimbei}}
+|description={{ja|[[:ja:四天王寺|四天王寺]]の[[:ja:本堂|金堂]]と[[:ja:五重塔|五重塔]]}}{{en|[[:en:Main Hall (Japanese Buddhism)|main hall]] and [[:en:Pagoda|pagoda]] of [[:en:Shitennō-ji|Shitennō-ji]]}}
+|date={{other date|between|1880|1889}}
+|institution={{Institution:New York Public Library}}
+|department=The Miriam and Ira D. Wallach Division of Art, Prints and Photographs
+|id=[http://catalog.nypl.org/record=b11818700~S1 b11818700]
+|source=The New York Public Library Digital Collections : [https://digitalcollections.nypl.org/ Gallery] :[https://digitalcollections.nypl.org/items/510d47d9-c8e2-a3d9-e040-e00a18064a99 Info]
+|permission={{PD-old-auto-expired|1934}}
+}}
+
+[[Category:Central Temple, Shitennoji]]
+[[Category:Photographs by Kusakabe Kimbei]]
+[[Category:Osaka in the 1880s]]
+[[Category:Photographs of Japan in the New York Public Library]]

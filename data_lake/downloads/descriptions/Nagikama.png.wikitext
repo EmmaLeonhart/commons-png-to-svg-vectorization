@@ -1,0 +1,20 @@
+== {{int:filedesc}} ==
+{{Information
+|Description    ={{en|1=''Nagikama'' (薙鎌) are snake-shaped iron curved blades traditionally used in religious rituals in the Suwa region of Nagano Prefecture, Japan. They are believed to ward off strong winds and other disasters. This drawing is inspired by and modeled after photos and drawings of different ''nagikama'' and may not necessarily be faithful reproductions of any real-life specimens. For photos and drawings of actual ''nagikama'' see:
+
+*{{cite book|author=Miyasaka, Mitsuaki|title=諏訪大社の御柱と年中行事 (Suwa-taisha no Onbashira to nenchu-gyōji)|date=1992|publisher=Kyōdo shuppansha|pages=163-173}}.
+*{{cite book|editor=Suwa Shishi Hensan Iinkai|title=諏訪市史 上巻 原始・古代・中世 (Suwa Shishi, vol. 1: Genshi, Kodai, Chūsei)|date=1995|url=http://dl.ndl.go.jp/info:ndljp/pid/9572217|page=675}}.
+}}
+|Source         ={{own}}
+|Author         =[[User:Pat457|Pat457]]
+|Date           =2017-06-07
+|Permission     =
+|other_versions =
+}}
+
+== {{int:license-header}} ==
+{{self|cc-by-sa-4.0|GFDL}}
+
+[[Category:Suwa Taisha]]
+[[Category:Shintō items]]
+[[Category:Geography of Suwa]]

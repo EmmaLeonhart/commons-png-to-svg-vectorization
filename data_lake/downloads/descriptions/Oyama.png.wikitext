@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ja|1=小山藩の正しい家紋です。　【二つ頭左巴】}}
+|date=2015-09-10
+|source=ウィキペディアの小山のページより
+|author=ウィキペディアに載った画像が、左右逆だったため、ダウンロードし、修正いたしました。　小山藩末えいです。
+|permission=
+|other versions=
+}}
+
+{{vva|Japanese Crest Hidarifutatsudomoe 1.svg}}
+
+=={{int:license-header}}==
+{{PD-textlogo}}
+
+[[Category:Tomoe mon (Japanese crests of Tomoe)]]

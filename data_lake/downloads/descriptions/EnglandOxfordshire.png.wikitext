@@ -1,0 +1,8 @@
+From [[:en:Image:EnglandOxfordshire.png]]
+map of admin county
+
+{{GFDL|migration=relicense}}
+
+[[Category:Locator maps of counties of England]]
+
+[[Category:Media missing infobox template]]

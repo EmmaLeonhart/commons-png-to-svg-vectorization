@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Part of a series of seventy-two talismans known as ''Taijō Shinsen Chintaku Reifu'' (太上神仙鎮宅霊符 'Talismans of the Most High Divine Immortals for Protecting the Home') or ''Chintaku Reifu'' (鎮宅霊符 'Talismans for Home Protection'). Originally of Taoist origin, these were introduced to Japan during the Middle Ages.}}
+|date=C.E.1915
+|source=[https://dl.ndl.go.jp/info:ndljp/pid/1920305 信仰叢書]
+|author=National Book Publication Association Edition (国書刊行会 編)
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+
+{{PD-Japan}}{{PD-old-auto-expired}}
+
+[[Category:Ofuda]]
+[[Category:Taoist magic writing]]

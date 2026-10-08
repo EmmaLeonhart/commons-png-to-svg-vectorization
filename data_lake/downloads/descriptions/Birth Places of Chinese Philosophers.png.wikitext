@@ -1,0 +1,31 @@
+{{SVG|map}}
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Birth places of notable Chinese philosophers of the Hundred Schools of Thoughts in the Zhou dynasty.}}
+{{zh|1=諸子百家出生地}}
+|date=2018-01-27
+|source={{own}}
+|author=[[User:Seasonsinthesun|SY]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Maps of the Spring and Autumn period]]
+[[Category:Culture of China]]
+[[Category:Chinese philosophy]]
+[[Category:School of Names]]
+[[Category:Legalism (Chinese philosophy)]]
+[[Category:Taoist philosophy]]
+[[Category:Confucian maps]]
+[[Category:Taoism]]
+[[Category:Mohism]]
+[[Category:Agriculturalism]]
+[[Category:Logicianism (School of Names)]]
+[[Category:School of Military]]
+[[Category:School of Diplomacy]]
+[[Category:School of Minor Talks]]
+[[Category:School of Medicine]]
+[[Category:Syncretism]]

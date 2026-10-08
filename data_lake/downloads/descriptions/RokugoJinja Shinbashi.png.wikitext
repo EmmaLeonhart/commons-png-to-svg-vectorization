@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ja|1=六郷神社 神橋 (伝梶原景時寄進) 1191年頃}}{{en|1=Shinkyo (sacred bridge) of Rokugo-Jinja, dedicated by Kagetoki Kajiwara approximately A.D.1191 (legend).}}
+|date={{Japanphoto|2015-06-01 08:38}}
+|source={{own}}
+|author=[[User:Editor in cheap|Editor in cheap]]
+|permission=
+|other versions=
+}}
+{{Location dec|35.543569|139.712962|region:JP_scale:5000}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Rokugo-jinja]]
+{{Tokyoc||2015-06}}

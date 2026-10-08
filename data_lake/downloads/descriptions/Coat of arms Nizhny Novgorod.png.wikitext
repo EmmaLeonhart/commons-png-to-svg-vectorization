@@ -1,0 +1,14 @@
+== {{int:filedesc}} ==
+{{Information
+|Description = {{en|Coat of arms of Nizhny Novgorod}} 
+{{ru|Герб Нижнего Новгорода}}
+|Source      = {{unknown|source}}
+|Date        = {{unknown|date}}
+|Author      = {{unknown|author}}
+|Permission  = 
+|other_versions = {{vva|Coat of Arms of Nizhniy Novgorod.svg}}
+}}
+=={{int:license-header}}==
+{{PD-RU-exempt|type=coats of arms}}
+
+[[Category:Coats of arms of Nizhny Novgorod]]

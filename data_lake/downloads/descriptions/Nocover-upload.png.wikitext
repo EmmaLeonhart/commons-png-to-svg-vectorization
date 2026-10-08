@@ -1,0 +1,7 @@
+[[Category:Media missing infobox template]]
+<!--This file was moved here using FileImporter from https://en.wikipedia.org/wiki/File:Nocover-upload.png-->
+== {{int:filedesc}} ==
+A version of [[:Image:Nocover.png]] with a prompt to upload a cover image
+== {{int:license-header}} ==
+{{PD-self|date=May 2007}}
+[[Category:Wikipedia image placeholders]]

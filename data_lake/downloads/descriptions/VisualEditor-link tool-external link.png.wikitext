@@ -1,0 +1,9 @@
+{{information 
+|Description={{en|1=Screenshot showing the link inspector, with an external link to http://www.example.com in VisualEditor.}} 
+|Source=Screenshot 
+|Date= 2015-06-04
+|Author=WhatamIdoing 
+|Permission={{Wikipedia-screenshot|1=en|logo=no}}
+}}
+
+[[Category:VisualEditor-en]]

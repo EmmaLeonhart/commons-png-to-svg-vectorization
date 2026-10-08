@@ -1,0 +1,30 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|Seal of the government of [[:en:Sikkim|Sikkim]], [[:en:India|India]]}}
+|Source=Author
+|Date={{original upload date|2008-09-03}}
+|Author=Government of [[:en:Sikkim|Sikkim]], [[:en:India|India]]
+|Permission=
+|other_versions= [[File:Seal of Sikkim greyscale.png|100px]]
+}}
+{{Artifacts}}
+
+{{Convert to SVG|Coat of arms}}
+
+== {{int:license-header}} ==
+{{Insignia}}
+{{PD-India}}
+
+== {{Original upload log}} ==
+{{transferred from|en.wikipedia|DarwIn|CommonsHelper}} {{original description page|en.wikipedia|Seal_of_Sikkim_color.png}}
+* 2010-05-18 11:54 [[:en:User:Orionist|Orionist]] 224×210× (94619 bytes) ''<nowiki>removed green stripes to the left</nowiki>''
+* 2010-05-18 11:51 [[:en:User:Orionist|Orionist]] 224×210× (95219 bytes) ''<nowiki>removed yellow strip as requested</nowiki>''
+* 2009-12-23 15:02 [[:en:User:ZooFari|ZooFari]] 280×266× (127167 bytes) ''<nowiki>Remove unneeded components.</nowiki>''
+* 2009-12-23 03:36 [[:en:User:ZooFari|ZooFari]] 280×266× (126670 bytes) ''<nowiki>Remove yellow stripe</nowiki>''
+* 2009-11-22 13:49 [[:en:User:Gadget850|Gadget850]] 280×266× (129203 bytes) ''<nowiki>png</nowiki>''
+* 2008-09-03 11:15 [[:en:User:Kintetsubuffalo|Kintetsubuffalo]] 224×213× (13776 bytes) ''<nowiki>==Summary== Seal of the government of [[Sikkim]], [[India]] {{ShouldBeSVG}} ==Licensing== {{PD-India}} {{insignia}} </nowiki>''
+
+[[Category:Symbols of Sikkim]]
+[[Category:Dragons on seals]]
+[[Category:Conches in art]]
+[[Category:Seals of states or territories of India]]

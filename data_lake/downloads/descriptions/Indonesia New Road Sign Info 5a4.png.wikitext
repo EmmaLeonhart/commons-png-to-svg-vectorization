@@ -1,0 +1,16 @@
+{{vector version available|ID Rambu petunjuk 5a4.svg}}
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=New Indonesian road signs according to PM.12/2014 tentang Rambu Lalu Lintas}}
+|date=2014-08-25 19:35:27
+|source={{own}}
+|author=[[User:AdriansyahYS|AdriansyahYS]]
+|permission=
+|other_versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Diagrams of guide road signs of Indonesia]]
+[[Category:Diagrams of airport road signs]]

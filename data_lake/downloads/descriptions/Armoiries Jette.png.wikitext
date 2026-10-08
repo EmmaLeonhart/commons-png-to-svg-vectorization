@@ -1,0 +1,17 @@
+== {{int:filedesc}} ==
+{{Information
+|Description=Armoiries de la commune de Jette, blasonné d'or à la fasce bretessée et contre-bretessée
+|Source=Armorial des Provinces et des Communes de Belgique
+|Date=2006-09-26
+|Author={{U|Caranorn}}
+|other fields={{igenc|cn}}
+|other versions=
+}}
+{{vector version available|Blason ville be Jette.svg}}
+
+== {{int:license-header}} ==
+{{self|GFDL|Cc-by-sa-3.0-migrated|Cc-by-sa-2.5,2.0,1.0}}
+{{DEFAULTSORT:Jette}}
+
+[[Category:Coats of arms of municipalities of Brussels|Jette]]
+[[Category:Symbols of Jette]]

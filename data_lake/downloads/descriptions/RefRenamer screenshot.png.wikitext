@@ -1,0 +1,15 @@
+== {{int:filedesc}} ==
+{{Information
+|description={{en|1=Screenshot of [[w:User:Nardog/RefRenamer|RefRenamer]], a user script that assists in replacing non-descriptive reference names}}
+|date=2023
+|source={{own}}
+|author={{u|Nardog}}, [[w:Special:PageHistory/Wikipedia|contributors]] to the article [[w:Wikipedia]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{Free screenshot|license={{Wikipedia-screenshot|en}}}}
+
+[[Category:Wikipedia user scripts]]
+[[Category:Citations in Wikimedia projects]]

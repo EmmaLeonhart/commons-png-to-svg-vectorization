@@ -1,0 +1,13 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|1=The [[w:Jindai moji|Kamiyo Moji]] Exsample into the [[w:Ofuda|Ofuda]].I buy the © 2009 [[w:ja:荒神山神社|荒神山神社(Kōjin-yama-jinja)]] at 2009.PNG version and converted by MOTOI Kenkichi.}}
+|Source=Published by the [[w:ja:荒神山神社|荒神山神社(Kōjin-yama-jinja)]].
+|Author=[[User:MOTOI Kenkichi|MOTOI Kenkichi]]
+|Date=2010-08-18
+|Permission=
+|other_versions=
+}}
+== {{int:license-header}} ==
+{{PD-self}}
+
+[[Category:Ofuda]]

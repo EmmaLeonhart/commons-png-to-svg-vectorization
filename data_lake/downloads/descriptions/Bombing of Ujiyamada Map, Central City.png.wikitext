@@ -1,0 +1,25 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=This is the map about  the Bombing of Ujiyamada in 1945. Base map is [[:w:OpenStreetMap|OpenStreetMap]]. I also used these materials: <br/>
+* YAMAGUCHI Keiichiro et, al. eds. (1973): "Japan Zushi Taikei Kansai II Mie, Shiga, Kyoto and Nara prefecture"Asakura Publishing Co., Ltd., Tokyo, Japan.
+* "Ise Jingu Annai Zu"(Published in 1940, Contained in "[http://www.bunka.pref.mie.lg.jp/burari/ise/ Ise burari]",  a smartphone application)<br/>
+I also used the book to draw the area which was burned out:<br/>
+* Mie prefecture ed. (1988):"Mie-ken Shi Shiryo-Hen Kindai 2 Seiji and Gyousei II"Mie prefecture, Tsu, Japan.}}{{ja|1=1945年（昭和20年）に起きた宇治山田空襲に関する地図。基図に[[:w:ja:オープンストリートマップ|オープンストリートマップ]]を使用し、次の資料をもとに1945年当時の交通網の復元を行った。<br/>
+* 山口恵一郎・佐藤侊・沢田清・清水靖夫・中島義一 編『日本図誌大系 近畿II 三重県 滋賀県 京都府 奈良県』朝倉書店、昭和48年5月10日
+* 伊勢神宮案内圖（1940年発行、スマートフォン向けアプリケーション「[http://www.bunka.pref.mie.lg.jp/burari/ise/ 伊勢ぶらり]」に収録）<br/>
+また以下の図書により、焼失範囲を描画した。<br/>
+* 三重県 編『三重県史 資料編 近代2 政治・行政II』三重県、昭和63年3月31日}}
+|date=2015-03-01
+|source={{own}}
+|author=[[User:Miyuki Meinaka|Miyuki Meinaka]]
+|permission=
+|other versions=[[:File:Bombing of Ujiyamada Map, Shima Peninsula.png|File:Bombing of Ujiyamada Map, Shima Peninsula.png]]
+}}
+[[:ja:宇治山田空襲]]
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+{{OpenStreetMap}}
+
+[[Category:Bombing of Ujiyamada]]
+[[Category:Geku]]

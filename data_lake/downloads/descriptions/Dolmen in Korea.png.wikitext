@@ -1,0 +1,32 @@
+=={{int:filedesc}}==
+{{Information
+|description=
+{{ko|1=한반도 지석묘 분포도}}
+{{en|1=Distribution of dolmens in the Korean peninsula}}
+{{ja|1=朝鮮半島の支石墓の分布図
+
+【 データの出典 - Data Sources 】
+
+中村大介2014「支石墓にみる日韓交流」『平成26年度東アジア国際シンポジウム 支石墓の謎 墓地にみる日韓交流』長崎県埋蔵文化財センター pp.7-8
+
+済州石文化公園（제주돌문화공원）展示図「제주도문화유적분포지도」
+
+宇久町教育委員会 1997 『宇久町文化財調査報告書4：宇久松原遺跡』宇久町教育委員会 p.21
+
+糸島市教育委員会 2021 『弥生文化のはじまりと新町支石墓群』糸島市教育委員会 p.15
+
+
+}}
+|date=2024-10-03
+|source={{own}}
+|author=[[User:AsPJT|AsPJT]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-zero}}
+
+[[Category:Dolmen maps]]
+[[Category:PAX SAPIENTICA]]
+[[Category:Maps of the Three Kingdoms of Korea]]

@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Fujishima Shrine (藤嶋/藤島社 ''Fujishima-sha'' or 藤嶋/藤島大明神 ''Fujishima Daimyōjin''), one of the auxiliary shrines of the Upper Shrine of Suwa, as it appeared during the early 20th century.}}
+|date={{other date|before|1937}}
+|source=[https://books.google.com/books?id=UHYSgY4lTZcC 諏訪史 第二卷 後編] (1937)
+|author=Miyachi, Naokazu (宮地直一, 1886-1949)
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-Japan-oldphoto|PD-1996}}
+
+[[Category:Suwa-jinja]]
+[[Category:History of Suwa]]
+[[Category:Fujishima-sha (Suwa)]]

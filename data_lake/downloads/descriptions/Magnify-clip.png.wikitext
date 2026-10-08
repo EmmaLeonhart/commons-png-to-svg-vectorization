@@ -1,0 +1,18 @@
+{{protected}}
+== {{int:filedesc}} ==
+{{Information
+|Description= A MediaWiki thumbnail icon.
+|Source={{own}}
+|Date= 2007-06-01
+|Author= [[User:Erasoft24]]
+|Permission= 
+}}
+{{vva|Magnify-clip (sans arrow).svg}}
+
+== {{int:license-header}} ==
+{{PD-ineligible}}
+
+[[Category:Wikimedia icons]]
+[[Category:Wikipedia icons]]
+[[Category:Square icons]]
+[[Category:Transparent background]]

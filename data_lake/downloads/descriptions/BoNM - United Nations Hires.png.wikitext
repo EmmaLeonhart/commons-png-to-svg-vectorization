@@ -1,0 +1,16 @@
+{{Convert to SVG|award}}
+
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|1=[[:en:Wikipedia:Barnstars 2.0/Barnstar of National Merit|Barnstar v2.0]] of National Merit - United Nations}}
+|Source={{own}}
+|Author=[[User:Antonu|Antonu]]
+|Date=2010-07-28
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{self|GFDL|cc-by-3.0|migration=redundant}}
+
+[[Category:High-resolution barnstars of National Merit]]

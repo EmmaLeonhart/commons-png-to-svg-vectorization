@@ -1,0 +1,14 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ja|1=海船濱太鼓台　明治42年制作。}}
+|date=2024-09-08
+|source={{own}}
+|author=[[User:さわぺでぃあ|さわぺでぃあ]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-zero}}
+
+[[Category:Futon-Daiko]]

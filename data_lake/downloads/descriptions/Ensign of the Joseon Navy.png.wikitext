@@ -1,0 +1,20 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Ensign of the Joseon Military. Public domain due to age.}}
+|date={{other date|~|1897}}
+|source=unknown. This image {{derived from|조선군 좌독기.jpg}}
+|author={{attrib|조선군 좌독기.jpg}}
+|permission=
+|other versions={{vector version available|Ensign of the Joseon Navy.svg}}
+<br>
+Contains a version of the "Lo Shu" magic square":
+[[File:Lo Shu 3x3 magic square.svg|thumb|center]]
+|other fields=
+}}
+
+=={{int:license-header}}==
+{{PD-art|PD-old-assumed}}
+
+[[Category:Naval flags of the Korean Empire]]
+[[Category:Flags with taijitu]]
+[[Category:Naval ensigns]]

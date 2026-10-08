@@ -1,0 +1,13 @@
+<!--This file was moved here using FileImporter from https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Edo_hori.png-->
+{{Information
+|description={{ja|江戸中心部の堀、門等配置略図。著作権切れ（パブリックドメイン）の絵図の[http://www.lib.utexas.edu/maps/historical/edo.html 画像]を[[:ja:User:Safkan|Safkan]]が加工した。}}
+|source=[http://www.lib.utexas.edu/maps/historical/edo.html Perry-Castañeda Library Map Collection] (1844-1848), edited by [[:ja:User:Safkan|Safkan]]
+|author=[[:ja:User:Safkan|Safkan]]
+|date=
+|permission={{GFDL-ja|migration=relicense}}
+}}
+[[Category:Outer moats of Edo Castle]]
+[[Category:Old maps of Edo]]
+[[Category:Japan in the 1840s]]
+[[Category:1840s maps of Japan]]
+[[Category:Maps of canals in Japan]]

@@ -1,0 +1,7 @@
+[[Category:Media missing infobox template]]
+== {{int:filedesc}} ==
+<!--This file was moved here using FileImporter from https://en.wikipedia.org/wiki/File:XinXiu.png-->
+== {{int:license-header}} ==
+{{PD-self|date=September 2007}}
+
+[[Category:Heart (Chinese constellation)]]

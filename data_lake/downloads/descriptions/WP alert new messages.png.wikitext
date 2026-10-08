@@ -1,0 +1,16 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|1=Screenshot of the orange box that alerts a user on the English Wikipedia that they've received a new message on their user talk page.  Used for a tutorial on Wikipedia.  Created with Fire Shot, a Firefox add-on.}}
+|Source={{Own}}
+|Author=[[User:Proteins|Proteins]]
+|Date=2008-12-02
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{Wikipedia-screenshot}}
+
+[[Category:English Wikipedia screenshots]]
+[[Category:Fire Shot screenshots]]
+[[Category:Wikipedia new messages bar]]

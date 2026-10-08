@@ -1,0 +1,10 @@
+{{Convert to SVG|icon}}
+{{Nuvola}}
+
+{{LGPL}}
+
+[[Category:Atlantik (software)]]
+[[Category:Black on white dice]]
+[[Category:Cubic dice]]
+[[Category:Dice icons]]
+[[Category:Nuvola PNG icons]]

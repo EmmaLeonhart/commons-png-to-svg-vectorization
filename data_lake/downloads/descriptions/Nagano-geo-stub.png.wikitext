@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Flag map of Nagano Prefecture, used for stub templates.}}
+|date=2020-08-14
+|source={{own}}
+|author=[[User:AichiWikiFixer|AichiWikiFixer]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Prefectural flag of Nagano prefecture]]
+[[Category:Maps of Nagano prefecture]]
+[[Category:Flag maps of prefectures of Japan]]

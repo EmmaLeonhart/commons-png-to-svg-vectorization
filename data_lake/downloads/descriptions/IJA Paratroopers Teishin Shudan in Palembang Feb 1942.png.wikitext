@@ -1,0 +1,18 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Paratroopers of the Imperial Japanese Army Air Service (IJAAS) descend upon Palembang in Sumatra, the Dutch East Indies during the Battle of Palembang, 13-15 February 1942. They were "Teishin Shudan" (Raiding Group) a Japanese special forces / airborne unit during World War 2. The unit was a division-level force of the IJAAF.}}
+{{ja|陸軍飛行戦隊の空挺部隊（ひこうせんたいのくうていへい）が、パレンバンの戦いの最中にオランダ領東インドのスマトラ島のパレンバンに降り立った（1942年2月13-15日）。第1挺進集団（だいいちていしんしゅうだん、第一挺進集団）。}}
+|date=1942-02-13
+|source=Reddit - https://www.reddit.com/r/wwiipics/comments/anpx2w/imperial_japanese_army_air_force_paratroopers/
+|author=Imperial Japanese Army Air Service
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-old-70-expired}}
+
+[[Category:Imperial Japanese Army Air Service]]
+[[category:Raiding Regiments of the Imperial Japanese Army]]
+[[Category:Palembang in the 1940s]]
+[[Category:Paratroopers]]

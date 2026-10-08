@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Hoheikosho at Koishikawa Arsenal, circa 1920, early Taisho era. Suidōbashi Station is also visible. This is before the Great Kantō earthquake (1923).}}
+{{ja|1=古写真：大正初期、さいかち坂から水道橋、東京砲兵工廠方面を写した（1920年頃）。}}
+|date=1920-01-01
+|source=https://aucfree.com/items/r299540996 (large version is offline), https://img.aucfree.com/r299540996.1.jpg 
+|author={{unknown|author}}
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-old-70-expired}}
+
+[[Category:Koishikawa Arsenal]]
+[[Category:Suidōbashi Station]]

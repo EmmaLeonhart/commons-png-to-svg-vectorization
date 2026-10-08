@@ -1,0 +1,17 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=No. 2 - Picture of Cintāmaṇicakra (如意輪觀音 or 如意轮观音; Rúyìlún Guānyīn) in a Chinese Buddhist tract on the Nilakantha Dharani, or Great Compassion Mantra (大悲咒; Dàbēi zhòu), as a form of Guanyin corresponding to line 2 of the mantra}}
+|date=2021-08-01
+|source={{own}}
+|author=[[User:Nyarlathotep1001|Nyarlathotep1001]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Cintāmaṇicakra]]
+[[Category:Iconography of the Great Compassion Mantra]]
+[[Category:Buddhist art of China]]
+[[Category:Forms of Avalokiteśvara]]

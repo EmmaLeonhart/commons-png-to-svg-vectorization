@@ -1,0 +1,17 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1= Octopus knob from the top view of the King of Na gold seal. This replica is on display at the Fukuoka City Museum.}}
+{{ja|ヘビの鈕（ちゅう、「つまみ」）}}
+|date=[[Han Dynasty|Eastern Han]]
+|source=Artwork on occasional public display at the Fukuoka City Museum.
+|author=Copyright holder: Fukuoka City Museum
+|permission=
+|other_versions=
+|other_fields=
+}}
+
+=={{int:license-header}}==
+{{PD-Art|1=PD-old-auto-1923|country=Japan|year=1784}}
+
+[[Category:King of Na gold seal]]
+[[Category:Seal knobs]]

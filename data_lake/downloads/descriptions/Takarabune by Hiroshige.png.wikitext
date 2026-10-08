@@ -1,0 +1,19 @@
+{{Artwork
+|Title = {{en|The Treasure Ship (''Takarabune'')}}
+|Artist = {{Creator:Utagawa Hiroshige}}
+|Year = {{other date|~|1840}}
+|Technique = Colour print from woodblocks
+|Dimensions = Height: 27.6 cm, Width: 37.5 cm
+|Gallery = 
+|Location =  [[:en:Victoria and Albert Museum|Victoria and Albert Museum]]
+|Source = [https://collections.vam.ac.uk/item/O74843/the-treasure-ship-woodblock-print-utagawa-hiroshige V&A]
+|Permission = Public domain (no copyright in faithful reproduction)
+|Other_versions = <gallery>
+File:Seven Lucky Gods (Shichi fukujin) in Treasure Ship by Utagawa Toyokuni I c1806.png|High quality artwork
+</gallery>
+}}
+{{PD-Art|PD-old-auto-expired|deathyear=1858|country=''Japan''}}
+
+[[Category:Ukiyo-e of the Takarabune]]
+[[Category:Utagawa Hiroshige]]
+[[Category:Sanoya Kihei]]

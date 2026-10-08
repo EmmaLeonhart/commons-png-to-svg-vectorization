@@ -1,0 +1,26 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ru|1=Герб Молдавского княжества, 1646}}
+{{en|1=Stema Moldovei 1646}}
+|date=1646
+|source={{own}}. {{Derived from|Stema Moldovei 1646.jpg|display=50}}
+|author=[[User:Лобачев Владимир|Лобачев Владимир]]
+|permission=
+|other versions=<gallery>
+Coat of arms of Moldova,1646.png
+Coat of arms of Moldavia, 1646.png</gallery>
+}}
+
+=={{int:license-header}}==
+{{self|cc-zero}}
+{{PD-MD-exempt|type=coats of arms}}
+
+[[Category:Vasile Lupu]]
+[[Category:1646 engravings]]
+[[Category:1646 in Romania]]
+[[Category:Coats of arms of Moldavia|1646]]
+[[Category:Angels in supporters]]
+[[Category:3 crowns in heraldry]]
+[[Category:Crowned heraldic helmets]]
+[[Category:Swords in crest]]
+[[Category:Sceptres in heraldry]]

@@ -1,0 +1,16 @@
+== {{int:filedesc}} ==
+{{Information
+|Description = A chocolate-chip cookie.
+|Source      = [http://sxc.hu/browse.phtml?f=view&id=225154 stock.xchng]
+|Date        = 2004-12-11
+|Author      = [http://sxc.hu/browse.phtml?f=profile&l=brainloc brainloc on sxc.hu] (Bob Smith)
+|Permission  = [[ticket:2007032010002227]]
+|other_versions = [[Image:Choco_chip_cookie_bitten.jpg|100px]], [[File:Choco chip cookie.jpg|100px]]
+}}
+
+== {{int:license-header}} ==
+{{cc-by-2.5}}
+
+
+
+[[Category:Chocolate chip cookies]]

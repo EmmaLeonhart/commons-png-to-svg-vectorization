@@ -1,0 +1,69 @@
+{{Vva|File:Coat of Arms of Bradford City Council.svg}}
+
+{{Information
+|Description={{en|1=The '''Coat of arms of Bradford City Council''', the local government authority for the City of Bradford, in West Yorkshire, England. The blazon is:<br>'''''*ARMS:''' Per pale Gules and Azure on a Chevron engrailed between in chief two Buglehorns stringed and in base a Fleece Or a Fountain the whole within a Bordure gobony of the first and Argent charged on the Gules with eleven Roses of the last barbed and seeded proper.''<br>'''''*CREST:''' Upon a Mural Crown per pale Gules and Azure a Boar's Head sans Tongue erased Or; Mantled Azure and Gules doubled Or.''<br>'''''*SUPPORTERS:''' On the dexter side a Stag Or gorged with a Collar Azure thereon three Roses Argent barbed and seeded proper and on the sinister side an Angora Goat Argent horned Or gorged with a Collar Gules charged with three like Roses.''}}
+|Source=*[[:File:Goat_on_hind_legs.svg|Goat_on_hind_legs.svg]]
+*[[:File:FlagOfHuntingdonshire.PNG|FlagOfHuntingdonshire.PNG]]
+*[[:File:Chevron_engrailed.svg|Chevron_engrailed.svg]]
+*[[:File:Golden_Fleece_Collar_(Knight).svg|Golden_Fleece_Collar_(Knight).svg]]
+*[[:File:Georgian_heraldry_motto.svg|Georgian_heraldry_motto.svg]]
+*[[:File:Coat_of_Arms_of_Richard_II_of_England_(1377-1399).svg|Coat_of_Arms_of_Richard_II_of_England_(1377-1399).svg]]
+|Date=2011-01-10 23:53 (UTC)
+|Author=*[[:File:Goat_on_hind_legs.svg|Goat_on_hind_legs.svg]]: [[User:Lokal_Profil|Lokal_Profil]]
+*[[:File:FlagOfHuntingdonshire.PNG|FlagOfHuntingdonshire.PNG]]: The Flag Institute
+*[[:File:Chevron_engrailed.svg|Chevron_engrailed.svg]]: [[User:Czar Brodie|Czar Brodie]]
+*[[:File:Golden_Fleece_Collar_(Knight).svg|Golden_Fleece_Collar_(Knight).svg]]: [[User:Heralder|Heralder]]
+*[[:File:Georgian_heraldry_motto.svg|Georgian_heraldry_motto.svg]]: [[User:Gaeser|Gaeser]]
+*[[:File:Coat_of_Arms_of_Richard_II_of_England_(1377-1399).svg|Coat_of_Arms_of_Richard_II_of_England_(1377-1399).svg]]: [[User:Sodacan|Sodacan]]{{Inkscape}}
+*derivative work: [[User:Jza84|Jza84]] ([[User talk:Jza84|<span class="signature-talk">talk</span>]])
+|Permission={{Cc-by-sa-3.0}}{{insignia}}{{Coat of Arms}}
+|other_versions=
+}}
+
+== {{Original upload log}} ==
+This image is a derivative work of the following images:
+
+*[[:File:Goat_on_hind_legs.svg]] licensed with Cc-by-sa-2.5
+**2009-05-20T14:31:04Z [[User:W!B:|W!B:]] 91x130 (21912 Bytes) ''<nowiki>added beard ;)</nowiki>''
+**2007-10-24T01:01:46Z [[User:Lokal Profil|Lokal Profil]] 91x130 (20451 Bytes) ''<nowiki>{{Information |Description={{en|A goat standng on it's hind legs}} {{sv|En upprest bock.}} |Source=Made by [[User:Lokal_Profil|Lokal_Profil]] {{Inkscape-hand}} *Based on [[:Image:Gmina dwikozy herb.png|]] (original trace by [</nowiki>''
+
+*[[:File:FlagOfHuntingdonshire.PNG]] licensed with PD-author
+**2010-07-29T18:51:11Z [[User:Hogweard|Hogweard]] 430x260 (11537 Bytes) ''<nowiki>{{Information |Description=Huntingdonshire flag |Source=[http://www.flaginstitute.org The Flag Institute] |Author=[http://huntingdonshire.org.uk The Huntingdonshire Society] and The Flag Institute |Permission=see below |other</nowiki>''
+
+*[[:File:Chevron_engrailed.svg]] licensed with Cc-by-sa-3.0
+**2009-08-11T09:09:08Z [[User:Czar Brodie|Czar Brodie]] 560x393 (6674 Bytes) ''<nowiki>{{Heraldic-figure-fr| |meublefr=chevron engrêlée, pièce honorable vectorielle pour l'élaboration de représentations de blasons. |meubleit=Chevron spinata  |meubleen=Chevron engrailed |dessinateur=[[User:Czar Brodie|Czar </nowiki>''
+
+*[[:File:Golden_Fleece_Collar_(Knight).svg]] licensed with Cc-by-sa-3.0, GFDL
+**2010-12-16T17:09:43Z [[User:Adelbrecht|Adelbrecht]] 797x950 (1042358 Bytes) ''<nowiki>Optimized</nowiki>''
+**2010-09-28T16:58:02Z [[User:Heralder|Heralder]] 797x950 (17116284 Bytes) ''<nowiki>{{Information |Description={{en|1=Heraldic Representation of the [[:en:Order of the Golden Fleece|Golden Fleece]] Collar for Knighs.}} {{en|1=Representación heráldica del Collarde la [[:es:Orden del Toisón de Oro|Orden del</nowiki>''
+
+*[[:File:Georgian_heraldry_motto.svg]] licensed with Cc-by-sa-3.0, GFDL
+**2010-12-10T18:10:08Z [[User:Gaeser|Gaeser]] 449x153 (3985 Bytes) ''<nowiki>== {{int:filedesc}} ==
+ 
+ 
+ {{Information
+ |Description={{en|1=The element of Georgian COAs.}}
+ |Source={{own}}
+ |Author=[[User:Gaeser|Gaeser]]
+ |Date=2010-12-10
+ |Permission=
+ |other_versions=
+ }}
+ 
+ [[Category:Coat of arms </nowiki>''
+
+*[[:File:Coat_of_Arms_of_Richard_II_of_England_(1377-1399).svg]] licensed with Cc-by-sa-3.0,2.5,2.0,1.0, GFDL
+**2010-08-26T16:41:41Z [[User:Sodacan|Sodacan]] 1550x1450 (2001807 Bytes) ''<nowiki>{{Information |Description=Coat of Arms of King Henry IV England, until a modification of the arms of France from Ancient to Moderne |Source={{own}} |Date=2010-08-26 |Author= [[User:Sodacan|Sodacan]]{{Inkscape}} |Permission={</nowiki>''
+
+{{Uploaded with derivativeFX}}
+
+[[Category:Goats in heraldry]]
+[[Category:1 chevron or in heraldry]]
+[[Category:Golden fleece in heraldry]]
+[[Category:Deer in supporters]]
+[[Category:City of Bradford Metropolitan District Council]]
+[[Category:Symbols of Yorkshire]]
+[[Category:Coats of arms of the City of Bradford|Bradford]]
+[[Category:Roses argent in heraldry]]
+[[Category:English-language mottos in heraldry]]
+[[Category:PNG created with Inkscape]]

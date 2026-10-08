@@ -1,0 +1,18 @@
+== {{int:filedesc}} ==
+{{Information
+|Description=
+Featured Article Removal Starpiece: Shrunken and colored version created for [[:en:User:ClockworkSoul/Templates|ClockworkSoul's Coffee Roll]] template theme.
+|Source={{own}}
+|Date=
+|Author=Users [[:en:User:Optimager|Optimager]], [[:en:User:CyberSkull|CyberSkull]], [[:en:User:ClockworkSoul|ClockworkSoul]] on [http://en.wikipedia.org en.wikipedia]
+|Permission={{LGPL}}
+|other_versions={{vva|q=s}}
+Originally from [http://en.wikipedia.org en.wikipedia]; description page is (was) [[:en:Image:Cscr-star piece.png|here]]
+* 16:31, 22 October 2005 [[:en:User:Optimager|Optimager]] 66x52 (2,120 bytes) <span class="comment">(Smaller file size)</span>
+* 22:28, 3 October 2005 [[:en:User:CyberSkull|CyberSkull]] 70x59 (4,039 bytes) <span class="comment">(New version with transparent background made in [[:en:Adobe ImageReady CS]].)</span>
+* 05:06, 26 April 2005 [[:en:User:ClockworkSoul|ClockworkSoul]] 50x48 (1,775 bytes) <span class="comment">({{tl|LGPL}} Shrunken and colored version created for [[:en:ClockworkSoul's Coffee Roll]] template theme.)</span>
+}}
+
+[[Category:Right arrow symbols]]
+[[Category:Gold fractal star icons]]
+[[Category:Stars with transparent background]]

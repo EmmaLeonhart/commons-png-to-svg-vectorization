@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Om in Cham script}}
+|date=2020-10-29
+|source={{own}}
+|author=[[User:Amshpatten|Amshpatten]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Om (Cham)]]
+[[Category:Cham script]]

@@ -1,0 +1,19 @@
+<!--This file was moved here using FileImporter from https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Japan_stub.png-->
+== {{int:filedesc}} ==
+{{Information
+|Description    = {{ja|日本の市町村・stubメッセージ用画像。
+
+2005年3月15日、[[:ja:User:Araisyohei|<span style="color: green;">Araisyohei</span>]][[:ja:User talk:Araisyohei|(talk)]]が作成。3月16日、nnhが修正。}}
+{{en|Picture for the municipalities stub message of Japan. }}
+|Source         = [[:ja:File:Japan stub2.png]]
+|Date           = 2005-03-15
+|Author         = [[:ja:User:Araisyohei|<span style="color: green;">Araisyohei</span>]][[:ja:User talk:Araisyohei|(talk)]]
+|Permission     = 
+|other_versions = 
+}}
+{{SVG|icon}}
+
+== {{int:license-header}} ==
+{{GFDL-ja|migration=relicense}}
+
+[[Category:Icons based map of Japan]]

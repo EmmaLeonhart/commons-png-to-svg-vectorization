@@ -1,0 +1,14 @@
+== {{int:filedesc}} ==
+{{Information
+ |description    = {{en|St. Petersburg, coat of arms (1780)}}
+{{ru|Санкт-Петербург, герб (1780 г.)}}
+ |date           = 
+ |source         = [http://vector-images.com/image.php?epsid=759 Vector-images.com]
+ |author         = {{unknown}}. Author of vectorization can be found at [http://vector-images.com/image.php?epsid=759 Vector-images.com].
+ |permission     =
+ |other_versions =
+}}
+== {{int:license-header}} ==
+{{vector-images|PD-old-100-expired}}
+
+[[Category:Coat of arms of Saint Petersburg]]

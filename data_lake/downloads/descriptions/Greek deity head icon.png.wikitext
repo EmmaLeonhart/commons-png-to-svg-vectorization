@@ -1,0 +1,20 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|Icon for Wikipedia-fr's [[:fr:Portail:Mythologie grecque|Greek mythology portal]].}}
+{{fr|Icône pour le [[:fr:Portail:Mythologie grecque|portail de la mythologie grecque]] de la Wikipédia-fr.}}
+|Source=Own work<br/>Original image : [[:Image:Diane_de_Versailles_Leochares_2.jpg]] taken by myself
+|Date=2006-12
+|Author=Eric Gaba ([[User:Sting|Sting]] - [[:fr:Utilisateur:Sting|fr:Sting]])
+|Permission= Public Domain
+|other_versions={{DerivativeVersions|Wikinews Cultura.png}}
+
+}}
+
+{{Atelier graphique}}
+
+== {{int:license-header}} ==
+{{PD-self}}
+
+[[Category:Diane de Versailles (Louvre, Ma 589)]]
+[[Category:Sculpture icons]]
+[[Category:Flopped images]]

@@ -1,0 +1,17 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Map of the Kyūden (宮殿) of the Tokyo Imperial Palace.}}
+{{ja|宮殿の地図}}
+|date=2019-07-05
+|source=Kantei https://japan.kantei.go.jp/ongoingtopics/pdf/program.pdf
+|author=Prime Minister's Office of Japan - Kantei.go.jp
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{Gjstu-2.0|terms=https://www.kantei.go.jp/jp/terms.html}}
+
+[[Category:Kyūden, the official palace complex of the Imperial Palace]]
+[[Category:Ceremony of the Enthronement of His Majesty the Emperor at the State Hall in 2019]]
+[[Category:Maps of the Tokyo Imperial Palace]]

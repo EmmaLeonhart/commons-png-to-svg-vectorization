@@ -1,0 +1,10 @@
+{{SupersededSVG|Tokugawa_family_crest.svg}}
+
+== {{int:filedesc}} ==
+mon of Tokugawake, self-made
+== {{int:license-header}} ==
+{{self|cc-by-sa-2.5}}
+
+[[Category:Aoi mon (3-fold symmetry)]]
+[[Category:Tokugawa clan]]
+[[Category:Media missing infobox template]]

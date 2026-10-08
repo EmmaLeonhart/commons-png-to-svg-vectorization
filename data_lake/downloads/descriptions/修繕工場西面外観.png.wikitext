@@ -1,0 +1,14 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ja|1=修繕工場西面外観}}
+|date=2017-11-30
+|source=https://www.cas.go.jp/jp/sangyousekaiisan/pdf/siryou_jp17.pdf
+|author=内閣官房
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PDL1.0|terms=https://www.cas.go.jp/jp/tyosakuken/index.html|attr=内閣官房}}
+
+[[Category:Yahata Works]]

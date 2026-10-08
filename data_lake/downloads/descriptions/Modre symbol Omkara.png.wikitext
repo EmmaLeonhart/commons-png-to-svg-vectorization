@@ -1,0 +1,14 @@
+== {{int:filedesc}} ==
+{{Information
+|Description=Aum symbol from Bali
+|Source={{Own}}
+|Date={{unknown|date}} (forgotten by its author)
+|Author= [[User:Made Adiputra|Made Adiputra]]
+|Permission=
+|other_versions=
+}}
+== {{int:license-header}} ==
+{{self|GFDL|cc-by-sa-all}}
+
+[[Category:Om (Balinese)]]
+[[Category:Tables and samples of Balinese script]]

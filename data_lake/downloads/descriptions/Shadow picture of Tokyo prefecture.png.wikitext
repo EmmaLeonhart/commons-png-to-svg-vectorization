@@ -1,0 +1,10 @@
+{{Information
+|Description={{ja|日本国・[[:ja:東京都|東京都]]の影絵（島嶼を除く）}}{{en|The shadow picture of [[:en:Tokyo Prefecture|Tokyo Prefecture]](Except the islands), Japan}}
+|Source=Data is from [http://aoki2.si.gunma-u.ac.jp/map/map.html here]
+|Date=
+|Author=Created by LERK
+|Permission={{Map of Japan-Shigenobu AOKI}}
+|other_versions={{Vva|by=Bait30}}
+}}
+[[Category:Maps of Tokyo]]
+[[Category:Shadow picture maps of prefectures of Japan]]

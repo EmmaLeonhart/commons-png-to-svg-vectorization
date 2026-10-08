@@ -1,0 +1,19 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|The location of the geopolitical region "East Asia" within the frame of the geographic area of "Asia"}}
+|Source=Crop of [[:en:File:East Asia (orthographic projection).svg|File:East Asia (orthographic projection).svg]].
+|Date=2010-11-1 00:20 (UTC)
+|Author=Sven Manguard. Original work credited to Koyos, Ssolbergj, and Serg!o
+|Permission=
+|other_versions=Original is [[:en:File:East Asia (orthographic projection).svg|File:East Asia (orthographic projection).svg]]
+}}
+
+== {{int:license-header}} ==
+{{GFDL-GMT|migration=not-eligible}}
+{{Extracted from|East Asia (orthographic projection).svg}}
+
+== {{Original upload log}} ==
+{{transferred from|en.wikipedia|Logan|CommonsHelper}} {{original description page|en.wikipedia|East_Asia_Cutout_Projection.png}}
+* 2010-11-01 00:20 [[:en:User:Sven Manguard|Sven Manguard]] 250×250× (22914 bytes) ''<nowiki>{{Information |Description = The location of the geopolitical region "East Asia" within the frame of the geographic area of "Asia" |Source = Crop of [[:File:East Asia (orthographic projection).svg]]. |Date = ~~~~~ |Author </nowiki>''
+
+[[Category:Maps of East Asia]]

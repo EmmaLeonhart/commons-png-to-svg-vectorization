@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Tenri-kyo sermon in Tokyo, as depicted in an 1899 book.}}
+|date=1899-10-28
+|source=東京風俗志. 上
+https://dl.ndl.go.jp/info:ndljp/pid/992086/62 
+|author=Unknown, author of the book is listed as 平出鏗二郎 but the illustrator's name is not mentioned as far as I can tell
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-old-70-expired}}
+
+[[Category:Tenrikyo]]

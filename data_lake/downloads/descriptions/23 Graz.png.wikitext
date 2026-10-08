@@ -1,0 +1,14 @@
+=={{int:filedesc}}==
+{{Information
+|description={{de|1=Linie 23 Graz}}
+|date=2021
+|source=http://www.verbundlinie.at/images/service/pdfs/liniennetz/graz.pdf
+|author=Verbundlinie
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-Austria}}
+
+[[Category:Line numbers of Graz]]

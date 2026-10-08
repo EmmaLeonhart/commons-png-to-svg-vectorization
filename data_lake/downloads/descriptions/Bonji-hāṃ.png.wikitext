@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ja|1=梵字　不動明王の種子字hāṃカーン}}hāṃ
+|date=2019-04-28
+|source={{own}}
+|author=[[User:Blueknight611jp|Blueknight611jp]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Hām̐ (Siddham script)]]
+[[Category:Acala]]

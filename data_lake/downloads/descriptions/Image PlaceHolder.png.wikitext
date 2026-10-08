@@ -1,0 +1,9 @@
+[[Category:Media missing infobox template]]
+<!--This file was moved here using FileImporter from https://en.wikipedia.org/wiki/File:Image_placeholder.png-->
+== {{int:filedesc}} ==
+{{GFDL-with-disclaimers|migration=redundant}}
+Only uploaded for explaining problem I'm seeing on pages. -- ''[[:w:User:Nae'blis|nae]]'[[:w:User_talk:Nae'blis|blis]]'' 19:14, 24 October 2006 (UTC)
+== {{int:license-header}} ==
+{{GFDL|migration=relicense}}
+
+[[Category:Wikipedia image placeholders]]

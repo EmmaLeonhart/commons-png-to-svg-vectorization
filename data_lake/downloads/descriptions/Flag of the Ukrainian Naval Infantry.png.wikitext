@@ -1,0 +1,18 @@
+=={{int:filedesc}}==
+{{Information
+|description={{uk|1=Прапор морської піхоти України}}
+{{en|1=Flag of the Ukrainian Marine Corps}}
+{{ru|1=Флаг морской пехоты Украины}}
+|date=2018
+|source=[https://www.facebook.com/photo.php?fbid=690856037920288&set=p.690856037920288&type=3&theater&ifg=1 New Uniform]
+|author=В.В. Гайдукевич, О.О. Лєжнєв, О.В. Руденко, О.І. Сопін, Т.О. Сопіна, М.В. Чмир
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+
+{{PD-UA-exempt|type=flags}}
+
+[[Category:Flags of the Ukrainian Marine Corps]]
+[[Category:PNG flags of Ukraine]]

@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Unofficial Logo of Bangkok Monorail}}
+{{th|1=สัญลักษณ์อย่างไม่เป็นทางการของบางกอกโมโนเรล}}
+|date=2017-06-16
+|source={{own}}
+|author=[[User:Setawut|Walker Emp]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Bangkok transport icons]]

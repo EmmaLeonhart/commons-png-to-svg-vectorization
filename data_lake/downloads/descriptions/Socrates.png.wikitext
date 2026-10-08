@@ -1,0 +1,20 @@
+{{Information
+| Description = From http://hypernews.ngdc.noaa.gov
+| Source ={{Transferred from|en.wikipedia}}
+| Date = {{original upload date|2002-11-29}}
+| Author = {{original uploader|Magnus Manske|wikipedia|en}}
+Later versions were uploaded by [[:en:User:Optimager|Optimager]] at [http://en.wikipedia.org en.wikipedia].
+| Permission = {{pd-old}}
+}}
+
+{{original description page|en.wikipedia|Socrates.png}}
+
+== {{int:wm-license-original-upload-log}} ==
+(All user names refer to en.wikipedia)
+* 2005-10-22 19:15 [[:en:User:Optimager|Optimager]] 326×500×8 (62130 bytes) ''<nowiki>Reduced file size</nowiki>''
+* 2002-11-29 19:34 [[:en:User:Magnus Manske|Magnus Manske]] 326×500×8 (64436 bytes) ''<nowiki>From http://hypernews.ngdc.noaa.gov</nowiki>''
+
+[[Category:Busts of Socrates]]
+{{ImageNote|id=1|x=49|y=469|w=8|h=8|dimx=326|dimy=500|style=2}}
+uslamlama yöntem
+{{ImageNoteEnd|id=1}}

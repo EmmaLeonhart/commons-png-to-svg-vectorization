@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=VisualEditor_category_editing-en.png}}
+|date=2014-11-11
+|source=[[User:LanguageScreenshotBot|Automatically created by LanguageScreenshotBot]]
+|author=[[User:LanguageScreenshotBot|Automatically created by LanguageScreenshotBot]]
+|permission=
+|other_versions=
+|other_fields=
+}}
+
+=={{int:license-header}}==
+{{Wikipedia-screenshot}}
+
+[[Category:VisualEditor automatic screenshots/en]]

@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=A sample of Linear B characters in the "Noto Sans Linear B" font. The text reads 𐁂𐀐𐀷 (au-ke-wa, Αὐγείας "Augeas").}}
+|date=2017-12-21
+|source={{own}}
+|author=[[User:Wikilackey|Wikilackey]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-zero}}
+
+[[Category:Unicode Linear B]]
+[[Category:Noto Sans Linear B]]

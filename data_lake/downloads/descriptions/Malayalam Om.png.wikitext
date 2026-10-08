@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{id|1=Simbol Om dalam aksara Malayalam.}}{{en|1=Aum symbol in Malayalam alphabet.}}
+|date=2013-12-21 14:36:45
+|source={{own}}
+|author=[[User:M. Adiputra|M. Adiputra]]
+|permission=
+|other_versions=
+|other_fields=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-3.0}}
+
+[[Category:Om (Malayalam)]]

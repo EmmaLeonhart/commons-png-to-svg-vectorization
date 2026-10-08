@@ -1,0 +1,14 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Logo representing a [[w:MPI MPXpress#MP40PH-3C|MP40]] for [[w:Lakeshore East line|Lakeshore East]]}}
+|date=2015-12-30
+|source={{own}}
+|author=[[User:Natural RX|Natural RX]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-zero}}
+
+[[Category:GO Transit logos]]

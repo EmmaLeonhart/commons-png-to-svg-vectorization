@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ja|1=150年以上前のもので家紋に著作権なし}}
+|date=2020-06-13
+|source={{own}}
+|author=[[User:Kashiwamon|Kashiwamon]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Japanese crests of flowers and plants]]
+[[Category:Clematis florida]]

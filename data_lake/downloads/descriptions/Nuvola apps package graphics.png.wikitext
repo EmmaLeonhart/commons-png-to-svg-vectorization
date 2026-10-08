@@ -1,0 +1,8 @@
+== {{int:filedesc}} ==
+{{Nuvola}}
+{{vva|Nuvola apps package graphics.svg}}
+
+
+[[Category:Paintbrush icons]]
+[[Category:Painting palette icons]]
+[[Category:Nuvola PNG icons]]

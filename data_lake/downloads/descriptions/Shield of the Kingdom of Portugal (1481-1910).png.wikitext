@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Shield of the Kingdom of Portugal after D. John IV of Portugal and II of Braganza, 21st King of Portugal}}{{pt|1=Brasão do Reino de Portugal após D. Joao IV de Portugal e II de Braganca, 21º Rei de Portugal}}
+|date=2011-09-30
+|source={{own}}
+|author=[[User:Zulske heraldry|Zulske heraldry]]
+|permission={{Coat of arms}}
+|other_versions=[[File:Royal Arms of Portugal.svg|40px]]
+|other_fields=
+}}
+{{vva|Shield of Kingdom of Portugal (1481-1910).svg}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-3.0}}
+
+[[Category:Royal coats of arms of Portugal]]

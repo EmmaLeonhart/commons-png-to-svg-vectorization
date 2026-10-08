@@ -1,0 +1,29 @@
+== {{int:filedesc}} ==
+{{Artwork
+| artist           = {{Creator:Thomas Edward Gordon}}
+| title            = {{en|''{{w|Zorkul|Lake Victoria}}, {{w|Great Pamir}}, May 2nd, 1874''}}
+| date             = 1874-05-02
+| medium           = {{Technique|watercolor|paper}}
+| dimensions       = {{size|cm|15.2|24.1}}
+| gallery          = 
+| inscriptions     = {{inscription|type=signed initials|location=lower left|lang=none|T.E.G.}}
+| notes            = {{en|According to the Sphynx Fine Art Gallery's description, the person depicted is a {{w|Wakhi people|Wakhi}} guide of T.E. Gordon's expedition. The lake is now known as {{w|Zorkul}}.
+The painting  is also reproduced (probably in black-and-white only) on p. 155 of T.E. Gordon's book, ''The Roof of the World'' (1876)}}
+| accession number = 
+| source           = [http://www.sphinxfineart.com/?tabid=6&objectid=143219 Sphynx Fine Art Gallery]
+}}
+
+== {{int:license-header}} ==
+{{PD-Art|PD-old-auto-1923|deathyear=1914}}
+
+[[Category:Zorkul Lake]]
+[[Category:Wakhan Corridor]]
+[[Category:Thomas Edward Gordon]]
+[[Category:Watercolor paintings of landscapes]]
+[[Category:Watercolor paintings of men]]
+[[Category:19th-century paintings of people with horses]]
+[[Category:Saddled horses in art]]
+[[Category:1874 in Asia]]
+[[Category:Horses in 19th-century art]]
+[[Category:1874-05-02]]
+[[Category:Wakhi people]]

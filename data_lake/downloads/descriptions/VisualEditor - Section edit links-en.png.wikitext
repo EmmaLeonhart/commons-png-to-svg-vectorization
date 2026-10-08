@@ -1,0 +1,17 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Screenshot of VisualEditor; Section edit links}}
+             {{pt|1=Captura de tela do Editor Visual; Links de edição de seção (clique [[:File:Editor Visual - Links de edição de seção.png|aqui]] para uma versão alternativa em português (Brasil))}}
+|date=2013-06-30
+|source={{own}}
+|author=[[User:Guillom|Guillaume Paumier]]
+|permission=
+|other_versions=
+|other_fields=
+}}
+
+=={{int:license-header}}==
+{{Wikipedia-screenshot}}
+
+
+[[Category:VisualEditor]]

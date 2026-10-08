@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{de|1=Neulicht im Sternbild Widder am 21. April 2023 von Berlin aus gesehen. Rechts oberhalb des Mondes mit Erdschein der Stern Botein (delta Arietis). Aufnahme um 21:30 Uhr (MESZ), Höhe über dem Horizont 4,5 Bogengrad, ekliptikale Breite +1 Bogengrad, Mondsichel 3 Prozent (Mondalter 1,7 Tage).}}
+|date=2023-04-21
+|source={{own}}
+|author=[[User:Bautsch|Bautsch]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-zero}}
+
+[[Category:Aries (constellation)]]
+[[Category:Waxing crescent moon]]

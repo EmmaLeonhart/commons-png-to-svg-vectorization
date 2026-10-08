@@ -1,0 +1,16 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{ja|[[:ja:権現造|権現造]]平面図([[:ja:神社建築|神社建築]])}}{{en|Gongen Zukuri([[:w:Honden|Honden]] structure of [[:w:Shinto shrine|Shrine]])}}
+|Source={{own}}
+|Date=2008-04-03
+|Author=[[user:Hiroyuki0904]]
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{PD-self}}
+
+[[Category:Floor plans of shinto shrines]]
+[[Category:Ishi-no-ma-zukuri]]
+[[Category:Floor plans of Japan]]

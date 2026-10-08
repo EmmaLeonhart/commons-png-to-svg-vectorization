@@ -1,0 +1,19 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Painting in ink and colours on linen of the Ainu iomante, bear spirit sending ceremony in Hokkaido, Japan. Made by Hirasawa Byozan, 1875.}}
+{{ja|アイヌ、イオマンテリムセの踊り、北海道。平沢屏山（1875年）。}}
+|date=1875
+|source=National Museum Scotland - https://www.nms.ac.uk/explore-our-collections/collection-search-results/painting/309286
+|author=Hirasawa Byōzan (平沢屏山), 1822 - 1876. Hokkaido, Japan, East Asia
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-Art|PD-old-100}}
+
+[[Category:Iomante in art]]
+[[Category:Hokkaido in art]]
+[[Category:Hokkaido in the 1870s]]
+[[Category:Ainu genre painting]]
+[[Category:Hirasawa Byōzan]]

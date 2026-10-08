@@ -1,0 +1,10 @@
+== {{int:filedesc}} ==
+This image was copied from wikipedia:it.
+[[:it:Bari-Stemma.png]]
+{{vector version available|CoA Città di Bari.svg}}
+
+== {{int:license-header}} ==
+{{GFDL|migration=relicense}}
+
+[[Category:Coats of arms of Bari]]
+[[Category:Media missing infobox template]]

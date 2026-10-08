@@ -1,0 +1,19 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Genealogy of all things}}
+{{ja|1=万物雛形画譜}}
+|date=2018-11-02
+|source={{en|1=National Assembly Library of Korea}}
+{{ja|1=国会図書館}}
+|author= 
+Yasuchika Otokawa
+(音川安親)
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-Art|PD-Japan}}
+
+[[Category:Ugayafukiaezu-no-Mikoto]]
+[[Category:paintings of Japan]]

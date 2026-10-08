@@ -1,0 +1,19 @@
+== {{int:filedesc}} ==
+{{Information
+|Description=Psychedelic_dingbats, PNG version
+|Source={{own}}
+|Date=2007-07-24
+|Author=[[User:Hendrike|Hendrike]]
+|Permission=
+|other_versions=<gallery>Flowerit_5_Pink.svg
+File:Retro-flower-ornaments.svg
+File:Retro-flower-icon-5petals.svg</gallery>
+}}
+{{Created with Adobe Photoshop}}
+== {{int:license-header}} ==
+{{Self|GFDL|Cc-by-sa-3.0-migrated|cc-by-2.5|author=[[User:Hendrike|Hendrike]]}}
+{{Convert to SVG|symbol}}
+
+
+[[Category:Psychedelic art]]
+[[Category:Hippie art and design]]

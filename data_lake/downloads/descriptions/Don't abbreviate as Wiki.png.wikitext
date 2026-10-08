@@ -1,0 +1,16 @@
+== {{int:filedesc}} ==
+{{Vector version available}}{{Information
+|Description= Wikipe-tan's illustration
+|Source= {{Own}} / drawn by [[:ja:利用者:Kasuga~jawiki]].
+|Date= <del>{{date|2006|09|02}}</del> {{date|2007|10|04}}
+|Author=Kasuga~commonswiki
+|Permission=GFDL and CC-BY-SA-2.5 and older versions(2.0 and 1.0)
+|other_versions= {{Image extracted|Don't abbreviate as Wiki (cropped).png}}{{Other versions/Don't abbreviate as Wiki}}
+}}
+
+== {{int:license-header}} ==
+{{self|GFDL|Cc-by-sa-3.0-migrated|Cc-by-sa-2.5,2.0,1.0}}
+
+[[Category:Works by Kasuga]]
+[[Category:Uncle Wikipe-tan Japanese text]]
+[[Category:Japanese Wikipedia]]

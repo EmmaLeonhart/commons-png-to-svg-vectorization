@@ -1,0 +1,21 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|1=Flag of Lithuanian Armed Forces (obverse)}}
+|Source={{Own based|Flag of the Lithuanian Armed Forces (reverse).png|State flag of Lithuania (variant).svg}}<br />https://www.fotw.info/flags/lt%5E.html<br />http://www.vexillographia.ru/litva/navy.htm
+|Author=[[User:Great Brightstar|Great Brightstar]]
+|Date=2022-11-05
+|Permission=
+|other_versions=<gallery showfilename="1">
+File:Flag of the Lithuanian Armed Forces (reverse).png
+</gallery>
+|other_fields=
+}}
+{{Convert to SVG|flag}}
+
+=={{int:license-header}}==
+{{PD-LT-exempt|type=flags}}
+
+[[Category:Vytis]]
+[[Category:Flags of Lithuanian Armed Forces| ]]
+[[Category:PNG flags of Lithuania]]
+[[Category:Flags whose reverse differs from the obverse]]

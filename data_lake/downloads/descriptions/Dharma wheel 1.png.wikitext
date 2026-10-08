@@ -1,0 +1,7 @@
+This is a small, icon-sized [[w:dharma wheel|dharma wheel]], a symbol of Buddhism and other dharma-based religions. I got this from the Dutch Wikipedia. See: [[:nl:Afbeelding:Dhamma_wiel_1.png]]. It is listed there as GPL and was uploaded by [[:nl:User:Dhammajoti]].
+{{GPL}}
+{{Vector version available|Dharma wheel.svg}}
+{{Vector version available|Dharma Wheel.svg}}
+
+[[Category:Dharmachakra]]
+[[Category:Media missing infobox template]]

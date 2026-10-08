@@ -1,0 +1,15 @@
+{{PD-self}}Redraw. 2006. Arz
+{{Insignia}}
+{{Information
+|Description=Jerusalem emblem
+|Source={{Own}}
+|Date=2006
+|Author={{unknown|Author}}
+|Permission=
+|other_versions=
+}}
+
+{{SupersededSVG|Jerusalem_emblem.svg}}
+
+[[Category:Emblem of Jerusalem]]
+[[Category:Jerusalem name]]

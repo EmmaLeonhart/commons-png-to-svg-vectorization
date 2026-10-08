@@ -1,0 +1,20 @@
+== {{int:filedesc}} ==
+{{Information
+|description = 
+* {{en|Oda family crest, five gourds & Chinese flowers}} <br/>
+* {{ja|織田家家紋、五つ瓜に唐花}}
+|date = {{Original upload date|2006-08-18}}
+|source = {{own assumed}}
+|author = {{Author assumed|[[User:AlexK~commonswiki|AlexK~commonswiki]]}}
+|permission = 
+|other_versions = {{G|Oda emblem.svg|Japanese Crest Oda ka.svg|Mon du clan Oda.svg}}
+}}
+
+{{vva|Japanese Crest Oda ka.svg}}
+
+== {{int:license-header}} ==
+{{self|cc-by-sa-2.5}}
+{{insignia}}
+
+[[Category:Oda mokkō mon]]
+[[Category:Mon (5-fold symmetry)]]

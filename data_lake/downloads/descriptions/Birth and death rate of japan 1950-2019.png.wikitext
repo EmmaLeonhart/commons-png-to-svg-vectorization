@@ -1,0 +1,14 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=birth and death rate of japan 1950-2019}}
+|date=2020-09-23
+|source={{own}}
+|author=[[User:Sdgedfegw|Sdgedfegw]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Demographics of Japan]]

@@ -1,0 +1,17 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Satellite image of Shikoku on	21 April 2018. Each red hot spot is an area where the thermal bands on the MODIS instruments detected areas where the temperature is substantial higher than background.}}
+{{ja|1=2018年4月21日の四国の衛星画像。}}
+|date=2018-04-21
+|source=MODIS NASA - https://modis.gsfc.nasa.gov/gallery/individual.php?db_date=2018-04-27
+|author=Jeff Schmaltz, MODIS Land Rapid Response Team, NASA GSFC
+|permission=
+|other versions= {{Extracted from|Satellite image of Japan in April 2018.png}}
+}}
+
+=={{int:license-header}}==
+{{PD-USGov-NASA}}
+
+[[Category:Shikoku]]
+[[Category:Satellite pictures of Japan]]
+[[Category:Satellite pictures of regions of Japan]]

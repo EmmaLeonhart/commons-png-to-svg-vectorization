@@ -1,0 +1,15 @@
+{{SVG|locator map}}
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|Liancourt rocks, in Japan called Takeshima and in North and South Korea called Dokdo (Tokto).}}
+{{io|Liancourt roki, en Japonia nomata Takeshima ed en Nord e Sud-Korea nomata Dokto (Tokto).
+However, it's clear that Takeshima islands belong to Japan.}}
+|Source= http://www.demis.nl/wms/mapclip.htm
+|Date= {{Original upload date|2006-05-12}}
+|Author= demis.nl
+|Permission= {{PD-Demis}}
+|other_versions=
+}}
+
+[[Category:English-language maps]]
+[[Category:Locator maps of the Liancourt Rocks]]

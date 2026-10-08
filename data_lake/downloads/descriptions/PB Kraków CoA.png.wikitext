@@ -1,0 +1,6 @@
+Coat of Arms of [[Kraków]], derivative of [[:Image:Krakow Herb.png]]<br><br>made by Halibutt in Blender and GIMP<br>Based on the excellent French [[Wikipédia:Projet/Blasons]] and help from [[:w:User:Snargle]]
+{{Polishsymbol}}
+{{User:Halibutt/GFDL|migration=relicense}}
+[[Category:Coats of arms of Kraków]]
+[[Category:Media missing infobox template]]
+{{DEFAULTSORT:Krakow}}

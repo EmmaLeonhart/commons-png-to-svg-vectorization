@@ -1,0 +1,21 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Portrait of samurai Minamoto no Tametomo (1139 – April 23, 1170). He holds a Japanese war fan (gunsen fan) with a red sun disc and a bow.}}
+{{ja|源 為朝。伊豆国加茂郡八丈島安置　正一位為朝大明神肖像}}
+|date=1851
+|source=Tokyo Metropolitan Library, 東京都立図書館
+|author=Kuniyoshi Utagawa, 歌川国芳
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-Art|PD-old-100}}
+
+[[Category:Ukiyo-e of Minamoto no Tametomo]]
+[[Category:Eiyū Ippyaku Den by Utagawa Kuniyoshi]]
+[[Category:Archers in art]]
+[[Category:Historic depictions of kyudo]]
+[[Category:Historic depictions of yumi]]
+[[Category:Gunsen fan]]
+[[Category:Military history of feudal Japan]]

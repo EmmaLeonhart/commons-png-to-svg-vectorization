@@ -1,0 +1,30 @@
+
+== {{int:filedesc}} ==
+{{Information
+|Description=This is the Wikipedia logo redrawn in SVG.  It was created with permission from the WMF press office and used in conjunction with the [[W:Portal:Gene Wiki|Gene Wiki]] project ([https://dx.doi.org/10.1371/journal.pbio.0060175])
+|Source=*[[:File:Wikipedia_logo_(svg).svg|Wikipedia_logo_(svg).svg]]
+|Date=2009-02-22 00:53 (UTC)
+|Author=*[[:File:Wikipedia_logo_(svg).svg|Wikipedia_logo_(svg).svg]]: [[User:Penubag|penubag]]
+*derivative work: [[User:AndrewGNF|AndrewGNF]]([[User talk:AndrewGNF|<span class="signature-talk">talk</span>]])
+|Permission={{Wikimedia trademark}}{{Cc-by-sa-3.0}}
+|other_versions= [[Image:Wikipedia logo (svg).svg|100px]]
+}}
+{{RetouchedPicture||editor=|orig=Wikipedia_logo_(svg).svg}}
+
+== {{int:license-header}} ==
+{{self|Copyright by Wikimedia}}
+
+== {{original upload log}} ==
+This image is a derivative work of the following images:
+
+*[[:File:Wikipedia_logo_(svg).svg]] licensed with Copyright by Wikimedia
+**2008-07-04T02:15:16Z [[User:Penubag|Penubag]] 1250x1250 (2051989 Bytes) ''<nowiki>Greatly improved quality </nowiki>''
+**2008-07-04T01:47:21Z [[User:Penubag|Penubag]] 1250x1250 (1958488 Bytes) ''<nowiki>Greatly improved image: removed white lines </nowiki>''
+**2008-04-13T22:12:56Z [[User:Ssolbergj|Ssolbergj]] 1250x1250 (1909496 Bytes) ''<nowiki>transparent background</nowiki>''
+**2008-02-16T07:06:46Z [[User:Penubag|Penubag]] 1250x1250 (1840184 Bytes) ''<nowiki>{{Information |Description= This is the Wikipedia logo redrawn in SVG |Source=Original image [[:Image:Wikipedia-logo.png]] |Date=drawn 9/18/08 |Author= *Wikipedia logo by [[:m:User:Nohat|Nohat]] (concept by [[:m:User:Paullusm</nowiki>''
+
+{{Uploaded with derivativeFX}}
+
+[[Category:Wikipedia logos (2003) – variants]]
+[[Category:Biology icons]]
+[[Category:Wikimedia projects and science]]

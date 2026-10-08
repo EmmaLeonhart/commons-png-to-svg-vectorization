@@ -1,0 +1,14 @@
+== {{int:filedesc}} ==
+{{Information
+|Description=Image from The Japanese Fairy Book
+
+|Source={{Extracted from|The Japanese Fairy Book.djvu}}
+|Date=1908
+|Author={{Creator:Kakuzo Fujiyama}}
+|Permission=
+|other_versions=
+}}
+== {{int:license-header}} ==
+{{PD-1923}}
+[[Category:Japanese Fairy Book]]
+[[Category:Japanese Fairy Book/Momotaro]]

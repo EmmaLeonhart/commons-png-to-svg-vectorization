@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Coat of arms of Central Kalimantan province, Indonesia.}}
+{{id|1=Lambang Provinsi Kalimantan Tengah.}}
+|Source         =[[User:Ezagren|Ezagren]] redrawed from official emblem from Government of Central Kalimantan.
+|Author         =Government of Central Kalimantan.
+|Date           =2012-11-25
+|Permission     =
+|other_versions ={{vva}}
+}}
+
+=={{int:license-header}}==
+{{PD-IDGov}} 
+{{PD-EdictGov}}
+
+[[Category:Coats of arms of Central Kalimantan]]

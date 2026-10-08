@@ -1,0 +1,27 @@
+== {{int:filedesc}} ==
+{{Information
+|Description=
+|Source={{own}}
+|Date={{Original upload date|2008-07-22}}
+|Author={{user at project|Tpksg|wikipedia|en}}
+|Permission=
+|other_versions=
+}}
+{{Artifacts}}
+
+== {{int:license-header}} ==
+{{PD-user-en|Tpksg}}
+
+== {{Original upload log}} ==
+{{original description|en.wikipedia|Om_siddham.png}}
+{| class="wikitable"
+! {{int:filehist-datetime}} !! {{int:filehist-dimensions}} !! {{int:filehist-user}} !! {{int:filehist-comment}}
+|-
+| 2008-07-22 05:36 || 170×182× (4816 bytes) || [[:en:User:718 Bot|718 Bot]] || ''<nowiki>== Licensing == {{PD-self}} {{artifacts}} ==History of Image:Om siddham.jpg== *2008-01-22T12:45:28Z [[User:Cieran 91|Cieran 91]] ([[User talk:Cieran 91|Talk]] | [[Special:Contributions/Cieran 91|contribs]]) (39 bytes) *2007-12-17T14:14:56Z [[User:Tpksg|T</nowiki>''
+|}
+
+==History of Image:Om siddham.jpg==
+*2008-01-22T12:45:28Z [[:en:User:Cieran 91|Cieran 91]] ([[:en:User talk:Cieran 91|Talk]] | [[:en:Special:Contributions/Cieran 91|contribs]]) (39 bytes)
+*2007-12-17T14:14:56Z [[:en:User:Tpksg|Tpksg]] ([[:en:User talk:Tpksg|Talk]] | [[:en:Special:Contributions/Tpksg|contribs]]) (27 bytes
+
+[[Category:Om̐ (Siddham script)]]

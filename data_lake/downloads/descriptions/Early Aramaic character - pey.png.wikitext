@@ -1,0 +1,25 @@
+{{Vector version available}}
+
+{{Information
+|Description={{en|The letter Pey in Paleo-Hebrew}}
+|Source=Transferred from [http://en.wikipedia.org en.wikipedia]<br/>
+(Original text : ''self-made, derived from the public domain image uploaded by Paleo-Hebrew.PNG by Epson291'')
+|Date={{original upload date|2008-03-19}}
+|Author=[[:en:User:Aharon|Aharon]] ([[:en:User talk:Aharon|talk]]).
+Original uploader was [[:en:User:Aharon|Aharon]] at [http://en.wikipedia.org en.wikipedia]
+|Permission=Released into the public domain (by the author).
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{PD-user-w|en|wikipedia|Aharon}}
+
+<!-- Templates "Template:DMC", "Template:Dated maintenance category", "Template:File other" were used in the original description page as well , but do not appear to exist on commons. -->
+
+== {{original upload log}} ==
+{{original description page|en.wikipedia|Paleo-hebrew_-_pey.png}}
+* 2008-03-19 20:06 [[:en:User:Aharon|Aharon]] 55×42× (3149 bytes) ''<nowiki>{{Vector version available}}
+
+{{Information |Description=The letter Pey in Paleo-Hebrew |Source=self-made, derived from the public domain image uploaded by Paleo-Hebrew.PNG by Epson291 |Date= |Location= |Author=~~~ |other_versions= }}</nowiki>''
+
+[[Category:𐤐]]

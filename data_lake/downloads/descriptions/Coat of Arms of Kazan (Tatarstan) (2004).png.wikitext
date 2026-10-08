@@ -1,0 +1,22 @@
+{{vva|Coat of Arms of Kazan (Tatarstan).svg}}
+== {{int:filedesc}} ==
+{{Information
+ |description    = {{en|Kazan (Tatarstan), coat of arms (2004)}}
+{{ru|Казань (Татарстан), герб (2004 г.)}}
+ |date           = 
+ |source         = [http://vector-images.com/image.php?epsid=5078 Vector-images.com]
+ |author         = {{unknown}}. Author of vectorization can be found at [http://vector-images.com/image.php?epsid=5078 Vector-images.com].
+ |permission     =
+ |other_versions =
+}}
+== {{int:license-header}} ==
+{{vector-images|PD-RU-exempt|type=coats of arms}}
+
+
+== derivative works ==
+{{DerivativeVersions|Coat of Arms of Kazan.png}}
+[[Category:Coats of arms of Kazan]]
+[[Category:Zilants in heraldry]]
+[[Category:Wyverns in heraldry]]
+[[Category:COA of kingdom of Kazan]]
+[[Category:Zilants in heraldry]]

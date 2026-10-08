@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=VisualEditor_Toolbar_Formatting-en.png}}
+|date=2020-06-27
+|source=[[User:LanguageScreenshotBot|Automatically created by LanguageScreenshotBot]]
+|author=[[User:LanguageScreenshotBot|Automatically created by LanguageScreenshotBot]]
+|permission=
+|other_versions=
+|other_fields=
+}}
+
+=={{int:license-header}}==
+{{Wikimedia-screenshot}}
+
+[[Category:VisualEditor-en]]

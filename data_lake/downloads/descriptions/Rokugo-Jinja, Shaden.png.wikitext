@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ja|1=六郷神社 社殿}}{{en|1=Shaden of Rokugo-Jinja}}
+|date=2015-06-01
+|source={{own}}
+|author=[[User:Editor in cheap|Editor in cheap]]
+|permission=
+|other versions=
+}}
+{{Location dec|35.543863|139.713045}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Rokugo-jinja]]

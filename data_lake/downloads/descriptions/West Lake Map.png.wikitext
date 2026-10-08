@@ -1,0 +1,14 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Map of the West Lake in Hangzhou, China}}
+|date=2018-02-16
+|source={{own}}
+|author=[[User:Seasonsinthesun|SS]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Maps of West Lake]]

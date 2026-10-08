@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ja|1=立石土壙墓の模式図}}
+|date=2017-08-26
+|source={{own}}
+|author=[[User:エカシ・オトンプイ|エカシ・オトンプイ]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Kofun of Kagoshima prefecture]]
+[[Category:Models of Kofun]]
+[[Category:Drawings of Kofun]]

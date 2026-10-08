@@ -1,0 +1,19 @@
+=={{int:filedesc}}==
+{{Information
+|description={{pt|1=Logo do Metrô do Rio}}
+|date=2012-06-24
+|source=http://www.metrorio.com.br/
+
+|author=Metrô Rio
+|permission=
+|other_versions=
+|other_fields=
+}}
+
+=={{int:license-header}}==
+{{PD-textlogo}}
+{{trademark}}
+
+
+[[Category:Rio de Janeiro Metro logos]]
+[[Category:M (metro)]]

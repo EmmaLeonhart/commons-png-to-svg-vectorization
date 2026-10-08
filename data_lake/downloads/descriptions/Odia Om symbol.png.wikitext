@@ -1,0 +1,17 @@
+Swapna Thila Fika Fika
+
+
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Odia Om symbol}}
+|date=2020-10-08
+|source={{own}}
+|author=[[User:Amshpatten|Amshpatten]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Om (Odia)]]

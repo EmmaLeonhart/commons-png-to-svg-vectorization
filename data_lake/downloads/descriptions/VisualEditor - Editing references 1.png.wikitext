@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=VisualEditor - Editing references}}
+|date=2013-06-25 21:30:57
+|source={{own}}
+|author=[[User:Guillom|Guillom]]
+|permission=
+|other_versions=
+|other_fields=
+}}
+
+=={{int:license-header}}==
+{{Wikipedia-screenshot}}
+
+[[Category:VisualEditor]]

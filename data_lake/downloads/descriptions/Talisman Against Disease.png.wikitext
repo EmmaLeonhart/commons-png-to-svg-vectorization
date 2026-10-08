@@ -1,0 +1,19 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Talisman against diseases, from a Nichiren Buddhist manual.}}
+|date=1916-09-28
+|source=[https://dl.ndl.go.jp/info:ndljp/pid/913693 祈祷指南書]
+|author=Nobuyoshi Oyamada (unsuke) (小山田宣慶 (運祐))
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+
+{{PD-Japan}}{{PD-old-auto-expired}}
+
+[[Category:Ofuda]]
+[[Category:Talismans of Japan]]
+[[Category:Nichiren Buddhism]]
+[[Category:Buddhism and medicine]]
+[[Category:Buddhist talismans]]

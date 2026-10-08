@@ -1,0 +1,14 @@
+{{vva|Flag map of Saga Prefecture.svg}}
+{{Information
+|Description=Flag/map image for use in stub templates.
+|Source=From [[:Image:Shadow picture of Saga prefecture.png]] and [[:Image:Flag of Saga.svg]], both of them public domain.
+|Date=2008-07-11
+|Author=[[:wikipedia:User:Kzaral|Kzaral]]
+|Permission={{PD-self}}
+|other versions=
+}}
+
+
+[[Category:Subdivisions of Japan stub icons|Saga]]
+[[Category:Flag maps of prefectures of Japan|Saga]]
+[[Category:Maps of Saga prefecture]]

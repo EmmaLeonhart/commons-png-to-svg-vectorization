@@ -1,0 +1,16 @@
+== {{int:filedesc}} ==
+{{Information
+|description={{en|1=Logo ETRAM con Movilidad Integrada del Estado de México}}
+|date=2024
+|source=https://smovilidad.edomex.gob.mx/sistemas-movimex
+|permission=
+|author=Government of the State of Mexico
+|other versions={{vector version available|Logo ETRAM Movimex.svg}}
+}}
+
+=={{int:license-header}}==
+{{PD-textlogo}}
+{{Trademark}}
+
+[[Category:Movimex]]
+[[Category:CETRAM]]

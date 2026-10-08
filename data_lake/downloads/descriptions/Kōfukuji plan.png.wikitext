@@ -1,0 +1,15 @@
+== {{int:filedesc}} ==
+{{Information
+|Description    ={{en|1=Plan of the original layout of Kōfukuji, with addition of later pagoda (NT), octagonal hall (ICP) & bath house (ICP)}}
+|Source         =Own work, after Suzuki 'Early Buddhist Architecture in Japan'
+|Author         =[[User:Pel macolato|Pel macolato]]
+|Date           =2011-05-14
+|Permission     =
+|other_versions =
+}}
+
+== {{int:license-header}} ==
+{{self|Cc-zero}}
+
+[[Category:Kōfuku-ji]]
+[[Category:Maps of Nara Park]]

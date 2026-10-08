@@ -1,0 +1,17 @@
+== {{int:filedesc}} ==
+{{Information
+|Description=Aftermath of the [[w:Bombay Explosion (1944)|Bombay Explosion]] on 14 April, 1944
+|Source=http://www.merchantnavyofficers.com/bomEx.html <br> https://web.archive.org/web/20130129054828/http://www.merchantnavyofficers.com/bomEx.html
+|Date=1944-04-14
+|Author=
+|Permission=PD-India
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{PD-India}}
+
+[[Category:Bombay Explosion (1944)]]
+
+[[Category:Smoke]]
+[[Category:Fort Stikine (ship, 1942)]]

@@ -1,0 +1,20 @@
+== {{int:filedesc}} ==
+{{Information
+|Description=Transparentised version of [[:Image:TARDIS.jpg]]. Licensing it under the same license so as to avoid issues.
+|Source={{Transferred from|en.wikipedia}}
+|Date={{original upload date|2007-05-13}}
+|Author={{original uploader|Sceptre|wikipedia|en}}
+|Permission=CC-BY-SA-2.5
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{cc-by-sa-2.5}}
+{{trademark}}
+
+== {{original upload log}} ==
+{{original description page|en.wikipedia|TARDIS-trans.png}}
+* 2007-05-13 13:09 [[:en:User:Sceptre|Sceptre]] 1397×2084×8 (2710400 bytes) ''<nowiki>Transparentised version of [[:Image:TARDIS.jpg]]. Licensing it under the same license so to avoid issues.   {{self|cc-by-sa-2.5}} </nowiki>''
+
+
+[[Category:TARDIS in art]]

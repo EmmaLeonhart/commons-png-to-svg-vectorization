@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ja|1=佐久市岩村田の子育地蔵尊}}
+|date=2023-08-25
+|source={{own}}
+|author=[[User:ぷんすけ|ぷんすけ]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Jizō in buildings]]
+[[Category:Kanji signs (5 letter)]]
+[[Category:Culture of Saku]]

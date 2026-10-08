@@ -1,0 +1,15 @@
+== {{int:filedesc}} ==
+{{Information
+|Description    = {{en|1=Example of a [[w:Help:Watchlist|watchlist]] on the [[w:English Wikipedia|English Wikipedia]].}}
+|Source         = {{own}}
+|Author         = [[User:Kingofthedead|Kingofthedead]]
+|Date           = 2016-01-19
+|Permission     = CC-BY-SA-3.0
+|other_versions = 
+}}
+
+== {{int:license-header}} ==
+{{Wikipedia screenshot|logo=no}}
+
+[[Category:English Wikipedia screenshots]]
+[[Category:MediaWiki Watchlist]]

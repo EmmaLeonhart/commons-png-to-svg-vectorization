@@ -1,0 +1,9 @@
+{{Information
+|Description={{en|1=VisualEditor's dialog for editing inline formulas.  This screenshot was taken in [[mw:Help:Sample page]], which is public domain/[[CC-0]].}}
+|Source=Screenshot
+|Date=2015-09-01
+|Author=MediaWiki authors (user interface)
+|Permission={{wikimedia-screenshot|logo=no}}
+|other_versions=
+}}
+[[Category:VisualEditor]]

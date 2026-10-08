@@ -1,0 +1,26 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Seal of the Wallachian Phanariote ruler John George Caradja, combining the eagle of Wallachia with the unicorns of his family crest. From the original, possibly engraved by Blasius Höfel and published with Caradja's portrait on the title page of his civil code (''Legiurea Caragea''), in 1818; see George Oprescu, ''Grafica românească în secolul al XIX-lea'', Vol. I. Bucharest: Fundația Regală pentru Literatură și Artă, 1942. Lettering, combining (Romanian) Cyrillic and Greek, reads ''IΩ ГP KP ВВ'', for "John George Caradja Voivode".}}
+|date=2017-02-24
+|source={{own}}
+|author=[[User:Dahn|Dahn]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:John G. Caradja]]
+[[Category:Coats of arms of the House of Caradja]]
+[[Category:Coats of arms of Wallachia with the Wallachian Bird|1818]]
+[[Category:Wallachian Bird on seals]]
+[[Category:Seals of rulers of Wallachia|1818]]
+[[Category:Multilingual seals]]
+[[Category:Romanian Cyrillic in heraldry]]
+[[Category:Unicorns in supporters]]
+[[Category:Sabres in heraldry]]
+[[Category:Sceptres in heraldry]]
+[[Category:1810s seals]]
+[[Category:1818 in Romania]]
+[[Category:1818 in art]]

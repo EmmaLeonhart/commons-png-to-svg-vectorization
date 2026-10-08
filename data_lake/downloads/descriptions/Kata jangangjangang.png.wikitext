@@ -1,0 +1,14 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=the word jangang-jangang in old Makassar script}}
+|date=2020-05-01
+|source={{own}}
+|author=[[User:Alteaven|Alteaven]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Makasar script]]

@@ -1,0 +1,15 @@
+== {{int:filedesc}} ==
+{{Information
+|description={{en|1=Screenshot of [[w:User:Nardog/CodeEditorAssist|CodeEditorAssist]], a user script for the [[mw:CodeEditor|CodeEditor]] MediaWiki extension}}
+|date=2020
+|source={{own}}
+|author={{u|Nardog}}
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{Free screenshot|license={{BSD|Ajax.org B.V.|version=3}}{{Wikipedia-screenshot|en}}}}
+
+[[Category:Screenshots of MediaWiki extensions]]
+[[Category:MediaWiki extension CodeEditor|Assist]]

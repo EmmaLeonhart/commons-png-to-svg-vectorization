@@ -1,0 +1,21 @@
+=={{int:filedesc}}==
+{{Information
+|description={{langswitch|de=Obwohl es häufig in der Literatur mit Bezug auf [[:de:Tsunami|Tsunamis]] ({{lang|ja-Hani|津波}}) verwendet wird, war dies nicht zwangsläufig der Grundgedanke von {{lang|ja-Latn|Hokusai}}. In Wirklichkeit werden die Wellen als {{lang|ja-Latn|Okinami}} ({{lang|ja-Hani|沖波}}), brandende Wellen auf offenem Meer, bezeichnet.
+|en=Although it is often used in tsunami literature, there is no reason to suspect that Hokusai intended it to be interpreted in that way. The waves in this work are sometimes mistakenly referred to as tsunami (津波), but they are more accurately called okinami (沖波), great off-shore waves.
+|fr=Bien que cette image soit souvent utilisée pour représenter un [[:fr:Tsunami|Tsunami]], l'artiste cherchait probablement à représenter une [[:fr:Vague scélérate|vague scélérate]].}}
+|date=
+|source=[[:File:Tsunami_by_hokusai_19th_century.jpg]]
+|author= Hokusai
+|permission=
+|other versions=
+}}
+
+== {{int:license-header}} ==
+{{PD-art|PD-old-auto-expired|deathyear=1849}}
+
+{{DEFAULTSORT:Hokusai, Great Wave off Kanagawa, Metropolitan 45434}}
+
+[[Category:The Great Wave off Kanagawa by Katsushika Hokusai]]
+[[Category:Louisine Havemeyer Collection]]
+[[Category:Bequest of Mrs. H. O. Havemeyer]]
+[[Category:Japanese prints in the Metropolitan Museum of Art]]

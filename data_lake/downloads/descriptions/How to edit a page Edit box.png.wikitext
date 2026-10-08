@@ -1,0 +1,25 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|Screen capture of the edit box with wikimarkup, using [[:en:WP:Vector|Vector]] skin from August 2nd 2012.}}
+|Source={{own}} and https://en.wikipedia.org/w/index.php?title=Croup&oldid=518161922#Treatment
+|Date=2012-08-02
+|Author=[[:en:User:HarryAlffa|HarryAlffa]] at [http://en.wikipedia.org en.wikipedia] (Later version(s) were uploaded by [[:en:User:Nigelj|Nigelj]] and [[:en:User:Mono|Mono]]  at [http://en.wikipedia.org en.wikipedia].)
+|Permission=
+|other_versions=<gallery>
+How to edit a page Edit box-ko.png|{{#language:ko}}
+File:How to edit a page Edit box zh-hans.png|{{#language:zh-hans}}
+</gallery>
+}}
+
+== {{int:license-header}} ==
+{{Wikipedia-screenshot|logo=no}}
+
+== {{Original upload log}} ==
+{{original description page|en.wikipedia|How_to_edit_a_page_Edit_box.png}}
+* 2009-07-13 [[:en:User:HarryAlffa|HarryAlffa]] ''Screen capture of the edit box with [[:en:February 2011 Christchurch earthquake|February 2011 Christchurch earthquake]] wikimarkup, using [[:en:WP:Vector|Vector]] skin.''
+* 2010-11-28 21:18 [[:en:User:Nigelj|Nigelj]] 1077×504× (79408 bytes) ''Update image of edit box''
+* 2009-07-16 14:54 [[:en:User:HarryAlffa|HarryAlffa]] 1012×490× (61564 bytes)
+* 2009-07-13 15:42 [[:en:User:HarryAlffa|HarryAlffa]] 1011×491× (61005 bytes)
+* 2009-07-13 15:30 [[:en:User:HarryAlffa|HarryAlffa]] 503×259× (54738 bytes) ''<nowiki>{{Information |Description = |Source = I created this work entirely by myself. |Date = |Author = ~~~ |other_versions = }}</nowiki>''
+
+[[Category:Wikipedia editing]]

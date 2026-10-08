@@ -1,0 +1,19 @@
+Crest of Mirandela municipality (Portugal)<br>
+
+* Author: [http://www.fisicohomepage.hpg.ig.com.br/ Sérgio Horta] {{Wayback|url=http://www.fisicohomepage.hpg.ig.com.br/ |date=20051216202312 }}
+
+The author has agreed to usage of his works under the GNU-FDL, as long as he is quoted as the source:
+
+:''Caro Senhor,
+:''Gostaria de saber se os brasões que tem no seu site estão no domínio público ou se estão protegidos por direitos de autor. Estou a participar na WIkipédia em português (pt.wikipedia.org) e gostaria de ilustrar os artigos sobre freguesias potuguesas com brasões como os que tem no seu site. Se estiver de acordo com essa utilização, deve estar informado que qualquer pessoa poderá ter acesso às imagens utilizando-as para qualquer fim legal, incluindo fins comerciais. Se estiver de acordo em colocar as imagens no domínio público, agradecia que me contactasse. Obrigado.
+:''Manuel Anastácio
+
+::''Olá, as imagens que estão no meu site são de livre utilização, só gostaria que, se os usa-sem no vosso site, indicassem a página de origem dos mesmos. Cumprimentos Sérgio Horta
+
+{{insignia}}
+{{GFDL|migration=relicense}}
+
+[[Category:Coats of arms of Mirandela]]
+{{SVG|coat of arms}}
+[[Category:Media missing infobox template]]
+[[Category:Order of the Tower and of the Sword in heraldry]]

@@ -1,0 +1,17 @@
+== {{int:filedesc}} ==
+{{Information
+|Description= Flag of the [[w:United Arab Emirates Navy|UAE Navy]]
+|Source= own work based on [https://www.fotw.info/images/a/ae%5Enavy.jpg image] {{attrib|UAE-NAvylogo.png}}
+|Date= 2024-02-23
+|Author= [[User:Meandmybrix|Meandmybrix]]
+|Permission=
+|other_versions=
+}}
+
+=={{int:license-header}}==
+{{cc-by-sa-4.0}}
+{{self|GFDL|cc-by-sa-all|migration=redundant}}
+
+[[Category:Flags with the Hawk of Quraish]]
+[[Category:Naval flags of the United Arab Emirates]]
+[[Category:PNG flags of the United Arab Emirates]]

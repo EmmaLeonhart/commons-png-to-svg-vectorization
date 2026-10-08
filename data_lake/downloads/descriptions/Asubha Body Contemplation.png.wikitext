@@ -1,0 +1,17 @@
+<!--This file was moved here using FileImporter from https://en.wikipedia.org/wiki/File:Asubha_Body_Contemplation.png-->
+=={{int:filedesc}}==
+{{Information
+|Description = {{en|From a thai manuscript}}
+|Source = '''Original publication''': Manuscript in Chaiya, Surat Thani<br/>
+'''Immediate source''': http://www.sangham.at/Div_uploads/Teaching_Dhamma_with_pictures.pdf
+|Date = About 100 years old
+|Author = Samut Khoi<br/>
+(Life time: Unknown)
+}}
+
+=={{int:license-header}}==
+{{PD-US-1923}}
+
+[[Category:Buddhist art of Thailand]]
+[[Category:Maraṇānusmṛti]]
+[[Category:Buddhist monks in art]]

@@ -1,0 +1,19 @@
+== {{int:filedesc}} ==
+{{Information
+|Description=
+|Source={{transferred from|en.wikipedia|}}
+|Date={{original upload date|2007-06-19}}
+|Author={{user at project|Omtay38|wikipedia|en}}
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{PD-user-en|Omtay38}}
+
+== {{original upload log}} ==
+{{original description page|en.wikipedia|MTLogo2.png}}
+* 2007-06-23 04:47 [[:en:User:Omtay38|Omtay38]] 289×251×8 (19327 bytes) ''<nowiki>copy of [[:Image:MTLogo1.svg]] uploaded for display purposes</nowiki>''
+* 2007-06-19 03:50 [[:en:User:Omtay38|Omtay38]] 289×257×8 (19470 bytes) ''<nowiki>copy of [[:Image:MTLogo1.svg]] uploaded for display purposes</nowiki>''
+
+[[Category:PNG logos with transparent background]]

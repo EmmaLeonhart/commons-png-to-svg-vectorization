@@ -1,0 +1,24 @@
+{{Information
+|Description=Jomon to 8th Century Magatama, Tokyo Area. Royal Museum, Edinburgh
+|Source=*[[:File:Magatama.jpg|Magatama.jpg]]
+|Date=2010-06-20 08:25 (UTC)
+|Author=*[[:File:Magatama.jpg|Magatama.jpg]]: [[User:Pschemp]]
+*derivative work: [[User:PawełMM|PawełMM]] ([[User talk:PawełMM|<span class="signature-talk">talk</span>]])
+|Permission=
+|other_versions=
+}}
+
+{{RetouchedPicture|jpg to png, background clear|editor=PawełMM|orig=Magatama.jpg}}
+
+{{self|Cc-by-2.5|Cc-by-sa-3.0-migrated|GFDL}}
+
+== {{original upload log}} ==
+This image is a derivative work of the following images:
+
+*[[:File:Magatama.jpg]] licensed with Cc-by-2.5, Cc-by-sa-3.0-migrated, GFDL
+**2007-06-23T04:47:05Z [[User:Pschemp|Pschemp]] 1018x1366 (146430 Bytes) ''<nowiki>{{Information |Description=Jomon to 8th Century Magatama, Tokyo Area. Royal Museum, Edinburgh |Source=Own work |Date=Jun 22, 2007 |Author=[[User:Pschemp]] |Permission= |other_versions= }} </nowiki>''
+
+{{Uploaded with derivativeFX}}
+
+[[Category:Ancient magatamas]]
+[[Category:transparent background]]

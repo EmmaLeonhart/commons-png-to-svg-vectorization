@@ -1,0 +1,18 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|1=Flag}}
+{{pt|1=Bandeira}}
+|Source={{Own}}
+|Author=[[User:Gustavo ronconi|Gustavo ronconi]]
+|Date=11/08/2008
+|Permission=
+|other_versions={{vva|Chehab Emirate flag.svg}}{{vva|Flag of Lebanon (1516–1842).svg}}
+}}
+
+== {{int:license-header}} ==
+{{PD-old}}
+
+[[Category:Historical flags of Lebanon]]
+[[Category:Flags with 1 white crescent]]
+[[Category:Blue and white flags of Lebanon]]
+[[Category:Flags with blue fields]]

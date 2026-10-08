@@ -1,0 +1,20 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Flag of the Sudanese Army, the ground component of the Sudanese Armed Forces (Military forces of the Republic of the Sudan)}}
+{{ar|1=علم الجيش السوداني، القوة البرية للقوات المسلحة السودانية (القوات العسكرية لجمهورية السودان)}}
+|date=1956
+|source={{own}}
+|author=[[User:SalimIRQ|SalimIRQ]]
+|permission=
+|other versions=
+|other fields={{vva|File:Flag of the Sudanese Army (1956–present).svg}}
+}}
+
+=={{int:license-header}}==
+{{self|cc-zero}}
+
+[[Category:Army flags of Sudan]]
+[[Category:Flags with crossed rifles]]
+[[Category:Flags with three horizontal stripes, one white, two black]]
+[[Category:Flags with black fields]]
+[[Category:PNG flags of Sudan]]

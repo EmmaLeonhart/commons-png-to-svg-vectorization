@@ -1,0 +1,28 @@
+== {{int:filedesc}} ==
+{{Information
+|Description    ={{en|1=Coat of Arms of Timisoara adopted by decision of the Local Council on 30.06.2009.}}
+{{hu|1=Temesvár 2009.06.30-án a Helyi Tanács határozatával elfogadott címere.}}
+{{ro|1=Stema Timișoarei adoptată de Consiliul Local la 30.06.2009. [http://www.primariatm.ro/uploads/files/raport_primar_2009/Raport_Dezvoltare_2009.pdf]}}
+|Source         =Temesvár polgármesteri hivatalának a honlapja
+|Author         ={{unknown|author}}
+|Date           =2009-06-30
+|Permission     =
+|other_versions =
+}}
+
+== {{int:license-header}} ==
+{{PD-RO-exempt|type=flags}}
+{{DEFAULTSORT:Timisoara}}
+[[Category:Coats of arms of cities and communes of Romania]]
+[[Category:Coats of arms of cities and communes of Timiș County]]
+[[Category:Coats of arms of capital cities of Romania]]
+[[Category:1 crescent argent in heraldry]]
+[[Category:Azure a sun or]]
+[[Category:1 tower argent in heraldry]]
+[[Category:Walls embattled in heraldry]]
+[[Category:Gates in heraldry]]
+[[Category:Water in heraldry]]
+[[Category:Flags in heraldry]]
+[[Category:Bridges in heraldry]]
+[[Category:Towns in heraldry]]
+[[Category:Symbols of Timișoara]]

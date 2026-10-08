@@ -1,0 +1,18 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Japanese archer (kyūdōka, high level expert) draws a daikyū (大弓)  (Japanese asymmetrical longbow). Note: it's written as 弓大, because in old Japanese the text was read horizontally from right to left.}}
+{{ja|1=日本の弓道家と大弓。}}
+|date=Circa 1890s
+|source=Norges Kyudoforbund - http://norgeskyudoforbund.no/
+|author={{unknown|author}}
+|permission=
+|other versions={{Extracted from|1=Japanese Kyudoka Draws Daikyu Longbow.png}}
+}}
+
+=={{int:license-header}}==
+{{PD-Art|PD-old-100}}
+
+[[Category:Kyūdō]]
+[[Category:Historic photographs of yumi]]
+[[Category:Shahō-Hassetsu 6 Kai]]
+[[Category:Kyūjutsu]]

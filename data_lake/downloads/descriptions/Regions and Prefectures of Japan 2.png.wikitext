@@ -1,0 +1,15 @@
+== {{int:filedesc}} ==
+{{Information
+|Description= Blank map of Japanese Prefectures
+|Source={{own}}
+|Date=2007-05-03
+|Author= [[User:El Cid|El Cid]]
+|Other versions={{vva|Regions and Prefectures of Japan - blank.svg}}
+}}
+
+== {{int:license-header}} ==
+{{PD-self}}
+
+[[Category:Blank maps of Japan]]
+[[Category:Maps of prefectures of Japan]]
+[[Category:Maps of regions of Japan]]

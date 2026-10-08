@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ja|1=六郷神社 神楽殿}}{{ja|1=Kaguraden (Shinto theatrical dance stage) of Rokugo-jinja}}
+|date=2015-06-01
+|source={{own}}
+|author=[[User:Editor in cheap|Editor in cheap]]
+|permission=
+|other versions=
+}}
+{{Location dec|35.544071|139.712754}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+
+[[Category:Rokugo-jinja]]

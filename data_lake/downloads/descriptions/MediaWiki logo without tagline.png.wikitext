@@ -1,0 +1,21 @@
+{{protected file}}
+== {{int:filedesc}} ==
+{{Portal usage|wikimedia}}
+{{Information
+ |description =
+{{en|1=MediaWiki logo.}}
+{{tr|1=MediaWiki logosu.}}
+ |date = [[m:Logo history|2003]]
+ |source = 
+* The flower is [[:Image:Tournesol.png]]
+* Bitmap [[mw:File:Wiki.png|MD5=6d163f4b360ab277c61545499c303dda]]
+ |author = [[User:Anthere]] (flower) and [[User:Eloquence]] (combination, concept), reworked by [[User:Aka]]
+ |permission = see [[:File:EloquenceSunflowerBlue-Small.png]]
+ |other_versions = {{vector version available|MediaWiki logo without tagline.svg}}
+ }}
+
+== {{int:license-header}} ==
+{{PD-user|Eloquence}}
+{{PD-user|Anthere}}
+
+[[Category:MediaWiki logos (2003-2020)]]

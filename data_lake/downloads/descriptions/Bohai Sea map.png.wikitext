@@ -1,0 +1,16 @@
+== {{int:filedesc}} ==
+{{Information
+ |description = {{en|The location of the Bohai Sea (also commonly written as Bo Hai), a gulf of the Yellow Sea.}}
+ |date = 2005-12-01
+ |source = {{own}}
+ |author = [[User:NormanEinstein|NormanEinstein]]
+ |permission = 
+ |other_versions = {{other|Bohaiseamap2.png}}{{Convert to SVG|map}}
+{{DerivativeVersions|Bohai Sea map bs.svg|Bohai Sea map hr.svg}}
+}}
+
+== {{int:license-header}} ==
+{{Self|GFDL|Cc-by-sa-3.0-migrated}}
+
+[[Category:Maps of the Bohai Sea]]
+[[Category:English-language maps]]

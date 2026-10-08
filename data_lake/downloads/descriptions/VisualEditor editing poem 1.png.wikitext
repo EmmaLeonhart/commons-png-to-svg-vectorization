@@ -1,0 +1,9 @@
+{{Information
+|description={{en|1=Screenshot of the interface for editing poems in VisualEditor}}
+|date=2015-09-01
+|source=Screenshot from [[mw:Help:Sample page]]
+|Author=John Donne (text of poem); own work (other text); VisualEditor authors (user interface)
+|Permission={{Wikimedia-screenshot|logo=no}}{{Cc-zero}}
+|other_versions=
+|other_fields=
+}}

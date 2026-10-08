@@ -1,0 +1,19 @@
+{{Information
+|Description={{en|Explanation of Wikipedia}}
+|Source=Transferred from [http://en.wikipedia.org en.wikipedia]; transferred to Commons by [[User:Adrignola]] using [http://tools.wikimedia.de/~magnus/commonshelper.php CommonsHelper].<br/>
+(Original text : ''Own screenshot, with labels added'')
+|Date={{original upload date|2010-08-19}}
+|Author=[[:en:User:SorryForN00b|SorryForN00b]].
+Original uploader was [[:en:User:SorryForN00b|SorryForN00b]] at [http://en.wikipedia.org en.wikipedia]
+|Permission=
+|other_versions={{DerivativeVersions|Pagename explanation en-wikibooks.png}}
+
+}}
+
+== {{int:license-header}} ==
+{{Cc-by-sa-3.0-migrated}}
+{{Wikipedia-screenshot|en|logo=no}}
+
+== {{Original upload log}} ==
+{{original description page|en.wikipedia|Pagename_explanation.png}}
+* 2010-08-19 20:04 [[:en:User:SorryForN00b|SorryForN00b]] 335&times;133 (10039 bytes) ''<nowiki> {{Information  |Description    = Explanation of Wikipedia  |Source         = Own screenshot, with labels added  |Date           = ~~~~~  |Author         =   |Permission     =   |other_versions =  }} == Licensing == {{Wikipedia-screenshot|log</nowiki>''

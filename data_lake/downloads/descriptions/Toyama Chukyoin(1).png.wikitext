@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ja|1=明治時代の中教院}}
+|date=1938
+|source=富山市編、『富山市五十年史絵巻』、1938年（昭和13年）、富山市
+|author=富山市
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-Japan-organization}}
+{{PD-1996|country=Japan}}
+
+[[Category:Shrines in Toyama, Toyama]]
+[[Category:Toyama Chukyoin]]

@@ -1,0 +1,17 @@
+{{ Vector version available | Cricketball.svg }}
+
+== {{int:filedesc}} ==
+{{Information
+ |description = Created by [[:en:User:Stephen Turner]] from [[:Image:Cricketball 04.jpg]] by [[User:Albinomonkey]]. Both the users have released it under PD licence.
+ |date = {{Original upload date|2006-02-05}}
+ |source = {{own assumed}}
+ |author = {{Author assumed|[[User:Spundun|Spundun]]}}
+ |permission = 
+ |other_versions = 
+}}
+
+== {{int:license-header}} ==
+{{PD-self}}
+
+[[Category:Red cricket balls]]
+[[Category:Kookaburra Sport]]

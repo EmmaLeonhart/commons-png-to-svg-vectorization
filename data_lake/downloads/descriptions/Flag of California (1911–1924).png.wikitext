@@ -1,0 +1,16 @@
+{{Should be svg|flag}}
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=1911 drawing of the Californian flag.}}
+|date=1911
+|source={{Derived from|California Republic Flag, California Blue Book 1911.jpg}}
+|author=California Blue Book 1911
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-US expired}}
+{{Convert to SVG|flag}}
+
+[[Category:Flag of California (1911–1953)]]

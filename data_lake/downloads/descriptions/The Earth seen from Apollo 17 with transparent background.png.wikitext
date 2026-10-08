@@ -1,0 +1,22 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|1="The Blue Marble" is a famous photograph of the Earth taken on December 7, 1972 by the crew of the Apollo 17 spacecraft en route to the Moon at a distance of about 29,000 kilometers (18,000 statute miles). It shows Africa, Antarctica, and the Arabian Peninsula.}}
+|Source=http://nssdc.gsfc.nasa.gov/imgcat/html/object_page/a17_h_148_22727.html
+|Author=NASA
+|Date=1972-12-07
+|Permission=
+|other_versions=<gallery>
+File:The Blue Marble 4463x4163.jpg|[[:File:The Blue Marble 4463x4163.jpg|The Blue Marble 4463x4163.jpg]] - Larger photoshopped JPEG version, which is more useful for articles; 4,463×4,163 (5.9 MB)
+File:The Earth seen from Apollo 17.jpg|[[:File:The Earth seen from Apollo 17.jpg|The Earth seen from Apollo 17.jpg]] - Photoshopped JPEG version, which is more useful for articles; 3,000×3,002 (6.21 MB)
+File:The_Earth_seen_from_Apollo_17_with_white_background.jpg|[[:File:The Earth seen from Apollo 17 with white background.jpg|The Earth seen from Apollo 17 with white background.jpg]] - with white background; 2,790×2,776 (4.4 MB)
+File:The Blue Marble.jpg|[[:File:The Blue Marble.jpg|The Blue Marble.jpg]] - color corrected; 2,320×2,407 (2.33 MB)
+</gallery>
+{{DerivativeVersions|gps-atmospheric-efects.png|Universal gravitational mass.PNG}}
+}}
+{{Retouched picture|Retouching by [[user:Cody escadron delta|Cody escadron delta]] from [[:File:The Earth seen from Apollo 17.jpg]]}}
+
+== {{int:license-header}} ==
+{{PD-USGov-NASA}}
+
+[[Category:The Blue Marble]]
+[[Category:Planets of the Solar System with transparent background]]
