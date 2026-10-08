@@ -1,0 +1,16 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{ja|1=日本の宗教、主に神道の施設に設けられた門にあたるものである「鳥居」の種類を示した図である。左より、A「神明鳥居（Shinmei torii）」、B「鹿島鳥居（Kashima torii）」、C「明神鳥居（Myōjin torii）」、D「八幡鳥居（Hachiman torii）」、E「春日鳥居（Kasuga torii）」、F「中山鳥居（Nakayama torii）」、G「外宮鳥居（Gekū torii）」、H「三柱鳥居（Mihashira torii）」、I「三輪鳥居（Miwa torii）」、J「両部鳥居（Ryōbu torii）」である。
+}}
+|Source={{own}}
+|Author=[[User:Mukai|Mukai]]
+|Date=2009-08-01
+|Permission=
+|other_versions={{DerivativeVersions|Geku - Ise torii.svg}}
+torii gate variation 2.svg
+}}
+
+== {{int:license-header}} ==
+{{self|GFDL|cc-by-sa-3.0,2.5,2.0,1.0}}
+
+[[Category:Torii icons]]

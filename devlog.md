@@ -50,3 +50,6 @@
 - `tools/rebuild_locator.py`: `--units-layer` mode (units = a layer's paths by id, minimal edit);
   dark saturated colours are no longer mistaken for text.
 - Location map Ryukyu Islands.png marked NOT REBUILDABLE (raster topographic relief).
+- **File:Shinmei torii.png → SVG** (`files/shinmei-torii/`): torii A of Torii gate variation.svg,
+  each part fitted to its own box in the PNG; title, three labels as `<text>`. Staged in upload/.
+- Melanesian / Micronesian Cultural Area.png: NEEDS-DECISION recorded (hand-drawn region blob).

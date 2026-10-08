@@ -1,0 +1,22 @@
+{{Information
+|Description={{ja|神明鳥居（Shinmei torii)}}
+|Source=*[[:File:Torii_gate_variation.svg|Torii_gate_variation.svg]]
+|Date=2010-01-14 06:55 (UTC)
+|Author=*[[:File:Torii_gate_variation.svg|Torii_gate_variation.svg]]: [[User:Mukai|Mukai]]
+*derivative work: [[User:Urashimataro|Urashimataro]] ([[User talk:Urashimataro|<span class="signature-talk">talk</span>]])
+|Permission={{self|Cc-by-sa-3.0,2.5,2.0,1.0|GFDL}}
+|other_versions=
+}}
+{{RetouchedPicture|Cropped, added explanatory notes|editor=Urashimataro|orig=Torii_gate_variation.svg}}
+
+== {{original upload log}} ==
+This image is a derivative work of the following images:
+
+*[[:File:Torii_gate_variation.svg]] licensed with Cc-by-sa-3.0,2.5,2.0,1.0, GFDL
+**2009-08-09T13:18:00Z [[User:Mukai|Mukai]] 744x1052 (93918 Bytes) ''<nowiki>修正</nowiki>''
+**2009-08-09T13:15:23Z [[User:Mukai|Mukai]] 744x1052 (93632 Bytes) ''<nowiki>{{Information |Description={{ja|1=日本の宗教、主に神道の施設に設けられた門にあたるものである「鳥居」の種類を示した図である。左より、A「神明鳥居（Sinnmei torii）」、B�</nowiki>''
+
+{{Uploaded with derivativeFX}}
+
+[[Category:Torii in art]]
+[[Category:Shinmei-torii]]

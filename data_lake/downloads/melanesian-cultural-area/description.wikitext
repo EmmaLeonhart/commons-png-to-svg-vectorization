@@ -1,0 +1,12 @@
+{{Information
+|Description={{en|Melanesia, a cultural and geographical area in the Pacific.}}
+{{legend|#9bc4e6|Melanesia}}
+|Source=Outline: [[:File:World2Hires filled mercator.svg]]; Map information based on ''Vaka Moana: Voyages of the Ancestors - the discovery and settlement of the Pacific'', ed K.R. Howe, 2008, p57.<br />Based on [[:File:Pacific Culture Areas.jpg]]
+|Date=2010-11-09 
+|Author=[[User:Kahuroa]]
+|Permission={{PD-user|Kahuroa}}
+|other_versions=[[:File:Melanesian Cultural Area-de.png]] German version
+}}
+
+[[Category:Maps of Melanesia]]
+[[Category:Files by User:Kahuroa]]

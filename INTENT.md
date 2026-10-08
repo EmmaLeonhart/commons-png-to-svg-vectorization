@@ -54,8 +54,13 @@ time, producing SVG replacements suitable for upload.
 
 ## Confidence
 
-High on the goal and the constraints (stated directly). Medium on queue scope until the
-list is resolved.
+High on the goal and the constraints (stated directly). The queue is settled: 1140 Commons
+files, of which 251 already have a vector version and the rest are worked one by one.
+
+What works so far (2026-10-08 01:24): rebuilding from the PNG's own stated source SVG (or the
+revision of it that existed when the PNG was made), registered against the PNG, with text
+re-added as `<text>`. Raster-based PNGs (photos, artworks, terrain relief) are marked not
+rebuildable rather than traced.
 
 ## Log
 

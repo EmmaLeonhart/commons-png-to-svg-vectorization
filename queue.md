@@ -4,7 +4,7 @@ PNG files from `data_lake/wikipedia-png-search-results.txt`, resolved against
 Commons by `tools/build_queue.py`. One line per file; delete a line when the file
 is done (record it in devlog.md). Prefer rebuilding from a vector source over tracing.
 
-## To vectorize (878)
+## To vectorize (877)
 
 - [File:1873 Seikanron Debate Saigo Takamori Ukiyo-e by Suzuki Toshimoto.png](https://commons.wikimedia.org/wiki/File:1873_Seikanron_Debate_Saigo_Takamori_Ukiyo-e_by_Suzuki_Toshimoto.png) — Saigō Takamori
 - [File:1bc1a.png](https://commons.wikimedia.org/wiki/File:1bc1a.png) — Help:Multilingual support
@@ -355,11 +355,11 @@ is done (record it in devlog.md). Prefer rebuilding from a vector source over tr
 - [File:Matsuura-gun.png](https://commons.wikimedia.org/wiki/File:Matsuura-gun.png) — Matsura-gun
 - [File:MDL1.png](https://commons.wikimedia.org/wiki/File:MDL1.png) — Template:Coat of arms
 - [File:Megamihōri-no-in (売神祝印) seal imprint.png](https://commons.wikimedia.org/wiki/File:Megamih%C5%8Dri-no-in_%28%E5%A3%B2%E7%A5%9E%E7%A5%9D%E5%8D%B0%29_seal_imprint.png) — Suwa-taisha
-- [File:Melanesian Cultural Area.png](https://commons.wikimedia.org/wiki/File:Melanesian_Cultural_Area.png) — Module:Portal/images/m
+- [File:Melanesian Cultural Area.png](https://commons.wikimedia.org/wiki/File:Melanesian_Cultural_Area.png) — Module:Portal/images/m — NEEDS-DECISION (user): base (World2Hires filled mercator.svg) and ~25 labels are rebuildable, but the region blob is hand-drawn with no source; recreating it means fitting a smooth curve to the PNG's outline (tracing a simple shape). OK or not?
 - [File:Members of French Military Mission to Japan in 1867.png](https://commons.wikimedia.org/wiki/File:Members_of_French_Military_Mission_to_Japan_in_1867.png) — Tokugawa Yoshinobu
 - [File:Memorial tower for Lord Suwa Teruun Yorishige.png](https://commons.wikimedia.org/wiki/File:Memorial_tower_for_Lord_Suwa_Teruun_Yorishige.png) — Suwa Yorishige (Nanboku-chō period)
 - [File:Metrorioicon.png](https://commons.wikimedia.org/wiki/File:Metrorioicon.png) — Template:Rail-interchange
-- [File:Micronesian Cultural Area.png](https://commons.wikimedia.org/wiki/File:Micronesian_Cultural_Area.png) — Module:Portal/images/m
+- [File:Micronesian Cultural Area.png](https://commons.wikimedia.org/wiki/File:Micronesian_Cultural_Area.png) — Module:Portal/images/m — NEEDS-DECISION (user): base (World2Hires filled mercator.svg) and ~25 labels are rebuildable, but the region blob is hand-drawn with no source; recreating it means fitting a smooth curve to the PNG's outline (tracing a simple shape). OK or not?
 - [File:Midtown line GO logo.png](https://commons.wikimedia.org/wiki/File:Midtown_line_GO_logo.png) — Template:Rail-interchange
 - [File:Minamoto-no-Tametomo-by-Kuniyoshi-Utagawa.png](https://commons.wikimedia.org/wiki/File:Minamoto-no-Tametomo-by-Kuniyoshi-Utagawa.png) — Minamoto no Tametomo, Utagawa Kuniyoshi
 - [File:Minor edit.png](https://commons.wikimedia.org/wiki/File:Minor_edit.png) — Help:Editing
@@ -572,7 +572,6 @@ is done (record it in devlog.md). Prefer rebuilding from a vector source over tr
 - [File:Shield Coat of arms of East Timor.png](https://commons.wikimedia.org/wiki/File:Shield_Coat_of_arms_of_East_Timor.png) — Template:Coat of arms
 - [File:Shimane Goko-vill Takeshima.png](https://commons.wikimedia.org/wiki/File:Shimane_Goko-vill_Takeshima.png) — History of the Oki Islands
 - [File:Shinkai Sansha Jinja map.png](https://commons.wikimedia.org/wiki/File:Shinkai_Sansha_Jinja_map.png) — Shinkai Sansha Shrine
-- [File:Shinmei torii.png](https://commons.wikimedia.org/wiki/File:Shinmei_torii.png) — Torii
 - [File:ShinranShonin.png](https://commons.wikimedia.org/wiki/File:ShinranShonin.png) — (file-title list), File:ShinranShonin.png, Kamakura Buddhism
 - [File:Shiogama Jinja plan.png](https://commons.wikimedia.org/wiki/File:Shiogama_Jinja_plan.png) — (file-title list), File:Shiogama Jinja plan.png
 - [File:Shiogama-zakura inverted.png](https://commons.wikimedia.org/wiki/File:Shiogama-zakura_inverted.png) — (file-title list), File:Shiogama-zakura inverted.png
