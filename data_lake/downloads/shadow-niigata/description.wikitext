@@ -1,0 +1,9 @@
+{{Information
+|Description={{ja|日本国・[[:ja:新潟県|新潟県]]の影絵}}{{en|The shadow picture of [[:en:Niigata Prefecture|Niigata Prefecture]], Japan}}
+|Source=Data is from [http://aoki2.si.gunma-u.ac.jp/map/map.html here]
+|Date=
+|Author=Created by LERK
+|Permission={{Map of Japan-Shigenobu AOKI}}
+}}
+[[Category:Maps of Niigata prefecture]]
+[[Category:Shadow picture maps of prefectures of Japan]]

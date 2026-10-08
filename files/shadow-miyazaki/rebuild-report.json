@@ -1,0 +1,11 @@
+{
+ "status": "done",
+ "size": [
+  296,
+  395
+ ],
+ "iou": 0.9595,
+ "fill": "#000000",
+ "y_over_x": 1.1699,
+ "outline": null
+}

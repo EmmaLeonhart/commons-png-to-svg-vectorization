@@ -1,0 +1,15 @@
+== {{int:filedesc}} ==
+{{Information
+|description={{hr|Žuto i Bohajsko more, te zaljevi u Bohajskom moru}}
+|date=2012-02-16
+|source={{F|Bohai Sea map.png|by=NormanEinstein}}
+|author={{U|MaGa|Ma{{red|▝}}{{blue|▖}}Ga}} 
+|other fields={{Igen|D|389|+|!|r=translation in croatian|editor=|orig=Bohai Sea map.png|s=m}}
+}}
+
+== {{int:license-header}} ==
+{{Self|GFDL|Cc-by-sa-3.0-migrated}}
+
+[[Category:Maps of the Bohai Sea]]
+[[Category:Maps of the Yellow Sea]]
+[[Category:Croatian-language SVG maps]]

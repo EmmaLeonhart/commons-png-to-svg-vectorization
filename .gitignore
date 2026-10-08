@@ -26,3 +26,6 @@ Thumbs.db
 .env
 .env.local
 
+
+# transient files written and deleted by tools/render_svg.py during a render
+*.render.html

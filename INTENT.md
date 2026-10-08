@@ -43,6 +43,11 @@ time, producing SVG replacements suitable for upload.
   are CC BY-SA 4.0, so SVGs built on them can't stay PD like the PNGs. Use them anyway,
   or look for PD outlines first? NEEDS-DECISION (user). Assumption until then: use them
   and record the licence in each notes.md.
+- Prefecture "Shadow picture" PNGs (44, Shigenobu Aoki's data, plain lat/lon plots): Aoki's
+  vector data is not available (his site was a CGI and is offline). Assumption: rebuild
+  small ones (≤500 px) from Natural Earth 1:10M, which is public domain and matches at IoU
+  ≥0.93. Larger ones need a more detailed source (likely the CC BY-SA géolocalisation maps;
+  see the licence question above). NEEDS-DECISION (user) if a different source is wanted.
 - Which wiki the search list was run on: its article titles are on neither en.wikipedia
   nor Commons. Filenames are resolved against Commons instead.
 

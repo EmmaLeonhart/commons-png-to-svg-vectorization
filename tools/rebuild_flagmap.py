@@ -253,7 +253,7 @@ def main():
     edge = tuple(int(v) for v in np.median(rc[rc.sum(1) <= np.percentile(rc.sum(1), 40)], 0))
     # flag colour under the ring, for comparison
     near_field = sum(abs(e - c) for e, c in zip(edge, fcols[0]))  # vs the flag's field colour
-    has_outline = near_field > 60
+    has_outline = near_field > 100  # antialiased edges of solid shapes are not an outline
     hexc = '#%02x%02x%02x' % edge
     width = 2 / a  # about 1 px each side of the edge, in outline units
 

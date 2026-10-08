@@ -1,0 +1,19 @@
+=={{int:filedesc}}==
+{{Information
+|description={{bs|1=Žuto i Bohajsko more i zalivi u Bohajskom moru}}
+|Source=*[[:File:Bohai Sea map.png]]
+|date=2014-05-09 16:56:43
+|author=*[[:File:Bohai Sea map.png|Bohai Sea map.png]]: [[User:NormanEinstein|NormanEinstein]] 
+*[[User:C3r4|C3r4]]
+|permission=
+|other_versions=
+}}
+
+{{RetouchedPicture|translation in bosnian|editor=|orig=Bohai Sea map.png}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-3.0}}
+
+[[Category:Maps of the Bohai Sea]]
+[[Category:Maps of the Yellow Sea]]
+[[Category:Bosnian-language SVG maps]]
