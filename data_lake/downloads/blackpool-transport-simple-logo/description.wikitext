@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=A simple, textless version of the Blackpool Transport logo for use on s-rail templates}}
+|date=2013-07-31 17:54:33
+|source={{own}}
+|author=[[User:Hammersfan|Hammersfan]]
+|permission=
+|other_versions=
+|other_fields=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-3.0}}
+
+[[Category:Diagrams of railway symbols]]
+[[Category:Blackpool Transport (company)]]

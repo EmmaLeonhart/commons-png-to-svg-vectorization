@@ -98,3 +98,5 @@
   "Likely raster originals" section for review (not traced, not deleted).
 - **File:24directions.png → SVG** (`files/24directions/`): the Ehou-direction construction re-measured;
   53 `<text>` labels. Staged in upload/.
+- **File:Bangkok Monorail Logo.png → SVG** (three rounded squares, radii from mask area; 0.54% differ) and
+  **File:23 Graz.png → SVG** (rounded badge + "(23)" text). Staged in upload/.
