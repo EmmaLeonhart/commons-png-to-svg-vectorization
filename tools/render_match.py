@@ -39,6 +39,30 @@ def on_white(im):
     return np.array(bg.convert('RGB')).astype(int)
 
 
+def aligned_diff(A, svg_path, work):
+    """Mean difference after fitting scale and offset (renders can be framed slightly differently)."""
+    import itertools
+    H, W = A.shape[:2]
+    big = work / (svg_path.stem + '.render4.png')
+    render(svg_path, big, max(1.0, 1000 / max(W, H)))
+    B = on_white(Image.open(big)).astype(float)
+    bh, bw = B.shape[:2]
+    vv, uu = np.mgrid[0:H, 0:W]
+
+    def score(sc, ox, oy):
+        x = ((uu - ox) / sc).astype(int).clip(0, bw - 1); y = ((vv - oy) / sc).astype(int).clip(0, bh - 1)
+        return float(np.abs(A - B[y, x]).mean())
+    s0 = W / bw
+    best = (score(s0, 0, 0), s0, 0.0, 0.0)
+    for it in range(5):
+        f = 2 ** it
+        for ds, dx, dy in itertools.product(np.linspace(-.04, .04, 9) * best[1] / f, np.linspace(-6, 6, 9) / f, np.linspace(-6, 6, 9) / f):
+            sc = score(best[1] + ds, best[2] + dx, best[3] + dy)
+            if sc < best[0]:
+                best = (sc, best[1] + ds, best[2] + dx, best[3] + dy)
+    return best[0]
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('--max-diff', type=float, default=6.0)
@@ -73,6 +97,9 @@ def main():
                 diff = None
             if diff is not None and (best is None or diff < best[1]):
                 best = (svg_name, diff)
+        if best and a.max_diff < best[1] < 30:  # maybe the same art framed differently
+            sp = WORK / (re.sub(r'[<>:"/\|?*]', '_', best[0])[:80])
+            best = (best[0], min(best[1], aligned_diff(A, sp, WORK)))
         res[n] = dict(svg=best[0], diff=round(best[1], 2), match=best[1] <= a.max_diff) if best else dict(error='no renderable svg')
         print(n, res[n], flush=True)
         OUT.write_text(json.dumps(res, ensure_ascii=False, indent=1), encoding='utf8')

@@ -4,7 +4,7 @@ PNG files from `data_lake/wikipedia-png-search-results.txt`, resolved against
 Commons by `tools/build_queue.py`. One line per file; delete a line when the file
 is done (record it in devlog.md). Prefer rebuilding from a vector source over tracing.
 
-## To vectorize (875)
+## To vectorize (874)
 
 - [File:1873 Seikanron Debate Saigo Takamori Ukiyo-e by Suzuki Toshimoto.png](https://commons.wikimedia.org/wiki/File:1873_Seikanron_Debate_Saigo_Takamori_Ukiyo-e_by_Suzuki_Toshimoto.png) — Saigō Takamori
 - [File:1bc1a.png](https://commons.wikimedia.org/wiki/File:1bc1a.png) — Help:Multilingual support
@@ -374,7 +374,6 @@ is done (record it in devlog.md). Prefer rebuilding from a vector source over tr
 - [File:Moriya Family Tree - 守矢氏系図.png](https://commons.wikimedia.org/wiki/File:Moriya_Family_Tree_-_%E5%AE%88%E7%9F%A2%E6%B0%8F%E7%B3%BB%E5%9B%B3.png) — Chikatō-no-Kami, Itsuhayahime-no-Mikoto, Izuhayao-no-Mikoto, Katakurabe no Mikoto, Kodamahiko-no-Mikoto, Moritachi no Kami, Moritaku-no-Kami, Moriya clan, Tamaru-hime, Yagata no Sukune no Kami
 - [File:Moromi.png](https://commons.wikimedia.org/wiki/File:Moromi.png) — Module:Portal/images/a
 - [File:Mouse icon vector.png](https://commons.wikimedia.org/wiki/File:Mouse_icon_vector.png) — Module:Portal/images/h, Module:Portal/images/h/sandbox
-- [File:MTLogo2.png](https://commons.wikimedia.org/wiki/File:MTLogo2.png) — Module:Portal/images/m
 - [File:Mule (PSF).png](https://commons.wikimedia.org/wiki/File:Mule_%28PSF%29.png) — Template:Multiple image/doc
 - [File:Murasaki-Shikibu-composing-Genji-Monogatari.png](https://commons.wikimedia.org/wiki/File:Murasaki-Shikibu-composing-Genji-Monogatari.png) — Minamoto clan
 - [File:Mutsuhito-Emperor-Meiji-1873.png](https://commons.wikimedia.org/wiki/File:Mutsuhito-Emperor-Meiji-1873.png) — Meiji Restoration
@@ -882,11 +881,12 @@ is done (record it in devlog.md). Prefer rebuilding from a vector source over tr
 - [File:평양신사배치도.png](https://commons.wikimedia.org/wiki/File:%ED%8F%89%EC%96%91%EC%8B%A0%EC%82%AC%EB%B0%B0%EC%B9%98%EB%8F%84.png) — Heijō Shrine
 - [File:평양신사측면전경.png](https://commons.wikimedia.org/wiki/File:%ED%8F%89%EC%96%91%EC%8B%A0%EC%82%AC%EC%B8%A1%EB%A9%B4%EC%A0%84%EA%B2%BD.png) — Heijō Shrine
 
-## Already vectorized on Commons (253)
+## Already vectorized on Commons (254)
 
 No rebuild needed; at most the PNG needs `{{Vector version available|...}}`. Built from
 `tools/same_name_svg.json` and `tools/triage.json`.
 
+- [File:MTLogo2.png](https://commons.wikimedia.org/wiki/File:MTLogo2.png) — Module:Portal/images/m — vector exists: File:MTLogo1.svg (same artwork; mean diff 2.6 after a 1.5 px offset)
 - [File:Tamil distribution.png](https://commons.wikimedia.org/wiki/File:Tamil_distribution.png) — Module:Portal/images/t — vector exists: File:Tamil speakers map.svg (the PNG matches its render, mean diff 4.3)
 - [File:Silver-service-star.png](https://commons.wikimedia.org/wiki/File:Silver-service-star.png) — (file-title list), File:Silver-service-star.png — vector exists: File:Silver-service-star-3d.svg (the PNG is a render of it)
 - [File:Actual Cluj county CoA.png](https://commons.wikimedia.org/wiki/File:Actual_Cluj_county_CoA.png) — Template:Coat of arms — vector exists: File:Actual Cluj county CoA.svg

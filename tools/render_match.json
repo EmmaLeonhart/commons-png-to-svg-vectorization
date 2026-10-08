@@ -34,11 +34,6 @@
   "diff": 40.17,
   "match": false
  },
- "Flag of the United States (23px).png": {
-  "svg": "Flag of the United States.svg",
-  "diff": 28.71,
-  "match": false
- },
  "Former Ensign of Myanmar Air Force.png": {
   "svg": "Air Force Ensign of Myanmar.svg",
   "diff": 44.4,
@@ -59,11 +54,6 @@
   "diff": 99.77,
   "match": false
  },
- "Location map Ryukyu Islands.png": {
-  "svg": "Ryukyu cultural regions.svg",
-  "diff": 7.17,
-  "match": false
- },
  "Melanesian Cultural Area.png": {
   "svg": "World2Hires filled mercator.svg",
   "diff": 46.69,
@@ -72,16 +62,6 @@
  "Micronesian Cultural Area.png": {
   "svg": "World2Hires filled mercator.svg",
   "diff": 45.85,
-  "match": false
- },
- "MTLogo2.png": {
-  "svg": "MTLogo1.svg",
-  "diff": 7.31,
-  "match": false
- },
- "Polynesia.png": {
-  "svg": "French Polynesia (orthographic projection, yellowblue).svg",
-  "diff": 21.0,
   "match": false
  },
  "Pronunciation of the name of the letter ⟨e⟩ in European languages.png": {

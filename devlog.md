@@ -56,3 +56,6 @@
 - `tools/render_match.py`: renders each linked SVG at the PNG's size. Silver-service-star.png and
   Tamil distribution.png are plain renders of existing SVGs; moved to "Already vectorized".
   King of Na gold seal face.png marked NOT REBUILDABLE (photograph).
+- MTLogo2.png: same artwork as File:MTLogo1.svg (aligned diff 2.6); moved to "Already vectorized".
+  `tools/render_match.py` gained an alignment step; its re-run over near misses was stopped by
+  Claude Code for low memory and has not been restarted.
