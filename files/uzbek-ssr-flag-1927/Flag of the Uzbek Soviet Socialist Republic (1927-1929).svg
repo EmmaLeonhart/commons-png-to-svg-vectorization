@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="752" height="381" viewBox="0 0 752 381">
+  <title>Flag of the Uzbek SSR (1927-1929)</title>
+  <rect width="752" height="381" fill="#cd0000"/>
+  <g id="inscription" style="font-family:'Liberation Sans', Arial, 'DejaVu Sans', sans-serif;fill:#ffd700">
+    <text id="line-arabic-1" x="215.5" y="53.0" direction="rtl" text-anchor="start" style="font-size:49.7px">أوز.ئـ.شـ.جـ.</text>
+    <text id="line-cyrillic" x="23.5" y="101.0" style="font-size:48.0px;letter-spacing:0.6px">Уз.С.С.Р</text>
+    <text id="line-arabic-2" x="203.5" y="162.0" direction="rtl" text-anchor="start" style="font-size:49.3px">جـ.شـ.ا.اوز.</text>
+  </g>
+</svg>

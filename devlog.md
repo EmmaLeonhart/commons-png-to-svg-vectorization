@@ -70,3 +70,6 @@
   only to colours the base actually uses; dark near-grey text filter tightened.
 - **File:Flag of the Uzbek Soviet Socialist Republic(1937-1938).png → SVG**
   (`files/uzbek-ssr-flag-1937/`): red field and two `<text>` lines; 0.58% of pixels differ.
+- **File:Flag of the Uzbek Soviet Socialist Republic(1927-1929).png → SVG**
+  (`files/uzbek-ssr-flag-1927/`): red field, two RTL Arabic-script `<text>` lines and one Cyrillic.
+  The Arabic transcription should be confirmed by a reader before upload.
