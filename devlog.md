@@ -84,3 +84,6 @@
 - **File:Susanowo family tree.png → SVG** (`files/susanowo-family-tree/`): exact 1 px line segments,
   dotted line and hop, 26 names as vertical `<text>` (ink boxes within 1 px). librsvg's vertical
   text still to be checked. Family crest hanawachigai.png marked NOT REBUILDABLE (freeform flower).
+- **File:Ohokuninushi family tree.png → SVG** with the new `tools/rebuild_tree.py` (line art →
+  exact segments, dots → circles, names from a JSON spec as vertical `<text>`): black-pixel IoU 0.991,
+  36 names. Staged in upload/.

@@ -1,0 +1,434 @@
+{
+ "png": "data_lake/downloads/ohokuninushi-family-tree/Ohokuninushi family tree.png",
+ "out": "files/ohokuninushi-family-tree/Ohokuninushi family tree.svg",
+ "title": "大国主の系図（古事記による） (Family tree of Ohokuninushi)",
+ "font_size": 16,
+ "colours": {
+  "red": "#ff0000",
+  "blue": "#0000ff",
+  "yellow": "#cccc00"
+ },
+ "names": [
+  {
+   "text": "速須佐之男命",
+   "colour": "blue",
+   "bold": false,
+   "box": [
+    255,
+    270,
+    9,
+    104
+   ]
+  },
+  {
+   "text": "神屋楯比売命",
+   "colour": "red",
+   "bold": false,
+   "box": [
+    183,
+    198,
+    131,
+    226
+   ]
+  },
+  {
+   "text": "八上比売",
+   "colour": "red",
+   "bold": false,
+   "box": [
+    351,
+    366,
+    141,
+    204
+   ]
+  },
+  {
+   "text": "八島牟遅能神",
+   "colour": "blue",
+   "bold": false,
+   "box": [
+    154,
+    169,
+    167,
+    262
+   ]
+  },
+  {
+   "text": [
+    "木俣神",
+    "（御井神）"
+   ],
+   "colour": "yellow",
+   "bold": false,
+   "box": [
+    306,
+    338,
+    197,
+    255
+   ]
+  },
+  {
+   "text": "事代主神",
+   "colour": "blue",
+   "bold": false,
+   "box": [
+    210,
+    225,
+    199,
+    262
+   ]
+  },
+  {
+   "text": "沼河比売",
+   "colour": "red",
+   "bold": false,
+   "box": [
+    350,
+    365,
+    249,
+    312
+   ]
+  },
+  {
+   "text": "大国主神",
+   "colour": "blue",
+   "bold": true,
+   "box": [
+    255,
+    271,
+    257,
+    320
+   ]
+  },
+  {
+   "text": "鳥取神",
+   "colour": "red",
+   "bold": false,
+   "box": [
+    153,
+    168,
+    281,
+    328
+   ]
+  },
+  {
+   "text": "須勢理毘売命",
+   "colour": "red",
+   "bold": false,
+   "box": [
+    379,
+    394,
+    283,
+    378
+   ]
+  },
+  {
+   "text": [
+    "日名照額田毘",
+    "道男伊許知邇神"
+   ],
+   "colour": "red",
+   "bold": false,
+   "box": [
+    110,
+    142,
+    296,
+    407
+   ]
+  },
+  {
+   "text": "鳥鳴海神",
+   "colour": "blue",
+   "bold": false,
+   "box": [
+    201,
+    216,
+    324,
+    387
+   ]
+  },
+  {
+   "text": "多紀理毘売命",
+   "colour": "red",
+   "bold": false,
+   "box": [
+    408,
+    423,
+    352,
+    447
+   ]
+  },
+  {
+   "text": "天之甕主神",
+   "colour": "blue",
+   "bold": false,
+   "box": [
+    45,
+    60,
+    375,
+    453
+   ]
+  },
+  {
+   "text": "葦那陀迦神",
+   "colour": "red",
+   "bold": false,
+   "box": [
+    86,
+    101,
+    392,
+    471
+   ]
+  },
+  {
+   "text": "国忍富神",
+   "colour": "blue",
+   "bold": false,
+   "box": [
+    164,
+    179,
+    403,
+    466
+   ]
+  },
+  {
+   "text": "高比売命",
+   "colour": "red",
+   "bold": false,
+   "box": [
+    315,
+    330,
+    424,
+    487
+   ]
+  },
+  {
+   "text": "阿遅鉏高日子根神",
+   "colour": "blue",
+   "bold": false,
+   "box": [
+    339,
+    354,
+    425,
+    554
+   ]
+  },
+  {
+   "text": "淤加美神",
+   "colour": "blue",
+   "bold": false,
+   "box": [
+    7,
+    22,
+    448,
+    511
+   ]
+  },
+  {
+   "text": "建御名方神",
+   "colour": "blue",
+   "bold": false,
+   "box": [
+    255,
+    270,
+    449,
+    528
+   ]
+  },
+  {
+   "text": [
+    "速甕之多気佐",
+    "波夜遅奴美神"
+   ],
+   "colour": "blue",
+   "bold": false,
+   "box": [
+    118,
+    150,
+    465,
+    560
+   ]
+  },
+  {
+   "text": "前玉比売",
+   "colour": "red",
+   "bold": false,
+   "box": [
+    47,
+    62,
+    482,
+    545
+   ]
+  },
+  {
+   "text": [
+    "比々羅木之",
+    "其花麻豆美神"
+   ],
+   "colour": "blue",
+   "bold": false,
+   "box": [
+    199,
+    231,
+    489,
+    584
+   ]
+  },
+  {
+   "text": "比那良志毘売",
+   "colour": "red",
+   "bold": false,
+   "box": [
+    7,
+    22,
+    536,
+    631
+   ]
+  },
+  {
+   "text": "甕主日子神",
+   "colour": "blue",
+   "bold": false,
+   "box": [
+    84,
+    99,
+    541,
+    620
+   ]
+  },
+  {
+   "text": "敷山主神",
+   "colour": "blue",
+   "bold": false,
+   "box": [
+    169,
+    184,
+    601,
+    664
+   ]
+  },
+  {
+   "text": "活玉前玉比売神",
+   "colour": "red",
+   "bold": false,
+   "box": [
+    205,
+    220,
+    610,
+    721
+   ]
+  },
+  {
+   "text": [
+    "多比理岐志",
+    "麻流美神"
+   ],
+   "colour": "blue",
+   "bold": false,
+   "box": [
+    274,
+    306,
+    618,
+    697
+   ]
+  },
+  {
+   "text": "青沼馬沼押比売",
+   "colour": "red",
+   "bold": false,
+   "box": [
+    168,
+    183,
+    685,
+    796
+   ]
+  },
+  {
+   "text": "美呂浪神",
+   "colour": "blue",
+   "bold": false,
+   "box": [
+    241,
+    256,
+    705,
+    768
+   ]
+  },
+  {
+   "text": "天狭霧神",
+   "colour": "blue",
+   "bold": false,
+   "box": [
+    108,
+    123,
+    753,
+    815
+   ]
+  },
+  {
+   "text": "若尽女神",
+   "colour": "red",
+   "bold": false,
+   "box": [
+    137,
+    152,
+    779,
+    842
+   ]
+  },
+  {
+   "text": [
+    "布忍富",
+    "鳥鳴海神"
+   ],
+   "colour": "blue",
+   "bold": false,
+   "box": [
+    201,
+    233,
+    782,
+    845
+   ]
+  },
+  {
+   "text": "遠津待根神",
+   "colour": "red",
+   "bold": false,
+   "box": [
+    109,
+    124,
+    842,
+    921
+   ]
+  },
+  {
+   "text": [
+    "天日腹大",
+    "科度美神"
+   ],
+   "colour": "blue",
+   "bold": false,
+   "box": [
+    170,
+    202,
+    858,
+    921
+   ]
+  },
+  {
+   "text": [
+    "遠津山岬",
+    "多良斯神"
+   ],
+   "colour": "blue",
+   "bold": false,
+   "box": [
+    134,
+    166,
+    923,
+    986
+   ]
+  }
+ ],
+ "notes": []
+}
