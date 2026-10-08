@@ -4,13 +4,12 @@ PNG files from `data_lake/wikipedia-png-search-results.txt`, resolved against
 Commons by `tools/build_queue.py`. One line per file; delete a line when the file
 is done (record it in devlog.md). Prefer rebuilding from a vector source over tracing.
 
-## To vectorize (565)
+## To vectorize (564)
 
 Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed images (174).
 
 - [File:1bc1a.png](https://commons.wikimedia.org/wiki/File:1bc1a.png) — Help:Multilingual support
 - [File:23 Graz.png](https://commons.wikimedia.org/wiki/File:23_Graz.png) — Template:Rail-interchange
-- [File:24directions.png](https://commons.wikimedia.org/wiki/File:24directions.png) — Eight Directional Deities
 - [File:45 record.png](https://commons.wikimedia.org/wiki/File:45_record.png) — Module:Portal/images/r
 - [File:5th century Korea.png](https://commons.wikimedia.org/wiki/File:5th_century_Korea.png) — Toraijin
 - [File:Abkhazia stub.png](https://commons.wikimedia.org/wiki/File:Abkhazia_stub.png) — Template talk:Portal

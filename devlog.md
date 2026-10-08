@@ -96,3 +96,5 @@
 - `tools/visual_triage.py`: colour-complexity check of every remaining file's thumbnail. queue.md now
   lists flat graphics first, then mixed images; photo-like images and screenshots moved to a
   "Likely raster originals" section for review (not traced, not deleted).
+- **File:24directions.png → SVG** (`files/24directions/`): the Ehou-direction construction re-measured;
+  53 `<text>` labels. Staged in upload/.
