@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="339" height="860" viewBox="0 0 339 860">
+  <title>天皇家系図 神代 (Family tree from Izanagi and Izanami to Emperor Jimmu)</title>
+  <rect width="339" height="860" fill="#ffffff"/>
+  <g style="fill:none;stroke:#000000;stroke-width:1">
+    <path d="M76,42.5 H235 M76,46.5 H235 M158,103.5 H174 M175,103.5 H263 M79,174.5 H148 M171,174.5 H213 M90,223.5 H103 M90,227.5 H103 M279,290.5 H301 M279,294.5 H301 M107,304.5 H148 M107,308.5 H148 M223,407.5 H226 M227,407.5 H269 M223,411.5 H226 M227,411.5 H269 M32,500.5 H74 M32,504.5 H74 M164,541.5 H212 M222,582.5 H226 M227,582.5 H242 M222,586.5 H226 M227,586.5 H242 M176,697.5 H185 M186,697.5 H212 M176,701.5 H185 M186,701.5 H212 M77,783.5 H136 M137,783.5 H181 M77,787.5 H136 M137,787.5 H181 M49.5,504 V714 M79.5,174 V193 M96.5,147 V175 M96.5,227 V265 M97.5,46 V61 M113.5,174 V192 M129.5,308 V356 M129.5,359 V362 M129.5,365 V368 M129.5,371 V374 M129.5,377 V380 M129.5,383 V386 M129.5,389 V392 M129.5,395 V398 M129.5,401 V404 M129.5,407 V410 M129.5,413 V416 M129.5,419 V422 M129.5,425 V465 M158.5,103 V162 M158.5,174 V266 M164.5,541 V653 M176.5,493 V542 M194.5,701 V755 M211.5,541 V553 M212.5,174 V360 M231.5,586 V650 M245.5,90 V104 M251.5,411 V551 M262.5,103 V115 M262.5,204 V233 M290.5,294 V359 M311.5,114 V212 M94.5,504.5 L99.5,509.5 M100.5,492.5 L94.5,498.5"/>
+    <path d="M93.5,499 V504 M95,501.5 H120" style="stroke-dasharray:1,1"/>
+  </g>
+  <g style="fill:none;stroke:#c0c0c0;stroke-width:1">
+    <path d="M174,148.5 H227 M185,642.5 H227 M136,747.5 H186 M136.5,747 V852 M174.5,70 V149 M185.5,642 V748 M226.5,148 V643"/>
+  </g>
+  <g id="extra" style="fill:none;stroke:#000000;stroke-width:1">
+    <path d="M147.5,174.5 A12,12 0 0 1 171.5,174.5 M158.5,162 V174"/>
+  </g>
+  <g id="dots">
+
+  </g>
+  <g id="names" style="font-family:'Noto Sans CJK JP', 'Noto Sans JP', 'MS Gothic', sans-serif;font-size:16px">
+    <text x="312.0" y="6.5" writing-mode="tb" style="fill:#0000ff">高御産巣日神</text>
+    <text x="246.0" y="7.5" writing-mode="tb" style="fill:#0000ff">伊邪那岐神</text>
+    <text x="65.0" y="8.5" writing-mode="tb" style="fill:#ff0000">伊邪那美神</text>
+    <text x="97.0" y="64.5" writing-mode="tb" style="fill:#0000ff">大山津見神</text>
+    <text x="263.0" y="119.5" writing-mode="tb" style="fill:#ff0000">天照大御神</text>
+    <text x="80.0" y="192.5" writing-mode="tb" style="fill:#ff0000">手名椎神</text>
+    <text x="113.0" y="193.5" writing-mode="tb" style="fill:#0000ff">足名椎神</text>
+    <text x="312.0" y="215.5" writing-mode="tb" style="fill:#ff0000">万幡豊秋津師比売命</text>
+    <text writing-mode="tb" style="fill:#0000ff"><tspan x="270.0" y="237.5">正勝吾勝勝速日</tspan><tspan x="253.0" y="237.5">天之忍穂耳命</tspan></text>
+    <text x="158.0" y="265.5" writing-mode="tb" style="fill:#0000ff">須佐之男命</text>
+    <text x="98.0" y="266.5" writing-mode="tb" style="fill:#ff0000">櫛名田比売</text>
+    <text writing-mode="tb" style="fill:#0000ff"><tspan x="299.0" y="361.5">天邇岐志国邇岐志天津</tspan><tspan x="282.0" y="361.5">日高日子番能邇邇芸命</tspan></text>
+    <text x="213.0" y="364.5" writing-mode="tb" style="fill:#ff0000">木花之佐久夜毘売</text>
+    <text x="177.0" y="412.5" writing-mode="tb" style="fill:#0000ff">綿津見大神</text>
+    <text x="22.0" y="462.5" writing-mode="tb" style="fill:#ff0000">勢夜陀多良比売</text>
+    <text x="83.0" y="468.5" writing-mode="tb" style="fill:#0000ff">大物主神</text>
+    <text x="131.0" y="468.5" writing-mode="tb" style="fill:#0000ff">大国主神</text>
+    <text x="254.0" y="554.5" writing-mode="tb" style="fill:#0000ff">火遠理命</text>
+    <text x="212.0" y="555.5" writing-mode="tb" style="fill:#ff0000">豊玉毘売命</text>
+    <text writing-mode="tb" style="fill:#0000ff"><tspan x="240.0" y="650.5">天津日高日子波限建</tspan><tspan x="223.0" y="650.5">鵜葺草葺不合命</tspan></text>
+    <text x="166.0" y="658.5" writing-mode="tb" style="fill:#ff0000">玉依毘売命</text>
+    <text writing-mode="tb" style="fill:#ff0000"><tspan x="62.0" y="728.5">比売多多良</tspan><tspan x="45.0" y="728.5">伊須気余理比売</tspan></text>
+    <text x="195.0" y="762.5" writing-mode="tb" style="fill:#0000ff">神武天皇</text>
+  </g>
+  <g id="notes" style="font-family:'Noto Sans CJK JP', 'Noto Sans JP', 'MS Gothic', sans-serif">
+    <text x="144.0" y="89.0" text-anchor="middle" style="font-size:12px;fill:#000000">国津神系</text>
+    <text x="205.0" y="89.0" text-anchor="middle" style="font-size:12px;fill:#000000">天津神系</text>
+    <text x="109.0" y="844.0" text-anchor="middle" style="font-size:12px;fill:#000000">国津神系</text>
+    <text x="166.0" y="844.0" text-anchor="middle" style="font-size:12px;fill:#000000">天津神系</text>
+    <text x="109.0" y="508.5" writing-mode="tb" style="font-size:12px;fill:#000000">幸魂・奇魂</text>
+    <text x="206.0" y="763.0" text-anchor="middle" style="font-size:12px;fill:#000000">1</text>
+  </g>
+</svg>

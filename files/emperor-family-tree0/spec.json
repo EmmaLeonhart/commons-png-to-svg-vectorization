@@ -1,0 +1,405 @@
+{
+ "png": "data_lake/downloads/emperor-family-tree0/Emperor family tree0.png",
+ "out": "files/emperor-family-tree0/Emperor family tree0.svg",
+ "title": "天皇家系図 神代 (Family tree from Izanagi and Izanami to Emperor Jimmu)",
+ "font_size": 16,
+ "colours": {
+  "red": "#ff0000",
+  "blue": "#0000ff"
+ },
+ "names": [
+  {
+   "text": "高御産巣日神",
+   "colour": "blue",
+   "bold": false,
+   "box": [
+    304,
+    319,
+    7,
+    102
+   ]
+  },
+  {
+   "text": "伊邪那岐神",
+   "colour": "blue",
+   "bold": false,
+   "box": [
+    238,
+    253,
+    8,
+    87
+   ]
+  },
+  {
+   "text": "伊邪那美神",
+   "colour": "red",
+   "bold": false,
+   "box": [
+    57,
+    72,
+    9,
+    88
+   ]
+  },
+  {
+   "text": "大山津見神",
+   "colour": "blue",
+   "bold": false,
+   "box": [
+    89,
+    104,
+    65,
+    144
+   ]
+  },
+  {
+   "text": "天照大御神",
+   "colour": "red",
+   "bold": false,
+   "box": [
+    255,
+    270,
+    120,
+    198
+   ]
+  },
+  {
+   "text": "手名椎神",
+   "colour": "red",
+   "bold": false,
+   "box": [
+    72,
+    87,
+    193,
+    256
+   ]
+  },
+  {
+   "text": "足名椎神",
+   "colour": "blue",
+   "bold": false,
+   "box": [
+    105,
+    120,
+    194,
+    257
+   ]
+  },
+  {
+   "text": "万幡豊秋津師比売命",
+   "colour": "red",
+   "bold": false,
+   "box": [
+    304,
+    319,
+    216,
+    358
+   ]
+  },
+  {
+   "text": [
+    "正勝吾勝勝速日",
+    "天之忍穂耳命"
+   ],
+   "colour": "blue",
+   "bold": false,
+   "box": [
+    245,
+    277,
+    238,
+    349
+   ]
+  },
+  {
+   "text": "須佐之男命",
+   "colour": "blue",
+   "bold": false,
+   "box": [
+    150,
+    165,
+    266,
+    345
+   ]
+  },
+  {
+   "text": "櫛名田比売",
+   "colour": "red",
+   "bold": false,
+   "box": [
+    90,
+    105,
+    267,
+    346
+   ]
+  },
+  {
+   "text": [
+    "天邇岐志国邇岐志天津",
+    "日高日子番能邇邇芸命"
+   ],
+   "colour": "blue",
+   "bold": false,
+   "box": [
+    274,
+    306,
+    362,
+    520
+   ]
+  },
+  {
+   "text": "木花之佐久夜毘売",
+   "colour": "red",
+   "bold": false,
+   "box": [
+    205,
+    220,
+    365,
+    492
+   ]
+  },
+  {
+   "text": "綿津見大神",
+   "colour": "blue",
+   "bold": false,
+   "box": [
+    169,
+    184,
+    413,
+    492
+   ]
+  },
+  {
+   "text": "勢夜陀多良比売",
+   "colour": "red",
+   "bold": false,
+   "box": [
+    14,
+    29,
+    463,
+    574
+   ]
+  },
+  {
+   "text": "大物主神",
+   "colour": "blue",
+   "bold": false,
+   "box": [
+    75,
+    90,
+    469,
+    532
+   ]
+  },
+  {
+   "text": "大国主神",
+   "colour": "blue",
+   "bold": false,
+   "box": [
+    123,
+    138,
+    469,
+    532
+   ]
+  },
+  {
+   "text": "火遠理命",
+   "colour": "blue",
+   "bold": false,
+   "box": [
+    246,
+    261,
+    555,
+    618
+   ]
+  },
+  {
+   "text": "豊玉毘売命",
+   "colour": "red",
+   "bold": false,
+   "box": [
+    204,
+    219,
+    556,
+    635
+   ]
+  },
+  {
+   "text": [
+    "天津日高日子波限建",
+    "鵜葺草葺不合命"
+   ],
+   "colour": "blue",
+   "bold": false,
+   "box": [
+    215,
+    247,
+    651,
+    794
+   ]
+  },
+  {
+   "text": "玉依毘売命",
+   "colour": "red",
+   "bold": false,
+   "box": [
+    158,
+    173,
+    659,
+    738
+   ]
+  },
+  {
+   "text": [
+    "比売多多良",
+    "伊須気余理比売"
+   ],
+   "colour": "red",
+   "bold": false,
+   "box": [
+    37,
+    69,
+    729,
+    840
+   ]
+  },
+  {
+   "text": "神武天皇",
+   "colour": "blue",
+   "bold": false,
+   "box": [
+    187,
+    202,
+    763,
+    825
+   ]
+  }
+ ],
+ "notes": [
+  {
+   "text": "国津神系",
+   "box": [
+    120,
+    167,
+    77,
+    88
+   ],
+   "size": 12
+  },
+  {
+   "text": "天津神系",
+   "box": [
+    181,
+    228,
+    77,
+    88
+   ],
+   "size": 12
+  },
+  {
+   "text": "国津神系",
+   "box": [
+    85,
+    132,
+    832,
+    843
+   ],
+   "size": 12
+  },
+  {
+   "text": "天津神系",
+   "box": [
+    142,
+    189,
+    832,
+    843
+   ],
+   "size": 12
+  },
+  {
+   "text": "幸魂・奇魂",
+   "box": [
+    103,
+    114,
+    509,
+    564
+   ],
+   "size": 12,
+   "vertical": true
+  },
+  {
+   "text": "1",
+   "box": [
+    204,
+    207,
+    754,
+    762
+   ],
+   "size": 12
+  }
+ ],
+ "line_colours": [
+  {
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "stroke": "#000000"
+  },
+  {
+   "rgb": [
+    192,
+    192,
+    192
+   ],
+   "stroke": "#c0c0c0"
+  }
+ ],
+ "mask": [
+  [
+   119,
+   168,
+   76,
+   89
+  ],
+  [
+   180,
+   229,
+   76,
+   89
+  ],
+  [
+   84,
+   133,
+   831,
+   844
+  ],
+  [
+   141,
+   190,
+   831,
+   844
+  ],
+  [
+   102,
+   115,
+   508,
+   565
+  ],
+  [
+   203,
+   208,
+   753,
+   763
+  ],
+  [
+   147,
+   172,
+   162,
+   173
+  ]
+ ],
+ "extra": [
+  "<path d=\"M147.5,174.5 A12,12 0 0 1 171.5,174.5 M158.5,162 V174\"/>"
+ ]
+}

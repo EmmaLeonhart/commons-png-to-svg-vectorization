@@ -4,7 +4,7 @@ PNG files from `data_lake/wikipedia-png-search-results.txt`, resolved against
 Commons by `tools/build_queue.py`. One line per file; delete a line when the file
 is done (record it in devlog.md). Prefer rebuilding from a vector source over tracing.
 
-## To vectorize (866)
+## To vectorize (865)
 
 - [File:1873 Seikanron Debate Saigo Takamori Ukiyo-e by Suzuki Toshimoto.png](https://commons.wikimedia.org/wiki/File:1873_Seikanron_Debate_Saigo_Takamori_Ukiyo-e_by_Suzuki_Toshimoto.png) — Saigō Takamori
 - [File:1bc1a.png](https://commons.wikimedia.org/wiki/File:1bc1a.png) — Help:Multilingual support
@@ -140,7 +140,6 @@ is done (record it in devlog.md). Prefer rebuilding from a vector source over tr
 - [File:Emblem of Wallachia under Alexandru Coconul, 1624.png](https://commons.wikimedia.org/wiki/File:Emblem_of_Wallachia_under_Alexandru_Coconul%2C_1624.png) — Template:Country data Wallachia
 - [File:Emblem of Wallachia under Radu Leon, 1667.png](https://commons.wikimedia.org/wiki/File:Emblem_of_Wallachia_under_Radu_Leon%2C_1667.png) — Template:Country data Wallachia
 - [File:Emblem of Wallachia under Radu Paisie (Dimitrije Ljubavić's Molitvenik, Jan 10, 1545).png](https://commons.wikimedia.org/wiki/File:Emblem_of_Wallachia_under_Radu_Paisie_%28Dimitrije_Ljubavi%C4%87%27s_Molitvenik%2C_Jan_10%2C_1545%29.png) — Template:Country data Wallachia
-- [File:Emperor family tree0.png](https://commons.wikimedia.org/wiki/File:Emperor_family_tree0.png) — Himetataraisuzu-hime
 - [File:Emperor Komei Portrait by Koyama Shotaro 1902.png](https://commons.wikimedia.org/wiki/File:Emperor_Komei_Portrait_by_Koyama_Shotaro_1902.png) — Sokutai
 - [File:Emperor-Go-Daigo-by-Ogata-Gekko-1904.png](https://commons.wikimedia.org/wiki/File:Emperor-Go-Daigo-by-Ogata-Gekko-1904.png) — Kenmu Restoration, List of the Fifteen Shrines of the Kenmu Restoration, Template:Fifteen Shrines of the Kenmu Restoration
 - [File:Emperor-Jinmu-from-series-Mirror-of-Famous-Generals-of-Great-Japan.png](https://commons.wikimedia.org/wiki/File:Emperor-Jinmu-from-series-Mirror-of-Famous-Generals-of-Great-Japan.png) — Jimmu's Eastern Expedition

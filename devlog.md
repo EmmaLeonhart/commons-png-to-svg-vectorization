@@ -87,3 +87,6 @@
 - **File:Ohokuninushi family tree.png → SVG** with the new `tools/rebuild_tree.py` (line art →
   exact segments, dots → circles, names from a JSON spec as vertical `<text>`): black-pixel IoU 0.991,
   36 names. Staged in upload/.
+- **File:Emperor family tree0.png → SVG** (`files/emperor-family-tree0/`): `rebuild_tree.py` now also
+  extracts 45° and dotted runs, several line colours (the grey 国津神系/天津神系 divider) and takes masks
+  and hand-made extras (a hop arc). 23 names, 6 notes. Staged in upload/.

@@ -2,13 +2,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="441" height="993" viewBox="0 0 441 993">
   <title>大国主の系図（古事記による） (Family tree of Ohokuninushi)</title>
   <rect width="441" height="993" fill="#ffffff"/>
-  <g id="lines" style="fill:none;stroke:#000000;stroke-width:1">
+  <g style="fill:none;stroke:#000000;stroke-width:1">
     <path d="M263,123.5 H419 M245,163.5 H284 M283,178.5 H350 M199,179.5 H246 M283,180.5 H350 M199,181.5 H246 M283,274.5 H350 M283,276.5 H350 M169,302.5 H246 M169,304.5 H246 M283,329.5 H378 M283,331.5 H378 M143,351.5 H200 M143,353.5 H200 M283,388.5 H407 M283,390.5 H407 M324,407.5 H346 M245,416.5 H284 M105,431.5 H162 M105,433.5 H162 M65,515.5 H116 M65,517.5 H116 M25,578.5 H83 M25,580.5 H83 M222,656.5 H273 M222,658.5 H272 M186,735.5 H239 M186,737.5 H239 M155,813.5 H199 M155,815.5 H199 M127,883.5 H167 M127,885.5 H167 M15.5,512 V534 M53.5,456 V480 M56.5,580 V637 M92.5,517 V539 M116.5,816 V837 M135.5,433 V465 M151.5,885 V922 M161.5,264 V279 M172.5,353 V403 M178.5,665 V685 M183.5,815 V855 M208.5,304 V322 M215.5,737 V782 M216.5,585 V610 M217.5,181 V197 M245.5,163 V417 M248.5,658 V702 M263.5,106 V131 M263.5,133 V136 M263.5,138 V141 M263.5,143 V146 M263.5,148 V151 M263.5,153 V156 M263.5,158 V164 M263.5,416 V447 M283.5,163 V417 M290.5,569 V618 M321.5,180 V194 M324.5,407 V422 M334.5,390 V408 M345.5,407 V422 M387.5,123 V278 M418.5,123 V352"/>
-    
   </g>
-  <g id="dots" style="fill:#000000">
-    <circle cx="290.5" cy="562.0" r="6.8"/>
-    <circle cx="56.5" cy="644.0" r="6.8"/>
+  <g id="extra" style="fill:none;stroke:#000000;stroke-width:1">
+
+  </g>
+  <g id="dots">
+    <circle cx="290.5" cy="562.0" r="6.8" fill="#000000"/>
+    <circle cx="56.5" cy="644.0" r="6.8" fill="#000000"/>
   </g>
   <g id="names" style="font-family:'Noto Sans CJK JP', 'Noto Sans JP', 'MS Gothic', sans-serif;font-size:16px">
     <text x="263.0" y="8.5" writing-mode="tb" style="fill:#0000ff">速須佐之男命</text>
