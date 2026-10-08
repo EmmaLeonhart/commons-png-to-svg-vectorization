@@ -31,3 +31,6 @@
 - `tools/rebuild_flagmap.py`: solid-silhouette mode (`#rrggbb` instead of a flag), separate
   x/y scales, debris and speck removal. Renders are now transparent.
 - Shadow picture of Gunma prefecture.png: attempted, parked as NEEDS-INVESTIGATION (see queue.md).
+- `tools/same_name_svg.py`: 157 queued PNGs have a same-named SVG on Commons (e.g.
+  EnglandSurrey.svg). With the 206 whose pages already point to a vector version, 251
+  files moved to "Already vectorized on Commons" in queue.md; 886 remain to vectorize.
