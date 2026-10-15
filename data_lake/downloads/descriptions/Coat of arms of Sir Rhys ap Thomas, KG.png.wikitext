@@ -1,0 +1,17 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Coat of arms of Sir Rhys ap Thomas, KG<br>
+See Sir Rhys' stall plate, still intact, within its original stall at St. George's Chapel - ''Argent, a chevron between three Cornish choughs sable'' (Burke, Sir Bernard, The General Armory, London, 1884, p.1006 "Thomas ''tempore'' King Henry VII").}}
+|date=2013-11-08 11:28:08
+|source={{own}}
+|author=[[User:Rs-nourse|Rs-nourse]]
+|permission=
+|other_versions=
+|other_fields=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-3.0}}
+{{DEFAULTSORT:Thomas, Rhys}}
+[[Category:Coats of arms of members of the Order of the Garter (15th century)]]
+[[Category:Coats of arms of Sir Rhys ap Thomas (died 1525), KG]]

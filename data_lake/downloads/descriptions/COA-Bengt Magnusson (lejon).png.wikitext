@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{sv|1=Vapensköld med upprest, åt vänster gående lejon}}
+|date=2019-02-26
+|source={{own}}
+ |author={{Creator:Dan Koehl}}
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-3.0}}
+
+[[Category:Coats of arms of Swedish noble families]]
+[[Category:Coats of arms by Dan Koehl]]
+[[Category:Lion of Bjelbo in heraldry]]

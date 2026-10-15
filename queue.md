@@ -4,6 +4,39 @@ PNG files from `data_lake/wikipedia-png-search-results.txt`, resolved against
 Commons by `tools/build_queue.py`. One line per file; delete a line when the file
 is done (record it in devlog.md). Prefer rebuilding from a vector source over tracing.
 
+## Coats of arms for order.life (worked first)
+
+Emma, inochi-no-michikyo queue, 2026-10-14, word for word: "start a session of
+C:\Users\Emma\Documents\GitHub\agentic-vectorization to have it autonomously build coats of arms for our
+coat of arms thing". Reading and scope in INTENT.md ("Second strand"). Sources:
+`data_lake/downloads/order-life-arms/` (person_arms.tsv, arms_triage.json, png/). Contact sheets:
+`Documents\claude-screenshots\agentic-vectorization_2026-10-15\order_life_raster_arms_*.png` (numbers below
+are their indices). Output: `files/arms/<slug>/` with notes.md, finished SVG staged in `upload/<slug>/`.
+
+- **Blazonable shields → rebuild with the generator** (`tools/generator_render.py`), compare with the PNG,
+  fix the blazon until it matches; a generator shortfall is noted in notes.md (not fixed: other repo):
+  2 Braose, 3 Geoffrey de Burgo (Ely), 6 Arpad, 9 Basset, 10 Berg old, 11 Berkeley, 15 Bohun, 16 Buornonville,
+  17 Traba, 18 Erik Eriksson, 24 Cardona, 25 Carew, 26 Clifford, 28 Neville, 29 Percy, 37 Vescy,
+  38 Mandeville, 39 Henry de Bohun, 40 Bigod, 42 Clare, 43 Richard de Percy, 44 Quincy, 48 Aubigny,
+  49 Fortibus, 50 Mowbray (Axholme), 53 Terter, 54 DeForz, 62 Téllez de Meneses, 64/65 Cabrera, 68 Giffard,
+  74 St John, 75 Ferrers, 77 Longespée, 79 Meissen, 80 Moels, 82 Mowbray, 84 FitzHamon, 89 County of
+  Portugal, 96 Glyndŵr, 99 Scheibenberg, 100 Springe, 101 Rabenswalde, 103 Wildgraf Dhaun, 105 Woodville,
+  107 Clermont, 8 Barbosa (shield only), 19/20/21/22/23 Swedish untinctured arms.
+- **Garter stall plates** (shield inside a garter with crown/helm: 27, 30–36, 45–47, 90–93): rebuild the
+  shield from its blazon; the garter frame is NEEDS-INVESTIGATION (is there a vector garter on Commons?).
+- **Full achievements with helm and crest** (0, 4, 59, 66, 67, 70, 72, 73, 83, 86, 94, 102, 106, 108):
+  shield from the blazon; helm, mantling and crest are freeform → NEEDS-INVESTIGATION (vector parts on Commons).
+- **Kamon**: 81 Mon-Imperial (chrysanthemum on red: rebuild from the Imperial Seal SVG, as for the Kenmu flag),
+  76 Maru ni kenkatabami and 95 Takamatsu no miya (look for the same crest as SVG on Commons first).
+- **Already vectorized on Commons** (record the SVG in person_arms, nothing to draw): 13 Comté du Maine,
+  41 Kingdom of Bulgaria, 52 Entença, 58 Empúries, 60 Přemyslovci, 61 Asturias, 63 Nuno Sanç, 87 Sakai Kamon,
+  97 Wettiner Albrecht, 98 Anhalt.
+- **Raster originals, not rebuilt** (manuscript paintings, seals, photos, drawings): 1, 5, 7, 12, 14, 55,
+  56, 57, 69, 71, 78, 85, 88, 104, 109. Their arms could still be blazoned and drawn new, but that is the
+  generator making arms, not vectorizing this file: NEEDS-DECISION (Emma).
+- The 75 JPG arms: triage next (most are probably photos or paintings).
+- After these: the Template:Coat of arms PNGs in the main list below, the same way.
+
 ## To vectorize (543)
 
 Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed images (174).

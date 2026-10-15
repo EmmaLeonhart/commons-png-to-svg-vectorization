@@ -1,0 +1,20 @@
+== {{int:filedesc}} ==
+{{Information
+|Description =
+*{{en|[[:en:Maine (province of France)|Maine (province of France)]]: Coat of Arms in 3D}}
+*{{fr|D’azur semé de fleurs de lis d’or, à la bordure de gueules chargée au canton dextre d’un lion d’argent}}
+*{{de|Wappen der Grafschaft Maine}}
+|Source = designed for the french [[:fr:Projet:Blasons|Projet:Blasons]] using Gimp and Blender
+|Date = 2005-05-17 22:27:32
+|Author = [[User:Ludger1961|ludger1961]]
+|Permission= 
+|other_versions ={{Vector version available|Blason dpt fr Sarthe.svg}}<br/> [[:Image:Blason_Comté_du_Maine.png|Image:Blason_Comté_du_Maine.png]] Version in 2D
+}}
+{{Insignia}}
+{{Self|GFDL|Cc-by-sa-3.0-migrated}}
+
+[[:de:Bild:Blason Comté du Maine 3D.png]]
+[[:en:Image:Blason Comté du Maine 3D.png]]
+[[:fr:Image:Blason Comté du Maine 3D.png]]
+
+[[Category:Coats of arms of Maine (province)]]

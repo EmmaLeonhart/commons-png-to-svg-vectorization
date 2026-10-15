@@ -1,0 +1,14 @@
+== {{int:filedesc}} ==
+{{Information
+|Description    ={{en|1=Attributed arms of Robert FitzHamon (d.1107), conqueror of Glamorgan and feudal baron of Gloucester: ''Azure, a lion rampant guardant or''. As seen depicted in the Bodleian Library Manuscript: Top. Gloucester, d. 2, Founders' and benefectors' book of Tewkesbury Abbey.[http://www.bodley.ox.ac.uk/dept/scwmss/wmss/medieval/mss/top/glouc/d/002.htm] See also blazoned on his tabard in [[File:RobertFitzHamon BodleianMS TopGloucD2.JPG|50px]] File:RobertFitzHamon BodleianMS TopGloucD2.JPG}}
+|Source         =Modified from File:Lion Rampant Guardant.svg (commons)
+|Author         =own work
+|Date           =2014
+|Permission     =
+|other_versions =
+}}
+
+== {{int:license-header}} ==
+{{PD-self}}
+
+[[Category:Attributed arms of Robert FitzHamon]]

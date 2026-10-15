@@ -1,0 +1,21 @@
+{{Convert to SVG|coat of arms}}
+
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Modern reconstruction of CoA of House of Nemanja, made by Aleksandar Palavestra, based on the Fojnica Armorial (17th century).}}
+|date=2013-04-04 19:32:30
+|source={{Derived from|Nemanjić dynasty coat of arms, small, Palavestra.jpg}}
+|author=Aleksandar Palavestra upon medieval documents
+|permission=[[:sr:Википедија:Дозволе за објављивање/СХД Бели орао|Permission is given on sr.wiki]]
+{{GFDL|migration=relicense}}
+|other_versions=
+<gallery>
+File:Nemanjić dynasty coat of arms, Palavestra.jpg
+File:Nemanjić dynasty Fojnica Armorial.jpg
+File:Nemanjić dynasty coat of arms, small, Palavestra.jpg|Shield (JPEG)
+</gallery>
+|other_fields=
+}}
+/transparent background/
+
+[[Category:Coats of arms of the Nemanjić]]

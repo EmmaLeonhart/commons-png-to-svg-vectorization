@@ -1,0 +1,20 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{de|Wappen derer von Everstein}}
+|Source=Zeichnung neu erstellt von [[:de:Benutzer:LeoDavid|LeoDavid]]
+|Date=ca. 12. Jahrhundert
+|Author={{unknown|author}}
+
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{PD-old}}
+{{Wappenrecht}}
+
+== {{Original upload log}} ==
+{{transferred from|de.wikipedia|Ireas|CommonsHelper}} {{original description page|de.wikipedia|Everstein-Wappen.png}}
+* 2010-06-22 22:05 [[:de:User:Dorado|Dorado]] 637×961× (27794 bytes) ''<nowiki>{{Information |Beschreibung=Wappen derer von Everstein |Quelle=Zeichnung neu erstellt von [[Benutzer:LeoDavid|LeoDavid]] |Urheber=unbekannt |Datum= ca. 12. Jahrhundert |Genehmigung= |Andere Versionen= |Anmerkungen= nach Blasonierung und Zeichnung von [[B</nowiki>''
+
+[[Category:Coats of arms of Everstein family]]

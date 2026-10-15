@@ -1,0 +1,15 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|1=coat of arms of markgrave of Meissen}}{{nl|[[:nl:Markgraafschap_Meißen|Markgraafschap_Meißen]]}}
+|Source={{own}}
+|Author=[[User:Kooij|Kooij]]
+|Date={{Upload date|2008-7-8}}
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{self|GFDL|cc-by-sa-3.0,2.5,2.0,1.0}}
+
+[[Category:Coats of arms of the Margraviate of Meissen]]
+[[Category:Lion of Meissen in heraldry]]

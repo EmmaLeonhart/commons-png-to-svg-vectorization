@@ -1,0 +1,14 @@
+== {{int:filedesc}} ==
+{{Information
+|Description    ={{en|1=Arms of de Bohun, Earls of Hereford: ''Azure, a bend argent cotised or between six lions rampant of the last''}}
+|Source         =own work using lion element from commons File:Coat of arms of Leonardo Bonanno.svg by User:SajoR
+|Author         =([[User:Lobsterthermidor|Lobsterthermidor]] ([[User talk:Lobsterthermidor|<span class="signature-talk">{{int:Talkpagelinktext}}</span>]]) 02:16, 28 December 2015 (UTC))
+|Date           =2015
+|Permission     =
+|other_versions =
+}}
+
+[[Category:Bohun arms]]
+[[Category:Coats of arms of Earls of Essex]]
+== {{int:license-header}} ==
+{{cc-by-sa-3.0}}

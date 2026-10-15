@@ -1,0 +1,19 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Shield of the County of Portugal after D. Henry Burgundy, 1st County of Portugal}}{{pt|1=Escudo do Condado Portucalense após D. Henrique de Borgonha, 1º Conde de Portucale}}
+|date=2011-09-30
+|source={{own}}
+|author=[[User:Zulske heraldry|Zulske heraldry]]
+|permission=
+|other_versions=
+|other_fields=
+}}
+
+{{SVG}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-3.0}}
+
+[[Category:Royal coats of arms of Portugal]]
+[[Category:Coats of arms of Henry, Count of Portugal]]
+[[Category:Coats of arms of Afonso I of Portugal]]

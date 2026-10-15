@@ -1,0 +1,53 @@
+<!--This file was moved here using FileImporter from https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Takamatsu_no_miya.png-->
+== {{int:filedesc}} ==
+{{Information
+|Description    = {{ja|高松宮家紋}}
+|Source         = {{own work by original uploader}} ({{original text|1=投稿者が作成|nobold=1}})<br/>
+|Date           = 2009-11-30
+|Author         = {{user at project|DCyokohama|wikipedia|ja}}
+|Permission     = 
+|other_versions =
+}}
+
+== {{int:license-header}} ==
+{{self|author={{user at project|DCyokohama|wikipedia|ja}}|GFDL|cc-by-3.0}}
+
+== {{Original upload log}} ==
+{{Moved from Japanese Wikipedia
+| filename = Takamatsu no miya.png
+| description = <nowiki>高松宮家紋</nowiki>
+| file_history = {{Moved from Japanese Wikipedia/FileHistory
+ | timezone = UTC
+ | datetime1 = 2009-11-30T14:31:41Z
+ | demensions1 = 583x578
+ | user1 = DCyokohama
+ | comment1 = <nowiki>{{Information |Description= 高松宮家紋 |Source= 投稿者が作成 |Date= 11/30/2009 |Author= [[利用者:DCyokohama|DCyokohama]] |Permission= {{self|GFDL|cc-by-3.0}}  |other_versions= }}</nowiki>
+ | datetime2 = 2009-11-30T14:41:00Z
+ | demensions2 = 626x621
+ | user2 = DCyokohama
+ | comment2 = <nowiki>微修正</nowiki>
+ | datetime3 = 2011-10-21T14:39:03Z
+ | demensions3 = 693x682
+ | user3 = DCyokohama
+ | comment3 = 
+}}
+| page_history = {{Moved from Japanese Wikipedia/PageHistory
+ | timezone = UTC
+ | datetime1 = 2009-11-30T14:31:42Z
+ | user1 = DCyokohama
+ | summary1 = <nowiki>{{Information |Description= 高松宮家紋 |Source= 投稿者が作成 |Date= 11/30/2009 |Author= [[利用者:DCyokohama|DCyokohama]] |Permission= {{self|GFDL|cc-by-3.0}}  |other_versions= }}</nowiki>
+ | datetime2 = 2009-11-30T14:41:01Z
+ | user2 = DCyokohama
+ | summary2 = <nowiki>「[[ファイル:Takamatsu no miya.png]]」の新しい版をアップロードしました: 微修正</nowiki>
+ | datetime3 = 2010-03-21T00:41:23Z
+ | user3 = 越中掾
+ | summary3 = <nowiki>[[:Category:家紋]]</nowiki>
+ | flag3 = m
+ | datetime4 = 2011-10-21T14:39:03Z
+ | user4 = DCyokohama
+ | summary4 = <nowiki>「[[ファイル:Takamatsu no miya.png]]」の新しい版をアップロードしました</nowiki>
+}}
+| other_information = 
+}}
+
+[[Category:Variations on Imperial crest of Japan]]

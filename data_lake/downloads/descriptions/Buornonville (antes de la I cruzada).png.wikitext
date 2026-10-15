@@ -1,0 +1,77 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Escudo de armas de la casa de Bournonville (o Barnaville), antes de la I cruzada.}}
+|date=2012-05-17
+|source={{own}}
+|author=[[User:Jmirache|Jmirache]]
+|permission=
+|other_versions=
+|other_fields=
+}}
+{{FileContentsByBot
+| botName = [[User:DrTrigonBot|DrTrigonBot]] ([[User talk:DrTrigonBot|<span class="signature-talk">talk</span>]])
+|
+{{FileContentsByBot/ColorRegions|
+  {{FileContentsByBot/ColorRegions
+  | Confidence = 0.938
+  | Peaks = 0.012
+  | Color = PMS 19-4006 TPX (Caviar Pantone)
+  | RGBref-00 = 44
+  | RGBref-01 = 47
+  | RGBref-02 = 50
+  | Delta_R = 135.877
+  | RGB-00 = 1
+  | RGB-01 = 1
+  | RGB-02 = 1
+  | Coverage = 0.638
+  | Position-00 = 0
+  | Position-01 = 0
+  | Position-02 = 1984
+  | Position-03 = 2184
+  | Delta_E = 16.403
+  | ID = 1
+  | Center-00 = 995
+  | Center-01 = 964
+  }}
+}}
+{{FileContentsByBot/ColorAverage|
+  {{FileContentsByBot/ColorAverage
+  | Peaks = 0.008
+  | Color = PMS 18-5203 TPX (Pewter Pantone)
+  | RGBref-00 = 96
+  | RGBref-01 = 98
+  | RGBref-02 = 99
+  | Gradient = 0.011
+  | RGB-00 = 92
+  | RGB-01 = 92
+  | RGB-02 = 92
+  | FFT_Peaks = 0.172
+  | Delta_E = 1.874
+  }}
+}}
+{{FileContentsByBot/Properties|
+  {{FileContentsByBot/Properties
+  | Palette = 768
+  | Dimensions-00 = 2000
+  | Dimensions-01 = 2200
+  | Format = GIF
+  | MIME = image/gif
+  | Filesize = 34824
+  | Pages = 1
+  | Mode = P
+  }}
+}}
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-3.0}}
+
+[[Category:Categorized by DrTrigonBot]]
+[[Category:Coats of arms of Italy to be classified]]
+== {{Original upload log}} ==
+{| class="wikitable"
+|-
+! {{int:filehist-datetime}} !! {{int:filehist-dimensions}} !! {{int:filehist-user}} !! {{int:filehist-comment}}
+|-
+| {{ISOdate|2012-05-17 13:31:12}} || 2000 × 2200 (34824 bytes) || {{User|Jmirache}} || ''<nowiki></nowiki>''
+|}

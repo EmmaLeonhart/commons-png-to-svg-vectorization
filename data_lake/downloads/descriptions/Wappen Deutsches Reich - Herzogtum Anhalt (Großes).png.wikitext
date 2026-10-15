@@ -1,0 +1,21 @@
+{{COAInformation
+ |blazon of      = {{de|1=Wappen Herzogtum Anhalt (Großes) (1806-1918)}}
+                   {{fr|1=Duché d'Anhalt (1806-1918)}}
+ |blazon         = {{fr|1=Parti de deux, coupé de trois : au I, burelé de dix pièces de sable et d'or au crancelin de sinople, brochant en bande sur le tout (de Saxe) ; au II d'azur, à l'aigle d'or (du Palatinat de Saxe) ; au III d'argent à trois bouterolles de gueules (d'Angrie) ; au IV, d'argent à un ours de sable armé, lampassé couronné et harnaché d'or, rampant sur une muraille de gueules, crenelée en bande et ouverte d'or (de Beringen) ; au V, en forme de sur-le-tout, mi-parti d'argent, à l'aigle de gueules, membrée, becquée et languée d'or et burelé de dix pièces de sable et d'or au crancelin de sinople, brochant en bande sur le tout (d'Anhalt moderne) ; au VI, burelé de dix pièces de sable et d'or (de Ballenstedt) ; au VII, huit points de sable équipolés à sept points d'argent (d'Ascanie) ; au VIII, écartelé d'or et de gueules (de Waldersee) ; au IX, d'azur à deux barres d'or (de Warmsdorf) ; au X, d'azur à une aigle d'argent, la tête contournée (de Mühlingen) ; au XI, de gueules vide (du Droit de régale) ; au XII, d'argent à un ours de sable armé, lampassé d'or et harnaché du champ, rampant sur une muraille de gueules, crenelée en bande et ouverte du champ (de Bernbourg).}}
+ |references     = {{fr|1=[http://www.heraldique-europeenne.org/Regions/Allemagne/Anhalt.htm Principauté puis Duché d'Anhalt sur www.heraldique-europeenne.org] [http://web.genealogie.free.fr/Les_dynasties/Les_dynasties_celebres/Allemagne/Dynastie_d'Ascanie_puis_d'Anhalt.htm Les Maisons d'Ascanie puis d'Anhalt dans ''Les dynasties célèbres'' de web.genealogie.free.fr]}}
+{{vva|File:Coat of Arms of the Duchy of Anhalt.svg}}
+ |description    = 
+ |date           = {{other date|<|1918}}
+ |artist         = {{Creator:Hugo Gerhard Ströhl}} png erstellt von [[:de:Benutzer:N3MO|N3MO]]
+ |source         = http://www.hot.ee/wappenrolle/
+ |permission     = {{PD-old-auto|deathyear=1919}}{{PD-Coa-Germany}}
+ |versions       = {{DerivativeVersions|Crest-of-Anhalt.png}}<gallery>Image:Wappen_Deutsches_Reich_-_Herzogtum_Anhalt_(Großes).jpg</gallery>
+}}
+
+[[Category:Coats of arms of the Duchy of Anhalt]]
+[[Category:Coats of arms of House of Ascania in Anhalt|Anhalt, Herzogtum]]
+[[Category:Coats of arms of House of Ascania]]
+[[Category:Deutsche Wappenrolle]]
+[[Category:Blutfahne in heraldry]]
+[[Category:Marshalled Saxony barry of ten sable and or]]
+[[Category:Bears in supporters]]

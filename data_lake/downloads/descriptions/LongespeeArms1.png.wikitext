@@ -1,0 +1,14 @@
+== {{int:filedesc}} ==
+{{Information
+|Description    ={{en|1=Arms of Longespee: ''Azure, six lions rampant or, 3,2,1''}}
+|Source         ={{F|Arms of Geoffrey of Anjou.svg|d=20}}
+|Author         ={{U|Sodacan}}
+|Date           ={{Original upload date|2013-07-15}}
+|other versions =
+|other fields   ={{Igen|I|+|U=Lobsterthermidor}}
+}}
+
+== {{int:license-header}} ==
+{{cc-by-sa-3.0}}
+{{DEFAULTSORT:LongespeePNG 1}}
+[[Category:Longespee arms]]

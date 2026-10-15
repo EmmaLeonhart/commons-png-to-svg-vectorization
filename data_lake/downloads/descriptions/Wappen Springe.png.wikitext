@@ -1,0 +1,21 @@
+== {{int:filedesc}} ==
+{{Information
+|Description=
+{{de|Wappen der Stadt {{C|Springe}}, {{C|Region Hannover}}, [[Niedersachsen]].
+:''„In Silber ein goldener Ring überdeckt mit einer blauen Wellendeichsel; bewinkelt von drei roten heraldischen Rosen.“''<ref>Klemens Stadler: ''Die Gemeindewappen der Bundesländer Niedersachsen und Schleswig-Holstein'' (= Deutsche Wappen. Bundesrepublik Deutschland. Band 5). Angelsachsen-Verlag, Bremen 1970, S. 74.</ref>
+}}
+{{en|Coat of arms of the German city of {{C|Springe}}
+}} 
+|Source=Wappenbuch des Landkreises Hannover 1985 im Selbstverlag Seite 422 ff.
+|Date=1975-08-14
+|Author={{unknown|author}}
+|Permission={{PD-Coa-Germany}}
+|Other versions={{SVG|coat of arms}}
+}}
+
+{{DEFAULTSORT:Springe}}
+[[Category:Location not applicable|{{PAGENAME}}]]
+[[Category:Coats of arms of Springe| *PNG]]
+[[Category:1 annulet or in heraldry]]
+[[Category:Palls wavy azure]]
+[[Category:Argent 3 roses gules]]

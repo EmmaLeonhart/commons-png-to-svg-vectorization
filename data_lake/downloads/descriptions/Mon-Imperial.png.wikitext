@@ -1,0 +1,14 @@
+== {{int:filedesc}} ==
+{{Information
+ |description = self made mon-crest of the imperial family of Japan
+ |date = {{Original upload date|2006-08-23}}
+ |source = {{own assumed}}
+ |author = {{Author assumed|[[User:Alexa~commonswiki|Alexa~commonswiki]]}}
+ |permission = 
+ |other_versions = 
+}}
+== {{int:license-header}} ==
+{{PD-self}}
+
+
+[[Category:Imperial crest of Japan; 16-fold Chrysanthemum]]

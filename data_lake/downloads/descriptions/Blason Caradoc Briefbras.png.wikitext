@@ -1,0 +1,23 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{fr|1=cote cliché : NQ-D-003826
+légende : Armes de Caradoc Briébas. Devise : zellande
+département : Manuscrits occidentaux
+cote du document : FRANCAIS 1437
+période du document : Moyen âge
+date du document ou du recueil : 14..
+partie de : Armorial de la table ronde
+folio, pagination :Folio 15v
+catégorie : Manuscrits à peinture
+descripteur(s) 	  	aigle ; armoiries ; casque ; couronne ; tigre }}
+|Source=BNF cote cliché NQ-D-003826
+|Author={{unknown|author}}
+|Date={{other date|century|15}}
+|Permission=
+|other_versions=
+}}
+== {{int:license-header}} ==
+[[Category:Attributed arms of Knights of the Round Table]]
+[[Category:Caradauc Freichfras]]
+
+{{PD-1923}}

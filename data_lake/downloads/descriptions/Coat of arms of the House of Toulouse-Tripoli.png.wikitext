@@ -1,0 +1,18 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Coat of arms of the House of Tripoli, the cadet branch of House of Toulouse}}
+|date=2020-08-23
+|source={{own}} (based on the [https://wappenwiki.org/index.php/House_of_Toulouse Wappenwiki.org/House of Toulouse])
+|author=[[User:Dragovit|Dragovit]]
+|permission=
+|other versions=
+}}
+{{SVG|coat of arms}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Coats of arms of the County of Tripoli]]
+[[Category:Coats of arms of the House of Toulouse]]
+[[Category:Coats of arms of the House of Poitiers]]
+[[Category:Gules a cross or]]

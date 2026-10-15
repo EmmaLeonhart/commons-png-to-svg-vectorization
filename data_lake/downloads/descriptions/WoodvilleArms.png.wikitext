@@ -1,0 +1,14 @@
+== {{int:filedesc}} ==
+{{Information
+|Description    ={{en|1=Arms of Woodville/Wydville: ''Argent, a fesse and a canton conjoined gules''. These are the arms of Anthony Woodville, 2nd Earl Rivers, KG (c. 1440 – 25 June 1483), and are visible sculpted in stone within the western entrance of Carisbrooke Castle, Isle of Wight, which entrance was built by him. (Source: The Mirror of Literature, Amusement, and Instruction, Volume 28, p.42[https://books.google.co.uk/books?id=W7wRAAAAYAAJ&pg=PA42&lpg=PA42&dq=woodville+argent+a+fess+and+a+canton+gules&source=bl&ots=U6lQQTfg2u&sig=OCaulWLIhbDrH_6qZhIWPhjHYnA&hl=en&sa=X&ved=0CDgQ6AEwBmoVChMIvonWks7oyAIVRz0UCh3PuAmS#v=onepage&q=woodville%20argent%20a%20fess%20and%20a%20canton%20gules&f=false])) }}
+|Source         ={{own}}
+|Author         =([[User:Lobsterthermidor|Lobsterthermidor]] ([[User talk:Lobsterthermidor|<span class="signature-talk">{{int:Talkpagelinktext}}</span>]]) 21:45, 29 October 2015 (UTC))
+|Date           =2015
+|Permission     =
+|other_versions =
+}}
+== {{int:license-header}} ==
+{{PD-self}}
+
+[[Category:Woodville arms]]
+[[Category:The Mirror of Literature, Amusement, and Instruction]]

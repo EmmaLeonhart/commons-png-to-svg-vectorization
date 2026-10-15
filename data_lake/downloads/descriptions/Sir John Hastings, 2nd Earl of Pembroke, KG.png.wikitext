@@ -1,0 +1,19 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Coat of Arms of Sir John Hastings, 2nd Earl of Pembroke, KG
+{{cquote|John Hastings Second Earl of Pembroke… Arms: Quarterly, 1st and 4th, Or, a maunch gules, for Hastings; 2nd and 3rd, Barry of twelve, Argent and Azure, an orle of eight martlets Gules, for Valence.}}
+* BELTZ, George Frederick, Memorials of the Order of the Garter from Its Foundation to the Present Time, London: William Pickering, 1841.
+}}
+|date=2013-10-28 12:13:29
+|source={{own}}
+|author=[[User:Rs-nourse|Rs-nourse]]
+|permission=
+|other_versions=
+|other_fields=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-3.0}}
+{{DEFAULTSORT:Hastings, John}}
+[[Category:Coats of arms of John Hastings, 2nd Earl of Pembroke]]
+[[Category:Coats of arms of members of the Order of the Garter (14th century)]]

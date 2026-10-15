@@ -1,0 +1,15 @@
+{{Vector version available|Escut d'armes dels Entença.svg}}
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|1=Coat of arms of the house of Entença}}
+|Source={{own}}
+|Author=[[User:Xufanc|Xufanc]]
+|Date=
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{self|cc-by-sa-3.0|GFDL}}
+
+[[Category:House of Entença COA in heraldry]]

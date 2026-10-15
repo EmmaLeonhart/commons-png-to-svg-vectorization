@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ca|1=Escut del Casal de Cabrera-Urgell: Partit dimidiat: el primer d'or i una cabra aterrada de sable, i una bordura de peces; el segon escacat de sable i or.}}
+{{en|1=Coat of arms of the House of Cabrera-Urgell: Per pale dimidiated the first Or an statant Goat Sable and a Bordure of Pieces the second Chequy Sable and Or.}}
+|date=2025-08-29
+|source=Escut d'armes creat per mi unint per dimidiació el dels vescomtes de Cabrera (la versió amb el gruix correcte de la bordura de peces, també fet per mi a partir del dels Caramany fet per Xavier Garcia i Mesa (https://dibujoheraldico.blogspot.com/2013/10/ventallo.html) canviant el color gules pel sable i la figura heràldica del losange per la cabra dels Cabrera (https://dibujoheraldico.blogspot.com/2014/10/cabrera.html)) i el dels comtes d'Urgell a partir de l'escut d'armes (també dimidiat amb les dels comtats de Barcelona i d'Urgell) de Jaume II d'Urgell fet pel mateix autor (https://dibujoheraldico.blogspot.com/2013/10/el-dissortat.html).
+|author=Xavier Garcia i Mesa, [[User:Joaquim Link|Joaquim Link]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Coats of arms of the House of Cabrera]]

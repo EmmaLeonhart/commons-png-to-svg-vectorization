@@ -1,0 +1,18 @@
+{{DeletionHeader}}
+
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Coat of arms of Hugh Bigod, Heir to the Earldoms of Norfolk and Suffolk}}
+|date=2013-12-09 10:41:55
+|source={{own}}
+|author=[[User:Rs-nourse|Rs-nourse]]
+|permission=
+|other_versions=
+|other_fields=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-3.0}}
+
+[[Category:Bigod arms]]
+{{DeletionFooter|KEEP/DELETED|[[User:Rs-nourse|R. S. Nourse]] ([[User talk:Rs-nourse|<span class="signature-talk">{{int:Talkpagelinktext}}</span>]]) 00:22, 12 August 2015 (UTC)}}

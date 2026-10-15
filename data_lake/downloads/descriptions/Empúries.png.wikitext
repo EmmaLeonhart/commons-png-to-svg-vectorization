@@ -1,0 +1,24 @@
+== {{int:filedesc}} ==
+{{Information
+|Description=Escut d'armes dels comtes d'Empúries (ss. XII-XV) / Coat of arms of the counts of Empúries (12th-15th c.)
+|Source= realització pròpia / self-made
+|Date=2008
+|Author=[[User:Tantarantana|Tantarantana]]
+|Permission=PD-self
+|other_versions=[[File:Blason fascé d'or et de gueules.svg|100px]]
+}}
+{{vva|Blason fascé d'or et de gueules.svg}}
+
+== {{int:license-header}} ==
+{{PD-self}}
+
+[[Category:Coats of arms of the House of Empúries]]
+[[Category:County of Empúries]]
+
+== {{Original upload log}} ==
+{| class="wikitable"
+|-
+! {{int:filehist-datetime}} !! {{int:filehist-dimensions}} !! {{int:filehist-user}} !! {{int:filehist-comment}}
+|-
+| {{ISOdate|2008-04-06 23:38:22}} || 564 × 652 (4349 bytes) || {{User|Tantarantana}} || ''<nowiki>{{Information&#10;|Description=Escut d'armes dels comtes d'Empúries (ss. XII-XV) / Coat of arms of the counts of Empúries (12th-15th c.)&#10;|Source= realització pròpia / self-made&#10;|Date=2008&#10;|Author=[[User:Tantarantana|Tantarantana]]&#10;|Permission=PD-self&#10;|oth</nowiki>''
+|}

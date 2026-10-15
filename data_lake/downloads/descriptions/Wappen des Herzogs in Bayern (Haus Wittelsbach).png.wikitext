@@ -1,0 +1,15 @@
+{{Convert to SVG|coat of arms}}
+{{Information
+|Description={{de|1=Wappen des Herzogs in Bayern (Haus Wittelsbach)}}{{en|1=Coats of arms of the House of Wittelsbach}}
+|Source=Wappen übersandt von Stefan Josef Bittel, Inhaber von www.wappendesign.de
+|Author=Stefan Josef Bittl
+|Date=
+|Permission=Genehmigung vom Author liegt vor {{GFDL|migration=relicense}}
+|other_versions=
+}}
+{{Convert to SVG|coat of arms}}
+
+[[Category:Coats of arms with closed helmets]]
+[[Category:Coats of arms by Stefan Josef Bittl]]
+[[Category:Demi-lions in crest]]
+[[Category:Palatinate quartering Wittelsbach]]

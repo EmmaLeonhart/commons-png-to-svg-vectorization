@@ -1,0 +1,24 @@
+== {{int:filedesc}} ==
+{{Information
+|description={{bg|Герб на краля на България, Гербовник на Лорд Маршал.}}
+{{en|Coat of arms of the King of Bulgaria, Lord Marshall's Coat of Arms.}}
+|date=1295
+|source=[http://www.rootsweb.com/~bgrbshv/ Страница на Българското хералдическо и вексилоложко общество (Page of the Bulgarian Heraldic and Veterinological Society)]
+|author={{Creator:Unknown}}
+|permission=
+|other versions=[[:File:Coat of arms of Smilets.png]]
+}}
+
+== {{int:license-header}} ==
+{{PD-anon-70-EU}}
+{{Insignia}}
+
+== {{Original upload log}} ==
+{{original description page|bg.wikipedia|BG-gerb1295.png}}
+
+Upload date &#x7C; User &#x7C; Bytes &#x7C; Dimensions &#x7C; Comment
+
+*2007-01-10 16:39:55 &#x7C; [[:bg:User:Scroch|Scroch]] &#x7C; 35269 &#x7C; 180&times;217 &#x7C; <small><nowiki>1295. Герб на краля на България, Гербовник на Лорд Маршал. </nowiki></small>
+
+[[Category:Historical coats of arms of Bulgaria]]
+[[Category:Lions rampant argent crowned or]]

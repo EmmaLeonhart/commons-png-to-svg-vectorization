@@ -1,0 +1,21 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Coat of Arms of Sir Edward Cherleton, 5th Baron Cherleton, KG
+* HOPE, W. H. St. John, ‘’The Stall Plates of the Knights of the Order of the Garter 1348 – 1485: A Series of Ninety Full-Sized Coloured Facsimiles with Descriptive Notes and Historical Introductions,’’ Westminster: Archibald Constable and Company LTD, 1901.
+{{cquote|Sir Edward Cherleton, Lord Cherleton of Powys, K.G. 1406-7 -- 1420-1... arms, gold a lion gules}}
+Stall plate remains intact within the ninth stall on the South side of St. George's chapel.
+}}
+|date=2013-10-28 14:26:49
+|source={{own}}
+|author=[[User:Rs-nourse|Rs-nourse]]
+|permission=
+|other_versions=
+|other_fields=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-3.0}}
+{{DEFAULTSORT:Cherleton -}}
+[[Category:Coats of arms of members of the Order of the Garter (15th century)]]
+[[Category:Charleton arms]]
+[[Category:Edward Charlton, 5th Baron Charlton]]

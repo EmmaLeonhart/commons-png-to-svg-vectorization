@@ -8,6 +8,32 @@ analysis, not a transcript, and it changes as understanding improves._
 Vectorize individual PNG files from Wikimedia Commons agentically, one file at a
 time, producing SVG replacements suitable for upload.
 
+### Second strand: coats of arms for order.life (from 2026-10-15)
+
+Emma's queue item in the inochi-no-michikyo repo (added 2026-10-14, relayed word for word):
+"start a session of C:\Users\Emma\Documents\GitHub\agentic-vectorization to have it autonomously
+build coats of arms for our coat of arms thing". The coat of arms thing is her
+Sodacan-arms-svg-generator (blazon → SVG in Sodacan's Commons style). The arms are for the people of
+the order.life genealogy: one unique SVG coat of arms per person (name schema, Emma 2026-10-13: "Coat
+of arms | everyone | a unique SVG").
+
+My reading of how this repo serves it (Claude's assumption, 2026-10-15; correct it if wrong):
+
+1. **The people who already have arms.** 1,805 order.life people have a coat of arms on Wikidata
+   (P94): 1,576 as SVG already, 230 as raster (110 distinct PNG/GIF files, 75 JPG). The raster ones
+   are this repo's job: rebuild each as an SVG. Simple shields are rebuilt **from their blazon with
+   Emma's generator** (imported read-only, `tools/generator_render.py`), so the SVG is in the same
+   Sodacan style as everything else the generator makes, and checked against the PNG. That is
+   rebuilding, not tracing. Where Commons already has an SVG of the same arms, it is recorded, not
+   redone. Manuscript paintings, seals and photos are raster originals: marked, not traced.
+2. **Coat-of-arms PNGs on Commons in general** (the ~30 under Template:Coat of arms already in the
+   queue) are rebuilt the same way after the order.life ones.
+3. **The person → arms table** (`data_lake/downloads/order-life-arms/person_arms.tsv`) records who
+   has arms and in which file, for whoever links them into order.life later.
+4. **Not this repo's job:** inventing new arms for the ~105,000 people with none. That is the
+   generator's (its INTENT keeps "existing blazons only" for now) and inochi's queue says it waits for
+   the generator. OUT-OF-SCOPE here. Other repositories are read, never edited.
+
 ## What supports it
 
 - User, 2026-10-07: "the notion here is that we are trying to vectorize individual
@@ -34,6 +60,9 @@ time, producing SVG replacements suitable for upload.
   should have our completed vectorizations put into it as a rule". One subfolder per file
   (`upload/<slug>/<name>.svg`). `upload/` also holds the user's own material (e.g.
   `upload/inochi-daigengu/` photos); leave that alone.
+
+- **Do not edit the other repositories** (inochi-no-michikyo, Sodacan-arms-svg-generator): read
+  them, import the generator read-only, write only here (relayed instruction, 2026-10-15).
 
 ## Open questions
 
@@ -83,6 +112,8 @@ caused by unbounded steps (since fixed).
 
 ## Log
 
+- 2026-10-15 03:14 PST: new session, started from Emma's inochi-no-michikyo queue item to build
+  coats of arms for the generator / order.life. Arms strand added above; worked first.
 - Work started 2026-10-07 23:02 PST, on the user's go-ahead. GitHub repo (private):
   EmmaLeonhart/commons-png-to-svg-vectorization.
 - 2026-10-08 13:20 PST: 40 files finished and staged in upload/; 546 still to vectorize, 256 already

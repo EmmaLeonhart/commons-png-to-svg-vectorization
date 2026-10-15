@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Coat of Arms - Neville, Earls of Westmorland, and Barons Neville of Raby. Blazon: ''Gules, a saltire Argent.''}}
+|date=2014-01-27 09:36:21
+|source={{own}}
+|author=[[User:Rs-nourse|Rs-nourse]]
+|permission=
+|other_versions=
+|other_fields=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-3.0}}
+
+[[Category:Neville (Earl of Westmorland, senior line) arms]]
+{{DEFAULTSORT:Neville -}}

@@ -1,0 +1,17 @@
+== {{int:filedesc}} ==
+{{COAInformation
+|blazon of={{sv|1=[[:sv:Erik Eriksson (kung)]]}}
+|references=
+|description={{sv|1=Vapen för kung Erik Eriksson av Sverige}}
+|blazon= 
+|tincture=o/b/g
+|source={{own}}, modified from commons  [[:File:National Coat of arms of Denmark no crown.svg]] by [[User:Galico]] and [[User:Derfel73]]
+|date=2021-03-04
+|artist={{Creator:Dan Koehl}}
+|permission = 
+}}
+
+== {{int:license-header}} ==
+{{self|GFDL|cc-by-3.0|author={{U|Dan Koehl}}}}
+[[Category:Coats of arms by Dan Koehl]]
+[[Category:Coats of arms of the House of Eric]]

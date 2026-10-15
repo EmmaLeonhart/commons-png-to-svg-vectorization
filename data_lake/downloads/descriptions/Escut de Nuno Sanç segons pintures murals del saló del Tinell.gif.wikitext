@@ -1,0 +1,16 @@
+{{superseded|Arms of Nuño Sanchez, Count of Roussillon and Cerdagne.svg}}
+== {{int:filedesc}} ==
+{{Information
+|Description=Escut de Nunó Sanç (v 1185-1241) comte de Rosselló i Cerdanya. Fill del comte Sanç I de Provença i nét de Ramon Berenguer IV i Peronella d'Aragó. 
+|Source=http://ca.wikipedia.org/wiki/Fitxer:Pintura_mural_del_sal%C3%B3_del_tinell_-_Nun%C3%B3_San%C3%A7_a_la_conquesta_de_Mallorca.jpg
+|Date=2010-10
+|Author=georg-hessen
+|Permission=Own work
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{PD-self}}
+
+[[Category:Coats of arms of Nuno Sancho of Roussillon-Cerdanya]]
+[[Category:Marshalled pales of Aragon]]

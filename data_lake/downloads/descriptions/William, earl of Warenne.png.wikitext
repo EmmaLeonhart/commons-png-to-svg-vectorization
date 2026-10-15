@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Shields William, earl of Warenne.}}
+|date={{other date|century|13}}
+|source=Matthew Paris, Chronica Maiora - Royal MS 14 C VII, ff 157r-231r
+|author={{Creator:Matthew Paris}}
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-Art|PD-old-auto-expired|deathyear=1259}}
+
+[[Category:Historia Anglorum (1250-1259) - BL Royal MS 14 C VII]]
+[[Category:House of Warenne]]
+[[Category:De Warenne arms]]

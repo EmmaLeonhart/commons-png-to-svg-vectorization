@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{bg|1=Герб на Тертеровата династия}}
+{{en|1=Coats of arms of the Terter dynasty}}
+<br/><br/>Based on: [http://heraldika-bg.org/images/a_1_391-2.jpg]
+|date=2016-04-30
+|source={{own}}
+|author=[[User:Kandi|Kandi]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Coats of arms of the Terter dynasty]]

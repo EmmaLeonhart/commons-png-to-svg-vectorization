@@ -1,0 +1,19 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Sir William Herbert, 1st Baron Herbert, KG
+* BURKE, Sir Bernard, ''The General Armory of England, Scotland, Ireland, and Wales; Comprising a Registry of Armorial Bearings from the Earliest to the Present Time,'' London: Harrison & Sons, 1884.
+{{cquote|'''Herbert''' (Earl of Pembroke and Huntingdon, and Baron Herbert of Herbert…) Per pale az. and gu. three lions ramp. ar.}}
+}}
+|date=2013-10-28 21:08:00
+|source={{own}}
+|author=[[User:Rs-nourse|Rs-nourse]]
+|permission=
+|other_versions=
+|other_fields=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-3.0}}
+{{DEFAULTSORT:Herbert, William}}
+[[Category:Coats of arms of members of the Order of the Garter (15th century)]]
+[[Category:Herbert arms]]

@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ca|1=Escut dels vescomtes de Cabrera (Principat de Catalunya): D'or i una cabra aterrada de sable; i una bordura de peces.}}
+{{en|1=Coat of arms of the Viscounts of Cabrera (Principality of Catalonia): Or an statant Goat Sable and a Bordure of Pieces.}}
+|date=2025-08-29
+|source=Escut d'armes retocat per mi a partir de l'escut dels Caramany fet per en Xavier Garcia i Mesa (https://dibujoheraldico.blogspot.com/2013/10/ventallo.html), canviant el color gules pel sable a la bordura de peces i la figura heràldica del losange per la cabra de l'escut dels Cabrera fet pel mateix heraldista (https://dibujoheraldico.blogspot.com/2014/10/cabrera.html), el qual dóna llicència d'ús no comercial de les seves obres (tot i que no n'especifica la modificació) tot citant-les.
+|author=Xavier Garcia i Mesa, [[User:Joaquim Link|Joaquim Link]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{Cc-by-sa-4.0|Attribution details}}
+
+[[Category:Coats of arms of the House of Cabrera]]

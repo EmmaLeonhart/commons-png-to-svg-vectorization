@@ -1,0 +1,18 @@
+== {{int:filedesc}} ==
+{{Information
+|Description=Wappen der Reischach (hier Rischach)
+|Source=Zürcher Wappenrolle, vereinzelt aus der Faksimile-Publikation der Antiquarischen Gesellschaft Zürich von 1860 - [https://books.google.com/books?id=zFssAAAAYAAJ&printsec=titlepage#v=onepage&q&f=false Digitalisat]
+|Date={{other date|circa|1335|1345}}
+|Author={{unknown|author}}
+|Permission=
+|other_versions= 
+}}
+== {{int:license-header}} ==
+{{PD-old}}
+{{Wappenrecht}}
+
+[[Category:Zürcher Wappenrolle - isolated armors (Runge)|181]]
+[[Category:Coats of arms of Reischach family]]
+[[Category:1 boar head sable in heraldry]]
+[[Category:Michael von Reischach]]
+[[Category:Konrad von Reischach zu Jungnau]]

@@ -1,0 +1,20 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Sir Walter Devereux, 7th Baron Ferrers of Chartley, KG
+* HOPE, W. H. St. John, The Stall Plates of the Knights of the Order of the Garter 1348 – 1485: A Series of Ninety Full-Sized Coloured Facsimiles with Descriptive Notes and Historical Introductions, Westminster: Archibald Constable and Company LTD, 1901.
+{{cquote|'''Plate LXXVII - Sir Walter Devereux, Lord Ferrers,''' K.G. 1470-1485… with the arms, silver a fess and three roundels in chief gules...}}
+Lord Ferrers' stall plate remains intact within the twenty-fourth stall, on the Prince's side of the chapel.
+}}
+|date=2013-10-28 21:23:06
+|source={{own}}
+|author=[[User:Rs-nourse|Rs-nourse]]
+|permission=
+|other_versions=
+|other_fields=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-3.0}}
+{{DEFAULTSORT:Devereux -}}
+[[Category:Coats of arms of members of the Order of the Garter (15th century)]]
+[[Category:Devereux arms]]

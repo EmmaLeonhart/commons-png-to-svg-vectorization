@@ -1,0 +1,23 @@
+== {{int:filedesc}} ==
+{{Information
+|Description= Português: Desenvolvido a partir de pesquisa heráldica.
+|Source= {{Own}}
+|Date= 12/01/2009
+|Author= Adriel1982
+|Permission= 
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{PD-self}}
+
+
+== {{Original upload log}} ==
+{| class="wikitable"
+|-
+! {{int:filehist-datetime}} !! {{int:filehist-dimensions}} !! {{int:filehist-user}} !! {{int:filehist-comment}}
+|-
+| {{ISOdate|2009-01-13 19:36:16}} || 510 × 549 (48321 bytes) || {{User|Adriel1982}} || ''<nowiki>{{Information&#10;|Description= Português: Desenvolvido a partir de pesquisa heráldica.&#10;|Source= Trabalho Próprio&#10;|Date= 12/01/2009&#10;|Author= Adriel1982&#10;|Permission= See below&#10;|other_versions=&#10;}}&#10;&#10;&lt;!--{{ImageUpload|basic}}--&gt;</nowiki>''
+|}
+[[Category:Coats of arms of Barbosa]]
+{{DEFAULTSORT:Barbosa}}

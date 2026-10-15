@@ -1,0 +1,15 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|1=Arms of family Téllez of Meneses}}
+{{es|1=Escudo de la noble familia castellana Téllez de Meneses.}}
+|Source={{own}}
+|Author=[[User:Lancastermerrin88|Lancastermerrin88]]
+|Date=2007-09-14
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{self|GFDL|cc-by-sa-all}}
+
+[[Category:Coats of arms of families of Spain]]

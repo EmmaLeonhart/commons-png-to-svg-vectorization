@@ -1,0 +1,14 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|1=Arms of [[:en:Reginald_de_Braose|Reginald de Braose]] (d. 1228), later the Arms of Braose of Brecknock: ''Barry of six vair gules and ermine and azure.'' }}
+|Source={{own}}
+|Author=[[User:Dlkeller999|Dlkeller999]]
+|Date=2010-07-07
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{PD-self}}
+[[Category:Reginald de Braose]]
+[[Category:Braose arms]]

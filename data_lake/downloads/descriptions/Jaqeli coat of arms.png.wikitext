@@ -1,0 +1,12 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=COA of Jaqeli}}
+|date=1745
+|source=from [[:File:Samtskhe-saatabago flag.jpg|here]]
+|author=from [[:File:Samtskhe-saatabago flag.jpg|here]]
+|permission={{PD-Art|PD-old-100}}{{Cc-by-sa-3.0}}{{RetouchedPicture}}
+|other_versions=
+}}
+
+[[Category:Coats of arms of Samtskhe-Saatabago]]
+[[Category:Jaqeli]]

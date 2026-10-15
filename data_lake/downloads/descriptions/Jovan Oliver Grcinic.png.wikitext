@@ -1,0 +1,17 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Possible Coat of Arms of Jovan Oliver Grčinić. The helmet and the crest are taken from his coins. The bicephalic eagle was also used in his coins, however it is not clear whether he used them as his own symbol, or as a symbol of the Serbian Emperor, under wich he ruled.}}{{sr-ec|1=Могући грб властелина Јована Оливера. Шлем и челенка преузети су са новца који је Оливер ковао. И двоглави орао се налази на његовим кованицама, међутим није познати да ли то био његов симбол или симбол врховне власти српског цара, под којим је он владао.}}
+|date=2013-05-02 17:48:20
+|source={{own}}
+|author=[[User:WikiNameBaks|WikiNameBaks]]
+|permission=
+|other_versions=
+|other_fields=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-3.0}}
+
+[[Category:Coats of arms of families of Serbia in the Middle Ages]]
+[[Category:Jovan Oliver]]
+[[Category:Serbian Empire]]

@@ -1,0 +1,25 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Coat of arms of Sir Edward Stanley, 1st Baron Monteagle, KG<br>
+Lord Monteagle's stall plate remains affixed at St. George's Chapel.  The arms are, ''quarterly'': 1, argent on a fess azure three stag's heads cabossed or (for Stanley); 2, or on a chief indented azure, three bezants of the field (for Lathom); 3, chequy or and azure (for Warenne); 4, gules three legs armoured argent, embellished or, flexed in triangle (for the Isle of Man); on an escutcheon of pretence, ''Azure, a lion rampant or'' (? for Vaughan of Tretower, Brecknockshire, his wife's family ?)
+
+Per Fox-Davies, Arthur Charles, ''Complete Guide to Heraldry'', 1909, ''"The arms on the escutcheon of pretence ....   seem difficult to account for unless they are a coat for Rivers or some other territorial lordship inherited from the Wydeville family. The full identification of the quarterings borne by Anthony, Lord Rivers, would probably help in determining the point"''.
+See [[File:Complete Guide to Heraldry Fig755.png|100px]]
+}}
+|date=2013-11-09 13:18:35
+|source={{own}}
+|author=[[User:Rs-nourse|Rs-nourse]]
+|permission=
+|other_versions=
+|other_fields=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-3.0}}
+
+[[Category:Coats of arms of members of the Order of the Garter (16th century)]]
+[[Category:Stanley arms]]
+[[Category:Lathom arms]]
+[[Category:De Warenne arms]]
+[[Category:Coats of arms of the Isle of Man]]
+{{DEFAULTSORT:Stanley -}}

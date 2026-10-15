@@ -1,0 +1,14 @@
+== {{int:filedesc}} ==
+{{Information
+|Description    ={{en|1=Arms of Mowbray: ''Gules, a lion rampant argent''}}
+|Source         =Own work using lion element from commons  File:Coat of arms of Leonardo Bonanno.svg by User:SajoR
+|Author         =([[User:Lobsterthermidor|Lobsterthermidor]] ([[User talk:Lobsterthermidor|<span class="signature-talk">{{int:Talkpagelinktext}}</span>]]) 16:21, 3 April 2016 (UTC))
+|Date           =2016
+|Permission     =
+|other_versions =
+}}
+
+== {{int:license-header}} ==
+{{cc-by-sa-3.0}}
+
+[[Category:Mowbray arms]]

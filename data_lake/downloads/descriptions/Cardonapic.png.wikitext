@@ -1,0 +1,24 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{it|1=Arma dei duchi di Cardona}}
+|Source={{Own}}
+|Author=[[User:Framo|Framo]]
+|Date=
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{PD-self}}
+
+== {{Original upload log}} ==
+{| class="wikitable"
+|-
+! {{int:filehist-datetime}} !! {{int:filehist-dimensions}} !! {{int:filehist-user}} !! {{int:filehist-comment}}
+|-
+| {{ISOdate|2009-08-26 01:44:32}} || 226 × 267 (8808 bytes) || {{User|Framo}} || ''<nowiki>{{Information&#10;|Description={{it|1=Arma dei duchi di Cardona}}&#10;|Source=Opera creata e caricata dall&#039;autore (own work by uploader)&#10;|Author=[[User:Framo|Framo]]&#10;|Date=&#10;|Permission=&#10;|other_versions=&#10;}}&#10;&#10;[[Category:Cardona]]&#10;[[Category:Nobility of Spain ruling</nowiki>''
+|}
+
+[[Category:Coats of arms of Cardona]]
+[[Category:Nobility of Spain ruling in Italy|Cardona]]
+[[Category:House of Cardona COA in heraldry|Cardona]]

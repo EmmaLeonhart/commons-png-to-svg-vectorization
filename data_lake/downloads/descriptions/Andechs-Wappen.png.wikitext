@@ -1,0 +1,21 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{de|Wappen derer von Andechs}}
+|Source=Zeichnung neu erstellt von [[:de:Benutzer:LeoDavid|LeoDavid]]
+|Date=ca. 12. Jahrhundert
+|Author={{unknown|author}}
+
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{PD-old}}
+{{Wappenrecht}}
+
+== {{Original upload log}} ==
+{{transferred from|de.wikipedia|Ireas|CommonsHelper}} {{original description page|de.wikipedia|Andechs-Wappen.png}}
+* 2010-08-19 22:59 [[:de:User:Dorado|Dorado]] 600×905× (75123 bytes) ''<nowiki>Farben korrigiert (Stammwappen)</nowiki>''
+* 2010-08-19 22:51 [[:de:User:Dorado|Dorado]] 600×905× (76856 bytes) ''<nowiki>{{Information |Beschreibung=Wappen derer von Andechs |Quelle=Zeichnung neu erstellt von [[Benutzer:LeoDavid|LeoDavid]] |Urheber=unbekannt |Datum= ca. 12. Jahrhundert |Genehmigung= |Andere Versionen= |Anmerkungen= von Dorado nach alten Wappenbildern, Blaso</nowiki>''
+
+[[Category:Coats of arms of Andechs family]]

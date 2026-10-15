@@ -1,0 +1,20 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Coat of Arms of Sir John Grey (1387-1439), KG, son of Reginald Grey, 3rd Baron Grey de Ruthyn.
+* HOPE, W. H. St. John, ''The Stall Plates of the Knights of the Order of the Garter 1348 – 1485: A Series of Ninety Full-Sized Coloured Facsimiles with Descriptive Notes and Historical Introductions,'' Westminster: Archibald Constable and Company LTD, 1901.
+{{cquote|Sir John Grey of Ruthin, K.G. 1436-1439... a shield quarterly of Grey (barry of six silver and azure and in chief three roundels gules) and of Hastings (gold a maunch gules) quartering De Valence (barry silver and azure an orle of martlets gules) with a silver label...}}
+The Stall plate remains intact within the thirteenth stall, on the Sovereign's side of the chapel.
+}}
+|date=2013-10-28 19:14:54
+|source={{own}}
+|author=[[User:Rs-nourse|Rs-nourse]]
+|permission=
+|other_versions=
+|other_fields=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-3.0}}
+{{DEFAULTSORT:Grey, John}}
+[[Category:Coats of arms of members of the Order of the Garter (15th century)]]
+[[Category:Coats of arms of Reynold Grey, 3rd Baron Grey of Ruthin]]

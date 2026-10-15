@@ -1,0 +1,27 @@
+{{Information
+|Description={{en|Arms of the Wildgraves-Dhaun}}
+{{de|Wappen der Wildgrafen, Linie Dhaun}}
+|Source=*[[:File:Wappen_Grumbach.svg|Wappen_Grumbach.svg]]
+|Date=2010-01-07 21:33 (UTC)
+|Author=*[[:File:Wappen_Grumbach.svg|Wappen_Grumbach.svg]]: Unbekannt / Vektorisiert von [[User:Flow2]]
+*derivative work: [[User:Beckstet|Beckstet]] ([[User talk:Beckstet|<span class="signature-talk">talk</span>]])
+|Permission=
+|other versions=
+}}
+
+{{RetouchedPicture|Cutout of the original.|editor=Beckstet|orig=Wappen_Grumbach.svg}}
+
+{{PD-Coa-Germany}}
+
+== {{original upload log}} ==
+This image is a derivative work of the following images:
+
+*[[:File:Wappen_Grumbach.svg]] licensed with PD-Coa-Germany
+**2009-04-30T12:39:26Z [[User:Flow2|Flow2]] 1309x1525 (49097 Bytes) ''<nowiki>{{Information |Description={{de|1=Wappen von Grumbach}} |Source=own work analog Website |Author=Unbekannt / Vektorisiert von [[User:Flow2]] |Date= |Permission={{PD-Coa-Germany}} |other_versions= }}   [[Category:Coats of arms </nowiki>''
+
+{{Uploaded with derivativeFX}}
+
+{{DEFAULTSORT:Dhaun}}
+[[Category:Or a lion gules shields]]
+[[Category:Crowned lions rampant in heraldry]]
+[[Category:Coats of arms of territories in the Upper Rhenish Circle|Wildgraf]]

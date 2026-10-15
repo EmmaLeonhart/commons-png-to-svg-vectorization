@@ -1,0 +1,17 @@
+== {{int:filedesc}} ==
+{{COAInformation
+ |blazon of  = 
+{{en|of the Traba family (according to Memorial de la Casa de Saavedra)}}
+{{uk|дому Траба (згідно з Memorial de la Casa de Saavedra)}}
+{{es|de la Casa de Traba (el [http://laxe.net/WordPress/wp-content/uploads/2013/04/-Trava-en-Memorial-Saavedra.jpg Memorial de la Casa de Saavedra])}}
+ |blazon     = 
+ |tincture   = o/PT/v
+ |source     = {{own}}
+ |artist     = {{U|N.Português}}
+ |date       = 2017
+}}
+
+== {{int:license-header}} ==
+{{self|cc-by-sa-4.0|GFDL}}
+{{DEFAULTSORT:Traba}}
+[[Category:Coats of arms of the House of Traba]]

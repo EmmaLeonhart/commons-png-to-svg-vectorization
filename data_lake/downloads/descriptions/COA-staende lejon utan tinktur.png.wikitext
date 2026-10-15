@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{sv|1=Stående lejon grå utan tinktur okänd}}
+|date=2019-01-26
+|source={{own}}
+|author={{Creator:Dan Koehl}}
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-3.0}}
+
+[[Category:Coats of arms of the House of Bjelbo]]
+[[Category:Coats of arms by Dan Koehl]]
+[[Category:Lion of Bjelbo in heraldry]]

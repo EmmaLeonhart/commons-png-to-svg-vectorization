@@ -1,0 +1,14 @@
+== {{int:filedesc}} ==
+{{Information
+|Description=Stammwappen der von Falkenstein
+|Source=nach Blasonierung und Muster der Wappen im [[:de:GHdA]] neu erstellt
+|Date=ca. 13. Jahrhundert
+|Author={{unknown|author}}
+|Permission=This image is in the [[public domain]] due to its age.
+|other_versions=
+}}
+== {{int:license-header}} ==
+{{Cc-zero}}
+{{Wappenrecht}}
+
+[[Category:Coats of arms of the House of Bolanden in Falkenstein]]

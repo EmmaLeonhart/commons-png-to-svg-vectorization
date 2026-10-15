@@ -1,0 +1,21 @@
+{{Information
+|Description=Escut d'armes de la dinastia Arpad
+{{en|Coat of arms of the Arpad dynasty}}
+|Source= realització pròpia / self-made
+|Date=2008
+|Author=[[User:Tantarantana|Tantarantana]]
+|Permission=PD-self
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{PD-self}}
+
+[[Category:Coats of arms of the Árpád family]]
+== {{Original upload log}} ==
+{| class="wikitable"
+|-
+! {{int:filehist-datetime}} !! {{int:filehist-dimensions}} !! {{int:filehist-user}} !! {{int:filehist-comment}}
+|-
+| {{ISOdate|2008-04-07 01:54:03}} || 562 × 654 (6762 bytes) || {{User|Tantarantana}} || ''<nowiki>{{Information&#10;|Description=Escut d&#039;armes de la dinastia Arpad / Coat of arms of the Arpad dinasty&#10;|Source= realització pròpia / self-made&#10;|Date=2008&#10;|Author=[[User:Tantarantana|Tantarantana]]&#10;|Permission=PD-self&#10;|other_versions=&#10;}}&#10;&#10;== Licensing ==&#10;{{PD</nowiki>''
+|}

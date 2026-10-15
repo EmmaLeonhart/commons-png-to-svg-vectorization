@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{sv|1=Vapensköld för Birger Filipsson (Aspenäsätten)}}
+|date=2019-02-26
+|source=Made by [[User:SteveK]]. {{AttribSVG|DEU Arnsberg COA.svg|User:SteveK}}
+ |author={{Creator:Dan Koehl}}
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-3.0}}
+
+[[Category:Coats of arms of Swedish noble families]]
+[[Category:Coats of arms by Dan Koehl]]

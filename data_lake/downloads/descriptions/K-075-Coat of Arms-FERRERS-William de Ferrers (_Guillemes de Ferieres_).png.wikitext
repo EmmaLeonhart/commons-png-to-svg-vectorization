@@ -1,0 +1,21 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Coat of arms of William de Ferrers, as blazoned in the Caerlaverock Poem (K-075: "Guillemes de Ferieres")<br/>
+"De armes vermeilles ben armés<br/>
+O mascles de or del champ voidiés."<br/>
+'''Arms:''' Gules, [seven] mascles or.<br/>
+(Note: The stanza does not specify the number of mascles, but seven are given in the Falkirk roll.)}}
+|date=2015-08-26
+|source={{own}}
+|author=[[User:Rs-nourse|Rs-nourse]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+
+
+[[Category:Caerlaverock Roll]]
+[[Category:Ferrers (of Groby) arms]]

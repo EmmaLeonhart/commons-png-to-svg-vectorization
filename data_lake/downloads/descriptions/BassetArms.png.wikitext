@@ -1,0 +1,13 @@
+== {{int:filedesc}} ==
+{{Information
+|Description    ={{en|1=Arms of Basset of Umberleigh and Heanton Punchardon, Devon: ''Barry wavy of six or and gules''}}
+|Source         ={{own}}
+|Author         =([[User:Lobsterthermidor|Lobsterthermidor]] ([[User talk:Lobsterthermidor|<span class="signature-talk">{{int:Talkpagelinktext}}</span>]]) 17:00, 3 January 2016 (UTC))
+|Date           =2015
+|Permission     =
+|other_versions =
+}}
+
+== {{int:license-header}} ==
+{{PD-self}}
+[[Category:Basset (of Umberleigh) arms]]

@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Arms displayed by Geoffrey de Burgo, Bishop of Ely, at the signing of Magna Charta}}
+|date=2013-12-09 11:45:35
+|source={{own}}
+|author=[[User:Rs-nourse|Rs-nourse]]
+|permission=
+|other_versions=
+|other_fields=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-3.0}}
+
+[[Category:Coats of arms of See of Ely]]

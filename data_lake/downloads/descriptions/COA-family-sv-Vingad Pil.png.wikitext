@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{sv|1=Vapensköld för ättlingar till Elof (vingad pil)}}
+|date=2019-01-24
+|source={{own}}
+|author={{Creator:Dan Koehl}}
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-3.0}}
+
+[[Category:Coats of arms of Swedish noble families]]
+[[Category:Coats of arms by Dan Koehl]]

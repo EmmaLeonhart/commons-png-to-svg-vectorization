@@ -1,0 +1,17 @@
+== {{int:filedesc}} ==
+{{Information
+|Description=Wappen derer von Stosch
+|Source=Alfred Freiherr von Krane, Wappen- und Handbuch des in Schlesien (einschliesslich der Oberlausitz) landgesessenen Adels. Goerlitz 1901 - 1904 - [http://www.dokumentyslaska.pl/krane%201904/ Digitalisat]
+|Date={{other date|~|1901}}
+|Author={{Creator:Adolf Matthias Hildebrandt}}
+|Permission=This image is in the [[public domain]] due to its age.
+|other_versions=
+}}
+== {{int:license-header}} ==
+{{PD-old-auto-1923|deathyear=1918}}
+{{Wappenrecht}}
+
+[[Category:Coats of arms of Stosch family]]
+[[Category:Schlesisches Wappenbuch]]
+[[Category:Coats of arms of Kaunitz family]]
+[[Category:Coats of arms of families of Bohemia]]

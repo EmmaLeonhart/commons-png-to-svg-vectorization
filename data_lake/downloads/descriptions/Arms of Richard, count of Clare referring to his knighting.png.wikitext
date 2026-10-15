@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Arms of Richard, count of Clare referring to his knighting}}
+|date={{other date|century|13}}
+|source=Matthew Paris, Chronica Maiora - Royal MS 14 C VII, ff 157r-231r
+|author={{Creator:Matthew Paris}}
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-Art|PD-old-auto-expired|deathyear=1259}}
+
+[[Category:Coats of arms of Richard de Clare, 5th Earl of Hertford]]
+[[Category:Historia Anglorum (1250-1259) - BL Royal MS 14 C VII]]

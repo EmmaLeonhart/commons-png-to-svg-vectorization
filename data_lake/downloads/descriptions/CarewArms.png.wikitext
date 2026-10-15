@@ -1,0 +1,16 @@
+== {{int:filedesc}} ==
+{{Information
+|Description    ={{en|1=Arms of Carew: ''Or, three lions passant in pale sable''}}
+|Source         =Own work using lion element from commons File:DEU Staedteregion Aachen COA.svg by User:Jürgen Krause 
+|Author         =[[User:Lobsterthermidor|Lobsterthermidor]] ([[User talk:Lobsterthermidor|<span class="signature-talk">{{int:Talkpagelinktext}}</span>]]) 21:49, 24 March 2016 (UTC)
+|Date           =2016
+|Permission     =
+|other_versions =
+}}
+
+== {{int:license-header}} ==
+{{cc-by-sa-3.0}}
+
+[[Category:Carew arms]]
+[[Category:Lions passant sable]]
+[[Category:Or 3 lions passant in pale sable]]

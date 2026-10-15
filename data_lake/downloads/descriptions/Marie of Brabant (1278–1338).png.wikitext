@@ -1,0 +1,14 @@
+=={{int:filedesc}}==
+{{Information
+|description={{cs|1=Marie of Brabant (1278–1338)}}
+|date=1660
+|source=Histoire généalogique de la royale Maison de Savoie, Svazek 1 (1660)
+|author=Samuel Guichenon
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-old-100-1923}}
+
+[[Category:Maria of Brabant, Countess of Savoy]]

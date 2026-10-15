@@ -1,0 +1,18 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Seal of Yuri Danilovich}}
+|date={{other date|between|1318|1322}}
+|source=https://novgorod-iss.kamiscloud.ru/entity/OBJECT/209868?page=6&exposition=4901480&index=299
+|author={{unknown|author}}
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{cc-by-sa-4.0}}
+
+[[Category:PD-RusEmpire]]
+[[Category:PD-Russia]]
+[[Category:Yuri III, Grand Prince of Vladimir]]
+[[Category:Slavonic seals]]
+[[Category:Pahonia]]

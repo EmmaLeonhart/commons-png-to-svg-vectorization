@@ -1,0 +1,16 @@
+== {{int:filedesc}} ==
+{{Information
+|Description    ={{en|1=Arms of Giffard of Brimpsfield: ''Gules, three lions passant argent''}}
+|Source         =Copied from [[:File:Armoiries_de_Luxembourg.svg|Caranorn]]
+|Author         =([[User:Lobsterthermidor|Lobsterthermidor]] ([[User talk:Lobsterthermidor|<span class="signature-talk">{{int:Talkpagelinktext}}</span>]]) 15:14, 4 January 2016 (UTC))
+|Date           =2015
+|Permission     =
+|other_versions =
+}}
+
+[[Category:Giffard (of Brimpsfield) arms]]
+[[Category:Giffard arms]]
+
+== {{int:license-header}} ==
+{{cc-by-sa-3.0}}
+{{DEFAULTSORT:Giffard}}

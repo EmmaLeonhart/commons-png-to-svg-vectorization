@@ -1,0 +1,16 @@
+== {{int:filedesc}} ==
+{{Information
+|description    = {{cs|Erb rodů Přemyslovců.}}{{en|Coat of arms of the Přemyslid royal dynasty from Bohemia, copy of}} [[:cs:Wikipedista:Zeman|Daniel Zeman]]'s [[:cs:Soubor:CZ-Premyslovci-znak.png|upload]].
+|date           = 2005-08-18
+|source         = {{source|unknown}}
+|author         = {{author|unknown}}
+|other versions = 
+}}
+{{Vector version available|Přemyslovci erb.svg}}
+
+== {{int:license-header}} ==
+{{PD-old}}
+
+[[Category:Dynasties]]
+[[Category:Eagle of saint Wenceslas]]
+[[Category:Coats of arms of Přemyslid family]]

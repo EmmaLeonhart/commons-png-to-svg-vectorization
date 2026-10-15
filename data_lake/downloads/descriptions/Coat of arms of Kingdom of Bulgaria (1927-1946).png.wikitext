@@ -1,0 +1,16 @@
+== {{int:filedesc}} ==
+{{vva|File:State Achievement of Bulgaria 1908-1946.svg}}
+{{Information
+|Description={{en|1=Coat of arms of Kingdom of Bulgaria (1927-1946)}}
+|Source={{Own}}
+|Author=[[User:Pakko|Pakko]]
+|Date=12.06.2008
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{self|GFDL|Cc-by-sa-3.0-migrated|FAL}}
+
+[[Category:Royal coats of arms of Bulgaria]]
+[[Category:Bulgarian-language mottos in heraldry]]

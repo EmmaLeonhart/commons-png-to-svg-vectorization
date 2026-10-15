@@ -1,0 +1,20 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Armes de l'Auvergne et de Guy II d'Auvergne. 
+
+== Source ==
+
+Guy II d'Auvergne, sceau du XIIème siècle - Verso - Blason. 
+''Sigillographie de l'ancienne Auvergne (XIIe-XVIe siècles)'', par Philippe de Bosredon - 1895.}}
+|date=2017-07-29
+|source={{own}}
+|author=[[User:Aavitus|Aavitus]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Coats of arms of Guy II of Auvergne]]
+[[Category:Sigillographie de l'ancienne Auvergne (XIIe-XVIe siècles)]]

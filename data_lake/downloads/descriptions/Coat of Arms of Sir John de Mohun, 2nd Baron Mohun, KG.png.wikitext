@@ -1,0 +1,20 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Coat of Arms of Sir John de Mohun, 2nd Baron Mohun, KG
+{{cquote|Mohun, Sire John de, of Dunster, banneret, baron 1299… bore at the battle of Falkirk 1298, and at the siege of Caerlaverock 1300, or, a cross engrailed sable… his son Sir John (father of Sir John, 2nd Baron, K.G., and a founder) also bore it, with a label (3) gules…}}
+*FOSTER, Joseph, Some Feudal Coats of Arms from Heraldic Rolls 1298-1418, London: James Parker & Co., 1902.
+}}
+|date=2013-10-28 00:44:30
+|source={{own}}
+|author=[[User:Rs-nourse|Rs-nourse]]
+|permission=
+|other_versions=
+|other_fields=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-3.0}}
+{{DEFAULTSORT:Mohun, John}}
+[[Category:Coats of arms of members of the Order of the Garter (14th century)]]
+[[Category:Mohun arms]]
+[[Category:Or a cross engrailed sable]]

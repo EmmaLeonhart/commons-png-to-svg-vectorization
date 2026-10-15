@@ -1,0 +1,15 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|1=Coat of arms of the noble family "Rabenswalde"}}
+{{de|1=Wappen derer von Rabenswalde}}
+|Source={{Own}}
+|Author=[[:de:Benutzer:Rüdiger Bier|Rüdiger Bier]]
+|Date=
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{self|cc-by-sa-3.0}}
+{{DEFAULTSORT:Rabenswalde}}
+[[Category:Coats of arms of Rabenswalde family]]

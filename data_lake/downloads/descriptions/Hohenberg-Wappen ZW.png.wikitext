@@ -1,0 +1,15 @@
+== {{int:filedesc}} ==
+{{Information
+|Description=Wappen der Hohenberg
+|Source=Züricher Wappenrolle, vereinzelt aus der Faksimile-Publikation der Antiquarischen Gesellschaft Zürich von 1860 - [https://books.google.com/books?id=zFssAAAAYAAJ&printsec=titlepage#v=onepage&q&f=false Digitalisat]
+|Date={{other date|circa|1335|1345}}
+|Author={{unknown|author}}
+|Permission=This image is in the [[public domain]] due to its age.
+|other_versions= 
+}}
+== {{int:license-header}} ==
+{{PD-old}}
+{{Wappenrecht}}
+
+[[Category:Zürcher Wappenrolle - isolated armors (Runge)|025]]
+[[Category:Coats of arms of Hohenberg family]]

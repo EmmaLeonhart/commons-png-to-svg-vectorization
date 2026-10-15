@@ -1,0 +1,18 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Coat of arms of the Žegligović (Dragaš?) family.}}
+{{sr-ec|1=Грб породице Жеглиговић (Драгаш?).}}
+|date=2017-04-16
+|source={{own}}
+|author=[[User:WikiNameBaks|WikiNameBaks]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Coats of arms of families of Serbia]]
+[[Category:Coats of arms of families of Serbia in the Middle Ages]]
+[[Category:3 roses in heraldry]]
+[[Category:Dejanović noble family]]

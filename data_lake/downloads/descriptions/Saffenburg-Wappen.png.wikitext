@@ -1,0 +1,13 @@
+== {{int:filedesc}} ==
+{{Information 
+|Description=Stammwappen der Edlen Herren von Saffenberg: „In Schwarz ein goldener Adler. Helmzier ein goldenes Speichenrad. Helmdecken schwarz-golden.“ Die Stammburg des Geschlechts, die um 1080 erbaute Saffenburg hoch über der Ahr, ist heute eine Ruine im Landkreis Ahrweiler. Burg und Reichsherrschaft wurden nach dem Aussterben der Edelherren von Saffenberg geteilt. Ein Teil kam an die Grafen von Sponheim und dann durch Heirat an Dietrich IV von Kleve bzw. Mark. Der andere Teil gelangte an die Herren von Heinsberg, dann an Wilhelm von Arenberg, schließlich 1424 an die Grafen von Virneburg (Philipp I. Graf von Virneburg heiratete Katharina von Saffenberg) und nach deren Aussterben 1545 im Folgejahr an die Grafen von Manderscheid-Schleiden, nach deren Aussterben 1593 an die Grafen von der Mark-Schleiden, zuletzt 1773 an die Herzöge von Arenberg.
+|Source=Blasonierung und alte Wappenabbildungen (→ [http://www.dr-bernhard-peter.de/Heraldik/wappenrolle26.htm])
+|Date={{other date|century|13}}
+|Author=Wappengrafik erstellt von [[:de:Benutzer:LeoDavid|LeoDavid]]
+|Permission=
+|other_versions=
+}}
+== {{int:license-header}} ==
+{{Cc-zero}}
+{{Wappenrecht}}
+[[Category:Coats of arms of families of Germany - S]]

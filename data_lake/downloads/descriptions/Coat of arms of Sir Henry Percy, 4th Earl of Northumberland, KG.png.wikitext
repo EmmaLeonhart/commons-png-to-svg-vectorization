@@ -1,0 +1,20 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Coat of arms of Sir Henry Percy, 4th Earl of Northumberland, KG<br\ >
+Quarterly: 1 and 4, or a lion rampant azure (for Percy), quartering gules three lucies argent (for Lucy); 2 and 3, barry of six or and vert, a bend gules (for Poynings)<br\ >
+Henry Percy's mother, Eleanor Poynings, daughter of Sir Richard Poynings, of Poynings, was heir general to her grandfather, Sir Robert Poynings, 4th Baron Poynings.}}
+|date=2013-11-18 11:38:46
+|source={{own}}
+|author=[[User:Rs-nourse|Rs-nourse]]
+|permission=
+|other_versions=
+|other_fields=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-3.0}}
+
+[[Category:Coats of arms of members of the Order of the Garter (15th century)]]
+[[Category:Percy (modern) quartering Lucy]]
+[[Category:Poynings arms]]
+{{DEFAULTSORT:Percy -}}

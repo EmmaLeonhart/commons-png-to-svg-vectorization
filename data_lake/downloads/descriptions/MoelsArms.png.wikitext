@@ -1,0 +1,14 @@
+== {{int:filedesc}} ==
+{{Information
+|Description    ={{en|1=Arms of de Moels, feudal barons of North Cadbury, Somerset: ''Argent, two bars gules in chief three torteaux''}}
+|Source         ={{own}}
+|Author         =([[User:Lobsterthermidor|Lobsterthermidor]] ([[User talk:Lobsterthermidor|<span class="signature-talk">{{int:Talkpagelinktext}}</span>]]) 17:19, 25 October 2015 (UTC))
+|Date           =2015
+|Permission     =
+|other_versions =
+}}
+
+[[Category:Moels arms]]
+
+== {{int:license-header}} ==
+{{PD-self}}

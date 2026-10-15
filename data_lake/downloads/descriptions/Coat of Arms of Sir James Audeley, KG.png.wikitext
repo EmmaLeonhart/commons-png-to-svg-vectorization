@@ -1,0 +1,19 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Coat of Arms of Sir James Audeley, KG
+{{cquote|Sir James Audeley, one of the Founders… Arms: Gules, fretty Or, a label for difference.}}
+* BELTZ, George Frederick, Memorials of the Order of the Garter from Its Foundation to the Present Time, London: William Pickering, 1841.
+}}
+|date=2013-10-28 00:44:41
+|source={{own}}
+|author=[[User:Rs-nourse|Rs-nourse]]
+|permission=
+|other_versions=
+|other_fields=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-3.0}}
+{{DEFAULTSORT:Audley -}}
+[[Category:Audley arms]]
+[[Category:Coats of arms of members of the Order of the Garter (14th century)]]

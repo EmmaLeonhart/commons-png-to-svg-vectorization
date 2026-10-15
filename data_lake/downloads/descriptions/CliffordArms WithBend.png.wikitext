@@ -1,0 +1,14 @@
+== {{int:filedesc}} ==
+{{Information
+|Description    ={{en|1=Arms of Clifford: ''Chequy or and azure, a bend gules''. These were the family's earliest arms, as borne by the Clifford lords of Clifford Castle in Herefordshire, until the death of the last in the senior male line, Walter III de Clifford (d.1263). His younger brother was Roger de Clifford (d.1231) of Tenbury, who adopted for his own arms the difference of a fess in place of the bend. His son Roger de Clifford (d.1285) became the 4th lord of Clifford Castle. (Source for change in arms: [[John Lambrick Vivian|Vivian, Lt.Col. J.L.]], (Ed.) The Visitation of the County of Devon: Comprising the  [[Heraldic visitation|Heralds' Visitations]] of 1531, 1564 & 1620, Exeter, 1895, p.194, pedigree of Clifford of Chudleigh)}}
+|Source         ={{own}}
+|Author         =([[User:Lobsterthermidor|Lobsterthermidor]] ([[User talk:Lobsterthermidor|<span class="signature-talk">{{int:Talkpagelinktext}}</span>]]) 11:47, 2 April 2016 (UTC))
+|Date           =2016
+|Permission     =
+|other_versions =
+}}
+
+== {{int:license-header}} ==
+{{PD-self}}
+
+[[Category:Clifford arms]]

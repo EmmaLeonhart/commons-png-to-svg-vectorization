@@ -1,0 +1,18 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Seal of Vsevolod Konstantinovich Yaroslavsky and Marina - Maria}}
+|date=1-я пол. XIII в.
+|source=https://historyrussia.org/sobytiya/v-mire-arkheologii/novosti-s-raskopok-yaroslavl-otkryvaet-svoi-tajny-2.html
+|author={{unknown|author}}
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{cc-by-sa-4.0}}
+
+[[Category:PD-RusEmpire]]
+[[Category:Vsevolod Konstantinovich, Prince of Yaroslavl]]
+[[Category:Slavonic seals]]
+[[Category:Seals of Russian Princes]]
+[[Category:13th-century seals]]

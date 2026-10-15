@@ -1,0 +1,14 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|1=Herald Owain Glyndwr's Coats of Arms.}}
+|Source={{own}}
+|Author=[[User:Llywelyn2000|Llywelyn2000]]
+|Date=2010-04-14
+|Permission=
+|other versions=
+}}
+Arfbais Owain Glyndwr.
+== {{int:license-header}} ==
+{{self|cc-by-sa-3.0}}
+{{DEFAULTSORT:Glyndwr}}
+[[Category:Coats of arms of Owain Glyndŵr]]

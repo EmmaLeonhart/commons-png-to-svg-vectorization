@@ -1,0 +1,22 @@
+== {{int:filedesc}} ==
+{{Information
+|description={{en|1=Peter Heß: ''Blätter zur Landeskunde.'' Landeszentrale für politische Bildung Thüringen, 8. Auflage 2005.
+
+„Das Wappen mit dem bunten Löwen erscheint erstmals unter Landgraf Hermann I. (1190–1217) aus dem Geschlecht der Ludowinger. [...] Im Ergebnis des von 1247 bis 1263 währenden Erbfolgestreits kam es schließlich zur endgültigen Trennung zwischen Thüringen und Hessen, doch behielten sowohl die Wettiner, als auch die hessischen Erben [...] das Wappen mit dem bunten Löwen bei. [...] Die Frage nach dem Ursprung der doch recht ungewöhnlichen Streifung des Löwen lässt sich nicht beantworten. [...] Mit Sicherheit sind Rot und Weiß die Mainzer Farben, die bei Adligen, die in enger Verbindung zum Erzbistum Mainz standen, oft zu finden sind.“
+
+* Beschreibung: Vollwappen des Wettiner Landgrafen Albrecht II. von Thüringen um 1265
+* Quelle: http://www.lzt-thueringen.de/files/andeswappen.pdf}}
+|date=2007-6-17
+|source={{own}}
+|author={{U|XJaPaN~commonswiki}}
+|permission=
+|other versions=
+}}
+
+{{vva|Vollwappen Wettiner Landgraf Albrecht (1265).svg}}
+
+== {{int:license-header}} ==
+{{PD-Coa-Germany}}
+
+[[Category:Coats of arms of the Landgraviate of Thuringia]]
+[[Category:Albert II, Margrave of Meissen]]

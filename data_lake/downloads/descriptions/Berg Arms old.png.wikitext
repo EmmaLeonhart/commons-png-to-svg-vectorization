@@ -1,0 +1,12 @@
+{{Information
+|Description=Old coats of arms of the Counts of Berg (until 1288). (Note: The file in the English Wikipedia shows the arms of Quadt-Wickrath. This is however the same than those of the house of Berg. See for instance: [http://www.hattingen-pur.de/unser_hattingen/wappen_farben_6.htm])
+|Source= [[w:en:File:Arms-Quadt-Wickrath.png|English Wikipedia]]
+|Date= upload of the original file: 11.10.2006
+|Author= [[w:en:User:Attilios|Attilios]]
+|Permission= {{GFDL|migration=relicense}}
+|other_versions=
+}}
+
+[[Category:Coats of arms of territories in the Lower Rhenish-Westphalian Circle|Berg]]
+[[Category:Coats of arms of Quadt family]]
+[[Category:Coats of arms of Berg family]]

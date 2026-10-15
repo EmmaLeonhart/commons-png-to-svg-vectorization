@@ -1,0 +1,19 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Coat of Arms of Sir William Beauchamp, 1st Baron Bergavenny, KG
+{{cquote|Sir William Beauchamp Lord of Bergavenny… Arms: Gules, a fess between six cross-crosslets Or, the fess charged with a mullet for difference.}}
+* BELTZ, George Frederick, Memorials of the Order of the Garter from Its Foundation to the Present Time, London: William Pickering, 1841.
+}}
+|date=2013-10-28 12:13:44
+|source={{own}}
+|author=[[User:Rs-nourse|Rs-nourse]]
+|permission=
+|other_versions=
+|other_fields=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-3.0}}
+{{DEFAULTSORT:Beauchamp -}}
+[[Category:Coats of arms of members of the Order of the Garter (14th century)]]
+[[Category:William de Beauchamp, 1st Baron Bergavenny]]

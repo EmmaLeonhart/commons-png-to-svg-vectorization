@@ -1,0 +1,17 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Coat of arms of Geoffrey de Mandeville, Earl of Essex and Gloucester}}
+|date=2013-12-09 10:42:24
+|source={{own}}
+|author=[[User:Rs-nourse|Rs-nourse]]
+|permission=
+|other_versions=
+|other_fields=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-3.0}}
+{{DEFAULTSORT:Mandeville}}
+[[Category:Earls of  Essex]]
+[[Category:De Mandeville arms]]
+[[Category:Escarbuncles in heraldry]]

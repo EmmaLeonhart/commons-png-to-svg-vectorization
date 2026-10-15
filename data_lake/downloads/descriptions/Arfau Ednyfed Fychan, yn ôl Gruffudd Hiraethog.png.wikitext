@@ -1,0 +1,21 @@
+=={{int:filedesc}}==
+{{Artwork
+|artist            = Gruffudd Hiraethog
+|title             = Arms of Ednyfed Fychan
+|description={{en|1=Arms of Ednyfed Fychan, according to Gruffudd Hiraethog's Cronicl Byr (Peniarth MS 135)}}
+|date=1556-1564
+|institution       = {{Institution:National Library of Wales}}
+|references        = Peniarth MS 135
+|other versions=
+|source            = The original digital image can be seen in its original context [https://viewer.library.wales/6143160#?xywh=2256%2C593%2C3470%2C2438&cv=330 here]
+{{NLWsource|6143160}}
+|permission        = {{Cc-zero}}
+|other_versions    = 
+}}
+=={{int:license-header}}==
+{{PD-Art|PD-old-100-1923}}
+{{cc-zero}}
+
+[[Category:Images from the collection of the National Library of Wales]]
+[[Category:Manuscripts from Wales]]
+[[Category:Coats of arms of Wales]]
