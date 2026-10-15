@@ -30,7 +30,7 @@ shields in `upload/arms-*/`, 3 kamon), 63 waiting on the generator, 72 raster or
   nothing is uploaded to Commons without her go.
 - Then: the Template:Coat of arms PNGs in the main list below, the same way.
 
-## To vectorize (531)
+## To vectorize (530)
 
 Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed images (174).
 
@@ -116,7 +116,6 @@ Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed image
 - [File:Izuna Gongen.png](https://commons.wikimedia.org/wiki/File:Izuna_Gongen.png) — Izuna Gongen — NOT REBUILDABLE without tracing: woodblock / line-art figure drawing (flat colours, but freeform art).
 - [File:Japan Chubu Region large.png](https://commons.wikimedia.org/wiki/File:Japan_Chubu_Region_large.png) — Eastern Japan
 - [File:Japan large.png](https://commons.wikimedia.org/wiki/File:Japan_large.png) — Category:Regions of Japan by Prefecture
-- [File:Kagoshima-geo-stub.png](https://commons.wikimedia.org/wiki/File:Kagoshima-geo-stub.png) — Template:Kagoshima — already has a vector version: File:Flag map of Kagoshima Prefecture.svg (tag the PNG {{Vector version available}}).
 - [File:Kaikatennou oujintennou.png](https://commons.wikimedia.org/wiki/File:Kaikatennou_oujintennou.png) — Hikoimasu no Ōkimi
 - [File:Kajikimen (鹿食免).png](https://commons.wikimedia.org/wiki/File:Kajikimen_%28%E9%B9%BF%E9%A3%9F%E5%85%8D%29.png) — Ofuda, Suwa-taisha — NOT REBUILDABLE without tracing: woodblock / line-art figure drawing (flat colours, but freeform art).
 - [File:Kashikodokoro Jogyosha and Ohaguruma 04.png](https://commons.wikimedia.org/wiki/File:Kashikodokoro_Jogyosha_and_Ohaguruma_04.png) — Kashiko-dokoro Riding Car — NOT REBUILDABLE without tracing: woodblock / line-art figure drawing (flat colours, but freeform art).

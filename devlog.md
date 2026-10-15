@@ -208,3 +208,5 @@
   SVG** (corner-fitted pennant and cross, 0.44% of pixels differ). Staged in upload/. Ecovia and Gaelic Games logos
   marked not rebuildable.
 - **File:DPM icon.png → SVG**: corner-fitted car on the measured square, grey band; 0.5% of pixels differ. Staged.
+- **File:Kagoshima-geo-stub.png → SVG**: N03 outline (limited to the islands the PNG shows) filled with the prefecture
+  flag via `tools/rebuild_flagmap.py`; silhouette IoU 0.853, flag agreement 0.977. Staged in upload/.
