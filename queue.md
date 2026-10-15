@@ -30,7 +30,7 @@ shields in `upload/arms-*/`, 3 kamon), 63 waiting on the generator, 72 raster or
   nothing is uploaded to Commons without her go.
 - Then: the Template:Coat of arms PNGs in the main list below, the same way.
 
-## To vectorize (536)
+## To vectorize (535)
 
 Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed images (174).
 
@@ -76,7 +76,6 @@ Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed image
 - [File:Dolmen in Japan and Jeju.png](https://commons.wikimedia.org/wiki/File:Dolmen_in_Japan_and_Jeju.png) — Toraijin
 - [File:DPM icon.png](https://commons.wikimedia.org/wiki/File:DPM_icon.png) — Template:Rail-interchange
 - [File:Dravidische Sprachen.png](https://commons.wikimedia.org/wiki/File:Dravidische_Sprachen.png) — Module:Portal/images/d
-- [File:East Asia Cutout Projection.png](https://commons.wikimedia.org/wiki/File:East_Asia_Cutout_Projection.png) — Module:Portal/images/e, Module:Portal/images/e/sandbox
 - [File:Eastern Europe (Robinson projection).png](https://commons.wikimedia.org/wiki/File:Eastern_Europe_%28Robinson_projection%29.png) — Module:Portal/images/e, Module:Portal/images/e/sandbox
 - [File:EcoviaLogo.png](https://commons.wikimedia.org/wiki/File:EcoviaLogo.png) — Template:Rail-interchange
 - [File:Enabling Visual Editor.png](https://commons.wikimedia.org/wiki/File:Enabling_Visual_Editor.png) — Help:VisualEditor

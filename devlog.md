@@ -194,3 +194,9 @@
 - **File:Excerpt tree.png → SVG** (`files/excerpt-tree/`): rounded boxes, shaft-and-head arrows and white Arial-metric
   `<text>` labels, all measured; transparent background kept. Staged in upload/.
 - Flag of the Sri Lankan Army: BLOCKED-ON-EXTERNAL (no vector of the army badge on Commons).
+- **File:East Asia Cutout Projection.png → SVG**: the 2009 revision of East Asia (orthographic projection).svg with a
+  viewBox on the crop window (found by cross-correlation); 0.02% of pixels differ. Staged in upload/.
+- `tools/render_svg.py`: waits for Chrome's screenshot to land before deleting its page (Chrome had started returning
+  first, so renders silently produced nothing).
+- Flags of California (1924), King of Korea, Mexican Maritime SAR: not rebuildable (painted/photo art); South African
+  Army (1966) and UAE Navy: blocked on badges with no vector; Category-diagram: NEEDS-DECISION (curve fitting).

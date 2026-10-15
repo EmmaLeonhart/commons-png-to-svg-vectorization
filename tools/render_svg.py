@@ -37,6 +37,12 @@ def render(src, out, scale=1.0):
         subprocess.run([CHROME, '--headless=new', '--disable-gpu', '--hide-scrollbars', f'--screenshot={out}',
                         f'--window-size={W},{H}', '--force-device-scale-factor=1', '--default-background-color=00000000', html.as_uri()],
                        check=True, capture_output=True)
+        # Chrome can return before the screenshot is on disk; keep the page until it is
+        import time
+        for _ in range(300):
+            if out.exists():
+                break
+            time.sleep(0.1)
     finally:
         html.unlink(missing_ok=True)
     return W, H
