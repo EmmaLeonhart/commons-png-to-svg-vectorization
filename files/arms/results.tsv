@@ -1,5 +1,5 @@
 # generator commit 8d8ab870
-slug	png	blazon	fully_parsed	tincture_agreement	silhouette_iou
+slug	png	blazon	fully_parsed	tincture_agreement	silhouette_iou	status	generator_gaps
 ely-geoffrey-de-burgo	Arms displayed by Geoffrey de Burgo, Bishop of Ely, at the signing of Magna Charta.png	Gules, three crowns or	True	0.732	0.871	accepted	
 arpad	Arpad.png	Barry of eight gules and argent	True	0.841	0.861	accepted	
 basset	BassetArms.png	Barry wavy of six or and gules	True	0.875	0.861	accepted	
@@ -55,3 +55,5 @@ bigod-modern	BigodModernArms.JPG	Per pale or and vert, a lion rampant gules	True
 ataide-brason	Brason Ataíde.jpg	Bendy of eight azure and argent	True	0.252	0.853	accepted	
 avarna	Coa fam ITA avarna.jpg	Or, a fess azure	True	0.877	0.862	accepted	
 giffone	Coa fam ITA giffone.jpg	Checky argent and sable, a fess gules	True	0.756	0.854	accepted	
+cherleton-barons	Arms of Cherleton, Barons Cherleton.png	Or, a lion rampant gules	True	0.630	0.848	accepted	
+toulouse-tripoli	Coat of arms of the House of Toulouse-Tripoli.png	Gules, a cross clechy voided and pommetty or	True	0.528	0.960	generator-gap	charge-no-drawing: cross clechy; charge-no-drawing: pommetty

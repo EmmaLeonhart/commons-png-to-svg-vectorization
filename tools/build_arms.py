@@ -83,10 +83,17 @@ def main():
             (up / 'notes.md').write_text((d / 'notes.md').read_text(encoding='utf-8'), encoding='utf-8')
         pics.append(pic)
         print(slug, full, agree, iou, flush=True)
-    with open('files/arms/results.tsv', 'w', encoding='utf-8') as f:
-        f.write(f'# generator commit {commit}\nslug\tpng\tblazon\tfully_parsed\ttincture_agreement\tsilhouette_iou\n')
-        for r in rows:
-            f.write('\t'.join(map(str, r)) + '\n')
+    res = Path('files/arms/results.tsv')
+    keep = {}
+    if res.exists():  # a partial run updates its rows and keeps the others
+        for line in res.read_text(encoding='utf-8').splitlines()[2:]:
+            keep[line.split('\t')[0]] = line.split('\t')
+    keep.update({r[0]: list(map(str, r)) for r in rows})
+    with res.open('w', encoding='utf-8') as f:
+        f.write(f'# generator commit {commit}\nslug\tpng\tblazon\tfully_parsed\ttincture_agreement\tsilhouette_iou\tstatus\tgenerator_gaps\n')
+        for slug in spec:
+            if slug in keep:
+                f.write('\t'.join(keep[slug]) + '\n')
     ims = [Image.open(p) for p in pics]
     cols = 4
     w, h = ims[0].size

@@ -313,5 +313,18 @@
   "png": "Coa fam ITA giffone.jpg",
   "blazon": "Checky argent and sable, a fess gules",
   "status": "accepted"
+ },
+ "cherleton-barons": {
+  "png": "Arms of Cherleton, Barons Cherleton.png",
+  "blazon": "Or, a lion rampant gules",
+  "box": "0.30,0.465,0.71,0.93",
+  "status": "accepted",
+  "note": "The PNG is a full achievement (helm, coronet, mantling); this SVG is the shield only."
+ },
+ "toulouse-tripoli": {
+  "png": "Coat of arms of the House of Toulouse-Tripoli.png",
+  "blazon": "Gules, a cross clechy voided and pommetty or",
+  "status": "generator-gap",
+  "note": "Not staged: no drawing for the cross of Toulouse (clechy, voided, pommetty)."
  }
 }

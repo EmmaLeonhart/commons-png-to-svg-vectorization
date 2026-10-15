@@ -22,6 +22,7 @@ Pictures (Commons PNG left, generator right):
 | 'passant' goat drawn rearing; 'bordure embattled' drawn plain | Or, a goat passant sable, a bordure embattled sable | cabrera-viscounts | |
 | 'fimbriated' not drawn | Azure, a cross gules fimbriated or between four fleurs-de-lis or | clermont-bishopric | |
 | Charge between a beast's horns | (bull's head with a patriarchal cross between the horns) | terter | |
+| No drawing for the cross of Toulouse | Gules, a cross clechy voided and pommetty or | toulouse-tripoli | charge-no-drawing: cross clechy, pommetty |
 | Bars embattled on one edge | (PNG: gules, two bars embattled argent) | berg-old | none |
 
 Also seen, minor: 'Gules, three crowns or' leaves thin dark arcs above the two upper crowns.
