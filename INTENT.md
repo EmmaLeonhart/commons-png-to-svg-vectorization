@@ -84,8 +84,9 @@ My reading of how this repo serves it (Claude's assumption, 2026-10-15; correct 
 - Script specimens (images of single glyphs or script samples: 1bc1a, ADLaM, Ahom rendering, Bali Ba,
   Bamum King Njoya (4)): `<text>` needs the script's font on Commons; open-font glyph outlines would be
   paths, against the vector-text rule. NEEDS-DECISION (user).
-- Hand-drawn geographic symbols (Abkhazia stub, Gunma shadow picture): the correct outline differs from
-  the drawn one. Replace with correct geography, or leave? NEEDS-DECISION (user).
+- Hand-drawn or generalised geography (Abkhazia stub, Gunma shadow picture, Aomori Tsugaru-block from the
+  old ja.wp Japan map.png): the correct outline differs from the drawn one. Replace with correct geography,
+  or leave? NEEDS-DECISION (user). A correct-geography build of the Tsugaru map is ready, unstaged.
 - Which wiki the search list was run on: its article titles are on neither en.wikipedia
   nor Commons. Filenames are resolved against Commons instead.
 

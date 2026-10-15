@@ -174,3 +174,6 @@
   `<text>`, leader lines fitted to leftover ink, north arrow measured, necropolis ellipse fitted. CC BY-SA 3.0.
   Staged in upload/. DejaVu fonts downloaded to `data_lake/downloads/fonts/dejavu/` for fitting text.
 - Bohai Sea map: its SVG derivatives embed the raster, so they are no vector source (queue note).
+- Aomori Tsugaru-block.png: built from MLIT N03 municipal boundaries of 2000-10-01 (pyshp for the old
+  shapefiles; data in `data_lake/downloads/n03/2000/`), projection fitted (chamfer 2.1 px). Not staged: the PNG's
+  generalised drawing differs from real geography; joined the Abkhazia/Gunma decision in INTENT.md.
