@@ -7,4 +7,4 @@ overflows the silhouette). Rebuilt (`build.py`):
 - **Emblem**: the emblem group of [[:File:Flag of Kyoto Prefecture.svg]] (PD), scale and position fitted to the
   PNG's yellow (IoU 0.80; the PNG's petals are drawn a little differently). Purple #942b9d from the flag file.
 2.2% of pixels differ. No text.
-Licence: CC BY 4.0 with the credit 「国土数値情報（行政区域データ）」（国土交通省）, as for the other N03 rebuilds.
+Licence: CC BY-SA 4.0, as the PNG (AichiWikiFixer), with the N03 credit 「国土数値情報（行政区域データ）」（国土交通省）.
