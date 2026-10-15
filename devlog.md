@@ -186,3 +186,8 @@
 - **File:Appalachian region of United States.png → SVG** (`files/appalachian-region/`): census 2018 boundaries in a
   fitted Albers projection; Appalachian counties read from the PNG's colours (the 2008 ARC region, 425 units);
   letter-spaced italic small-capital state names as `<text>`. Public domain. Staged in upload/.
+- **File:CompareTropicalYears.png → SVG** (`files/compare-tropical-years/`): the five tropical-year curves recovered as
+  polynomials (residual < 0.5 px; their year-2000 values agree with Meeus to 5e-6 day), layout measured, German text
+  as `<text>`. Staged in upload/.
+- Revenue-Marine ensigns (6) marked not rebuildable (canton eagles have no vector source); Bonji letters (14) filed
+  under the script-specimen decision.
