@@ -1,4 +1,19 @@
 {
+ "Alexander Nevsky Emblem.jpg": {
+  "people": [
+   "Q147453 Alexander Nevsky"
+  ],
+  "missing": false,
+  "size": [
+   1855,
+   1742
+  ],
+  "same_name_svg": null,
+  "vector_version": [],
+  "svg_mentions": [],
+  "blazon": [],
+  "coainfo": false
+ },
  "Andechs-Wappen.png": {
   "people": [
    "Q127210 Beatrice II, Countess of Burgundy",
@@ -90,6 +105,21 @@
   "blazon": [],
   "coainfo": false
  },
+ "Arms of Sir Dafydd Gam.jpg": {
+  "people": [
+   "Q142596 Dafydd Gam"
+  ],
+  "missing": false,
+  "size": [
+   609,
+   676
+  ],
+  "same_name_svg": null,
+  "vector_version": [],
+  "svg_mentions": [],
+  "blazon": [],
+  "coainfo": false
+ },
  "Arpad.png": {
   "people": [
    "Q49551 Andrew, Duke of Slavonia"
@@ -113,6 +143,23 @@
   "size": [
    495,
    744
+  ],
+  "same_name_svg": null,
+  "vector_version": [],
+  "svg_mentions": [],
+  "blazon": [],
+  "coainfo": false
+ },
+ "BagrationCOA.JPG": {
+  "people": [
+   "Q43374 Jiajak Bagrationi",
+   "Q46367 Rusudan of Georgia",
+   "Q50295 Gulkhan-Eudokia of Georgia"
+  ],
+  "missing": false,
+  "size": [
+   289,
+   331
   ],
   "same_name_svg": null,
   "vector_version": [],
@@ -174,6 +221,38 @@
   "size": [
    924,
    1062
+  ],
+  "same_name_svg": null,
+  "vector_version": [],
+  "svg_mentions": [],
+  "blazon": [],
+  "coainfo": false
+ },
+ "BigodModernArms.JPG": {
+  "people": [
+   "Q145400 Roger Bigod, 5th Earl of Norfolk"
+  ],
+  "missing": false,
+  "size": [
+   276,
+   304
+  ],
+  "same_name_svg": null,
+  "vector_version": [],
+  "svg_mentions": [
+   "modified from: File:Dundas of Dundas arms.svg"
+  ],
+  "blazon": [],
+  "coainfo": false
+ },
+ "BistumswappenPassau.JPG": {
+  "people": [
+   "Q153601 Diepold von Berg"
+  ],
+  "missing": false,
+  "size": [
+   698,
+   796
   ],
   "same_name_svg": null,
   "vector_version": [],
@@ -250,6 +329,37 @@
   "svg_mentions": [
    "own work using lion element from commons File:Coat of arms of Leonardo Bonanno.svg"
   ],
+  "blazon": [],
+  "coainfo": false
+ },
+ "Brason Ataíde.jpg": {
+  "people": [
+   "Q124279 Egas Duer",
+   "Q124281 Martim Viegas de Ataíde"
+  ],
+  "missing": false,
+  "size": [
+   661,
+   781
+  ],
+  "same_name_svg": null,
+  "vector_version": [],
+  "svg_mentions": [],
+  "blazon": [],
+  "coainfo": false
+ },
+ "Buchau Archivfindbuch Wappen.jpg": {
+  "people": [
+   "Q111980 Adelindis von Buchau"
+  ],
+  "missing": false,
+  "size": [
+   2217,
+   1355
+  ],
+  "same_name_svg": null,
+  "vector_version": [],
+  "svg_mentions": [],
   "blazon": [],
   "coainfo": false
  },
@@ -421,6 +531,39 @@
   "size": [
    924,
    1064
+  ],
+  "same_name_svg": null,
+  "vector_version": [],
+  "svg_mentions": [],
+  "blazon": [],
+  "coainfo": false
+ },
+ "Coa fam ITA avarna.jpg": {
+  "people": [
+   "Q116124 Robert I of Loritello",
+   "Q116467 Geoffrey of Hauteville",
+   "Q119824 Rodolfo di Catanzaro",
+   "Q119826 Robert II of Loritello"
+  ],
+  "missing": false,
+  "size": [
+   840,
+   1080
+  ],
+  "same_name_svg": null,
+  "vector_version": [],
+  "svg_mentions": [],
+  "blazon": [],
+  "coainfo": false
+ },
+ "Coa fam ITA giffone.jpg": {
+  "people": [
+   "Q143443 Guaimaro di Sorrento"
+  ],
+  "missing": false,
+  "size": [
+   840,
+   1080
   ],
   "same_name_svg": null,
   "vector_version": [],
@@ -830,6 +973,21 @@
   "blazon": [],
   "coainfo": false
  },
+ "Coatofarms-Hvide.jpg": {
+  "people": [
+   "Q143280 Christina Hvide"
+  ],
+  "missing": false,
+  "size": [
+   440,
+   673
+  ],
+  "same_name_svg": null,
+  "vector_version": [],
+  "svg_mentions": [],
+  "blazon": [],
+  "coainfo": false
+ },
  "Coats of arms of the Terter dynasty.png": {
   "people": [
    "Q49780 Theodore Svetoslav of Bulgaria",
@@ -862,6 +1020,21 @@
   "svg_mentions": [
    "Own work using element cross patonce from commons File:Coa Illustration Cross Patonce.svg"
   ],
+  "blazon": [],
+  "coainfo": false
+ },
+ "DeQuincyArms.jpg": {
+  "people": [
+   "Q145414 Roger de Quincy, 2nd Earl of Winchester"
+  ],
+  "missing": false,
+  "size": [
+   545,
+   600
+  ],
+  "same_name_svg": null,
+  "vector_version": [],
+  "svg_mentions": [],
   "blazon": [],
   "coainfo": false
  },
@@ -966,6 +1139,25 @@
   ],
   "svg_mentions": [
    "Přemyslovci erb.svg"
+  ],
+  "blazon": [],
+  "coainfo": false
+ },
+ "Erican Dynasty heraldic lions (drawing 1996).jpg": {
+  "people": [
+   "Q141119 Catherine, Lady Blake"
+  ],
+  "missing": false,
+  "size": [
+   358,
+   414
+  ],
+  "same_name_svg": null,
+  "vector_version": [
+   "1=Heraldic Achievement of Eric X of Sweden.svg"
+  ],
+  "svg_mentions": [
+   "Heraldic Achievement of Eric X of Sweden.svg"
   ],
   "blazon": [],
   "coainfo": false
@@ -1093,6 +1285,87 @@
   "blazon": [],
   "coainfo": false
  },
+ "Falkenštejn.jpg": {
+  "people": [
+   "Q49628 Zavis of Niemodlin"
+  ],
+  "missing": false,
+  "size": [
+   1336,
+   1496
+  ],
+  "same_name_svg": null,
+  "vector_version": [],
+  "svg_mentions": [],
+  "blazon": [],
+  "coainfo": false
+ },
+ "Familienwappen Habsburg-Stroehl.jpg": {
+  "people": [
+   "Q54434 Clemence of Austria"
+  ],
+  "missing": false,
+  "size": [
+   471,
+   605
+  ],
+  "same_name_svg": null,
+  "vector_version": [
+   "Achievement (coat of arms) of the House of Habsburg.svg"
+  ],
+  "svg_mentions": [
+   "Achievement (coat of arms) of the House of Habsburg.svg"
+  ],
+  "blazon": [],
+  "coainfo": true
+ },
+ "Franclilie chartres.jpg": {
+  "people": [
+   "Q112492 Gisèle de France",
+   "Q113992 Hedwig of France, Countess of Nevers",
+   "Q119634 Constance of France, Countess of Toulouse"
+  ],
+  "missing": false,
+  "size": [
+   331,
+   382
+  ],
+  "same_name_svg": null,
+  "vector_version": [],
+  "svg_mentions": [],
+  "blazon": [],
+  "coainfo": false
+ },
+ "Fürstengang Tafel 29 - Wildgraf Emicho.jpg": {
+  "people": [
+   "Q144009 Emicho Wildgraf von Kyrburg"
+  ],
+  "missing": false,
+  "size": [
+   1126,
+   1000
+  ],
+  "same_name_svg": null,
+  "vector_version": [],
+  "svg_mentions": [],
+  "blazon": [],
+  "coainfo": false
+ },
+ "Geo imereti.JPG": {
+  "people": [
+   "Q55967 Demetrius of Imereti"
+  ],
+  "missing": false,
+  "size": [
+   217,
+   275
+  ],
+  "same_name_svg": null,
+  "vector_version": [],
+  "svg_mentions": [],
+  "blazon": [],
+  "coainfo": false
+ },
  "Giffard OfBrimpsfield Arms.png": {
   "people": [
    "Q125693 Walter Giffard, Lord of Longueville",
@@ -1128,6 +1401,96 @@
   "blazon": [],
   "coainfo": false
  },
+ "Gruffudd ap Llywelyn Fawr (Cambridge Corpus Christi College 16 II, folio 170r).jpg": {
+  "people": [
+   "Q140172 Gruffudd ap Llywelyn ab Iorwerth"
+  ],
+  "missing": false,
+  "size": [
+   545,
+   610
+  ],
+  "same_name_svg": null,
+  "vector_version": [],
+  "svg_mentions": [],
+  "blazon": [],
+  "coainfo": false
+ },
+ "Haakon4.jpg": {
+  "people": [
+   "Q147699 Haakon IV of Norway"
+  ],
+  "missing": false,
+  "size": [
+   1324,
+   1976
+  ],
+  "same_name_svg": null,
+  "vector_version": [],
+  "svg_mentions": [],
+  "blazon": [],
+  "coainfo": false
+ },
+ "Heinrich III v.Berg.jpg": {
+  "people": [
+   "Q147115 Heinrich von Berg"
+  ],
+  "missing": false,
+  "size": [
+   556,
+   516
+  ],
+  "same_name_svg": null,
+  "vector_version": [],
+  "svg_mentions": [],
+  "blazon": [],
+  "coainfo": false
+ },
+ "Henneberg-Scheibler23ps.jpg": {
+  "people": [
+   "Q126648 Poppo II von Henneberg"
+  ],
+  "missing": false,
+  "size": [
+   944,
+   1382
+  ],
+  "same_name_svg": null,
+  "vector_version": [],
+  "svg_mentions": [],
+  "blazon": [],
+  "coainfo": false
+ },
+ "Henry I of Mödling.jpg": {
+  "people": [
+   "Q117229 Henry I of Mödling"
+  ],
+  "missing": false,
+  "size": [
+   248,
+   227
+  ],
+  "same_name_svg": null,
+  "vector_version": [],
+  "svg_mentions": [],
+  "blazon": [],
+  "coainfo": false
+ },
+ "Henry de Bohun, 1er comte de Hereford.jpg": {
+  "people": [
+   "Q129213 Henry de Bohun, 1st Earl of Hereford"
+  ],
+  "missing": false,
+  "size": [
+   829,
+   960
+  ],
+  "same_name_svg": null,
+  "vector_version": [],
+  "svg_mentions": [],
+  "blazon": [],
+  "coainfo": false
+ },
  "Hohenberg-Wappen ZW.png": {
   "people": [
    "Q128257 Burkhard II of Zollern-Hohenberg"
@@ -1136,6 +1499,51 @@
   "size": [
    622,
    926
+  ],
+  "same_name_svg": null,
+  "vector_version": [],
+  "svg_mentions": [],
+  "blazon": [],
+  "coainfo": false
+ },
+ "Hugh de Boves 2.jpg": {
+  "people": [
+   "Q126173 Hugo von Boves"
+  ],
+  "missing": false,
+  "size": [
+   174,
+   143
+  ],
+  "same_name_svg": null,
+  "vector_version": [],
+  "svg_mentions": [],
+  "blazon": [],
+  "coainfo": false
+ },
+ "Hvide Dynasty escutcheon (scan 2008).jpg": {
+  "people": [
+   "Q146571 Benedicta Ebbesdotter of Hvide"
+  ],
+  "missing": false,
+  "size": [
+   106,
+   127
+  ],
+  "same_name_svg": null,
+  "vector_version": [],
+  "svg_mentions": [],
+  "blazon": [],
+  "coainfo": false
+ },
+ "Ichinoseki Myoga.jpg": {
+  "people": [
+   "Q18225 Tamura Muneyoshi"
+  ],
+  "missing": false,
+  "size": [
+   130,
+   131
   ],
   "same_name_svg": null,
   "vector_version": [],
@@ -1168,6 +1576,21 @@
   "size": [
    518,
    567
+  ],
+  "same_name_svg": null,
+  "vector_version": [],
+  "svg_mentions": [],
+  "blazon": [],
+  "coainfo": false
+ },
+ "John le Scot (Cambridge Corpus Christi College 16 II, folio 106v).jpg": {
+  "people": [
+   "Q142050 John of Scotland, Earl of Huntingdon"
+  ],
+  "missing": false,
+  "size": [
+   554,
+   693
   ],
   "same_name_svg": null,
   "vector_version": [],
@@ -1235,6 +1658,36 @@
   "blazon": [],
   "coainfo": false
  },
+ "Lascaris02,escalier d'honneur01.jpg": {
+  "people": [
+   "Q55507 Eudoxia Laskarina"
+  ],
+  "missing": false,
+  "size": [
+   3000,
+   4000
+  ],
+  "same_name_svg": null,
+  "vector_version": [],
+  "svg_mentions": [],
+  "blazon": [],
+  "coainfo": false
+ },
+ "Liber instrumentorum armes.jpg": {
+  "people": [
+   "Q114604 William III of Montpellier"
+  ],
+  "missing": false,
+  "size": [
+   686,
+   865
+  ],
+  "same_name_svg": null,
+  "vector_version": [],
+  "svg_mentions": [],
+  "blazon": [],
+  "coainfo": false
+ },
  "LongespeeArms1.png": {
   "people": [
    "Q127862 Ela Longespée"
@@ -1267,6 +1720,21 @@
   "blazon": [],
   "coainfo": false
  },
+ "Maruni-Toshi no Monji.jpg": {
+  "people": [
+   "Q21959 Matsudaira Ienobu"
+  ],
+  "missing": false,
+  "size": [
+   264,
+   264
+  ],
+  "same_name_svg": null,
+  "vector_version": [],
+  "svg_mentions": [],
+  "blazon": [],
+  "coainfo": false
+ },
  "Meissen-Mark.png": {
   "people": [
    "Q117027 Egbert II, Margrave of Meissen"
@@ -1277,6 +1745,23 @@
    596
   ],
   "same_name_svg": null,
+  "vector_version": [],
+  "svg_mentions": [],
+  "blazon": [],
+  "coainfo": false
+ },
+ "Mitsuba Aoi inverted.jpg": {
+  "people": [
+   "Q16112 Matsudaira Shigeyoshi",
+   "Q17084 Matsudaira Shigekatsu",
+   "Q30081 Matsudaira Shigetada"
+  ],
+  "missing": false,
+  "size": [
+   500,
+   500
+  ],
+  "same_name_svg": "File:Mitsuba Aoi inverted.svg",
   "vector_version": [],
   "svg_mentions": [],
   "blazon": [],
@@ -1330,6 +1815,51 @@
   "blazon": [],
   "coainfo": false
  },
+ "Plamenna orlice kunhuta.jpg": {
+  "people": [
+   "Q121495 Oldřich of Olomouc"
+  ],
+  "missing": false,
+  "size": [
+   604,
+   671
+  ],
+  "same_name_svg": null,
+  "vector_version": [],
+  "svg_mentions": [],
+  "blazon": [],
+  "coainfo": false
+ },
+ "Princely badge of Sudislav and Yaroslav Vladimirovich.jpg": {
+  "people": [
+   "Q117413 Sudislav"
+  ],
+  "missing": false,
+  "size": [
+   696,
+   696
+  ],
+  "same_name_svg": null,
+  "vector_version": [],
+  "svg_mentions": [],
+  "blazon": [],
+  "coainfo": false
+ },
+ "Radulphuscoa.jpg": {
+  "people": [
+   "Q124171 Rudolf I"
+  ],
+  "missing": false,
+  "size": [
+   393,
+   415
+  ],
+  "same_name_svg": null,
+  "vector_version": [],
+  "svg_mentions": [],
+  "blazon": [],
+  "coainfo": false
+ },
  "Rischach-Wappen ZW.png": {
   "people": [
    "Q55339 Konrad von Reischach zu Jungnau",
@@ -1360,6 +1890,51 @@
   "svg_mentions": [
    "Modified from File:Lion Rampant Guardant.svg"
   ],
+  "blazon": [],
+  "coainfo": false
+ },
+ "Roger II de Foix.jpg": {
+  "people": [
+   "Q113652 Roger II, Count of Foix"
+  ],
+  "missing": false,
+  "size": [
+   1724,
+   1762
+  ],
+  "same_name_svg": null,
+  "vector_version": [],
+  "svg_mentions": [],
+  "blazon": [],
+  "coainfo": false
+ },
+ "Roger de Lacy (Cambridge Corpus Christi College 16 II, folio 33r).jpg": {
+  "people": [
+   "Q144870 Roger de Lacy"
+  ],
+  "missing": false,
+  "size": [
+   640,
+   832
+  ],
+  "same_name_svg": null,
+  "vector_version": [],
+  "svg_mentions": [],
+  "blazon": [],
+  "coainfo": false
+ },
+ "Ruexner mecklenburg.jpg": {
+  "people": [
+   "Q146567 Niklot"
+  ],
+  "missing": false,
+  "size": [
+   681,
+   945
+  ],
+  "same_name_svg": null,
+  "vector_version": [],
+  "svg_mentions": [],
   "blazon": [],
   "coainfo": false
  },
@@ -1413,6 +1988,149 @@
   "blazon": [],
   "coainfo": false
  },
+ "Satake.jpg": {
+  "people": [
+   "Q11250 Satake Masayoshi"
+  ],
+  "missing": false,
+  "size": [
+   710,
+   710
+  ],
+  "same_name_svg": null,
+  "vector_version": [
+   "1=Satake-1.svg"
+  ],
+  "svg_mentions": [
+   "Barn-Ogi-Sensu.svg",
+   "Japanese Crest Hinomaru Oogi.svg",
+   "Satake-1.svg"
+  ],
+  "blazon": [],
+  "coainfo": false
+ },
+ "Seal WilliamDeCantilupe (d.1239).jpg": {
+  "people": [
+   "Q145513 William I de Cantilupe"
+  ],
+  "missing": false,
+  "size": [
+   462,
+   497
+  ],
+  "same_name_svg": null,
+  "vector_version": [],
+  "svg_mentions": [
+   "File:Arms William I DeCantilupe Died1239 TracedFromHisSeal.svg"
+  ],
+  "blazon": [],
+  "coainfo": false
+ },
+ "Seal of Dawid Igorewicz.JPG": {
+  "people": [
+   "Q121255 David I of Volhynia"
+  ],
+  "missing": false,
+  "size": [
+   870,
+   881
+  ],
+  "same_name_svg": null,
+  "vector_version": [],
+  "svg_mentions": [],
+  "blazon": [],
+  "coainfo": false
+ },
+ "Seal of Ivan Vasilkovich Galitsky.jpg": {
+  "people": [
+   "Q141197 Ivan Vasilkovich"
+  ],
+  "missing": false,
+  "size": [
+   473,
+   457
+  ],
+  "same_name_svg": null,
+  "vector_version": [],
+  "svg_mentions": [],
+  "blazon": [],
+  "coainfo": false
+ },
+ "Seal of Leo I Danilovich - front side.jpg": {
+  "people": [
+   "Q54366 Lev I of Galicia"
+  ],
+  "missing": false,
+  "size": [
+   2155,
+   2160
+  ],
+  "same_name_svg": null,
+  "vector_version": [],
+  "svg_mentions": [],
+  "blazon": [],
+  "coainfo": false
+ },
+ "Seal of Leo I Danilovich.jpg": {
+  "people": [
+   "Q54366 Lev I of Galicia"
+  ],
+  "missing": false,
+  "size": [
+   2155,
+   2160
+  ],
+  "same_name_svg": null,
+  "vector_version": [],
+  "svg_mentions": [],
+  "blazon": [],
+  "coainfo": false
+ },
+ "Seal of Mstislav Yurievich.jpg": {
+  "people": [
+   "Q121334 Mstislav, Duke of Novgorod"
+  ],
+  "missing": false,
+  "size": [
+   425,
+   440
+  ],
+  "same_name_svg": null,
+  "vector_version": [],
+  "svg_mentions": [],
+  "blazon": [],
+  "coainfo": false
+ },
+ "Seal of Prince Svyatoslav Vsevolodovich of Kiev.jpg": {
+  "people": [
+   "Q127052 Sviatoslav III of Kiev"
+  ],
+  "missing": false,
+  "size": [
+   453,
+   425
+  ],
+  "same_name_svg": null,
+  "vector_version": [],
+  "svg_mentions": [],
+  "blazon": [],
+  "coainfo": false
+ },
+ "Seal of Yaroslav Vsevolodovich of Chernigov.jpg": {
+  "people": [
+   "Q127054 Yaroslav II Vsevolodovich"
+  ],
+  "missing": false,
+  "size": [
+   644,
+   649
+  ],
+  "same_name_svg": null,
+  "vector_version": [],
+  "svg_mentions": [],
+  "blazon": [],
+  "coainfo": false
+ },
  "Seal of Yuri Danilovich.png": {
   "people": [
    "Q53588 Yury of Moscow"
@@ -1421,6 +2139,21 @@
   "size": [
    688,
    643
+  ],
+  "same_name_svg": null,
+  "vector_version": [],
+  "svg_mentions": [],
+  "blazon": [],
+  "coainfo": false
+ },
+ "Seal of prince Yaropolk Iziaslavych, titular king of Rus.jpg": {
+  "people": [
+   "Q121249 Yaropolk Izyaslavich"
+  ],
+  "missing": false,
+  "size": [
+   429,
+   440
   ],
   "same_name_svg": null,
   "vector_version": [],
@@ -1489,6 +2222,21 @@
   "blazon": [],
   "coainfo": false
  },
+ "Sir Richard Cromwell alias Williams, Coat of Arms.jpg": {
+  "people": [
+   "Q150472 Richard Williams"
+  ],
+  "missing": false,
+  "size": [
+   1942,
+   2233
+  ],
+  "same_name_svg": null,
+  "vector_version": [],
+  "svg_mentions": [],
+  "blazon": [],
+  "coainfo": false
+ },
  "Sir William Beauchamp, 1st Baron Bergavenny, KG.png": {
   "people": [
    "Q149534 William de Beauchamp, 1st Baron Bergavenny"
@@ -1520,6 +2268,21 @@
   "blazon": [],
   "coainfo": false
  },
+ "StradlingArms.jpg": {
+  "people": [
+   "Q149611 Edward Stradling"
+  ],
+  "missing": false,
+  "size": [
+   276,
+   283
+  ],
+  "same_name_svg": "File:StradlingArms.svg",
+  "vector_version": [],
+  "svg_mentions": [],
+  "blazon": [],
+  "coainfo": false
+ },
  "Takamatsu no miya.png": {
   "people": [
    "Q24353 Nobuhito, Prince Takamatsu"
@@ -1543,6 +2306,53 @@
   "size": [
    545,
    600
+  ],
+  "same_name_svg": null,
+  "vector_version": [],
+  "svg_mentions": [],
+  "blazon": [],
+  "coainfo": false
+ },
+ "Thüringen Kgr Wappen.jpg": {
+  "people": [
+   "Q120026 Poppo, Duke of Thuringia"
+  ],
+  "missing": false,
+  "size": [
+   867,
+   1318
+  ],
+  "same_name_svg": null,
+  "vector_version": [],
+  "svg_mentions": [],
+  "blazon": [],
+  "coainfo": false
+ },
+ "Tzar Samuil of Bulgaria coat of arms.jpg": {
+  "people": [
+   "Q126718 Gavril Radomir",
+   "Q127902 Samuel of Bulgaria"
+  ],
+  "missing": false,
+  "size": [
+   846,
+   850
+  ],
+  "same_name_svg": null,
+  "vector_version": [],
+  "svg_mentions": [],
+  "blazon": [],
+  "coainfo": false
+ },
+ "Uhry-znak chronicon.jpg": {
+  "people": [
+   "Q49539 Elizabeth of Hungary, Duchess of Bavaria",
+   "Q114367 Adelaide of Hungary"
+  ],
+  "missing": false,
+  "size": [
+   150,
+   163
   ],
   "same_name_svg": null,
   "vector_version": [],
@@ -1588,6 +2398,21 @@
   "blazon": [],
   "coainfo": true
  },
+ "Wappen Herzog Egbert I.JPG": {
+  "people": [
+   "Q119035 Egbert van Saksen"
+  ],
+  "missing": false,
+  "size": [
+   342,
+   486
+  ],
+  "same_name_svg": null,
+  "vector_version": [],
+  "svg_mentions": [],
+  "blazon": [],
+  "coainfo": false
+ },
  "Wappen Scheibenberg klein.png": {
   "people": [
    "Q128896 Scheibenberg"
@@ -1611,6 +2436,21 @@
   "size": [
    574,
    643
+  ],
+  "same_name_svg": null,
+  "vector_version": [],
+  "svg_mentions": [],
+  "blazon": [],
+  "coainfo": false
+ },
+ "Wappen der Welfen aus Steingaden.jpg": {
+  "people": [
+   "Q120824 Welf I, Duke of Bavaria"
+  ],
+  "missing": false,
+  "size": [
+   1017,
+   1502
   ],
   "same_name_svg": null,
   "vector_version": [],
@@ -1648,6 +2488,21 @@
   "blazon": [],
   "coainfo": false
  },
+ "Wappentafel Bischöfe Konstanz 17 Gebhard von Zähringen.jpg": {
+  "people": [
+   "Q117572 Gebhard (III) of Constance"
+  ],
+  "missing": false,
+  "size": [
+   288,
+   285
+  ],
+  "same_name_svg": null,
+  "vector_version": [],
+  "svg_mentions": [],
+  "blazon": [],
+  "coainfo": false
+ },
  "Wildgraf Dhaun COA.png": {
   "people": [
    "Q144007 Friedrich Wildgraf von Kyrburg"
@@ -1663,6 +2518,66 @@
    ":File:Wappen_Grumbach.svg",
    "Wappen_Grumbach.svg"
   ],
+  "blazon": [],
+  "coainfo": false
+ },
+ "William II of Burgundy.jpg": {
+  "people": [
+   "Q115982 William II, Count of Burgundy"
+  ],
+  "missing": false,
+  "size": [
+   701,
+   1097
+  ],
+  "same_name_svg": null,
+  "vector_version": [],
+  "svg_mentions": [],
+  "blazon": [],
+  "coainfo": false
+ },
+ "William Marshal, 2nd Earl of Pembroke.jpg": {
+  "people": [
+   "Q138813 William Marshal, 2nd Earl of Pembroke"
+  ],
+  "missing": false,
+  "size": [
+   417,
+   504
+  ],
+  "same_name_svg": null,
+  "vector_version": [],
+  "svg_mentions": [],
+  "blazon": [],
+  "coainfo": false
+ },
+ "William de Briouze (Cambridge Corpus Christi College 16 II, folio 33v).jpg": {
+  "people": [
+   "Q138780 William de Braose, 4th Lord of Bramber"
+  ],
+  "missing": false,
+  "size": [
+   718,
+   760
+  ],
+  "same_name_svg": null,
+  "vector_version": [],
+  "svg_mentions": [],
+  "blazon": [],
+  "coainfo": false
+ },
+ "William de Briouze, coat of arms (Cambridge, Corpus Christi College, Parker Library MS 16 II).jpg": {
+  "people": [
+   "Q138780 William de Braose, 4th Lord of Bramber"
+  ],
+  "missing": false,
+  "size": [
+   69,
+   70
+  ],
+  "same_name_svg": null,
+  "vector_version": [],
+  "svg_mentions": [],
   "blazon": [],
   "coainfo": false
  },
@@ -1689,6 +2604,21 @@
   "size": [
    205,
    246
+  ],
+  "same_name_svg": null,
+  "vector_version": [],
+  "svg_mentions": [],
+  "blazon": [],
+  "coainfo": false
+ },
+ "XIngeram Codex 092d-Herrenberg.jpg": {
+  "people": [
+   "Q128743 Rudolf I"
+  ],
+  "missing": false,
+  "size": [
+   271,
+   489
   ],
   "same_name_svg": null,
   "vector_version": [],
@@ -1728,6 +2658,21 @@
   "blazon": [],
   "coainfo": false
  },
+ "Österreich-Scheibler1ps.jpg": {
+  "people": [
+   "Q112664 Ida of Formbach-Ratelnberg"
+  ],
+  "missing": false,
+  "size": [
+   710,
+   1088
+  ],
+  "same_name_svg": null,
+  "vector_version": [],
+  "svg_mentions": [],
+  "blazon": [],
+  "coainfo": false
+ },
  "Буськ герб.png": {
   "people": [
    "Q121484 Yaropolk"
@@ -1743,6 +2688,21 @@
   "blazon": [],
   "coainfo": false
  },
+ "Печать Всеволода II Черниговсокого.jpg": {
+  "people": [
+   "Q126966 Vsevolod II of Kiev"
+  ],
+  "missing": false,
+  "size": [
+   320,
+   301
+  ],
+  "same_name_svg": null,
+  "vector_version": [],
+  "svg_mentions": [],
+  "blazon": [],
+  "coainfo": false
+ },
  "Печать Всеволода Константиновича Ярославского и Марины - Марии.png": {
   "people": [
    "Q53688 Vsevolod Konstantinovich of Vladimir, Prince of Yaroslavl"
@@ -1751,6 +2711,21 @@
   "size": [
    640,
    356
+  ],
+  "same_name_svg": null,
+  "vector_version": [],
+  "svg_mentions": [],
+  "blazon": [],
+  "coainfo": false
+ },
+ "Печать Олега, князя Черниговского. 1094 г.jpg": {
+  "people": [
+   "Q121263 Oleg I of Chernigov"
+  ],
+  "missing": false,
+  "size": [
+   754,
+   370
   ],
   "same_name_svg": null,
   "vector_version": [],
