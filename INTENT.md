@@ -122,6 +122,10 @@ caused by unbounded steps (since fixed).
 - 2026-10-15 03:38 PST: every order.life person with arms classified (`files/arms/person_arms_status.tsv`);
   54 rebuilt here, 63 wait on generator gaps (`files/arms/generator-gaps.md`). Next: the Template:Coat of arms
   PNGs in the main queue, same method.
+- 2026-10-15 08:41 PST: main queue continued while the arms wait on the generator: 16 more files rebuilt today
+  (charts from data or recovered functions, maps from census/N03 boundaries, diagrams and icons by construction),
+  and about 30 triaged as not rebuildable, blocked on a missing vector badge, or a decision for the user. Reading
+  of the project unchanged.
 - Work started 2026-10-07 23:02 PST, on the user's go-ahead. GitHub repo (private):
   EmmaLeonhart/commons-png-to-svg-vectorization.
 - 2026-10-08 13:20 PST: 40 files finished and staged in upload/; 546 still to vectorize, 256 already
