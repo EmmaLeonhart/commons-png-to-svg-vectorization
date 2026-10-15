@@ -177,3 +177,6 @@
 - Aomori Tsugaru-block.png: built from MLIT N03 municipal boundaries of 2000-10-01 (pyshp for the old
   shapefiles; data in `data_lake/downloads/n03/2000/`), projection fitted (chamfer 2.1 px). Not staged: the PNG's
   generalised drawing differs from real geography; joined the Abkhazia/Gunma decision in INTENT.md.
+- **File:Agency for Cultural Affairs Organizational chart 20230327.png → SVG** (`files/aca-org-chart/`): boxes,
+  connectors and the grey Tokyo-office area measured exactly from the aliased PNG; 61 labels as Liberation Sans
+  `<text>` (Aptos is not on Commons). CC0. Staged in upload/.
