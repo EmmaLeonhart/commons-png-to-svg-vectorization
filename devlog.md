@@ -154,3 +154,5 @@
   kenkatabami.png → SVG** (Mukai's ken-katabami and ring SVGs recoloured and fitted, IoU 0.925). Staged in upload/.
 - **File:Takamatsu no miya.png → SVG**: the crest group cut out of the Prince Takamatsu collar SVG, recoloured
   black and white, fitted (ink IoU 0.854, same crest drawn with slightly wider separations). Staged in upload/.
+- JPG arms triaged (63 files: mostly seals and manuscript paintings). **4 rebuilt from blazons** (Bigod modern,
+  Ataíde, Avarna, Giffone); 34 order.life arms staged from the generator in all.

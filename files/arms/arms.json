@@ -292,5 +292,26 @@
   "box": "0.19,0.305,0.81,0.77",
   "status": "generator-gap",
   "note": "Not staged: the six crosses crosslet between the fess are not drawn; the crescent is drawn shield-sized."
+ },
+ "bigod-modern": {
+  "png": "BigodModernArms.JPG",
+  "blazon": "Per pale or and vert, a lion rampant gules",
+  "status": "accepted"
+ },
+ "ataide-brason": {
+  "png": "Brason Ataíde.jpg",
+  "blazon": "Bendy of eight azure and argent",
+  "status": "accepted",
+  "note": "Tincture agreement is low only because the JPG paints argent as grey."
+ },
+ "avarna": {
+  "png": "Coa fam ITA avarna.jpg",
+  "blazon": "Or, a fess azure",
+  "status": "accepted"
+ },
+ "giffone": {
+  "png": "Coa fam ITA giffone.jpg",
+  "blazon": "Checky argent and sable, a fess gules",
+  "status": "accepted"
  }
 }

@@ -1,6 +1,6 @@
 """Triage the raster coats of arms of order.life people (from tools/person_arms.py).
 
-For each distinct PNG/GIF file: does Commons already have a vector version (same-name SVG,
+For each distinct raster file (PNG, GIF, JPG; JPGs are not committed, see .gitignore): does Commons already have a vector version (same-name SVG,
 {{Vector version available}}, an .svg under other versions), and does its description give a
 blazon ({{COAInformation}} or a 'blazon' line)? Saves each page's wikitext under
 data_lake/downloads/descriptions/ and writes data_lake/downloads/order-life-arms/arms_triage.json.
@@ -31,7 +31,7 @@ def main():
     rows = list(csv.DictReader((DIR / 'person_arms.tsv').open(encoding='utf-8'), delimiter='\t'))
     people = {}
     for r in rows:
-        if r['ext'] in ('png', 'gif'):
+        if r['ext'] in ('png', 'gif', 'jpg', 'jpeg'):
             people.setdefault(r['file'], []).append(f"{r['qid']} {r['label']}")
     names = sorted(people)
     out = {}

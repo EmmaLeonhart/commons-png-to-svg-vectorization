@@ -34,7 +34,12 @@ are their indices). Output: `files/arms/<slug>/` with notes.md, finished SVG sta
 - **Raster originals, not rebuilt** (manuscript paintings, seals, photos, drawings): 1, 5, 7, 12, 14, 55,
   56, 57, 69, 71, 78, 85, 88, 104, 109. Their arms could still be blazoned and drawn new, but that is the
   generator making arms, not vectorizing this file: NEEDS-DECISION (Emma).
-- The 75 JPG arms: triage next (most are probably photos or paintings).
+- **JPG arms** (63 distinct files; JPGs stay out of git, `.gitignore`): contact sheets
+  `order_life_jpg_arms_*.png` (J numbers). Done: J3 Bigod modern, J5 Ataíde, J7 Avarna, J8 Giffone.
+  Already vector on Commons: J11, J13, J30, J37, J48. J10 DeQuincy = 'Gules, seven mascles or':
+  BLOCKED-ON-EXTERNAL (generator has no mascle). To try: J29 Maruni Toshi no Monji (ring + the kanji 利 as
+  `<text>`; needs a brush-style CJK font available to Commons' renderer: NEEDS-INVESTIGATION), J16 Imereti,
+  J24 Hvide, J47 Cromwell. The rest are seals, manuscript paintings, carvings and photos: raster originals.
 - After these: the Template:Coat of arms PNGs in the main list below, the same way.
 
 ## To vectorize (543)
