@@ -30,7 +30,7 @@ shields in `upload/arms-*/`, 3 kamon), 63 waiting on the generator, 72 raster or
   nothing is uploaded to Commons without her go.
 - Then: the Template:Coat of arms PNGs in the main list below, the same way.
 
-## To vectorize (528)
+## To vectorize (527)
 
 Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed images (174).
 
@@ -124,7 +124,6 @@ Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed image
 - [File:KAWI LETTER OM.png](https://commons.wikimedia.org/wiki/File:KAWI_LETTER_OM.png) — Om
 - [File:Kharosthi font rendering sample.png](https://commons.wikimedia.org/wiki/File:Kharosthi_font_rendering_sample.png) — Help:Multilingual support
 - [File:Kolkata bus.png](https://commons.wikimedia.org/wiki/File:Kolkata_bus.png) — Template:Rail-interchange
-- [File:Kongo Cosmogram - blank.png](https://commons.wikimedia.org/wiki/File:Kongo_Cosmogram_-_blank.png) — Template:Kongo religion sidebar
 - [File:Koshiate (Sword Hangers).png](https://commons.wikimedia.org/wiki/File:Koshiate_%28Sword_Hangers%29.png) — Japanese sword, Tachi
 - [File:Koshur in Sharada Script.png](https://commons.wikimedia.org/wiki/File:Koshur_in_Sharada_Script.png) — Help:Multilingual support
 - [File:Kounoke kamon.png](https://commons.wikimedia.org/wiki/File:Kounoke_kamon.png) — Kōno clan

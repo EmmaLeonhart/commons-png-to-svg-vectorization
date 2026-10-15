@@ -215,3 +215,5 @@
 - **File:Map Icon - Hotel.png → SVG**: circles, rotated bar, half disc and rounded rectangles, measured; per-region
   alpha reproduced with masks; 0.45% of pixels differ. Staged. Minor edit (screenshot), Mouse icon (freehand cable),
   Naval jack 1975–1976 (own snake drawing) marked; Matsuura-gun and Nara Toichi-gun joined the Japan-map decision.
+- **File:Kongo Cosmogram - blank.png → SVG**: ellipses, cross and arrowed arcs fitted as primitives; 6 px strokes.
+  Staged in upload/.
