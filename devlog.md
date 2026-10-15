@@ -150,3 +150,5 @@
 - **7 Garter stall-plate shields** (Audley, Mohun, Devereux, Herbert, Rhys ap Thomas, Cherleton, John Neville)
   rebuilt the same way (shield only; `box` in arms.json crops the PNG's shield). 30 arms staged in total.
   6 more added to generator-gaps.md.
+- **File:Mon-Imperial.png → SVG** (Imperial Seal SVG on flat red, gold IoU 0.967) and **File:Kamon maru ni
+  kenkatabami.png → SVG** (Mukai's ken-katabami and ring SVGs recoloured and fitted, IoU 0.925). Staged in upload/.
