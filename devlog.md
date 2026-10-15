@@ -183,3 +183,6 @@
 - **File:Birth and death rate of japan 1950-2019.png → SVG** (`files/japan-birth-death-rate/`): chart rebuilt from
   the published crude rates (en.wikipedia vital-statistics table, IPSS/Statistics Bureau) on the PNG's measured
   layout; text as Carlito `<text>`. 1.25% of pixels differ. Staged in upload/.
+- **File:Appalachian region of United States.png → SVG** (`files/appalachian-region/`): census 2018 boundaries in a
+  fitted Albers projection; Appalachian counties read from the PNG's colours (the 2008 ARC region, 425 units);
+  letter-spaced italic small-capital state names as `<text>`. Public domain. Staged in upload/.
