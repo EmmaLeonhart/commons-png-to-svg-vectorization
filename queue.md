@@ -176,7 +176,7 @@ Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed image
 - [File:Old Persian mi.png](https://commons.wikimedia.org/wiki/File:Old_Persian_mi.png) — Template:Contains special characters
 - [File:Om in Cham script.png](https://commons.wikimedia.org/wiki/File:Om_in_Cham_script.png) — Om
 - [File:Om siddham2.png](https://commons.wikimedia.org/wiki/File:Om_siddham2.png) — Bīja
-- [File:One chef's hat.png](https://commons.wikimedia.org/wiki/File:One_chef%27s_hat.png) — Module:Portal/images/c, Module:Portal/images/c/sandbox
+- [File:One chef's hat.png](https://commons.wikimedia.org/wiki/File:One_chef%27s_hat.png) — Module:Portal/images/c, Module:Portal/images/c/sandbox — NOT REBUILDABLE without tracing: a freehand brush-style outline (varying stroke width, tapered pleats)
 - [File:Orion-Sternkarte.png](https://commons.wikimedia.org/wiki/File:Orion-Sternkarte.png) — Sah (constellation), Seba-en-Sah, Seba-en-Sopdet
 - [File:Oshima Iki.png](https://commons.wikimedia.org/wiki/File:Oshima_Iki.png) — Iki Island
 - [File:Ottoman Turkish in Nastaliq (vertical).png](https://commons.wikimedia.org/wiki/File:Ottoman_Turkish_in_Nastaliq_%28vertical%29.png) — Template:Contains special characters
