@@ -207,3 +207,4 @@
 - **File:Cricket no pic.png → SVG** (a 154×1 white placeholder: one rectangle, pixel-identical) and **File:Ch-1422a.png →
   SVG** (corner-fitted pennant and cross, 0.44% of pixels differ). Staged in upload/. Ecovia and Gaelic Games logos
   marked not rebuildable.
+- **File:DPM icon.png → SVG**: corner-fitted car on the measured square, grey band; 0.5% of pixels differ. Staged.
