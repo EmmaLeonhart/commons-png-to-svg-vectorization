@@ -14,19 +14,17 @@ coat of arms thing". Reading and scope in INTENT.md ("Second strand"). Sources:
 are their indices). Output: `files/arms/<slug>/` with notes.md, finished SVG staged in `upload/<slug>/`.
 
 State (2026-10-15): `files/arms/person_arms_status.tsv` lists all 1,805 order.life people with arms and
-where their SVG is: 1,576 already SVG on Wikidata, 27 with a vector on Commons, 53 rebuilt here (39 shields
-from the generator in `upload/arms-*/`, 3 kamon), 57 waiting on the generator, 71 raster originals, 21 to do.
+where their SVG is: 1,576 already SVG on Wikidata, 27 with a vector on Commons, 54 rebuilt here (generator
+shields in `upload/arms-*/`, 3 kamon), 63 waiting on the generator, 72 raster originals, 1 not rebuildable,
+13 needs-investigation. No person is left unclassified.
 
 - BLOCKED-ON-EXTERNAL (the generator gains the drawing; unblock signal: a generator commit after 8d8ab870;
   then `python tools/build_arms.py`, look at `arms_sheet.png`, accept or not): every `generator-gap` in
   `files/arms/arms.json` and `raster_status.json`; the list is `files/arms/generator-gaps.md`.
-- To do (the `todo` rows of person_arms_status.tsv): shields of the achievements Andechs, Eppenstein, Stosch,
-  Jaqeli, Jovan Oliver, Buśk; Springe, Scheibenberg, Cabrera-Urgell; Garter plates of John Grey and Edward
-  Stanley (quartered); J16 Imereti, J24 Hvide, J47 Cromwell, J25 Ichinoseki Myoga (kamon: look for an SVG).
-  J29 Maruni Toshi no Monji: ring + the kanji 利 as `<text>`, needs a brush-style CJK font Commons renders:
-  NEEDS-INVESTIGATION.
-- NEEDS-INVESTIGATION: Braose (find the documented blazon).
-- NEEDS-DECISION (Emma): the 71 raster originals (seals, manuscript paintings): give those people new
+- NEEDS-INVESTIGATION (the `needs-investigation` rows; reason in `files/arms/raster_status.json`): settle
+  the blazons of Andechs, Stosch, Jaqeli, Scheibenberg, Imereti, Braose and the Grey and Stanley Garter plates,
+  then build them; Maruni-Toshi no Monji needs a brush-style CJK font for the kanji as `<text>`.
+- NEEDS-DECISION (Emma): the 72 raster originals (seals, manuscript paintings): give those people new
   generator-drawn arms from a blazon, or leave them? Drawing new arms is the generator's work, not vectorizing.
 - NEEDS-DECISION (Emma): uploading. The SVGs are staged in upload/ with notes.md (sources, licences);
   nothing is uploaded to Commons without her go.

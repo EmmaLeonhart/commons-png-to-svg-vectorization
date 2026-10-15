@@ -3,6 +3,10 @@
   "raster-original",
   "manuscript painting, seal, carving or photo"
  ],
+ "Andechs-Wappen.png": [
+  "needs-investigation",
+  "blazon not settled (lion and eagle combined in the Ströhl drawing)"
+ ],
  "Arfau Ednyfed Fychan, yn ôl Gruffudd Hiraethog.png": [
   "raster-original",
   "manuscript painting, seal or photo"
@@ -71,9 +75,17 @@
   "generator-gap",
   "untinctured arms (grey): the generator has no untinctured concept"
  ],
+ "Coat of Arms of Sir John Grey, KG.png": [
+  "needs-investigation",
+  "six-quarter Garter plate: blazon not settled"
+ ],
  "Coat of arms of Kingdom of Bulgaria (1927-1946).png": [
   "vector-exists",
   "State Achievement of Bulgaria 1908-1946.svg"
+ ],
+ "Coat of arms of Sir Edward Stanley, 1st Baron Monteagle, KG.png": [
+  "needs-investigation",
+  "quartered Garter plate (Stanley, Man, Warenne...): blazon not settled"
  ],
  "Coat of arms of the house of Entença.png": [
   "vector-exists",
@@ -102,6 +114,10 @@
  "Empúries.png": [
   "vector-exists",
   "Blason fascé d'or et de gueules.svg"
+ ],
+ "Eppenstein-Wappen ZW.png": [
+  "generator-gap",
+  "Gules, a panther rampant argent: no panther drawing"
  ],
  "Erb Přemyslovců.png": [
   "vector-exists",
@@ -138,6 +154,10 @@
  "Fürstengang Tafel 29 - Wildgraf Emicho.jpg": [
   "raster-original",
   "manuscript painting, seal, carving or photo"
+ ],
+ "Geo imereti.JPG": [
+  "needs-investigation",
+  "modern arms (stag with cross, crescent, crown, wavy base): blazon not settled"
  ],
  "Grb Nemanjica mini transparent.png": [
   "raster-original",
@@ -179,9 +199,17 @@
   "raster-original",
   "manuscript painting, seal or photo"
  ],
+ "Jaqeli coat of arms.png": [
+  "needs-investigation",
+  "ermine mantle with a ram and banner: blazon not settled"
+ ],
  "John le Scot (Cambridge Corpus Christi College 16 II, folio 106v).jpg": [
   "raster-original",
   "manuscript painting, seal, carving or photo"
+ ],
+ "Jovan Oliver Grcinic.png": [
+  "raster-original",
+  "line sketch of an achievement"
  ],
  "Lascaris02,escalier d'honneur01.jpg": [
   "raster-original",
@@ -194,6 +222,10 @@
  "Marie of Brabant (1278–1338).png": [
   "raster-original",
   "manuscript painting, seal or photo"
+ ],
+ "Maruni-Toshi no Monji.jpg": [
+  "needs-investigation",
+  "kanji 利 in a ring: needs a brush CJK font for <text>"
  ],
  "Mitsuba Aoi inverted.jpg": [
   "vector-exists",
@@ -275,6 +307,10 @@
   "raster-original",
   "manuscript painting, seal, carving or photo"
  ],
+ "Stosch-Wappen.png": [
+  "needs-investigation",
+  "blazon not settled"
+ ],
  "StradlingArms.jpg": [
   "vector-exists",
   "StradlingArms.svg"
@@ -302,6 +338,14 @@
  "Wappen Herzog Egbert I.JPG": [
   "raster-original",
   "manuscript painting, seal, carving or photo"
+ ],
+ "Wappen Scheibenberg klein.png": [
+  "needs-investigation",
+  "municipal arms (firs, hammers, griffin): blazon not settled"
+ ],
+ "Wappen Springe.png": [
+  "generator-gap",
+  "a pall wavy between three roses, with an annulet: no pall wavy drawing"
  ],
  "Wappen der Welfen aus Steingaden.jpg": [
   "raster-original",
@@ -338,6 +382,10 @@
  "Österreich-Scheibler1ps.jpg": [
   "raster-original",
   "manuscript painting, seal, carving or photo"
+ ],
+ "Буськ герб.png": [
+  "generator-gap",
+  "Azure, a stork argent (municipal arms with ornaments): no stork drawing"
  ],
  "Печать Всеволода II Черниговсокого.jpg": [
   "raster-original",

@@ -34,7 +34,7 @@ Q18225	Tamura Muneyoshi	Q2948444	Ichinoseki Myoga.jpg	not-rebuildable	freeform k
 Q18419	Sakai Tadakiyo	Q7402769	Kamon maru ni kenkatabami.png	rebuilt	upload/kamon-maru-ni-kenkatabami/Kamon maru ni kenkatabami.svg
 Q18928	Go-Kashiwabara	Q349452	Flag of the Japanese Emperor.svg	svg	Flag of the Japanese Emperor.svg
 Q20015	Sakai Tadatoshi	Q11644106	Sakai Kamon.svg	svg	Sakai Kamon.svg
-Q21959	Matsudaira Ienobu	Q5368670	Maruni-Toshi no Monji.jpg	todo	
+Q21959	Matsudaira Ienobu	Q5368670	Maruni-Toshi no Monji.jpg	needs-investigation	kanji 利 in a ring: needs a brush CJK font for <text>
 Q22912	Emperor Meiji	Q174231	Attributed Coat of Arms of Emperors Meiji and Taishō (Golden Fleece Variant).svg	svg	Attributed Coat of Arms of Emperors Meiji and Taishō (Golden Fleece Variant).svg
 Q24353	Nobuhito, Prince Takamatsu	Q1030368	Takamatsu no miya.png	rebuilt	upload/takamatsu-no-miya/Takamatsu no miya.svg
 Q24612	Horio Yoshiharu	Q8190645	Horio Yoshiharu.svg	svg	Horio Yoshiharu.svg
@@ -95,8 +95,8 @@ Q46082	Yolande Palaeologina of Montferrat	Q4013809	Arms of the house of Savoy (A
 Q46086	John II, Marquess of Montferrat	Q1070853	Arms of the house of Palaiologos-Montferrat (1).svg	svg	Arms of the house of Palaiologos-Montferrat (1).svg
 Q46130	Mitso Asen of Bulgaria	Q715486	Coat of arms of the Second Bulgarian Empire.svg	svg	Coat of arms of the Second Bulgarian Empire.svg
 Q46163	Roger de Flor	Q436817	Escut SVG Roger de Flor.svg	svg	Escut SVG Roger de Flor.svg
-Q46195	Jiajak Jaqeli	Q6191429	Jaqeli coat of arms.png	todo	
-Q46319	Natela Jaqeli	Q84022073	Jaqeli coat of arms.png	todo	
+Q46195	Jiajak Jaqeli	Q6191429	Jaqeli coat of arms.png	needs-investigation	ermine mantle with a ram and banner: blazon not settled
+Q46319	Natela Jaqeli	Q84022073	Jaqeli coat of arms.png	needs-investigation	ermine mantle with a ram and banner: blazon not settled
 Q46367	Rusudan of Georgia	Q272443	BagrationCOA.JPG	raster-original	manuscript painting, seal, carving or photo
 Q48499	Yuan Shikai	Q210329	Twelve Symbols national emblem of China.svg	svg	Twelve Symbols national emblem of China.svg
 Q49402	Smilets of Bulgaria	Q430736	BG-gerb1295.png	raster-original	manuscript painting, seal or photo
@@ -144,14 +144,14 @@ Q49861	Theodore II, Marquess of Montferrat	Q719178	Arms of the house of Palaiolo
 Q49953	Ivan Asen II of Bulgaria	Q313427	Blason Jean Assen II, Tsar de Bulgarie (selon Gelre).svg	svg	Blason Jean Assen II, Tsar de Bulgarie (selon Gelre).svg
 Q49977	Kaliman I of Bulgaria	Q459489	Coat of arms of Kingdom of Bulgaria (1927-1946).png	vector-exists	State Achievement of Bulgaria 1908-1946.svg
 Q49989	George I of Bulgaria	Q715297	Coats of arms of the Terter dynasty.png	generator-gap	terter
-Q50079	Sargis II Jaqeli	Q12840651	Jaqeli coat of arms.png	todo	
+Q50079	Sargis II Jaqeli	Q12840651	Jaqeli coat of arms.png	needs-investigation	ermine mantle with a ram and banner: blazon not settled
 Q50102	Horio Tadauji	Q3140540	Horio Yoshiharu.svg	svg	Horio Yoshiharu.svg
 Q50127	Nicholas II of Saint Omer	Q6861922	Blason maison de Saint-Omer.svg	svg	Blason maison de Saint-Omer.svg
 Q50131	William II of Villehardouin	Q451156	Blason famille de Villehardouin.svg	svg	Blason famille de Villehardouin.svg
 Q50139	Isabella of Villehardouin	Q261720	Blason famille de Villehardouin.svg	svg	Blason famille de Villehardouin.svg
 Q50143	Manfred, King of Sicily	Q164889	Arms of Swabia-Sicily.svg	svg	Arms of Swabia-Sicily.svg
 Q50167	John II Orsini	Q552601	Arms of the house of Orsini Apostolico.svg	svg	Arms of the house of Orsini Apostolico.svg
-Q50203	Jovan Oliver	Q887156	Jovan Oliver Grcinic.png	todo	
+Q50203	Jovan Oliver	Q887156	Jovan Oliver Grcinic.png	raster-original	line sketch of an achievement
 Q50295	Gulkhan-Eudokia of Georgia	Q3647947	BagrationCOA.JPG	raster-original	manuscript painting, seal, carving or photo
 Q50334	Alexander I of Imereti	Q2255845	Gerb Imeretinskii.svg	svg	Gerb Imeretinskii.svg
 Q53588	Yury of Moscow	Q297295	Seal of Yuri Danilovich.png	raster-original	manuscript painting, seal or photo
@@ -283,7 +283,7 @@ Q55779	Guy II de la Roche	Q717726	Blason fam fr de La Roche (Ducs d'Athènes).sv
 Q55851	Dejan	Q3622810	Zegligovic Coat of Arms.png	rebuilt	upload/arms-zegligovic/zegligovic.svg
 Q55855	Jovan Dragaš	Q3544432	Zegligovic Coat of Arms.png	rebuilt	upload/arms-zegligovic/zegligovic.svg
 Q55859	Constantine Dragaš	Q887149	Zegligovic Coat of Arms.png	rebuilt	upload/arms-zegligovic/zegligovic.svg
-Q55967	Demetrius of Imereti	Q3044501	Geo imereti.JPG	todo	
+Q55967	Demetrius of Imereti	Q3044501	Geo imereti.JPG	needs-investigation	modern arms (stag with cross, crescent, crown, wavy base): blazon not settled
 Q55991	Elizabeth Giedyminowicz	Q16543490	COA of Gediminaičiai dynasty Lithuania.svg	svg	COA of Gediminaičiai dynasty Lithuania.svg
 Q56011	Casimir III the Great	Q53457	POL Przemysł II 1295 COA.svg	svg	POL Przemysł II 1295 COA.svg
 Q56051	Butautas	Q4380881	Recueil d'armoiries polonaises - Columns of Gediminas.svg	svg	Recueil d'armoiries polonaises - Columns of Gediminas.svg
@@ -805,7 +805,7 @@ Q121438	Frederick I, Duke of Lorraine	Q178007	Blason Lorraine.svg	svg	Blason Lor
 Q121448	Louis II	Q72789	Arms of the house of Hesse (1200-1450).svg	svg	Arms of the house of Hesse (1200-1450).svg
 Q121450	Hermann I	Q61776	Arms of the house of Hesse (1200-1450).svg	svg	Arms of the house of Hesse (1200-1450).svg
 Q121452	Louis III	Q86561	Arms of the house of Hesse (1200-1450).svg	svg	Arms of the house of Hesse (1200-1450).svg
-Q121484	Yaropolk	Q9385021	Буськ герб.png	todo	
+Q121484	Yaropolk	Q9385021	Буськ герб.png	generator-gap	Azure, a stork argent (municipal arms with ornaments): no stork drawing
 Q121495	Oldřich of Olomouc	Q2005864	Plamenna orlice kunhuta.jpg	raster-original	manuscript painting, seal, carving or photo
 Q121525	Frederick I, Duke of Austria	Q433963	Gules a fess argent.svg	svg	Gules a fess argent.svg
 Q121527	Leopold VI, Duke of Austria	Q437303	Gules a fess argent.svg	svg	Gules a fess argent.svg
@@ -1123,7 +1123,7 @@ Q126183	Valéran III de Breteuil, Seigneur de Breteuil	Q76355997	Blason-or-croix
 Q126205	Anseau I of Garlande	Q569459	Blason-or-2-fasces-gueules.svg	svg	Blason-or-2-fasces-gueules.svg
 Q126269	Gerolf of Holland	Q708703	Counts of Holland Arms.svg	svg	Counts of Holland Arms.svg
 Q126285	Barthelemy of Broyes	Q109101303	Blason maison fr de Broyes.svg	svg	Blason maison fr de Broyes.svg
-Q126289	Adalbero von Eppenstein	Q347173	Eppenstein-Wappen ZW.png	todo	
+Q126289	Adalbero von Eppenstein	Q347173	Eppenstein-Wappen ZW.png	generator-gap	Gules, a panther rampant argent: no panther drawing
 Q126291	Robert I of Clermont	Q3435485	Blason de l'Auvergne.svg	svg	Blason de l'Auvergne.svg
 Q126305	Obizzo I d’Este	Q1161249	Arms of the house of Este (1).svg	svg	Arms of the house of Este (1).svg
 Q126319	Odo II of Champlitte	Q7077885	Blason famille de Champlitte.svg	svg	Blason famille de Champlitte.svg
@@ -1169,7 +1169,7 @@ Q127052	Sviatoslav III of Kiev	Q497100	Seal of Prince Svyatoslav Vsevolodovich o
 Q127054	Yaroslav II Vsevolodovich	Q2042116	Seal of Yaroslav Vsevolodovich of Chernigov.jpg	raster-original	manuscript painting, seal, carving or photo
 Q127122	Vysheslava Yaroslavna	Q9380429	POL województwo opolskie COA.svg	svg	POL województwo opolskie COA.svg
 Q127200	Beatrice of Swabia	Q224611	Arms of Swabia.svg	svg	Arms of Swabia.svg
-Q127210	Beatrice II, Countess of Burgundy	Q1970878	Andechs-Wappen.png	todo	
+Q127210	Beatrice II, Countess of Burgundy	Q1970878	Andechs-Wappen.png	needs-investigation	blazon not settled (lion and eagle combined in the Ströhl drawing)
 Q127212	William II, Count of Chalon	Q1608007	Blason maison fr de Chalon.svg	svg	Blason maison fr de Chalon.svg
 Q127230	Frederick II, Duke of Lorraine	Q571529	Blason Lorraine.svg	svg	Blason Lorraine.svg
 Q127236	Matthieu of Lorraine	Q3299943	Bishop of Lorraine family arms.svg	svg	Bishop of Lorraine family arms.svg
@@ -1190,7 +1190,7 @@ Q127529	Enguerrand III, Lord of Coucy	Q933505	Blason maison fr de Coucy.svg	svg	
 Q127556	Berthold IV, Duke of Merania	Q61454	Wappen Andechs 2.svg	svg	Wappen Andechs 2.svg
 Q127564	Berthold	Q73417	Wappen Andechs 2.svg	svg	Wappen Andechs 2.svg
 Q127566	Henry II, Margrave of Istria	Q1596490	Wappen Andechs 2.svg	svg	Wappen Andechs 2.svg
-Q127580	Adelaide of Loccum-Hallermund	Q354833	Wappen Springe.png	todo	
+Q127580	Adelaide of Loccum-Hallermund	Q354833	Wappen Springe.png	generator-gap	a pall wavy between three roses, with an annulet: no pall wavy drawing
 Q127586	Ludolf II. von Hallermund	Q1873954	Blason-argent-3-roses-gueules.svg	svg	Blason-argent-3-roses-gueules.svg
 Q127594	Albrecht I, Graf von Wiehe und Rabenswald	Q110613414	Wappen derer von Rabenswalde.png	rebuilt	upload/arms-rabenswalde/rabenswalde.svg
 Q127602	Berthold II. von Bogen	Q22691341	Altösterreich Adalbert Babenberger Stammbaum.svg	svg	Altösterreich Adalbert Babenberger Stammbaum.svg
@@ -1281,7 +1281,7 @@ Q128880	Henry of Nassau	Q94577530	Nassau wapen.svg	svg	Nassau wapen.svg
 Q128882	Catherine of Nassau	Q94577804	Nassau wapen.svg	svg	Nassau wapen.svg
 Q128884	Jutta of Nassau	Q94577978	Nassau wapen.svg	svg	Nassau wapen.svg
 Q128886	John I of Sayn	Q1694682	Wappen Starkenburg.svg	svg	Wappen Starkenburg.svg
-Q128896	Scheibenberg	Q57936	Wappen Scheibenberg klein.png	todo	
+Q128896	Scheibenberg	Q57936	Wappen Scheibenberg klein.png	needs-investigation	municipal arms (firs, hammers, griffin): blazon not settled
 Q128905	Irmgard of Berg	Q1673032	Berg Arms old.png	generator-gap	berg-old
 Q128907	Louis III, Count of Loon	Q1831372	CoA Loon County.svg	svg	CoA Loon County.svg
 Q128911	Ada, Countess of Holland	Q346380	Counts of Holland Arms.svg	svg	Counts of Holland Arms.svg
@@ -1426,7 +1426,7 @@ Q143448	Roger de Barnaville	Q6113557	Buornonville (antes de la I cruzada).png	re
 Q143473	Walter Fitz Robert	Q7964837	CoA Gilbert de Clare.svg	svg	CoA Gilbert de Clare.svg
 Q143555	Pietro II Orseolo	Q507725	Coat of Arms of the House of Orseolo.svg	svg	Coat of Arms of the House of Orseolo.svg
 Q143626	Nicholas d'Oisy, Lord of Avesnes	Q2749178	Blason Maison d'Avesnes.svg	svg	Blason Maison d'Avesnes.svg
-Q143637	Otto VI. von Andechs	Q1233874	Andechs-Wappen.png	todo	
+Q143637	Otto VI. von Andechs	Q1233874	Andechs-Wappen.png	needs-investigation	blazon not settled (lion and eagle combined in the Ströhl drawing)
 Q143639	Mechtildis of Edelstetten	Q100206	Wappen Andechs 2.svg	svg	Wappen Andechs 2.svg
 Q143654	Henry I, Count of Anhalt	Q67176	Arms of Heinrich I, Prince of Anhalt.svg	svg	Arms of Heinrich I, Prince of Anhalt.svg
 Q143660	Siegfried III, Count of Weimar-Orlamünde	Q111158	Blason Principauté d'Anhalt (XIIIe siècle).svg	svg	Blason Principauté d'Anhalt (XIIIe siècle).svg
@@ -1438,7 +1438,7 @@ Q143795	Robert de Beaumont, 3rd Earl of Leicester	Q975812	De Beaumont arms (Earl
 Q143798	William de Warenne	Q16206612	Armoiries Vermandois.svg	svg	Armoiries Vermandois.svg
 Q143799	Alice de Warenne	Q75869508	Armoiries Vermandois.svg	svg	Armoiries Vermandois.svg
 Q143800	Gundred de Warenn	Q102112662	Armoiries Vermandois.svg	svg	Armoiries Vermandois.svg
-Q143850	Otto gen. Stosch von Kunitz	Q131731705	Stosch-Wappen.png	todo	
+Q143850	Otto gen. Stosch von Kunitz	Q131731705	Stosch-Wappen.png	needs-investigation	blazon not settled
 Q143960	Hugh II of Vaudémont	Q825262	Vaudemont Arms.svg	svg	Vaudemont Arms.svg
 Q144007	Friedrich Wildgraf von Kyrburg	Q17123235	Wildgraf Dhaun COA.png	generator-gap	wildgraf-dhaun
 Q144009	Emicho Wildgraf von Kyrburg	Q1335693	Fürstengang Tafel 29 - Wildgraf Emicho.jpg	raster-original	manuscript painting, seal, carving or photo
@@ -1628,7 +1628,7 @@ Q147408	Reginald de Warenne	Q75869512	Armoiries Vermandois.svg	svg	Armoiries Ver
 Q147424	Hugues II d'Oisy	Q3142570	Ecu d'argent au croissant de gueules.svg	svg	Ecu d'argent au croissant de gueules.svg
 Q147426	John de Montmirail	Q3175596	Blason famille de Montmirail.svg	svg	Blason famille de Montmirail.svg
 Q147453	Alexander Nevsky	Q174044	Alexander Nevsky Emblem.jpg	raster-original	manuscript painting, seal, carving or photo
-Q147660	Leonhard Wlast	Q131731704	Stosch-Wappen.png	todo	
+Q147660	Leonhard Wlast	Q131731704	Stosch-Wappen.png	needs-investigation	blazon not settled
 Q147699	Haakon IV of Norway	Q316039	Haakon4.jpg	raster-original	manuscript painting, seal, carving or photo
 Q147701	Ulf Holmgersson Ama	Q6219139	COA family sv Ama.svg	svg	COA family sv Ama.svg
 Q147719	Birger Filipsson	Q5576547	COA-Birger Filipsson (Aspenasatten).png	generator-gap	untinctured arms (grey): the generator has no untinctured concept
@@ -1774,13 +1774,13 @@ Q149978	William de Clinton, 1st Earl of Huntingdon	Q7610117	Blason Clinton.svg	s
 Q149979	John Hastings, 2nd Earl of Pembroke	Q1700394	Sir John Hastings, 2nd Earl of Pembroke, KG.png	generator-gap	hastings-john-2nd
 Q149980	John Grey, 2nd Baron Grey de Wilton	Q6236305	Arms of Grey of Rotherfield.svg	svg	Arms of Grey of Rotherfield.svg
 Q149982	Reginald Grey, 3rd Baron Grey de Ruthyn	Q7308718	Coat of Arms of Sir John Grey (1387-1439), KG, son of Reginald Grey, 3rd Baron Grey de Ruthyn.svg	svg	Coat of Arms of Sir John Grey (1387-1439), KG, son of Reginald Grey, 3rd Baron Grey de Ruthyn.svg
-Q149982	Reginald Grey, 3rd Baron Grey de Ruthyn	Q7308718	Coat of Arms of Sir John Grey, KG.png	todo	
+Q149982	Reginald Grey, 3rd Baron Grey de Ruthyn	Q7308718	Coat of Arms of Sir John Grey, KG.png	needs-investigation	six-quarter Garter plate: blazon not settled
 Q149990	Walter Comyn, Lord of Badenoch	Q2543918	Blason-azur-3-gerbes-or.svg	svg	Blason-azur-3-gerbes-or.svg
 Q150001	John de St John	Q18810849	"K-067-Coat of Arms-ST JOHN-John de St. John (""Johan de Saint Johan"").png"	rebuilt	upload/arms-st-john/st-john.svg
 Q150467	Jasper Tudor	Q385679	Coat of arms of Jasper Tudor.svg	svg	Coat of arms of Jasper Tudor.svg
 Q150472	Richard Williams	Q11801889	Sir Richard Cromwell alias Williams, Coat of Arms.jpg	generator-gap	cromwell-richard
 Q150503	James Tuchet, 5th Baron Audley	Q646476	COA Tuchet.svg	svg	COA Tuchet.svg
-Q150523	Edward Stanley, 1st Baron Monteagle	Q1293748	Coat of arms of Sir Edward Stanley, 1st Baron Monteagle, KG.png	todo	
+Q150523	Edward Stanley, 1st Baron Monteagle	Q1293748	Coat of arms of Sir Edward Stanley, 1st Baron Monteagle, KG.png	needs-investigation	quartered Garter plate (Stanley, Man, Warenne...): blazon not settled
 Q150582	William de Berkeley, 1st Marquess of Berkeley	Q7607464	Berkeley arms.svg	svg	Berkeley arms.svg
 Q150587	Walter Devereux, 7th Baron Ferrers of Chartley	Q7964675	Coat of Arms of Sir Walter Devereux, 7th Baron Ferrers of Chartley, KG.png	rebuilt	upload/arms-devereux-walter/devereux-walter.svg
 Q150588	Henry Percy, 4th Earl of Northumberland	Q2705658	Coat of Arms of Henry Percy, 4th Earl of Northumberland.svg	svg	Coat of Arms of Henry Percy, 4th Earl of Northumberland.svg

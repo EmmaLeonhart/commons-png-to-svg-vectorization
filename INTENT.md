@@ -114,6 +114,9 @@ caused by unbounded steps (since fixed).
 
 - 2026-10-15 03:14 PST: new session, started from Emma's inochi-no-michikyo queue item to build
   coats of arms for the generator / order.life. Arms strand added above; worked first.
+- 2026-10-15 03:45 PST: every order.life person with arms classified (`files/arms/person_arms_status.tsv`);
+  54 rebuilt here, 63 wait on generator gaps (`files/arms/generator-gaps.md`). Next: the Template:Coat of arms
+  PNGs in the main queue, same method.
 - Work started 2026-10-07 23:02 PST, on the user's go-ahead. GitHub repo (private):
   EmmaLeonhart/commons-png-to-svg-vectorization.
 - 2026-10-08 13:20 PST: 40 files finished and staged in upload/; 546 still to vectorize, 256 already
