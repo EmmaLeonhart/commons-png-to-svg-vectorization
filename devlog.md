@@ -169,3 +169,8 @@
   St Petersburg tried through the generator: all three hit gaps (castle, crown, sceptre), logged.
 - **File:45 record.png → SVG**: its Open Clip Art source SVG (public domain), downloaded once openclipart.org was
   back; only the root size fixed to match its viewBox. 0.014% of pixels differ. Staged in upload/.
+- **File:Abusir map.png → SVG** (`files/abusir-map/`): geometry from the Russian redrawing
+  AbusirAndAbuGurabPlan ru.svg, registered and adjusted element by element; 36 English labels as DejaVu Sans
+  `<text>`, leader lines fitted to leftover ink, north arrow measured, necropolis ellipse fitted. CC BY-SA 3.0.
+  Staged in upload/. DejaVu fonts downloaded to `data_lake/downloads/fonts/dejavu/` for fitting text.
+- Bohai Sea map: its SVG derivatives embed the raster, so they are no vector source (queue note).

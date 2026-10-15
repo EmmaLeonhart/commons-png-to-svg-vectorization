@@ -30,14 +30,13 @@ shields in `upload/arms-*/`, 3 kamon), 63 waiting on the generator, 72 raster or
   nothing is uploaded to Commons without her go.
 - Then: the Template:Coat of arms PNGs in the main list below, the same way.
 
-## To vectorize (542)
+## To vectorize (541)
 
 Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed images (174).
 
 - [File:1bc1a.png](https://commons.wikimedia.org/wiki/File:1bc1a.png) — Help:Multilingual support — NEEDS-DECISION (user): script specimen; the glyph is the subject. <text> needs the script font on Commons, while glyph outlines from an open font (e.g. Noto) would be paths, against the vector-text rule. Which?
 - [File:5th century Korea.png](https://commons.wikimedia.org/wiki/File:5th_century_Korea.png) — Toraijin
 - [File:Abkhazia stub.png](https://commons.wikimedia.org/wiki/File:Abkhazia_stub.png) — Template talk:Portal — NEEDS-DECISION (user): a hand-drawn "map-like symbol"; real outlines (Natural Earth, or OSM relation 1152720 clipped to land) match at IoU 0.93 but not its stylised proportions. Use the geographically correct outline, or leave it? Attempts in scratch/abkhazia/.
-- [File:Abusir map.png](https://commons.wikimedia.org/wiki/File:Abusir_map.png) — Solar Temple of Niuserre
 - [File:ADLaM.png](https://commons.wikimedia.org/wiki/File:ADLaM.png) — Help:Multilingual support — NEEDS-DECISION (user): script specimen; the glyph is the subject. <text> needs the script font on Commons, while glyph outlines from an open font (e.g. Noto) would be paths, against the vector-text rule. Which?
 - [File:Agency for Cultural Affairs Organizational chart 20230327.png](https://commons.wikimedia.org/wiki/File:Agency_for_Cultural_Affairs_Organizational_chart_20230327.png) — Agency for Cultural Affairs
 - [File:Ahom rendering.png](https://commons.wikimedia.org/wiki/File:Ahom_rendering.png) — Help:Multilingual support — NEEDS-DECISION (user): script specimen; the glyph is the subject. <text> needs the script font on Commons, while glyph outlines from an open font (e.g. Noto) would be paths, against the vector-text rule. Which?
@@ -54,7 +53,7 @@ Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed image
 - [File:Blasó de Mallorca.png](https://commons.wikimedia.org/wiki/File:Blas%C3%B3_de_Mallorca.png) — Template:Coat of arms — BLOCKED-ON-EXTERNAL: generator draws the castle as one tower (files/arms/mallorca/)
 - [File:Blue Ridge Parkway shield.png](https://commons.wikimedia.org/wiki/File:Blue_Ridge_Parkway_shield.png) — Module:Road data/strings/USA/regional/Trails
 - [File:BodhGayaCetiya silhouette.png](https://commons.wikimedia.org/wiki/File:BodhGayaCetiya_silhouette.png) — Template:Buddhist-temple-stub
-- [File:Bohai Sea map.png](https://commons.wikimedia.org/wiki/File:Bohai_Sea_map.png) — Bohai Sea
+- [File:Bohai Sea map.png](https://commons.wikimedia.org/wiki/File:Bohai_Sea_map.png) — Bohai Sea — NEEDS-INVESTIGATION: its 'SVG' derivatives (hr, bs) only wrap the raster map; rebuild from geographic data (Natural Earth coast, rivers, cities) with English <text>
 - [File:Bonji-I.png](https://commons.wikimedia.org/wiki/File:Bonji-I.png) — Jūniten
 - [File:Bonji-Ii.png](https://commons.wikimedia.org/wiki/File:Bonji-Ii.png) — Jūniten
 - [File:BonjiA.png](https://commons.wikimedia.org/wiki/File:BonjiA.png) — Jūniten, Template:Buddhist-text-stub
