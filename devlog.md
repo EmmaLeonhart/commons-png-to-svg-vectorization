@@ -180,3 +180,6 @@
 - **File:Agency for Cultural Affairs Organizational chart 20230327.png → SVG** (`files/aca-org-chart/`): boxes,
   connectors and the grey Tokyo-office area measured exactly from the aliased PNG; 61 labels as Liberation Sans
   `<text>` (Aptos is not on Commons). CC0. Staged in upload/.
+- **File:Birth and death rate of japan 1950-2019.png → SVG** (`files/japan-birth-death-rate/`): chart rebuilt from
+  the published crude rates (en.wikipedia vital-statistics table, IPSS/Statistics Bureau) on the PNG's measured
+  layout; text as Carlito `<text>`. 1.25% of pixels differ. Staged in upload/.
