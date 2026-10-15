@@ -191,3 +191,6 @@
   as `<text>`. Staged in upload/.
 - Revenue-Marine ensigns (6) marked not rebuildable (canton eagles have no vector source); Bonji letters (14) filed
   under the script-specimen decision.
+- **File:Excerpt tree.png → SVG** (`files/excerpt-tree/`): rounded boxes, shaft-and-head arrows and white Arial-metric
+  `<text>` labels, all measured; transparent background kept. Staged in upload/.
+- Flag of the Sri Lankan Army: BLOCKED-ON-EXTERNAL (no vector of the army badge on Commons).

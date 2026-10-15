@@ -30,7 +30,7 @@ shields in `upload/arms-*/`, 3 kamon), 63 waiting on the generator, 72 raster or
   nothing is uploaded to Commons without her go.
 - Then: the Template:Coat of arms PNGs in the main list below, the same way.
 
-## To vectorize (537)
+## To vectorize (536)
 
 Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed images (174).
 
@@ -86,7 +86,6 @@ Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed image
 - [File:Ensign of the United States Revenue-Marine (1841).png](https://commons.wikimedia.org/wiki/File:Ensign_of_the_United_States_Revenue-Marine_%281841%29.png) — Template:Country data United States — NOT REBUILDABLE without tracing: the 16 stripes are trivial, but each canton eagle is a freeform drawing with no vector source (searched Commons 2026-10-15; the USCG ensign SVG's eagle is a different design)
 - [File:Ensign of the United States Revenue-Marine (1867).png](https://commons.wikimedia.org/wiki/File:Ensign_of_the_United_States_Revenue-Marine_%281867%29.png) — Template:Country data United States — NOT REBUILDABLE without tracing: the 16 stripes are trivial, but each canton eagle is a freeform drawing with no vector source (searched Commons 2026-10-15; the USCG ensign SVG's eagle is a different design)
 - [File:Ensign of the United States Revenue-Marine (1868).png](https://commons.wikimedia.org/wiki/File:Ensign_of_the_United_States_Revenue-Marine_%281868%29.png) — Template:Country data United States — NOT REBUILDABLE without tracing: the 16 stripes are trivial, but each canton eagle is a freeform drawing with no vector source (searched Commons 2026-10-15; the USCG ensign SVG's eagle is a different design)
-- [File:Excerpt tree.png](https://commons.wikimedia.org/wiki/File:Excerpt_tree.png) — Template:Excerpt/doc
 - [File:Family crest hanawachigai.png](https://commons.wikimedia.org/wiki/File:Family_crest_hanawachigai.png) — Mon (emblem) — NOT REBUILDABLE without tracing: the notched flower is freeform. File:Japanese Crest Hana Wachigai.svg is a different (inverted) design, not its vector version.
 - [File:Flag of California (1924–1953).png](https://commons.wikimedia.org/wiki/File:Flag_of_California_%281924%E2%80%931953%29.png) — Template:Country data California
 - [File:Flag of the Indonesian Marine Corps.png](https://commons.wikimedia.org/wiki/File:Flag_of_the_Indonesian_Marine_Corps.png) — Template:Country data Indonesia — NEEDS-INVESTIGATION: rebuildable from File:Korps Marinir.svg (recoloured) on a measured field and border, but the emblem lettering in that SVG is outlined paths; it would need re-creating as <textPath> text for the vector-text rule.
@@ -95,7 +94,7 @@ Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed image
 - [File:Flag of the Mexican Maritime Search and Rescue.png](https://commons.wikimedia.org/wiki/File:Flag_of_the_Mexican_Maritime_Search_and_Rescue.png) — Template:Country data Mexico
 - [File:Flag of the Royal Moroccan Air Force.png](https://commons.wikimedia.org/wiki/File:Flag_of_the_Royal_Moroccan_Air_Force.png) — Template:Country data Morocco — BLOCKED-ON-EXTERNAL: field and leaf border can come from File:Flag of the Royal Moroccan Navy.svg (recoloured), but the central badge exists only as the raster File:Moroccan Air Force.png; no vector badge on Commons (searched). Unblocks when someone vectorises the badge.
 - [File:Flag of the South African Army (1966–1973).png](https://commons.wikimedia.org/wiki/File:Flag_of_the_South_African_Army_%281966%E2%80%931973%29.png) — Template:Country data South Africa
-- [File:Flag of the Sri Lankan Army.png](https://commons.wikimedia.org/wiki/File:Flag_of_the_Sri_Lankan_Army.png) — Template:Country data Sri Lanka
+- [File:Flag of the Sri Lankan Army.png](https://commons.wikimedia.org/wiki/File:Flag_of_the_Sri_Lankan_Army.png) — Template:Country data Sri Lanka — BLOCKED-ON-EXTERNAL: field is three bands, but the Sri Lanka Army badge (crossed swords, national emblem, lion supporters, Sinhala scroll) has no vector on Commons (searched 2026-10-15; Sri Lankan Army Flag.svg is a different flag). Unblocks when someone vectorises the badge
 - [File:Flag of the United Arab Emirates Navy.png](https://commons.wikimedia.org/wiki/File:Flag_of_the_United_Arab_Emirates_Navy.png) — Template:Country data United Arab Emirates
 - [File:Fukuchiyama Toyuke-daijinja map.png](https://commons.wikimedia.org/wiki/File:Fukuchiyama_Toyuke-daijinja_map.png) — Toyouke Shrine (Fukuchiyama)
 - [File:GaelicGamesProjectLogo.png](https://commons.wikimedia.org/wiki/File:GaelicGamesProjectLogo.png) — Module:Portal/images/g
