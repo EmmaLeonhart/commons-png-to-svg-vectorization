@@ -212,3 +212,6 @@
   flag via `tools/rebuild_flagmap.py`; silhouette IoU 0.853, flag agreement 0.977. Staged in upload/.
 - **File:Kyoto-geo-stub.png → SVG**: N03 silhouette (IoU 0.971) with the prefecture flag's emblem fitted over it;
   2.2% of pixels differ. Staged in upload/.
+- **File:Map Icon - Hotel.png → SVG**: circles, rotated bar, half disc and rounded rectangles, measured; per-region
+  alpha reproduced with masks; 0.45% of pixels differ. Staged. Minor edit (screenshot), Mouse icon (freehand cable),
+  Naval jack 1975–1976 (own snake drawing) marked; Matsuura-gun and Nara Toichi-gun joined the Japan-map decision.

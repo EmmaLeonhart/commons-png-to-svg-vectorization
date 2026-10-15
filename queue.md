@@ -30,7 +30,7 @@ shields in `upload/arms-*/`, 3 kamon), 63 waiting on the generator, 72 raster or
   nothing is uploaded to Commons without her go.
 - Then: the Template:Coat of arms PNGs in the main list below, the same way.
 
-## To vectorize (529)
+## To vectorize (528)
 
 Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed images (174).
 
@@ -134,7 +134,6 @@ Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed image
 - [File:Lontara script.png](https://commons.wikimedia.org/wiki/File:Lontara_script.png) — Help:Multilingual support — NEEDS-DECISION (user): script specimen (see INTENT: <text> needs the font on Commons vs. glyph outlines as paths).
 - [File:Malayalam Om.png](https://commons.wikimedia.org/wiki/File:Malayalam_Om.png) — Om — NEEDS-DECISION (user): script specimen (see INTENT: <text> needs the font on Commons vs. glyph outlines as paths).
 - [File:Manual tab only - visual editor - citations.png](https://commons.wikimedia.org/wiki/File:Manual_tab_only_-_visual_editor_-_citations.png) — Help:VisualEditor
-- [File:Map Icon - Hotel.png](https://commons.wikimedia.org/wiki/File:Map_Icon_-_Hotel.png) — Module:Portal/images/h, Module:Portal/images/h/sandbox
 - [File:Map Kumano Kodo (ja).png](https://commons.wikimedia.org/wiki/File:Map_Kumano_Kodo_%28ja%29.png) — Kiiji
 - [File:Map Kumano Kodo.png](https://commons.wikimedia.org/wiki/File:Map_Kumano_Kodo.png) — Kumano Kodō
 - [File:Map of Suwa Shrine, Kamisha Honmiya (English).png](https://commons.wikimedia.org/wiki/File:Map_of_Suwa_Shrine%2C_Kamisha_Honmiya_%28English%29.png) — Suwa-taisha
@@ -142,24 +141,24 @@ Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed image
 - [File:Maru ni Sasa Rindō inverted.png](https://commons.wikimedia.org/wiki/File:Maru_ni_Sasa_Rind%C5%8D_inverted.png) — Ishikawa Kazumasa — NOT REBUILDABLE without tracing: kamon with freeform organic motifs.
 - [File:Marunimitsukashiwa.png](https://commons.wikimedia.org/wiki/File:Marunimitsukashiwa.png) — Ishizu Shrine, Yamato Okunitama Shrine, Mima — NOT REBUILDABLE without tracing: kamon with freeform organic motifs.
 - [File:Marunitsurukashiwa.png](https://commons.wikimedia.org/wiki/File:Marunitsurukashiwa.png) — Nahe Shrine, Takefutsu Nishinomiya Shrine — NOT REBUILDABLE without tracing: kamon with freeform organic motifs.
-- [File:Matsuura-gun.png](https://commons.wikimedia.org/wiki/File:Matsuura-gun.png) — Matsura-gun
+- [File:Matsuura-gun.png](https://commons.wikimedia.org/wiki/File:Matsuura-gun.png) — Matsura-gun — NEEDS-DECISION (user): made from the generalised raster File:Japan map.png, as Aomori Tsugaru-block; a rebuild from MLIT N03 boundaries would be correct geography but visibly differ. Same decision
 - [File:Megamihōri-no-in (売神祝印) seal imprint.png](https://commons.wikimedia.org/wiki/File:Megamih%C5%8Dri-no-in_%28%E5%A3%B2%E7%A5%9E%E7%A5%9D%E5%8D%B0%29_seal_imprint.png) — Suwa-taisha
 - [File:Melanesian Cultural Area.png](https://commons.wikimedia.org/wiki/File:Melanesian_Cultural_Area.png) — Module:Portal/images/m — NEEDS-DECISION (user): base (World2Hires filled mercator.svg) and ~25 labels are rebuildable, but the region blob is hand-drawn with no source; recreating it means fitting a smooth curve to the PNG's outline (tracing a simple shape). OK or not?
 - [File:Micronesian Cultural Area.png](https://commons.wikimedia.org/wiki/File:Micronesian_Cultural_Area.png) — Module:Portal/images/m — NEEDS-DECISION (user): base (World2Hires filled mercator.svg) and ~25 labels are rebuildable, but the region blob is hand-drawn with no source; recreating it means fitting a smooth curve to the PNG's outline (tracing a simple shape). OK or not?
 - [File:Midtown line GO logo.png](https://commons.wikimedia.org/wiki/File:Midtown_line_GO_logo.png) — Template:Rail-interchange
-- [File:Minor edit.png](https://commons.wikimedia.org/wiki/File:Minor_edit.png) — Help:Editing
+- [File:Minor edit.png](https://commons.wikimedia.org/wiki/File:Minor_edit.png) — Help:Editing — NOT REBUILDABLE: a screenshot of the wiki editor with an annotation; a raster original (move to 'Likely raster originals')
 - [File:Mitsu Zaru inverted.png](https://commons.wikimedia.org/wiki/File:Mitsu_Zaru_inverted.png) — Mon (emblem) — NOT REBUILDABLE without tracing: kamon with freeform organic motifs.
 - [File:Modre symbol Omkara.png](https://commons.wikimedia.org/wiki/File:Modre_symbol_Omkara.png) — Om — NEEDS-DECISION (user): script specimen (see INTENT: <text> needs the font on Commons vs. glyph outlines as paths).
 - [File:Mon- Izumo taisha.png](https://commons.wikimedia.org/wiki/File:Mon-_Izumo_taisha.png) — Izumo Taisha Matsuyama Shrine — NOT REBUILDABLE without tracing: kamon with freeform organic motifs.
 - [File:Moriya Family Tree - 守矢氏系図.png](https://commons.wikimedia.org/wiki/File:Moriya_Family_Tree_-_%E5%AE%88%E7%9F%A2%E6%B0%8F%E7%B3%BB%E5%9B%B3.png) — Chikatō-no-Kami, Itsuhayahime-no-Mikoto, Izuhayao-no-Mikoto, Katakurabe no Mikoto, Kodamahiko-no-Mikoto, Moritachi no Kami, Moritaku-no-Kami, Moriya clan, Tamaru-hime, Yagata no Sukune no Kami
 - [File:Moromi.png](https://commons.wikimedia.org/wiki/File:Moromi.png) — Module:Portal/images/a
-- [File:Mouse icon vector.png](https://commons.wikimedia.org/wiki/File:Mouse_icon_vector.png) — Module:Portal/images/h, Module:Portal/images/h/sandbox
+- [File:Mouse icon vector.png](https://commons.wikimedia.org/wiki/File:Mouse_icon_vector.png) — Module:Portal/images/h, Module:Portal/images/h/sandbox — NOT REBUILDABLE without tracing: the body is a stroked rounded shape, but the cable is a freehand curve
 - [File:Nagashima Iki.png](https://commons.wikimedia.org/wiki/File:Nagashima_Iki.png) — Iki Island
 - [File:Nagikama.png](https://commons.wikimedia.org/wiki/File:Nagikama.png) — Takeminakata
 - [File:Nakano Inugoya dog shelters 1696.png](https://commons.wikimedia.org/wiki/File:Nakano_Inugoya_dog_shelters_1696.png) — Tokugawa Tsunayoshi
 - [File:Name muhammad in sylheti nagari.png](https://commons.wikimedia.org/wiki/File:Name_muhammad_in_sylheti_nagari.png) — Help:Multilingual support — NEEDS-DECISION (user): script specimen (see INTENT: <text> needs the font on Commons vs. glyph outlines as paths).
-- [File:Nara Toichi-gun.png](https://commons.wikimedia.org/wiki/File:Nara_Toichi-gun.png) — Toichi district
-- [File:Naval jack of the United States (1975–1976).png](https://commons.wikimedia.org/wiki/File:Naval_jack_of_the_United_States_%281975%E2%80%931976%29.png) — Template:Country data United States Navy
+- [File:Nara Toichi-gun.png](https://commons.wikimedia.org/wiki/File:Nara_Toichi-gun.png) — Toichi district — NEEDS-DECISION (user): made from the generalised raster File:Japan map.png, as Aomori Tsugaru-block; a rebuild from MLIT N03 boundaries would be correct geography but visibly differ. Same decision
+- [File:Naval jack of the United States (1975–1976).png](https://commons.wikimedia.org/wiki/File:Naval_jack_of_the_United_States_%281975%E2%80%931976%29.png) — Template:Country data United States Navy — NOT REBUILDABLE without tracing: the shaded rattlesnake is its own drawing; the vector jacks on Commons (1776–1777, 2002–2019) have different snakes. Using the 2002–2019 SVG's snake would change the design: NEEDS-DECISION (user) if wanted
 - [File:NaviMumbaiMetro-Logo.png](https://commons.wikimedia.org/wiki/File:NaviMumbaiMetro-Logo.png) — Template:Rail-interchange
 - [File:Nbfr logo.png](https://commons.wikimedia.org/wiki/File:Nbfr_logo.png) — Template:Country data Russia
 - [File:Neulicht.Botein.P1162773.png](https://commons.wikimedia.org/wiki/File:Neulicht.Botein.P1162773.png) — Acronychic
