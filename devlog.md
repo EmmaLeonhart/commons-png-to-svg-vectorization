@@ -204,3 +204,6 @@
   outlines as in the PNG; 3.4% of pixels differ. Staged in upload/.
 - `tools/render_svg.py` deletes the old output before rendering, so the wait added today cannot take a stale image
   for a new render (it did once, on the COL icon's first try; East Asia's renders were all new files).
+- **File:Cricket no pic.png → SVG** (a 154×1 white placeholder: one rectangle, pixel-identical) and **File:Ch-1422a.png →
+  SVG** (corner-fitted pennant and cross, 0.44% of pixels differ). Staged in upload/. Ecovia and Gaelic Games logos
+  marked not rebuildable.

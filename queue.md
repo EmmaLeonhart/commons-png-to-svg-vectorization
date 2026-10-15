@@ -30,7 +30,7 @@ shields in `upload/arms-*/`, 3 kamon), 63 waiting on the generator, 72 raster or
   nothing is uploaded to Commons without her go.
 - Then: the Template:Coat of arms PNGs in the main list below, the same way.
 
-## To vectorize (534)
+## To vectorize (532)
 
 Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed images (174).
 
@@ -65,9 +65,7 @@ Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed image
 - [File:BonjiVai.png](https://commons.wikimedia.org/wiki/File:BonjiVai.png) — Jūniten — NEEDS-DECISION (user): brush-written Siddham (bonji) letter, a script specimen like ADLaM/Bali Ba: <text> needs a Siddham font Commons renders (Noto Sans Siddham is a typeset form, not this brushwork); outlines would be tracing. Which?
 - [File:BonjiYam.png](https://commons.wikimedia.org/wiki/File:BonjiYam.png) — Jūniten — NEEDS-DECISION (user): brush-written Siddham (bonji) letter, a script specimen like ADLaM/Bali Ba: <text> needs a Siddham font Commons renders (Noto Sans Siddham is a typeset form, not this brushwork); outlines would be tracing. Which?
 - [File:Category-diagram.png](https://commons.wikimedia.org/wiki/File:Category-diagram.png) — Help:Categories — NEEDS-DECISION (user): a cropped Graphviz render; the boxes and DejaVu text are easy, but its ~40 crossing connectors are Bézier splines that can only be recovered by fitting curves to the drawn strokes (centre-line fitting). Is that acceptable as recovering generated curves, or is it tracing?
-- [File:Ch-1422a.png](https://commons.wikimedia.org/wiki/File:Ch-1422a.png) — Template:Country data Old Swiss Confederacy
 - [File:Cherokee Lowercase.png](https://commons.wikimedia.org/wiki/File:Cherokee_Lowercase.png) — Help:Multilingual support
-- [File:Cricket no pic.png](https://commons.wikimedia.org/wiki/File:Cricket_no_pic.png) — (file-title list), File:Cricket no pic.png, Module:InfoboxImage/data, Module:InfoboxImage/doc, Module:InfoboxImage/sandbox
 - [File:Cross of Herat - Psalter Pahlavi Inscription.png](https://commons.wikimedia.org/wiki/File:Cross_of_Herat_-_Psalter_Pahlavi_Inscription.png) — Help:Multilingual support
 - [File:Dakiine.png](https://commons.wikimedia.org/wiki/File:Dakiine.png) — Fujishiro Suzuki clan
 - [File:Deir el Bahari-map.png](https://commons.wikimedia.org/wiki/File:Deir_el_Bahari-map.png) — Mortuary Temple of Mentuhotep II
@@ -76,7 +74,7 @@ Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed image
 - [File:DPM icon.png](https://commons.wikimedia.org/wiki/File:DPM_icon.png) — Template:Rail-interchange
 - [File:Dravidische Sprachen.png](https://commons.wikimedia.org/wiki/File:Dravidische_Sprachen.png) — Module:Portal/images/d
 - [File:Eastern Europe (Robinson projection).png](https://commons.wikimedia.org/wiki/File:Eastern_Europe_%28Robinson_projection%29.png) — Module:Portal/images/e, Module:Portal/images/e/sandbox
-- [File:EcoviaLogo.png](https://commons.wikimedia.org/wiki/File:EcoviaLogo.png) — Template:Rail-interchange
+- [File:EcoviaLogo.png](https://commons.wikimedia.org/wiki/File:EcoviaLogo.png) — Template:Rail-interchange — NOT REBUILDABLE without tracing: a wordmark in custom lettering with a freeform leaf; no vector logo on Commons
 - [File:Enabling Visual Editor.png](https://commons.wikimedia.org/wiki/File:Enabling_Visual_Editor.png) — Help:VisualEditor
 - [File:Ensign of the United States Revenue-Marine (1799).png](https://commons.wikimedia.org/wiki/File:Ensign_of_the_United_States_Revenue-Marine_%281799%29.png) — Template:Country data United States — NOT REBUILDABLE without tracing: the 16 stripes are trivial, but each canton eagle is a freeform drawing with no vector source (searched Commons 2026-10-15; the USCG ensign SVG's eagle is a different design)
 - [File:Ensign of the United States Revenue-Marine (1815).png](https://commons.wikimedia.org/wiki/File:Ensign_of_the_United_States_Revenue-Marine_%281815%29.png) — Template:Country data United States — NOT REBUILDABLE without tracing: the 16 stripes are trivial, but each canton eagle is a freeform drawing with no vector source (searched Commons 2026-10-15; the USCG ensign SVG's eagle is a different design)
@@ -95,7 +93,7 @@ Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed image
 - [File:Flag of the Sri Lankan Army.png](https://commons.wikimedia.org/wiki/File:Flag_of_the_Sri_Lankan_Army.png) — Template:Country data Sri Lanka — BLOCKED-ON-EXTERNAL: field is three bands, but the Sri Lanka Army badge (crossed swords, national emblem, lion supporters, Sinhala scroll) has no vector on Commons (searched 2026-10-15; Sri Lankan Army Flag.svg is a different flag). Unblocks when someone vectorises the badge
 - [File:Flag of the United Arab Emirates Navy.png](https://commons.wikimedia.org/wiki/File:Flag_of_the_United_Arab_Emirates_Navy.png) — Template:Country data United Arab Emirates — BLOCKED-ON-EXTERNAL: the navy emblem (falcon, anchor, wreath, Arabic ring text) has no vector on Commons (only UAE-NAvylogo.png; searched 2026-10-15)
 - [File:Fukuchiyama Toyuke-daijinja map.png](https://commons.wikimedia.org/wiki/File:Fukuchiyama_Toyuke-daijinja_map.png) — Toyouke Shrine (Fukuchiyama)
-- [File:GaelicGamesProjectLogo.png](https://commons.wikimedia.org/wiki/File:GaelicGamesProjectLogo.png) — Module:Portal/images/g
+- [File:GaelicGamesProjectLogo.png](https://commons.wikimedia.org/wiki/File:GaelicGamesProjectLogo.png) — Module:Portal/images/g — NOT REBUILDABLE without tracing: freehand hurleys and ball (only the circles are geometric)
 - [File:Gion Daimyojin.png](https://commons.wikimedia.org/wiki/File:Gion_Daimyojin.png) — Susanoo-no-Mikoto — NOT REBUILDABLE without tracing: woodblock / line-art figure drawing (flat colours, but freeform art).
 - [File:God of Daishogun.png](https://commons.wikimedia.org/wiki/File:God_of_Daishogun.png) — Daishōgun (directional deity) — NOT REBUILDABLE without tracing: woodblock / line-art figure drawing (flat colours, but freeform art).
 - [File:God of Hyobi.png](https://commons.wikimedia.org/wiki/File:God_of_Hyobi.png) — Eight Directional Deities, Hyōbijin — NOT REBUILDABLE without tracing: woodblock / line-art figure drawing (flat colours, but freeform art).
