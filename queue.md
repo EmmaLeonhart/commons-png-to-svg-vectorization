@@ -13,34 +13,24 @@ coat of arms thing". Reading and scope in INTENT.md ("Second strand"). Sources:
 `Documents\claude-screenshots\agentic-vectorization_2026-10-15\order_life_raster_arms_*.png` (numbers below
 are their indices). Output: `files/arms/<slug>/` with notes.md, finished SVG staged in `upload/<slug>/`.
 
-- **Blazonable shields → rebuild with the generator** (`tools/build_arms.py`, spec `files/arms/arms.json`),
-  compare with the PNG, fix the blazon until it matches. 30 done (devlog 2026-10-15), Garter-plate shields included.
-  - BLOCKED-ON-EXTERNAL (the generator gains the drawing; unblock signal: a generator commit after
-    8d8ab870, then rerun `python tools/build_arms.py <slug>` and look): berg-old, berkeley, bohun,
-    bohun-henry, erik-eriksson, carew, giffard-brimpsfield, vescy-eustace, fortibus-william, deforz, ferrers,
-    moels, quincy-saire, glyndwr, beauchamp-john, beauchamp-bergavenny, lisle-john, cabrera-viscounts,
-    clermont-bishopric, terter. Gaps listed in `files/arms/generator-gaps.md`.
-  - NEEDS-INVESTIGATION: 2 Braose (find the documented blazon). Generator has no drawing for fetters
-    (17 Traba) or a bend of chain (62 Téllez): BLOCKED-ON-EXTERNAL as above.
-  - Still to blazon and try: 64 Cabrera-Urgell, 99 Scheibenberg, 100 Springe, 8 Barbosa (shield only),
-    19/20/21/22/23 Swedish untinctured arms; Garter plates with quartered shields (27, 31, 45, 46, 91).
-- **Garter stall plates** (shield inside a garter with crown/helm: 27, 30–36, 45–47, 90–93): rebuild the
-  shield from its blazon; the garter frame is NEEDS-INVESTIGATION (is there a vector garter on Commons?).
-- **Full achievements with helm and crest** (0, 4, 59, 66, 67, 70, 72, 73, 83, 86, 94, 102, 106, 108):
-  shield from the blazon; helm, mantling and crest are freeform → NEEDS-INVESTIGATION (vector parts on Commons).
-- **Already vectorized on Commons** (record the SVG in person_arms, nothing to draw): 13 Comté du Maine,
-  41 Kingdom of Bulgaria, 52 Entença, 58 Empúries, 60 Přemyslovci, 61 Asturias, 63 Nuno Sanç, 87 Sakai Kamon,
-  97 Wettiner Albrecht, 98 Anhalt.
-- **Raster originals, not rebuilt** (manuscript paintings, seals, photos, drawings): 1, 5, 7, 12, 14, 55,
-  56, 57, 69, 71, 78, 85, 88, 104, 109. Their arms could still be blazoned and drawn new, but that is the
-  generator making arms, not vectorizing this file: NEEDS-DECISION (Emma).
-- **JPG arms** (63 distinct files; JPGs stay out of git, `.gitignore`): contact sheets
-  `order_life_jpg_arms_*.png` (J numbers). Done: J3 Bigod modern, J5 Ataíde, J7 Avarna, J8 Giffone.
-  Already vector on Commons: J11, J13, J30, J37, J48. J10 DeQuincy = 'Gules, seven mascles or':
-  BLOCKED-ON-EXTERNAL (generator has no mascle). To try: J29 Maruni Toshi no Monji (ring + the kanji 利 as
-  `<text>`; needs a brush-style CJK font available to Commons' renderer: NEEDS-INVESTIGATION), J16 Imereti,
-  J24 Hvide, J47 Cromwell. The rest are seals, manuscript paintings, carvings and photos: raster originals.
-- After these: the Template:Coat of arms PNGs in the main list below, the same way.
+State (2026-10-15): `files/arms/person_arms_status.tsv` lists all 1,805 order.life people with arms and
+where their SVG is: 1,576 already SVG on Wikidata, 27 with a vector on Commons, 53 rebuilt here (39 shields
+from the generator in `upload/arms-*/`, 3 kamon), 57 waiting on the generator, 71 raster originals, 21 to do.
+
+- BLOCKED-ON-EXTERNAL (the generator gains the drawing; unblock signal: a generator commit after 8d8ab870;
+  then `python tools/build_arms.py`, look at `arms_sheet.png`, accept or not): every `generator-gap` in
+  `files/arms/arms.json` and `raster_status.json`; the list is `files/arms/generator-gaps.md`.
+- To do (the `todo` rows of person_arms_status.tsv): shields of the achievements Andechs, Eppenstein, Stosch,
+  Jaqeli, Jovan Oliver, Buśk; Springe, Scheibenberg, Cabrera-Urgell; Garter plates of John Grey and Edward
+  Stanley (quartered); J16 Imereti, J24 Hvide, J47 Cromwell, J25 Ichinoseki Myoga (kamon: look for an SVG).
+  J29 Maruni Toshi no Monji: ring + the kanji 利 as `<text>`, needs a brush-style CJK font Commons renders:
+  NEEDS-INVESTIGATION.
+- NEEDS-INVESTIGATION: Braose (find the documented blazon).
+- NEEDS-DECISION (Emma): the 71 raster originals (seals, manuscript paintings): give those people new
+  generator-drawn arms from a blazon, or leave them? Drawing new arms is the generator's work, not vectorizing.
+- NEEDS-DECISION (Emma): uploading. The SVGs are staged in upload/ with notes.md (sources, licences);
+  nothing is uploaded to Commons without her go.
+- Then: the Template:Coat of arms PNGs in the main list below, the same way.
 
 ## To vectorize (543)
 
