@@ -30,7 +30,7 @@ shields in `upload/arms-*/`, 3 kamon), 63 waiting on the generator, 72 raster or
   nothing is uploaded to Commons without her go.
 - Then: the Template:Coat of arms PNGs in the main list below, the same way.
 
-## To vectorize (530)
+## To vectorize (529)
 
 Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed images (174).
 
@@ -128,7 +128,6 @@ Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed image
 - [File:Koshiate (Sword Hangers).png](https://commons.wikimedia.org/wiki/File:Koshiate_%28Sword_Hangers%29.png) — Japanese sword, Tachi
 - [File:Koshur in Sharada Script.png](https://commons.wikimedia.org/wiki/File:Koshur_in_Sharada_Script.png) — Help:Multilingual support
 - [File:Kounoke kamon.png](https://commons.wikimedia.org/wiki/File:Kounoke_kamon.png) — Kōno clan
-- [File:Kyoto-geo-stub.png](https://commons.wikimedia.org/wiki/File:Kyoto-geo-stub.png) — Template:Kyoto-geo-stub
 - [File:Kōfukuji plan.png](https://commons.wikimedia.org/wiki/File:K%C5%8Dfukuji_plan.png) — Kōfuku-ji
 - [File:LFW2008 2403.png](https://commons.wikimedia.org/wiki/File:LFW2008_2403.png) — Template:Contains special characters
 - [File:Linear B Sample.png](https://commons.wikimedia.org/wiki/File:Linear_B_Sample.png) — Help:Multilingual support — NEEDS-DECISION (user): script specimen (see INTENT: <text> needs the font on Commons vs. glyph outlines as paths).

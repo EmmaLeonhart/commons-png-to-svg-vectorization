@@ -210,3 +210,5 @@
 - **File:DPM icon.png → SVG**: corner-fitted car on the measured square, grey band; 0.5% of pixels differ. Staged.
 - **File:Kagoshima-geo-stub.png → SVG**: N03 outline (limited to the islands the PNG shows) filled with the prefecture
   flag via `tools/rebuild_flagmap.py`; silhouette IoU 0.853, flag agreement 0.977. Staged in upload/.
+- **File:Kyoto-geo-stub.png → SVG**: N03 silhouette (IoU 0.971) with the prefecture flag's emblem fitted over it;
+  2.2% of pixels differ. Staged in upload/.
