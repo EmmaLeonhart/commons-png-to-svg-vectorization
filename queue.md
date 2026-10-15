@@ -51,19 +51,19 @@ Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed image
 - [File:Blue Ridge Parkway shield.png](https://commons.wikimedia.org/wiki/File:Blue_Ridge_Parkway_shield.png) — Module:Road data/strings/USA/regional/Trails
 - [File:BodhGayaCetiya silhouette.png](https://commons.wikimedia.org/wiki/File:BodhGayaCetiya_silhouette.png) — Template:Buddhist-temple-stub
 - [File:Bohai Sea map.png](https://commons.wikimedia.org/wiki/File:Bohai_Sea_map.png) — Bohai Sea — NEEDS-INVESTIGATION: its 'SVG' derivatives (hr, bs) only wrap the raster map; rebuild from geographic data (Natural Earth coast, rivers, cities) with English <text>
-- [File:Bonji-I.png](https://commons.wikimedia.org/wiki/File:Bonji-I.png) — Jūniten
-- [File:Bonji-Ii.png](https://commons.wikimedia.org/wiki/File:Bonji-Ii.png) — Jūniten
-- [File:BonjiA.png](https://commons.wikimedia.org/wiki/File:BonjiA.png) — Jūniten, Template:Buddhist-text-stub
-- [File:BonjiBra.png](https://commons.wikimedia.org/wiki/File:BonjiBra.png) — Jūniten
-- [File:BonjiCa.png](https://commons.wikimedia.org/wiki/File:BonjiCa.png) — Jūniten
-- [File:BonjiHaammaam.png](https://commons.wikimedia.org/wiki/File:BonjiHaammaam.png) — Acala
-- [File:BonjiMa.png](https://commons.wikimedia.org/wiki/File:BonjiMa.png) — Daikokuten
-- [File:BonjiNr.png](https://commons.wikimedia.org/wiki/File:BonjiNr.png) — Jūniten
-- [File:BonjiPr.png](https://commons.wikimedia.org/wiki/File:BonjiPr.png) — Jūniten
-- [File:BonjiVa.png](https://commons.wikimedia.org/wiki/File:BonjiVa.png) — Jūniten
-- [File:BonjiVaa.png](https://commons.wikimedia.org/wiki/File:BonjiVaa.png) — Jūniten
-- [File:BonjiVai.png](https://commons.wikimedia.org/wiki/File:BonjiVai.png) — Jūniten
-- [File:BonjiYam.png](https://commons.wikimedia.org/wiki/File:BonjiYam.png) — Jūniten
+- [File:Bonji-I.png](https://commons.wikimedia.org/wiki/File:Bonji-I.png) — Jūniten — NEEDS-DECISION (user): brush-written Siddham (bonji) letter, a script specimen like ADLaM/Bali Ba: <text> needs a Siddham font Commons renders (Noto Sans Siddham is a typeset form, not this brushwork); outlines would be tracing. Which?
+- [File:Bonji-Ii.png](https://commons.wikimedia.org/wiki/File:Bonji-Ii.png) — Jūniten — NEEDS-DECISION (user): brush-written Siddham (bonji) letter, a script specimen like ADLaM/Bali Ba: <text> needs a Siddham font Commons renders (Noto Sans Siddham is a typeset form, not this brushwork); outlines would be tracing. Which?
+- [File:BonjiA.png](https://commons.wikimedia.org/wiki/File:BonjiA.png) — Jūniten, Template:Buddhist-text-stub — NEEDS-DECISION (user): brush-written Siddham (bonji) letter, a script specimen like ADLaM/Bali Ba: <text> needs a Siddham font Commons renders (Noto Sans Siddham is a typeset form, not this brushwork); outlines would be tracing. Which?
+- [File:BonjiBra.png](https://commons.wikimedia.org/wiki/File:BonjiBra.png) — Jūniten — NEEDS-DECISION (user): brush-written Siddham (bonji) letter, a script specimen like ADLaM/Bali Ba: <text> needs a Siddham font Commons renders (Noto Sans Siddham is a typeset form, not this brushwork); outlines would be tracing. Which?
+- [File:BonjiCa.png](https://commons.wikimedia.org/wiki/File:BonjiCa.png) — Jūniten — NEEDS-DECISION (user): brush-written Siddham (bonji) letter, a script specimen like ADLaM/Bali Ba: <text> needs a Siddham font Commons renders (Noto Sans Siddham is a typeset form, not this brushwork); outlines would be tracing. Which?
+- [File:BonjiHaammaam.png](https://commons.wikimedia.org/wiki/File:BonjiHaammaam.png) — Acala — NEEDS-DECISION (user): brush-written Siddham (bonji) letter, a script specimen like ADLaM/Bali Ba: <text> needs a Siddham font Commons renders (Noto Sans Siddham is a typeset form, not this brushwork); outlines would be tracing. Which?
+- [File:BonjiMa.png](https://commons.wikimedia.org/wiki/File:BonjiMa.png) — Daikokuten — NEEDS-DECISION (user): brush-written Siddham (bonji) letter, a script specimen like ADLaM/Bali Ba: <text> needs a Siddham font Commons renders (Noto Sans Siddham is a typeset form, not this brushwork); outlines would be tracing. Which?
+- [File:BonjiNr.png](https://commons.wikimedia.org/wiki/File:BonjiNr.png) — Jūniten — NEEDS-DECISION (user): brush-written Siddham (bonji) letter, a script specimen like ADLaM/Bali Ba: <text> needs a Siddham font Commons renders (Noto Sans Siddham is a typeset form, not this brushwork); outlines would be tracing. Which?
+- [File:BonjiPr.png](https://commons.wikimedia.org/wiki/File:BonjiPr.png) — Jūniten — NEEDS-DECISION (user): brush-written Siddham (bonji) letter, a script specimen like ADLaM/Bali Ba: <text> needs a Siddham font Commons renders (Noto Sans Siddham is a typeset form, not this brushwork); outlines would be tracing. Which?
+- [File:BonjiVa.png](https://commons.wikimedia.org/wiki/File:BonjiVa.png) — Jūniten — NEEDS-DECISION (user): brush-written Siddham (bonji) letter, a script specimen like ADLaM/Bali Ba: <text> needs a Siddham font Commons renders (Noto Sans Siddham is a typeset form, not this brushwork); outlines would be tracing. Which?
+- [File:BonjiVaa.png](https://commons.wikimedia.org/wiki/File:BonjiVaa.png) — Jūniten — NEEDS-DECISION (user): brush-written Siddham (bonji) letter, a script specimen like ADLaM/Bali Ba: <text> needs a Siddham font Commons renders (Noto Sans Siddham is a typeset form, not this brushwork); outlines would be tracing. Which?
+- [File:BonjiVai.png](https://commons.wikimedia.org/wiki/File:BonjiVai.png) — Jūniten — NEEDS-DECISION (user): brush-written Siddham (bonji) letter, a script specimen like ADLaM/Bali Ba: <text> needs a Siddham font Commons renders (Noto Sans Siddham is a typeset form, not this brushwork); outlines would be tracing. Which?
+- [File:BonjiYam.png](https://commons.wikimedia.org/wiki/File:BonjiYam.png) — Jūniten — NEEDS-DECISION (user): brush-written Siddham (bonji) letter, a script specimen like ADLaM/Bali Ba: <text> needs a Siddham font Commons renders (Noto Sans Siddham is a typeset form, not this brushwork); outlines would be tracing. Which?
 - [File:Category-diagram.png](https://commons.wikimedia.org/wiki/File:Category-diagram.png) — Help:Categories
 - [File:Ch-1422a.png](https://commons.wikimedia.org/wiki/File:Ch-1422a.png) — Template:Country data Old Swiss Confederacy
 - [File:Cherokee Lowercase.png](https://commons.wikimedia.org/wiki/File:Cherokee_Lowercase.png) — Help:Multilingual support
@@ -904,7 +904,7 @@ No rebuild needed; at most the PNG needs `{{Vector version available|...}}`. Bui
 - [File:Blank.png](https://commons.wikimedia.org/wiki/File:Blank.png) — Module:Excerpt slideshow, Module:Random slideshow, Module:Random slideshow/sandbox, Template:Hmbox, Template:Infobox country/formernext, Template:Superimpose — vector exists: File:Blank.svg
 - [File:BlankMap-World-noborders.png](https://commons.wikimedia.org/wiki/File:BlankMap-World-noborders.png) — (file-title list), File:BlankMap-World-noborders.png, Template:Taxobox/doc — description page already points to a vector version
 - [File:Blason ville fr Valence (Drome).png](https://commons.wikimedia.org/wiki/File:Blason_ville_fr_Valence_%28Drome%29.png) — Template:Coat of arms — vector exists: File:Blason ville fr Valence (Drome).svg
-- [File:Bonji-hāṃ.png](https://commons.wikimedia.org/wiki/File:Bonji-h%C4%81%E1%B9%83.png) — Acala — vector exists: File:Bonji-hāṃ.svg
+- [File:Bonji-hāṃ.png](https://commons.wikimedia.org/wiki/File:Bonji-h%C4%81%E1%B9%83.png) — Acala — vector exists: File:Bonji-hāṃ.svg — NEEDS-DECISION (user): brush-written Siddham (bonji) letter, a script specimen like ADLaM/Bali Ba: <text> needs a Siddham font Commons renders (Noto Sans Siddham is a typeset form, not this brushwork); outlines would be tracing. Which?
 - [File:Books-aj.svg aj ashton 01.png](https://commons.wikimedia.org/wiki/File:Books-aj.svg_aj_ashton_01.png) — Module:Portal/images/l — vector exists: File:Books-aj.svg aj ashton 01.svg
 - [File:Canadian Red Ensign (1907–1921).png](https://commons.wikimedia.org/wiki/File:Canadian_Red_Ensign_%281907%E2%80%931921%29.png) — Template:Country data Canada — description page already points to a vector version: Flag of Canada-1868-Red.svg
 - [File:Celts in Europe.png](https://commons.wikimedia.org/wiki/File:Celts_in_Europe.png) — Template:Legend/doc — vector exists: File:Celtic expansion in Europe.svg

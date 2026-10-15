@@ -82,7 +82,7 @@ My reading of how this repo serves it (Claude's assumption, 2026-10-15; correct 
   prefectures left; the render_match re-check). Both had memory-hungry steps, since bounded.
   BLOCKED-ON-USER-ACTION: the harness says to restart them only when the user asks.
 - Script specimens (images of single glyphs or script samples: 1bc1a, ADLaM, Ahom rendering, Bali Ba,
-  Bamum King Njoya (4)): `<text>` needs the script's font on Commons; open-font glyph outlines would be
+  Bamum King Njoya (4), and the brush-written Siddham Bonji* letters): `<text>` needs the script's font on Commons; open-font glyph outlines would be
   paths, against the vector-text rule. NEEDS-DECISION (user).
 - Hand-drawn or generalised geography (Abkhazia stub, Gunma shadow picture, Aomori Tsugaru-block from the
   old ja.wp Japan map.png): the correct outline differs from the drawn one. Replace with correct geography,
