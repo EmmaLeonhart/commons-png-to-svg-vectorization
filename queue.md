@@ -14,13 +14,16 @@ coat of arms thing". Reading and scope in INTENT.md ("Second strand"). Sources:
 are their indices). Output: `files/arms/<slug>/` with notes.md, finished SVG staged in `upload/<slug>/`.
 
 - **Blazonable shields → rebuild with the generator** (`tools/build_arms.py`, spec `files/arms/arms.json`),
-  compare with the PNG, fix the blazon until it matches. 23 done (devlog 2026-10-15).
+  compare with the PNG, fix the blazon until it matches. 30 done (devlog 2026-10-15), Garter-plate shields included.
   - BLOCKED-ON-EXTERNAL (the generator gains the drawing; unblock signal: a generator commit after
     8d8ab870, then rerun `python tools/build_arms.py <slug>` and look): berg-old, berkeley, bohun,
     bohun-henry, erik-eriksson, carew, giffard-brimpsfield, vescy-eustace, fortibus-william, deforz, ferrers,
-    moels, quincy-saire, glyndwr. Gaps listed in `files/arms/generator-gaps.md`.
-  - Still to blazon and try: 2 Braose, 17 Traba, 53 Terter, 62 Téllez de Meneses, 64/65 Cabrera,
-    99 Scheibenberg, 100 Springe, 107 Clermont, 8 Barbosa (shield only), 19/20/21/22/23 Swedish untinctured arms.
+    moels, quincy-saire, glyndwr, beauchamp-john, beauchamp-bergavenny, lisle-john, cabrera-viscounts,
+    clermont-bishopric, terter. Gaps listed in `files/arms/generator-gaps.md`.
+  - NEEDS-INVESTIGATION: 2 Braose (find the documented blazon). Generator has no drawing for fetters
+    (17 Traba) or a bend of chain (62 Téllez): BLOCKED-ON-EXTERNAL as above.
+  - Still to blazon and try: 64 Cabrera-Urgell, 99 Scheibenberg, 100 Springe, 8 Barbosa (shield only),
+    19/20/21/22/23 Swedish untinctured arms; Garter plates with quartered shields (27, 31, 45, 46, 91).
 - **Garter stall plates** (shield inside a garter with crown/helm: 27, 30–36, 45–47, 90–93): rebuild the
   shield from its blazon; the garter frame is NEEDS-INVESTIGATION (is there a vector garter on Commons?).
 - **Full achievements with helm and crest** (0, 4, 59, 66, 67, 70, 72, 73, 83, 86, 94, 102, 106, 108):

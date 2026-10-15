@@ -197,5 +197,100 @@
   "png": "WoodvilleArms.png",
   "blazon": "Argent, a fess and a canton gules",
   "status": "accepted"
+ },
+ "cabrera-viscounts": {
+  "png": "Escut dels vescomtes de Cabrera.png",
+  "blazon": "Or, a goat passant sable, a bordure embattled sable",
+  "status": "generator-gap",
+  "note": "Not staged: the PNG's goat stands (passant) and its bordure is embattled; the generator draws a rearing goat and a plain bordure."
+ },
+ "clermont-bishopric": {
+  "png": "Évêché clermont.png",
+  "blazon": "Azure, a cross gules fimbriated or between four fleurs-de-lis or",
+  "box": "0.05,0.42,0.95,1.0",
+  "status": "generator-gap",
+  "note": "Not staged: the cross's gold fimbriation is not drawn."
+ },
+ "terter": {
+  "png": "Coats of arms of the Terter dynasty.png",
+  "blazon": "Tenne, a bull's head caboshed gules",
+  "status": "generator-gap",
+  "note": "Not staged: the patriarchal cross between the horns is not drawn, and the head is a different (frontal) drawing."
+ },
+ "braose": {
+  "png": "Arms Braose.png",
+  "blazon": "Barry of six ermine and azure, a fess dancetty gules",
+  "status": "needs-investigation",
+  "note": "Not staged: my blazon is a guess; the PNG reads like barry azure and ermine with the ermine bars partly gules, dancetty. Find the documented blazon."
+ },
+ "audley-james": {
+  "png": "Coat of Arms of Sir James Audeley, KG.png",
+  "blazon": "Gules, fretty or, a label of three points argent",
+  "box": "0.19,0.125,0.81,0.69",
+  "status": "accepted",
+  "note": "The PNG is a Garter stall plate (shield inside the Garter, with coronet or helm); this SVG is the shield only. The label is drawn as one bar with three short points, flatter than the PNG's."
+ },
+ "beauchamp-john": {
+  "png": "Coat of Arms of Sir John de Beauchamp, KG.png",
+  "blazon": "Gules, a fess between six crosses crosslet or, on the fess a mullet sable",
+  "box": "0.19,0.125,0.81,0.69",
+  "status": "generator-gap",
+  "note": "Not staged: the six crosses crosslet between the fess are not drawn, and 'on the fess a mullet' does not parse."
+ },
+ "lisle-john": {
+  "png": "Coat of Arms of Sir John de Lisle, 2nd Baron Lisle, KG.png",
+  "blazon": "Or, a fess between two chevrons sable",
+  "box": "0.19,0.305,0.81,0.77",
+  "status": "generator-gap",
+  "note": "Not staged: the two chevrons around the fess are not drawn."
+ },
+ "mohun-john": {
+  "png": "Coat of Arms of Sir John de Mohun, 2nd Baron Mohun, KG.png",
+  "blazon": "Or, a cross engrailed sable",
+  "box": "0.19,0.305,0.81,0.77",
+  "status": "accepted",
+  "note": "The PNG is a Garter stall plate (shield inside the Garter, with coronet or helm); this SVG is the shield only."
+ },
+ "devereux-walter": {
+  "png": "Coat of Arms of Sir Walter Devereux, 7th Baron Ferrers of Chartley, KG.png",
+  "blazon": "Argent, a fess gules, in chief three torteaux",
+  "box": "0.19,0.305,0.81,0.77",
+  "status": "accepted",
+  "note": "The PNG is a Garter stall plate (shield inside the Garter, with coronet or helm); this SVG is the shield only."
+ },
+ "herbert-william": {
+  "png": "Coat of Arms of Sir William Herbert, 1st Baron Herbert, KG.png",
+  "blazon": "Per pale azure and gules, three lions rampant argent",
+  "box": "0.19,0.305,0.81,0.77",
+  "status": "accepted",
+  "note": "The PNG is a Garter stall plate (shield inside the Garter, with coronet or helm); this SVG is the shield only."
+ },
+ "rhys-ap-thomas": {
+  "png": "Coat of arms of Sir Rhys ap Thomas, KG.png",
+  "blazon": "Argent, a chevron between three ravens sable",
+  "box": "0.19,0.125,0.81,0.69",
+  "status": "accepted",
+  "note": "The PNG is a Garter stall plate (shield inside the Garter, with coronet or helm); this SVG is the shield only."
+ },
+ "cherleton-edward": {
+  "png": "Sir Edward Cherleton, 5th Baron Cherleton, KG.png",
+  "blazon": "Or, a lion rampant gules",
+  "box": "0.19,0.305,0.81,0.77",
+  "status": "accepted",
+  "note": "The PNG is a Garter stall plate (shield inside the Garter, with coronet or helm); this SVG is the shield only."
+ },
+ "neville-john": {
+  "png": "Sir John Neville, 3rd Baron Neville de Raby, KG.png",
+  "blazon": "Gules, a saltire argent",
+  "box": "0.19,0.305,0.81,0.77",
+  "status": "accepted",
+  "note": "The PNG is a Garter stall plate (shield inside the Garter, with coronet or helm); this SVG is the shield only."
+ },
+ "beauchamp-bergavenny": {
+  "png": "Sir William Beauchamp, 1st Baron Bergavenny, KG.png",
+  "blazon": "Gules, a fess between six crosses crosslet or, a crescent sable",
+  "box": "0.19,0.305,0.81,0.77",
+  "status": "generator-gap",
+  "note": "Not staged: the six crosses crosslet between the fess are not drawn; the crescent is drawn shield-sized."
  }
 }

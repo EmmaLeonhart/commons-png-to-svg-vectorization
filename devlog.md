@@ -147,3 +147,6 @@
   differ by design: Sodacan's style).
 - 14 more blocked on generator gaps (cross patonce, mascles, 'in pale', 'counterchanged', charges between
   a bend or chevron): `files/arms/generator-gaps.md`.
+- **7 Garter stall-plate shields** (Audley, Mohun, Devereux, Herbert, Rhys ap Thomas, Cherleton, John Neville)
+  rebuilt the same way (shield only; `box` in arms.json crops the PNG's shield). 30 arms staged in total.
+  6 more added to generator-gaps.md.

@@ -37,3 +37,17 @@ glyndwr	Tarian Glyndwr Arfbais.png	Quarterly or and gules, four lions rampant co
 rabenswalde	Wappen derer von Rabenswalde.png	Or, a lion rampant azure	True	0.792	0.858	accepted	
 wildgraf-dhaun	Wildgraf Dhaun COA.png	Or, a lion rampant gules crowned azure	True	0.764	0.828	accepted	
 woodville	WoodvilleArms.png	Argent, a fess and a canton gules	True	0.811	0.856	accepted	
+cabrera-viscounts	Escut dels vescomtes de Cabrera.png	Or, a goat passant sable, a bordure embattled sable	True	0.626	0.982	generator-gap	
+clermont-bishopric	Évêché clermont.png	Azure, a cross gules fimbriated or between four fleurs-de-lis or	True	0.477	0.855	generator-gap	
+terter	Coats of arms of the Terter dynasty.png	Tenne, a bull's head caboshed gules	True	0.718	0.952	generator-gap	
+braose	Arms Braose.png	Barry of six ermine and azure, a fess dancetty gules	True	0.600	0.858	needs-investigation	
+audley-james	Coat of Arms of Sir James Audeley, KG.png	Gules, fretty or, a label of three points argent	True	0.399	0.871	accepted	
+beauchamp-john	Coat of Arms of Sir John de Beauchamp, KG.png	Gules, a fess between six crosses crosslet or, on the fess a mullet sable	False	0.747	0.871	generator-gap	charge-no-layout: 6|between:fess
+lisle-john	Coat of Arms of Sir John de Lisle, 2nd Baron Lisle, KG.png	Or, a fess between two chevrons sable	True	0.610	0.873	generator-gap	charge-no-drawing: chevron
+mohun-john	Coat of Arms of Sir John de Mohun, 2nd Baron Mohun, KG.png	Or, a cross engrailed sable	True	0.766	0.873	accepted	
+devereux-walter	Coat of Arms of Sir Walter Devereux, 7th Baron Ferrers of Chartley, KG.png	Argent, a fess gules, in chief three torteaux	True	0.843	0.873	accepted	
+herbert-william	Coat of Arms of Sir William Herbert, 1st Baron Herbert, KG.png	Per pale azure and gules, three lions rampant argent	True	0.699	0.873	accepted	
+rhys-ap-thomas	Coat of arms of Sir Rhys ap Thomas, KG.png	Argent, a chevron between three ravens sable	True	0.731	0.871	accepted	
+cherleton-edward	Sir Edward Cherleton, 5th Baron Cherleton, KG.png	Or, a lion rampant gules	True	0.725	0.873	accepted	
+neville-john	Sir John Neville, 3rd Baron Neville de Raby, KG.png	Gules, a saltire argent	True	0.870	0.873	accepted	
+beauchamp-bergavenny	Sir William Beauchamp, 1st Baron Bergavenny, KG.png	Gules, a fess between six crosses crosslet or, a crescent sable	True	0.476	0.873	generator-gap	charge-no-layout: 6|between:fess

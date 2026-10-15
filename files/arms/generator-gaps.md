@@ -16,6 +16,12 @@ Pictures (Commons PNG left, generator right):
 | 'counterchanged' not applied to charges | Quarterly or and gules, four lions rampant counterchanged | glyndwr | none (silent) |
 | Roundels 'in chief' drawn as a scalloped chief | Argent, two bars gules, in chief three torteaux | moels | none (silent) |
 | Label of eleven points drawn with three, low on the shield | Or, a fess gules, a label of eleven points azure | quincy-saire | none (silent) |
+| Charges between a fess not drawn | Gules, a fess between six crosses crosslet or | beauchamp-john, beauchamp-bergavenny | |
+| 'on the fess a mullet' not parsed; a crescent with an ordinary drawn shield-sized | Gules, a fess between six crosses crosslet or, a crescent sable | beauchamp-john, beauchamp-bergavenny | |
+| Fess between two chevrons: chevrons dropped | Or, a fess between two chevrons sable | lisle-john | |
+| 'passant' goat drawn rearing; 'bordure embattled' drawn plain | Or, a goat passant sable, a bordure embattled sable | cabrera-viscounts | |
+| 'fimbriated' not drawn | Azure, a cross gules fimbriated or between four fleurs-de-lis or | clermont-bishopric | |
+| Charge between a beast's horns | (bull's head with a patriarchal cross between the horns) | terter | |
 | Bars embattled on one edge | (PNG: gules, two bars embattled argent) | berg-old | none |
 
 Also seen, minor: 'Gules, three crowns or' leaves thin dark arcs above the two upper crowns.
