@@ -25,6 +25,10 @@ Pictures (Commons PNG left, generator right):
 | No drawing for the cross of Toulouse | Gules, a cross clechy voided and pommetty or | toulouse-tripoli | charge-no-drawing: cross clechy, pommetty |
 | 'an orle of martlets' drawn as one large martlet | Quarterly, 1st and 4th or, a maunch gules; 2nd and 3rd barry of twelve argent and azure, an orle of martlets gules | hastings-john-2nd, hastings-pembroke | none (silent) |
 | Untinctured arms (Swedish medieval seals drawn in grey) have no tincture to blazon | (a lion rampant, untinctured) | COA-Bengt Magnusson, COA-staende lejon, COA-Birger Filipsson, Vingad pil, vingad pilspets | no concept for 'untinctured' |
+| 'crowned' not drawn on a lion | Or, a lion rampant gules crowned azure | wildgraf-dhaun, everstein | none (silent) |
+| 'a wheel' drawn as a scalloped wheel | Azure, a wheel argent | falkenstein | |
+| 'lozengy bendwise' not parsed | Quarterly, 1st and 4th sable, a lion rampant or crowned gules; 2nd and 3rd lozengy bendwise argent and azure | wittelsbach-bavaria | not fully parsed |
+| Charges beside a bend ('on a bend ... between two lions') not drawn | Argent, on a bend azure three crescents or between two lions rampant purpure | barbosa | |
 | Bars embattled on one edge | (PNG: gules, two bars embattled argent) | berg-old | none |
 
 Also seen, minor: 'Gules, three crowns or' leaves thin dark arcs above the two upper crowns.

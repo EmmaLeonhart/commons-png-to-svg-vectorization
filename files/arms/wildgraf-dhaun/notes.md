@@ -6,7 +6,7 @@ Blazon used: **Or, a lion rampant gules crowned azure** (fully parsed: True)
 
 Built with Emma's Sodacan-arms-svg-generator at commit 8d8ab870, imported read-only by
 `tools/generator_render.py`; the shield and drawings are in Sodacan's Commons style, not the PNG
-artist's. Status: **accepted**. 
+artist's. Status: **generator-gap**. Not staged: the lion's azure crown is not drawn.
 
 Check against the PNG (`tools/arms_compare.py`): tincture agreement 0.764, silhouette IoU 0.828
 (the silhouette differs because Sodacan's heater shield is a different shape).

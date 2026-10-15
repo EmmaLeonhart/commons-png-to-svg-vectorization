@@ -159,3 +159,6 @@
 - Quartered Garter plates: **Percy, 4th Earl of Northumberland** rebuilt (Percy quartering Lucy); Hastings
   (orle of martlets) and untinctured Swedish arms added to generator-gaps.md. `files/arms/person_arms_status.tsv`:
   where each of the 1,805 order.life people with arms has an SVG.
+- **Achievement shields** (shield only, upright): Hohenberg, Rischach, Saffenburg, Žegligović rebuilt. Wildgraf
+  Dhaun un-staged: accepted earlier, but its lion's crown is not drawn (missed by eye the first time); it and
+  Everstein, Falkenstein, Wittelsbach-Bavaria, Barbosa are logged in generator-gaps.md.

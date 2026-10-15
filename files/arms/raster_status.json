@@ -7,6 +7,10 @@
   "raster-original",
   "manuscript painting, seal or photo"
  ],
+ "Arms Braose.png": [
+  "needs-investigation",
+  "documented blazon not found yet"
+ ],
  "Arms of Richard, count of Clare referring to his knighting.png": [
   "raster-original",
   "manuscript painting, seal or photo"
@@ -42,6 +46,30 @@
  "Buchau Archivfindbuch Wappen.jpg": [
   "raster-original",
   "manuscript painting, seal, carving or photo"
+ ],
+ "COA Casa de Traba.png": [
+  "generator-gap",
+  "Vert, five fetters or: no fetter drawing"
+ ],
+ "COA-Bengt Magnusson (lejon).png": [
+  "generator-gap",
+  "untinctured arms (grey): the generator has no untinctured concept"
+ ],
+ "COA-Birger Filipsson (Aspenasatten).png": [
+  "generator-gap",
+  "untinctured arms (grey): the generator has no untinctured concept"
+ ],
+ "COA-family-sv-Vingad Pil.png": [
+  "generator-gap",
+  "untinctured arms (grey): the generator has no untinctured concept"
+ ],
+ "COA-staende lejon utan tinktur.png": [
+  "generator-gap",
+  "untinctured arms (grey): the generator has no untinctured concept"
+ ],
+ "COA-sv-vingad pilspets.png": [
+  "generator-gap",
+  "untinctured arms (grey): the generator has no untinctured concept"
  ],
  "Coat of arms of Kingdom of Bulgaria (1927-1946).png": [
   "vector-exists",
@@ -86,6 +114,10 @@
  "Escudo de Asturias.png": [
   "vector-exists",
   "Escudo de Asturias.svg"
+ ],
+ "Escudo de la familia Téllez de Meneses.png": [
+  "generator-gap",
+  "Or, a bend of chain azure: no chain drawing"
  ],
  "Escut de Nuno Sanç segons pintures murals del saló del Tinell.gif": [
   "vector-exists",

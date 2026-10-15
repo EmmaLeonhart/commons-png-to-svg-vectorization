@@ -35,7 +35,7 @@ fitzhamon	RobertFitzHamonAttributedArms.PNG	Azure, a lion rampant guardant or	Tr
 county-of-portugal	Shield of the County of Portugal (1095-1139).png	Argent, a cross azure	True	0.900	0.947	accepted	
 glyndwr	Tarian Glyndwr Arfbais.png	Quarterly or and gules, four lions rampant counterchanged	True	0.752	0.855	generator-gap	
 rabenswalde	Wappen derer von Rabenswalde.png	Or, a lion rampant azure	True	0.792	0.858	accepted	
-wildgraf-dhaun	Wildgraf Dhaun COA.png	Or, a lion rampant gules crowned azure	True	0.764	0.828	accepted	
+wildgraf-dhaun	Wildgraf Dhaun COA.png	Or, a lion rampant gules crowned azure	True	0.764	0.828	generator-gap	
 woodville	WoodvilleArms.png	Argent, a fess and a canton gules	True	0.811	0.856	accepted	
 cabrera-viscounts	Escut dels vescomtes de Cabrera.png	Or, a goat passant sable, a bordure embattled sable	True	0.626	0.982	generator-gap	
 clermont-bishopric	Évêché clermont.png	Azure, a cross gules fimbriated or between four fleurs-de-lis or	True	0.477	0.855	generator-gap	
@@ -60,3 +60,11 @@ toulouse-tripoli	Coat of arms of the House of Toulouse-Tripoli.png	Gules, a cros
 percy-henry-4th	Coat of arms of Sir Henry Percy, 4th Earl of Northumberland, KG.png	Quarterly, 1st and 4th or, a lion rampant azure; 2nd and 3rd gules, three lucies hauriant argent	True	0.643	0.873	accepted	
 hastings-john-2nd	Sir John Hastings, 2nd Earl of Pembroke, KG.png	Quarterly, 1st and 4th or, a maunch gules; 2nd and 3rd barry of twelve argent and azure, an orle of martlets gules	True	0.478	0.873	generator-gap	
 hastings-pembroke	Coat of Arms - Hastings, Earls of Pembroke, and Barons Hastings.png	Quarterly, 1st and 4th or, a maunch gules; 2nd and 3rd barry of twelve argent and azure, an orle of martlets gules	True	0.517	0.872	generator-gap	
+everstein	Everstein-Wappen.png	Azure, a lion rampant argent crowned or	True	0.459	0.656	generator-gap	
+falkenstein	Falkenstein-St-Wappen.png	Azure, a wheel argent	True	0.503	0.673	generator-gap	
+hohenberg	Hohenberg-Wappen ZW.png	Per fess argent and gules	True	0.671	0.353	accepted	
+rischach	Rischach-Wappen ZW.png	Or, a boar's head couped sable	True	0.391	0.612	accepted	
+saffenburg	Saffenburg-Wappen.png	Sable, an eagle displayed or	True	0.420	0.578	accepted	
+wittelsbach-bavaria	Wappen des Herzogs in Bayern (Haus Wittelsbach).png	Quarterly, 1st and 4th sable, a lion rampant or crowned gules; 2nd and 3rd lozengy bendwise argent and azure	False	0.319	0.482	generator-gap	
+zegligovic	Zegligovic Coat of Arms.png	Sable, on a bend or three roses gules	True	0.698	0.739	accepted	
+barbosa	Barbosa.png	Argent, on a bend azure three crescents or between two lions rampant purpure	True	0.461	0.829	generator-gap	

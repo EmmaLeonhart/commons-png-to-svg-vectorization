@@ -255,8 +255,8 @@ Q55320	Centulle IV, Count of Astarac	Q28665685	Blason du comté d'Astarac.svg	sv
 Q55324	James III of Majorca	Q727402	Royal Coat and Shield of Majorca c.1276-14th Century.svg	svg	Royal Coat and Shield of Majorca c.1276-14th Century.svg
 Q55332	James IV of Majorca	Q878998	Royal Coat and Shield of Majorca c.1276-14th Century.svg	svg	Royal Coat and Shield of Majorca c.1276-14th Century.svg
 Q55335	Ferdinand of Majorca-Aragon	Q105961825	Royal Coat and Shield of Majorca c.1276-14th Century.svg	svg	Royal Coat and Shield of Majorca c.1276-14th Century.svg
-Q55339	Konrad von Reischach zu Jungnau	Q51806754	Rischach-Wappen ZW.png	todo	
-Q55343	Michael von Reischach	Q52128552	Rischach-Wappen ZW.png	todo	
+Q55339	Konrad von Reischach zu Jungnau	Q51806754	Rischach-Wappen ZW.png	rebuilt	upload/arms-rischach/rischach.svg
+Q55343	Michael von Reischach	Q52128552	Rischach-Wappen ZW.png	rebuilt	upload/arms-rischach/rischach.svg
 Q55359	John Jacob, Marquess of Montferrat	Q589230	Arms of the house of Palaiologos-Montferrat (2).svg	svg	Arms of the house of Palaiologos-Montferrat (2).svg
 Q55367	Peter II, Count of Urgell	Q2439723	Arms of Peter II, Count of Urgell.svg	svg	Arms of Peter II, Count of Urgell.svg
 Q55371	James II, Count of Urgell	Q925944	Arms of Peter II, Count of Urgell.svg	svg	Arms of Peter II, Count of Urgell.svg
@@ -280,9 +280,9 @@ Q55767	Frederick I, Marquess of Saluzzo	Q3741779	Blason marquisat it Saluces.svg
 Q55771	Hugh, Count of Brienne	Q1635924	Blason maison fr de Brienne.svg	svg	Blason maison fr de Brienne.svg
 Q55775	William I de la Roche	Q264233	Blason fam fr de La Roche (Ducs d'Athènes).svg	svg	Blason fam fr de La Roche (Ducs d'Athènes).svg
 Q55779	Guy II de la Roche	Q717726	Blason fam fr de La Roche (Ducs d'Athènes).svg	svg	Blason fam fr de La Roche (Ducs d'Athènes).svg
-Q55851	Dejan	Q3622810	Zegligovic Coat of Arms.png	todo	
-Q55855	Jovan Dragaš	Q3544432	Zegligovic Coat of Arms.png	todo	
-Q55859	Constantine Dragaš	Q887149	Zegligovic Coat of Arms.png	todo	
+Q55851	Dejan	Q3622810	Zegligovic Coat of Arms.png	rebuilt	upload/arms-zegligovic/zegligovic.svg
+Q55855	Jovan Dragaš	Q3544432	Zegligovic Coat of Arms.png	rebuilt	upload/arms-zegligovic/zegligovic.svg
+Q55859	Constantine Dragaš	Q887149	Zegligovic Coat of Arms.png	rebuilt	upload/arms-zegligovic/zegligovic.svg
 Q55967	Demetrius of Imereti	Q3044501	Geo imereti.JPG	todo	
 Q55991	Elizabeth Giedyminowicz	Q16543490	COA of Gediminaičiai dynasty Lithuania.svg	svg	COA of Gediminaičiai dynasty Lithuania.svg
 Q56011	Casimir III the Great	Q53457	POL Przemysł II 1295 COA.svg	svg	POL Przemysł II 1295 COA.svg
@@ -459,7 +459,7 @@ Q114794	Artau III de Pallars Sobirà	Q8205157	Escut dels comtes de Pallars.svg	s
 Q114806	Ponc I de Cabrera	Q17300732	Escut dels vescomtes de Cabrera.png	generator-gap	cabrera-viscounts
 Q114808	Guerau II de Cabrera	Q11924822	Escut dels vescomtes de Cabrera.png	generator-gap	cabrera-viscounts
 Q114816	Raymond VI de Pallars Jussà	Q11944654	Escut dels comtes de Pallars.svg	svg	Escut dels comtes de Pallars.svg
-Q114820	Sancho Nunes de Barbosa	Q10367517	Barbosa.png	todo	
+Q114820	Sancho Nunes de Barbosa	Q10367517	Barbosa.png	generator-gap	barbosa
 Q114838	Sancho VI of Navarre	Q318258	Sello de Sancho el Sabio.svg	svg	Sello de Sancho el Sabio.svg
 Q114840	Blanche of Navarre, Queen of Castile	Q220444	File-Evolution Coat of Arms of Navarre-2.svg	svg	File-Evolution Coat of Arms of Navarre-2.svg
 Q114842	Margaret of Navarre	Q257202	File-Evolution Coat of Arms of Navarre-2.svg	svg	File-Evolution Coat of Arms of Navarre-2.svg
@@ -487,7 +487,7 @@ Q116000	Raymond V, Count of Toulouse	Q478057	Blason Languedoc.svg	svg	Blason Lan
 Q116004	Faidiva of Toulouse	Q5429645	Blason Languedoc.svg	svg	Blason Languedoc.svg
 Q116030	Urraca of Portugal	Q2406584	Coat of Arms of Urraca and Theresa of Portugal as queens of León.svg	svg	Coat of Arms of Urraca and Theresa of Portugal as queens of León.svg
 Q116034	Fernando Afonso of Portugal	Q727203	Blason Alphonse de Portugal (Salles des Croisades).svg	svg	Blason Alphonse de Portugal (Salles des Croisades).svg
-Q116046	Gonzalo Fernandez de Traba	Q5582194	COA Casa de Traba.png	todo	
+Q116046	Gonzalo Fernandez de Traba	Q5582194	COA Casa de Traba.png	generator-gap	Vert, five fetters or: no fetter drawing
 Q116048	Ferdinand II of León	Q316768	Shield of Ferdinand II of Leon.svg	svg	Shield of Ferdinand II of Leon.svg
 Q116050	Fernando Núñez de Lara	Q5444850	House of Lara Ornamentado COA.svg	svg	House of Lara Ornamentado COA.svg
 Q116052	Álvaro Núñez de Lara	Q8076733	House of Lara Ornamentado COA.svg	svg	House of Lara Ornamentado COA.svg
@@ -644,7 +644,7 @@ Q118328	Sancho VII of Navarre	Q318272	Coat of arms of Sancho VII of Navarre.svg	
 Q118332	Berengaria of Navarre	Q229807	Armoiries Bérangère Navarre.svg	svg	Armoiries Bérangère Navarre.svg
 Q118334	Alfonso VIII of Castile	Q295268	Royal Arms of Castille (1214-15th Century).svg	svg	Royal Arms of Castille (1214-15th Century).svg
 Q118340	Aimery III of Narbonne	Q547318	Blason Vicomtes de Narbonne.svg	svg	Blason Vicomtes de Narbonne.svg
-Q118363	Alfonso Téllez I de Meneses	Q521492	Escudo de la familia Téllez de Meneses.png	todo	
+Q118363	Alfonso Téllez I de Meneses	Q521492	Escudo de la familia Téllez de Meneses.png	generator-gap	Or, a bend of chain azure: no chain drawing
 Q118403	Maud of Savoy	Q234234	Arms of the house of Savoy (Ancient).svg	svg	Arms of the house of Savoy (Ancient).svg
 Q118603	Manrique Pérez de Lara	Q6751540	House of Lara COA.svg	svg	House of Lara COA.svg
 Q118679	Alphonse Jourdain	Q561182	Blason Languedoc.svg	svg	Blason Languedoc.svg
@@ -701,13 +701,13 @@ Q119656	Bermond Ier d'Uzès	Q2897311	Blason seigneurs Uzès.svg	svg	Blason seign
 Q119664	Raymond VI, Count of Toulouse	Q356564	Blason Languedoc.svg	svg	Blason Languedoc.svg
 Q119672	Bernard III of Comminges	Q659649	Blason comté fr Comminges (ancien).svg	svg	Blason comté fr Comminges (ancien).svg
 Q119674	Bernard IV of Comminges	Q822491	Blason comté fr Comminges (ancien).svg	svg	Blason comté fr Comminges (ancien).svg
-Q119684	Rodrigo Perez de Traba	Q7357400	COA Casa de Traba.png	todo	
+Q119684	Rodrigo Perez de Traba	Q7357400	COA Casa de Traba.png	generator-gap	Vert, five fetters or: no fetter drawing
 Q119730	Philip I	Q469588	Blason Comté de Flandre.svg	svg	Blason Comté de Flandre.svg
 Q119732	Odo III, Duke of Burgundy	Q529944	Blason Ducs Bourgogne (ancien).svg	svg	Blason Ducs Bourgogne (ancien).svg
-Q119738	Gómez González de Traba	Q5626089	COA Casa de Traba.png	todo	
+Q119738	Gómez González de Traba	Q5626089	COA Casa de Traba.png	generator-gap	Vert, five fetters or: no fetter drawing
 Q119746	Nuño González de Lara	Q6047242	House of Lara Ornamentado COA.svg	svg	House of Lara Ornamentado COA.svg
 Q119752	Douce II, Countess of Provence	Q268095	Blason d'Aragon.svg	svg	Blason d'Aragon.svg
-Q119754	Albrecht IV. von Everstein	Q55100844	Everstein-Wappen.png	todo	
+Q119754	Albrecht IV. von Everstein	Q55100844	Everstein-Wappen.png	generator-gap	everstein
 Q119756	Margaret of France	Q231723	Blason pays fr France ancien.svg	svg	Blason pays fr France ancien.svg
 Q119758	Alys, Countess of the Vexin	Q235462	Arms of the Kings of France (France Ancien).svg	svg	Arms of the Kings of France (France Ancien).svg
 Q119772	Baldwin I of Jerusalem	Q51717	Blason Royaume de Jérusalem.svg	svg	Blason Royaume de Jérusalem.svg
@@ -761,7 +761,7 @@ Q120770	Hugh of Montgomery, 2nd Earl of Shrewsbury	Q718907	Blason famille fr de 
 Q120772	Arnulf de Montgomery	Q697750	Blason famille fr de Montgommery.svg	svg	Blason famille fr de Montgommery.svg
 Q120774	Robert of Bellême, 3rd Earl of Shrewsbury	Q669189	Blason famille fr de Montgommery.svg	svg	Blason famille fr de Montgommery.svg
 Q120824	Welf I, Duke of Bavaria	Q550343	Wappen der Welfen aus Steingaden.jpg	raster-original	manuscript painting, seal, carving or photo
-Q120828	Welf II, Duke of Bavaria	Q706674	Wappen des Herzogs in Bayern (Haus Wittelsbach).png	todo	
+Q120828	Welf II, Duke of Bavaria	Q706674	Wappen des Herzogs in Bayern (Haus Wittelsbach).png	generator-gap	wittelsbach-bavaria
 Q120842	Agatha of Lorraine	Q4691505	Blason Lorraine.svg	svg	Blason Lorraine.svg
 Q120844	Beatrice I, Countess of Burgundy	Q234219	Blason Bourgogne-comté ancien(aigle).svg	svg	Blason Bourgogne-comté ancien(aigle).svg
 Q120872	Dirk V, Count of Holland	Q653110	Counts of Holland Arms.svg	svg	Counts of Holland Arms.svg
@@ -877,8 +877,8 @@ Q122593	Thierry de Loos	Q48980855	Blason fr burelé 10.svg	svg	Blason fr burelé
 Q122593	Thierry de Loos	Q48980855	CoA Loon County.svg	svg	CoA Loon County.svg
 Q122605	Christian I, Count of Oldenburg	Q99687	BlasonChristian Ier (1143-1167), comte d'Oldenbourg.svg	svg	BlasonChristian Ier (1143-1167), comte d'Oldenbourg.svg
 Q122607	Beatrix von Hallermund	Q75247100	Blason-argent-3-roses-gueules.svg	svg	Blason-argent-3-roses-gueules.svg
-Q122629	Adalbert von Saffenberg	Q347973	Saffenburg-Wappen.png	todo	
-Q122631	Adolf I. von Saffenberg	Q362592	Saffenburg-Wappen.png	todo	
+Q122629	Adalbert von Saffenberg	Q347973	Saffenburg-Wappen.png	rebuilt	upload/arms-saffenburg/saffenburg.svg
+Q122631	Adolf I. von Saffenberg	Q362592	Saffenburg-Wappen.png	rebuilt	upload/arms-saffenburg/saffenburg.svg
 Q122657	Henry the Courageous	Q461045	Armoiries Brabant.svg	svg	Armoiries Brabant.svg
 Q122667	Walram I of Nassau	Q316847	Nassau wapen.svg	svg	Nassau wapen.svg
 Q122669	Ruprecht III of Nassau	Q2176543	Nassau wapen.svg	svg	Nassau wapen.svg
@@ -1067,10 +1067,10 @@ Q125042	Roger II de Couserans	Q16673078	Escut dels comtes de Pallars.svg	svg	Esc
 Q125118	Berengaria of León	Q457667	Arms of Alfonso IX of León.svg	svg	Arms of Alfonso IX of León.svg
 Q125156	Alice of Vergy	Q1703501	Blason maison fr de Vergy.svg	svg	Blason maison fr de Vergy.svg
 Q125158	Hugh IV, Duke of Burgundy	Q536174	Blason Ducs Bourgogne (ancien).svg	svg	Blason Ducs Bourgogne (ancien).svg
-Q125168	Rodrigo Gómez de Traba	Q83813661	COA Casa de Traba.png	todo	
+Q125168	Rodrigo Gómez de Traba	Q83813661	COA Casa de Traba.png	generator-gap	Vert, five fetters or: no fetter drawing
 Q125174	Juan Núñez I de Lara	Q6300615	House of Lara Ornamentado COA.svg	svg	House of Lara Ornamentado COA.svg
 Q125176	Nuño González de Lara	Q5643854	House of Lara Ornamentado COA.svg	svg	House of Lara Ornamentado COA.svg
-Q125186	Konrad IV von Everstein	Q55100849	Everstein-Wappen.png	todo	
+Q125186	Konrad IV von Everstein	Q55100849	Everstein-Wappen.png	generator-gap	everstein
 Q125220	Albert de Rethel	Q60676764	Blason comtes de Rethel.svg	svg	Blason comtes de Rethel.svg
 Q125224	Hugh II, Count of Rethel	Q1823360	Blason comtes de Rethel.svg	svg	Blason comtes de Rethel.svg
 Q125226	Isabella II of Jerusalem	Q233809	Blason Royaume de Jérusalem.svg	svg	Blason Royaume de Jérusalem.svg
@@ -1221,7 +1221,7 @@ Q128135	Arnold II, Count of Cleves	Q695426	Blason DE Clèves.svg	svg	Blason DE C
 Q128139	Dietrich III, Count of Cleves	Q832669	Blason DE Clèves.svg	svg	Blason DE Clèves.svg
 Q128139	Dietrich III, Count of Cleves	Q832669	Armoiries Clèves.svg	svg	Armoiries Clèves.svg
 Q128187	Frederick II, Count of Diessen	Q100760	Wappen Andechs 2.svg	svg	Wappen Andechs 2.svg
-Q128257	Burkhard II of Zollern-Hohenberg	Q20500613	Hohenberg-Wappen ZW.png	todo	
+Q128257	Burkhard II of Zollern-Hohenberg	Q20500613	Hohenberg-Wappen ZW.png	rebuilt	upload/arms-hohenberg/hohenberg.svg
 Q128259	Burchard III von Zollern-Hohenberg	Q44191727	Wappen Hohenzollern.svg	svg	Wappen Hohenzollern.svg
 Q128359	Azzo VI of Este	Q2291250	Arms of the house of Este (1).svg	svg	Arms of the house of Este (1).svg
 Q128367	Matilda II of Boulogne	Q257001	Blason Dammartin.svg	svg	Blason Dammartin.svg
@@ -1334,7 +1334,7 @@ Q137098	Teodoric el Tresorer	Q3524601	Blason autun.svg	svg	Blason autun.svg
 Q137099	Eccard de Mâcon	Q3046904	Blason autun.svg	svg	Blason autun.svg
 Q137100	Bernard	Q2898859	Blason autun.svg	svg	Blason autun.svg
 Q137254	Tristan	Q954012	Blason imaginaire de Tristan.svg	svg	Blason imaginaire de Tristan.svg
-Q137916	Reginald de Braose	Q7308920	Arms Braose.png	todo	
+Q137916	Reginald de Braose	Q7308920	Arms Braose.png	needs-investigation	documented blazon not found yet
 Q138226	Macbeth	Q244403	Royal Arms of the Kingdom of Scotland.svg	svg	Royal Arms of the Kingdom of Scotland.svg
 Q138608	Ednyfed Fychan	Q2745179	Arfau Ednyfed Fychan, yn ôl Gruffudd Hiraethog.png	raster-original	manuscript painting, seal or photo
 Q138727	Cadwgan ab Elystan	Q75531288	COA Cadwgan ap Elystan Glodrydd.svg	svg	COA Cadwgan ap Elystan Glodrydd.svg
@@ -1440,7 +1440,7 @@ Q143799	Alice de Warenne	Q75869508	Armoiries Vermandois.svg	svg	Armoiries Verman
 Q143800	Gundred de Warenn	Q102112662	Armoiries Vermandois.svg	svg	Armoiries Vermandois.svg
 Q143850	Otto gen. Stosch von Kunitz	Q131731705	Stosch-Wappen.png	todo	
 Q143960	Hugh II of Vaudémont	Q825262	Vaudemont Arms.svg	svg	Vaudemont Arms.svg
-Q144007	Friedrich Wildgraf von Kyrburg	Q17123235	Wildgraf Dhaun COA.png	rebuilt	upload/arms-wildgraf-dhaun/wildgraf-dhaun.svg
+Q144007	Friedrich Wildgraf von Kyrburg	Q17123235	Wildgraf Dhaun COA.png	generator-gap	wildgraf-dhaun
 Q144009	Emicho Wildgraf von Kyrburg	Q1335693	Fürstengang Tafel 29 - Wildgraf Emicho.jpg	raster-original	manuscript painting, seal, carving or photo
 Q144491	Maurice FitzGerald, 3rd Lord of Offaly	Q3852421	FitzGerald arms.svg	svg	FitzGerald arms.svg
 Q144781	Saer de Quincy, 1st Earl of Winchester	Q1703908	Coat of arms of Saire de Quincy, Earl of Winchester.png	generator-gap	quincy-saire
@@ -1523,8 +1523,8 @@ Q146505	Robert II of Harcourt	Q2214929	Blason maison fr d'Harcourt.svg	svg	Blaso
 Q146526	Enguerrand, Count of Saint-Pol	Q3336098	De-Saint-Pol-Campdavene.svg	svg	De-Saint-Pol-Campdavene.svg
 Q146527	Hugues de Saint-Pol	Q1521994	De-Saint-Pol-Campdavene.svg	svg	De-Saint-Pol-Campdavene.svg
 Q146532	Birger Jarl	Q316828	Blason Birger jarl.svg	svg	Blason Birger jarl.svg
-Q146533	Eskil Magnusson	Q3312279	COA-staende lejon utan tinktur.png	todo	
-Q146536	Ulf Fase	Q2954536	COA-sv-vingad pilspets.png	todo	
+Q146533	Eskil Magnusson	Q3312279	COA-staende lejon utan tinktur.png	generator-gap	untinctured arms (grey): the generator has no untinctured concept
+Q146536	Ulf Fase	Q2954536	COA-sv-vingad pilspets.png	generator-gap	untinctured arms (grey): the generator has no untinctured concept
 Q146554	Eric XI of Sweden	Q350202	COA sv Erik Eriksson (Erikska aetten).png	generator-gap	erik-eriksson
 Q146559	Herman II, Count of Weimar-Orlamünde	Q1611591	Blason Principauté d'Anhalt (XIIIe siècle).svg	svg	Blason Principauté d'Anhalt (XIIIe siècle).svg
 Q146567	Niklot	Q149674	Ruexner mecklenburg.jpg	raster-original	manuscript painting, seal, carving or photo
@@ -1631,15 +1631,15 @@ Q147453	Alexander Nevsky	Q174044	Alexander Nevsky Emblem.jpg	raster-original	man
 Q147660	Leonhard Wlast	Q131731704	Stosch-Wappen.png	todo	
 Q147699	Haakon IV of Norway	Q316039	Haakon4.jpg	raster-original	manuscript painting, seal, carving or photo
 Q147701	Ulf Holmgersson Ama	Q6219139	COA family sv Ama.svg	svg	COA family sv Ama.svg
-Q147719	Birger Filipsson	Q5576547	COA-Birger Filipsson (Aspenasatten).png	todo	
+Q147719	Birger Filipsson	Q5576547	COA-Birger Filipsson (Aspenasatten).png	generator-gap	untinctured arms (grey): the generator has no untinctured concept
 Q147725	Azzo V d'Este	Q2875304	Arms of the house of Este (1).svg	svg	Arms of the house of Este (1).svg
 Q147731	Alv Erlingsson	Q448091	Sarpsborg komm.svg	svg	Sarpsborg komm.svg
 Q147741	Magnus VI of Norway	Q334673	Royal arms of Norway.svg	svg	Royal arms of Norway.svg
 Q147745	Giric	Q139139	Royal Arms of the Kingdom of Scotland.svg	svg	Royal Arms of the Kingdom of Scotland.svg
 Q147867	Renaud of Vaudémont	Q3424987	Vaudemont Arms.svg	svg	Vaudemont Arms.svg
 Q147869	Henry II of Vaudémont	Q826554	Vaudemont Arms.svg	svg	Vaudemont Arms.svg
-Q148008	Philipp II.	Q23060885	Falkenstein-St-Wappen.png	todo	
-Q148010	Philipp IV Graf von Falkenstein-Bolanden	Q23060905	Falkenstein-St-Wappen.png	todo	
+Q148008	Philipp II.	Q23060885	Falkenstein-St-Wappen.png	generator-gap	falkenstein
+Q148010	Philipp IV Graf von Falkenstein-Bolanden	Q23060905	Falkenstein-St-Wappen.png	generator-gap	falkenstein
 Q148381	Richard II de Beaumont-au-Maine	Q3430892	Blason Hubert de Beaumont.svg	svg	Blason Hubert de Beaumont.svg
 Q148382	Agnès of Beaumont-au-Maine	Q2827021	Blason Hubert de Beaumont.svg	svg	Blason Hubert de Beaumont.svg
 Q148385	William IV of Garlande	Q110383327	Blason-or-2-fasces-gueules.svg	svg	Blason-or-2-fasces-gueules.svg
@@ -1792,12 +1792,12 @@ Q150605	George Grey, 2nd Earl of Kent	Q4160474	Coat of Arms of Edmund Grey, 1st 
 Q150610	Henry Grey, 4th Earl of Kent	Q5722230	Coat of Arms of Edmund Grey, 1st Earl of Kent.svg	svg	Coat of Arms of Edmund Grey, 1st Earl of Kent.svg
 Q151225	Guillaume III Crespin, Seigneur du Bec	Q116005805	Blason famille fr du Bec-Crespin.svg	svg	Blason famille fr du Bec-Crespin.svg
 Q151236	Simon II of Clermont	Q2287568	Blason Comtes fr de Clermont-en-Beauvaisis.svg	svg	Blason Comtes fr de Clermont-en-Beauvaisis.svg
-Q151240	Elof	Q5710116	COA-family-sv-Vingad Pil.png	todo	
+Q151240	Elof	Q5710116	COA-family-sv-Vingad Pil.png	generator-gap	untinctured arms (grey): the generator has no untinctured concept
 Q151244	Gregers Birgersson	Q4959219	COA family sv Bjälboättens oäkta gren.svg	svg	COA family sv Bjälboättens oäkta gren.svg
 Q151245	Rikissa Birgersdotter	Q441785	Blason Birger jarl.svg	svg	Blason Birger jarl.svg
 Q151246	Magnus III of Sweden	Q350220	COA family sv Magnus Ladulås.svg	svg	COA family sv Magnus Ladulås.svg
-Q151257	Karl Ulfsson	Q5900718	COA-sv-vingad pilspets.png	todo	
-Q151261	Bengt Magnusson	Q5569990	COA-Bengt Magnusson (lejon).png	todo	
+Q151257	Karl Ulfsson	Q5900718	COA-sv-vingad pilspets.png	generator-gap	untinctured arms (grey): the generator has no untinctured concept
+Q151261	Bengt Magnusson	Q5569990	COA-Bengt Magnusson (lejon).png	generator-gap	untinctured arms (grey): the generator has no untinctured concept
 Q151278	Ingeborg of Denmark, Queen of Norway	Q287511	National Coat of arms of Denmark no crown.svg	svg	National Coat of arms of Denmark no crown.svg
 Q151283	Valdemar III, Duke of Schleswig	Q551210	National Coat of arms of Denmark no crown.svg	svg	National Coat of arms of Denmark no crown.svg
 Q153601	Diepold von Berg	Q1221211	BistumswappenPassau.JPG	raster-original	manuscript painting, seal, carving or photo

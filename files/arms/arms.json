@@ -191,7 +191,8 @@
  "wildgraf-dhaun": {
   "png": "Wildgraf Dhaun COA.png",
   "blazon": "Or, a lion rampant gules crowned azure",
-  "status": "accepted"
+  "status": "generator-gap",
+  "note": "Not staged: the lion's azure crown is not drawn."
  },
  "woodville": {
   "png": "WoodvilleArms.png",
@@ -346,5 +347,61 @@
   "blazon": "Quarterly, 1st and 4th or, a maunch gules; 2nd and 3rd barry of twelve argent and azure, an orle of martlets gules",
   "status": "generator-gap",
   "note": "Not staged: the orle of martlets is drawn as one large martlet."
+ },
+ "everstein": {
+  "png": "Everstein-Wappen.png",
+  "blazon": "Azure, a lion rampant argent crowned or",
+  "box": "0.18,0.64,0.68,0.99",
+  "note": "Not staged: the lion's crown is not drawn.",
+  "status": "generator-gap"
+ },
+ "falkenstein": {
+  "png": "Falkenstein-St-Wappen.png",
+  "blazon": "Azure, a wheel argent",
+  "box": "0.19,0.58,0.78,0.97",
+  "note": "Not staged: the wheel is drawn as a scalloped (Catherine-type) wheel, not the PNG's plain cart wheel.",
+  "status": "generator-gap"
+ },
+ "hohenberg": {
+  "png": "Hohenberg-Wappen ZW.png",
+  "blazon": "Per fess argent and gules",
+  "box": "0.2,0.5,0.96,0.98",
+  "note": "The PNG is a full achievement (helm, crest, mantling); this SVG is the shield only, upright where the PNG's is tilted.",
+  "status": "accepted"
+ },
+ "rischach": {
+  "png": "Rischach-Wappen ZW.png",
+  "blazon": "Or, a boar's head couped sable",
+  "box": "0.13,0.5,0.96,0.98",
+  "note": "The PNG is a full achievement (helm, crest, mantling); this SVG is the shield only, upright where the PNG's is tilted. The PNG's boar's head faces sinister with its bristles raised; the generator's faces dexter.",
+  "status": "accepted"
+ },
+ "saffenburg": {
+  "png": "Saffenburg-Wappen.png",
+  "blazon": "Sable, an eagle displayed or",
+  "box": "0.08,0.51,0.75,0.96",
+  "note": "The PNG is a full achievement (helm, crest, mantling); this SVG is the shield only, upright where the PNG's is tilted.",
+  "status": "accepted"
+ },
+ "wittelsbach-bavaria": {
+  "png": "Wappen des Herzogs in Bayern (Haus Wittelsbach).png",
+  "blazon": "Quarterly, 1st and 4th sable, a lion rampant or crowned gules; 2nd and 3rd lozengy bendwise argent and azure",
+  "box": "0.14,0.57,0.70,0.98",
+  "note": "Not staged: 'lozengy bendwise' does not parse, so the 2nd and 3rd quarters are blank.",
+  "status": "generator-gap"
+ },
+ "zegligovic": {
+  "png": "Zegligovic Coat of Arms.png",
+  "blazon": "Sable, on a bend or three roses gules",
+  "box": "0.19,0.53,0.66,1.0",
+  "note": "The PNG is a full achievement (helm, crest, mantling); this SVG is the shield only, upright where the PNG's is tilted.",
+  "status": "accepted"
+ },
+ "barbosa": {
+  "png": "Barbosa.png",
+  "blazon": "Argent, on a bend azure three crescents or between two lions rampant purpure",
+  "box": "0.25,0.41,0.72,0.90",
+  "note": "Not staged: the two lions beside the bend are not drawn.",
+  "status": "generator-gap"
  }
 }
