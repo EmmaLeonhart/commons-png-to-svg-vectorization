@@ -12,8 +12,8 @@
   "manuscript painting, seal or photo"
  ],
  "Arms Braose.png": [
-  "needs-investigation",
-  "documented blazon not found yet"
+  "generator-gap",
+  "documented blazon 'Barry of six vair gules and ermine and azure' (description page) does not parse"
  ],
  "Arms of Richard, count of Clare referring to his knighting.png": [
   "raster-original",
@@ -84,8 +84,8 @@
   "State Achievement of Bulgaria 1908-1946.svg"
  ],
  "Coat of arms of Sir Edward Stanley, 1st Baron Monteagle, KG.png": [
-  "needs-investigation",
-  "quartered Garter plate (Stanley, Man, Warenne...): blazon not settled"
+  "generator-gap",
+  "blazon from the description page (Stanley, Lathom, Warenne, Man): legs of Man not drawn, not fully parsed"
  ],
  "Coat of arms of the house of Entença.png": [
   "vector-exists",

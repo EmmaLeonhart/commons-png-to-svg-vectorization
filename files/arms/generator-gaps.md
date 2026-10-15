@@ -33,6 +33,8 @@ Pictures (Commons PNG left, generator right):
 | No drawing for panther, stork, pall wavy | Gules, a panther rampant argent / Azure, a stork argent / Argent, a pall wavy azure between three roses gules | Eppenstein, Buśk, Springe | charge-no-drawing |
 | 'a castle of three towers' drawn as one round tower | Quarterly, 1st and 4th azure, a castle of three towers argent; 2nd and 3rd or, four pallets gules | mallorca | none (silent) |
 | No drawing for a sceptre | Gules, two anchors in saltire argent and a sceptre in pale or | (St Petersburg 1780) | charge-no-drawing: sceptre |
+| Barry of a fur pattern ('vair gules and ermine') not parsed | Barry of six vair gules and ermine and azure | Braose | not fully parsed |
+| Legs of Man; 'on a chief indented ... of the field' | Quarterly, 1st argent, on a fess azure three stag's heads cabossed or; 2nd or, on a chief indented azure three bezants; 3rd checky or and azure; 4th gules, three legs armoured argent conjoined in triangle | Stanley KG plate | charge-no-drawing: leg armoured |
 | Bars embattled on one edge | (PNG: gules, two bars embattled argent) | berg-old | none |
 
 Also seen, minor: 'Gules, three crowns or' leaves thin dark arcs above the two upper crowns.

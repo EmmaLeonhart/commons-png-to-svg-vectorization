@@ -22,7 +22,7 @@ shields in `upload/arms-*/`, 3 kamon), 63 waiting on the generator, 72 raster or
   then `python tools/build_arms.py`, look at `arms_sheet.png`, accept or not): every `generator-gap` in
   `files/arms/arms.json` and `raster_status.json`; the list is `files/arms/generator-gaps.md`.
 - NEEDS-INVESTIGATION (the `needs-investigation` rows; reason in `files/arms/raster_status.json`): settle
-  the blazons of Andechs, Stosch, Jaqeli, Scheibenberg, Imereti, Braose and the Grey and Stanley Garter plates,
+  the blazons of Andechs, Stosch, Jaqeli, Scheibenberg, Imereti and the Grey Garter plate (no blazon on their description pages),
   then build them; Maruni-Toshi no Monji needs a brush-style CJK font for the kanji as `<text>`.
 - NEEDS-DECISION (Emma): the 72 raster originals (seals, manuscript paintings): give those people new
   generator-drawn arms from a blazon, or leave them? Drawing new arms is the generator's work, not vectorizing.

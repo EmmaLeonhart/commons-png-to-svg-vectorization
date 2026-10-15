@@ -1334,7 +1334,7 @@ Q137098	Teodoric el Tresorer	Q3524601	Blason autun.svg	svg	Blason autun.svg
 Q137099	Eccard de Mâcon	Q3046904	Blason autun.svg	svg	Blason autun.svg
 Q137100	Bernard	Q2898859	Blason autun.svg	svg	Blason autun.svg
 Q137254	Tristan	Q954012	Blason imaginaire de Tristan.svg	svg	Blason imaginaire de Tristan.svg
-Q137916	Reginald de Braose	Q7308920	Arms Braose.png	needs-investigation	documented blazon not found yet
+Q137916	Reginald de Braose	Q7308920	Arms Braose.png	generator-gap	documented blazon 'Barry of six vair gules and ermine and azure' (description page) does not parse
 Q138226	Macbeth	Q244403	Royal Arms of the Kingdom of Scotland.svg	svg	Royal Arms of the Kingdom of Scotland.svg
 Q138608	Ednyfed Fychan	Q2745179	Arfau Ednyfed Fychan, yn ôl Gruffudd Hiraethog.png	raster-original	manuscript painting, seal or photo
 Q138727	Cadwgan ab Elystan	Q75531288	COA Cadwgan ap Elystan Glodrydd.svg	svg	COA Cadwgan ap Elystan Glodrydd.svg
@@ -1780,7 +1780,7 @@ Q150001	John de St John	Q18810849	"K-067-Coat of Arms-ST JOHN-John de St. John (
 Q150467	Jasper Tudor	Q385679	Coat of arms of Jasper Tudor.svg	svg	Coat of arms of Jasper Tudor.svg
 Q150472	Richard Williams	Q11801889	Sir Richard Cromwell alias Williams, Coat of Arms.jpg	generator-gap	cromwell-richard
 Q150503	James Tuchet, 5th Baron Audley	Q646476	COA Tuchet.svg	svg	COA Tuchet.svg
-Q150523	Edward Stanley, 1st Baron Monteagle	Q1293748	Coat of arms of Sir Edward Stanley, 1st Baron Monteagle, KG.png	needs-investigation	quartered Garter plate (Stanley, Man, Warenne...): blazon not settled
+Q150523	Edward Stanley, 1st Baron Monteagle	Q1293748	Coat of arms of Sir Edward Stanley, 1st Baron Monteagle, KG.png	generator-gap	blazon from the description page (Stanley, Lathom, Warenne, Man): legs of Man not drawn, not fully parsed
 Q150582	William de Berkeley, 1st Marquess of Berkeley	Q7607464	Berkeley arms.svg	svg	Berkeley arms.svg
 Q150587	Walter Devereux, 7th Baron Ferrers of Chartley	Q7964675	Coat of Arms of Sir Walter Devereux, 7th Baron Ferrers of Chartley, KG.png	rebuilt	upload/arms-devereux-walter/devereux-walter.svg
 Q150588	Henry Percy, 4th Earl of Northumberland	Q2705658	Coat of Arms of Henry Percy, 4th Earl of Northumberland.svg	svg	Coat of Arms of Henry Percy, 4th Earl of Northumberland.svg
