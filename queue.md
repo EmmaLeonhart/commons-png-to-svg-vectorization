@@ -35,14 +35,14 @@ shields in `upload/arms-*/`, 3 kamon), 63 waiting on the generator, 72 raster or
 Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed images (174).
 
 - [File:1bc1a.png](https://commons.wikimedia.org/wiki/File:1bc1a.png) — Help:Multilingual support — NEEDS-DECISION (user): script specimen; the glyph is the subject. <text> needs the script font on Commons, while glyph outlines from an open font (e.g. Noto) would be paths, against the vector-text rule. Which?
-- [File:45 record.png](https://commons.wikimedia.org/wiki/File:45_record.png) — Module:Portal/images/r
+- [File:45 record.png](https://commons.wikimedia.org/wiki/File:45_record.png) — Module:Portal/images/r — BLOCKED-ON-EXTERNAL: made from Open Clip Art 132667 (an SVG); openclipart.org returned 504 and the Wayback Machine 429 on 2026-10-15. Retry the download, then rebuild from it
 - [File:5th century Korea.png](https://commons.wikimedia.org/wiki/File:5th_century_Korea.png) — Toraijin
 - [File:Abkhazia stub.png](https://commons.wikimedia.org/wiki/File:Abkhazia_stub.png) — Template talk:Portal — NEEDS-DECISION (user): a hand-drawn "map-like symbol"; real outlines (Natural Earth, or OSM relation 1152720 clipped to land) match at IoU 0.93 but not its stylised proportions. Use the geographically correct outline, or leave it? Attempts in scratch/abkhazia/.
 - [File:Abusir map.png](https://commons.wikimedia.org/wiki/File:Abusir_map.png) — Solar Temple of Niuserre
 - [File:ADLaM.png](https://commons.wikimedia.org/wiki/File:ADLaM.png) — Help:Multilingual support — NEEDS-DECISION (user): script specimen; the glyph is the subject. <text> needs the script font on Commons, while glyph outlines from an open font (e.g. Noto) would be paths, against the vector-text rule. Which?
 - [File:Agency for Cultural Affairs Organizational chart 20230327.png](https://commons.wikimedia.org/wiki/File:Agency_for_Cultural_Affairs_Organizational_chart_20230327.png) — Agency for Cultural Affairs
 - [File:Ahom rendering.png](https://commons.wikimedia.org/wiki/File:Ahom_rendering.png) — Help:Multilingual support — NEEDS-DECISION (user): script specimen; the glyph is the subject. <text> needs the script font on Commons, while glyph outlines from an open font (e.g. Noto) would be paths, against the vector-text rule. Which?
-- [File:Amateur radio compact icon.png](https://commons.wikimedia.org/wiki/File:Amateur_radio_compact_icon.png) — Module:Portal/images/a, Template talk:Portal
+- [File:Amateur radio compact icon.png](https://commons.wikimedia.org/wiki/File:Amateur_radio_compact_icon.png) — Module:Portal/images/a, Template talk:Portal — NEEDS-INVESTIGATION: border, antenna and ground bars constructed exactly (files/amateur-radio-icon/), but the coil's lopsided loops do not fit a trochoid even with a second harmonic (IoU 0.86); it is a hand-drawn spline. Fit it as a chain of cubic loops, or accept the regular coil? Not staged
 - [File:Aomori Tsugaru-block.png](https://commons.wikimedia.org/wiki/File:Aomori_Tsugaru-block.png) — Tsugaru region
 - [File:Aplodontia rufa distribution map.png](https://commons.wikimedia.org/wiki/File:Aplodontia_rufa_distribution_map.png) — Template:Automatic taxobox/doc
 - [File:Appalachian region of United States.png](https://commons.wikimedia.org/wiki/File:Appalachian_region_of_United_States.png) — Module:Portal/images/a
