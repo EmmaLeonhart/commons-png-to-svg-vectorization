@@ -217,3 +217,5 @@
   Naval jack 1975–1976 (own snake drawing) marked; Matsuura-gun and Nara Toichi-gun joined the Japan-map decision.
 - **File:Kongo Cosmogram - blank.png → SVG**: ellipses, cross and arrowed arcs fitted as primitives; 6 px strokes.
   Staged in upload/.
+- **R01/R05/R10/R50.png → SVG** (single-colour #f8057b bars, pixel-identical) and **Null.png → SVG** (one transparent
+  pixel: an empty 1×1 SVG). Staged in upload/. O-dot.png (letter o͘) filed under the script-specimen decision.

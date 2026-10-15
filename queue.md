@@ -30,7 +30,7 @@ shields in `upload/arms-*/`, 3 kamon), 63 waiting on the generator, 72 raster or
   nothing is uploaded to Commons without her go.
 - Then: the Template:Coat of arms PNGs in the main list below, the same way.
 
-## To vectorize (527)
+## To vectorize (522)
 
 Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed images (174).
 
@@ -171,8 +171,7 @@ Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed image
 - [File:Notifications - Successful Mention - August 2016.png](https://commons.wikimedia.org/wiki/File:Notifications_-_Successful_Mention_-_August_2016.png) — Help:Notifications
 - [File:Notifications - Welcome - January 2016.png](https://commons.wikimedia.org/wiki/File:Notifications_-_Welcome_-_January_2016.png) — Help:Notifications
 - [File:Notifications - Wikidata connection.png](https://commons.wikimedia.org/wiki/File:Notifications_-_Wikidata_connection.png) — Help:Notifications
-- [File:Null.png](https://commons.wikimedia.org/wiki/File:Null.png) — (file-title list), File:Null.png, Module:InfoboxImage/data, Module:InfoboxImage/doc, Module:InfoboxImage/sandbox
-- [File:O-dot.png](https://commons.wikimedia.org/wiki/File:O-dot.png) — Template:Contains special characters
+- [File:O-dot.png](https://commons.wikimedia.org/wiki/File:O-dot.png) — Template:Contains special characters — NEEDS-DECISION (user): a letter specimen (Pe̍h-ōe-jī o͘, U+006F U+0358); same question as the script specimens: <text> in a font Commons renders, or leave
 - [File:Ogham Sample.png](https://commons.wikimedia.org/wiki/File:Ogham_Sample.png) — Help:Multilingual support
 - [File:Old Persian mi.png](https://commons.wikimedia.org/wiki/File:Old_Persian_mi.png) — Template:Contains special characters
 - [File:Om in Cham script.png](https://commons.wikimedia.org/wiki/File:Om_in_Cham_script.png) — Om
@@ -189,10 +188,6 @@ Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed image
 - [File:Position Alpha Cmi.png](https://commons.wikimedia.org/wiki/File:Position_Alpha_Cmi.png) — Imi-chet-Sopdet
 - [File:Position Beta Cma.png](https://commons.wikimedia.org/wiki/File:Position_Beta_Cma.png) — Tepi-a-Sopdet
 - [File:Position of Ashibe Port Iki City.png](https://commons.wikimedia.org/wiki/File:Position_of_Ashibe_Port_Iki_City.png) — Iki Island
-- [File:R01.png](https://commons.wikimedia.org/wiki/File:R01.png) — Awa Village
-- [File:R05.png](https://commons.wikimedia.org/wiki/File:R05.png) — Awa Village
-- [File:R10.png](https://commons.wikimedia.org/wiki/File:R10.png) — Awa Village
-- [File:R50.png](https://commons.wikimedia.org/wiki/File:R50.png) — Awa Village
 - [File:Regionen japans.png](https://commons.wikimedia.org/wiki/File:Regionen_japans.png) — Template:Continued Top 100 Japanese Castles
 - [File:Replace this image butterfly.png](https://commons.wikimedia.org/wiki/File:Replace_this_image_butterfly.png) — (file-title list), File:Replace this image butterfly.png, Module:InfoboxImage/data, Module:InfoboxImage/doc, Module:InfoboxImage/sandbox, Template:Infobox instrument/doc
 - [File:Resolution angle.png](https://commons.wikimedia.org/wiki/File:Resolution_angle.png) — (file-title list), File:Resolution angle.png, Module:InfoboxImage/data, Module:InfoboxImage/doc, Module:InfoboxImage/sandbox
