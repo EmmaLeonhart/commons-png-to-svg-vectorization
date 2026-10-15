@@ -29,6 +29,7 @@ Pictures (Commons PNG left, generator right):
 | 'a wheel' drawn as a scalloped wheel | Azure, a wheel argent | falkenstein | |
 | 'lozengy bendwise' not parsed | Quarterly, 1st and 4th sable, a lion rampant or crowned gules; 2nd and 3rd lozengy bendwise argent and azure | wittelsbach-bavaria | not fully parsed |
 | Charges beside a bend ('on a bend ... between two lions') not drawn | Argent, on a bend azure three crescents or between two lions rampant purpure | barbosa | |
+| Charges on a chevron: no layout | Gules, on a chevron argent three lions rampant or | cromwell-richard | charge-no-layout: 3\|on:chevron |
 | Bars embattled on one edge | (PNG: gules, two bars embattled argent) | berg-old | none |
 
 Also seen, minor: 'Gules, three crowns or' leaves thin dark arcs above the two upper crowns.

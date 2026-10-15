@@ -6,6 +6,7 @@ Writes files/arms/person_arms_status.tsv with one of:
   rebuilt        rebuilt here; SVG staged under upload/ (path given)
   generator-gap  blazon known, waiting on the arms generator (files/arms/generator-gaps.md)
   raster-original  a seal, manuscript painting, carving or photo: not vectorized
+  not-rebuildable  a freeform drawing with no vector source: only tracing would do, and tracing is not wanted
   todo           not worked yet
 Classification of raster files comes from files/arms/arms.json, the rebuilt kamon folders and
 files/arms/raster_status.json. Run from the repo root."""

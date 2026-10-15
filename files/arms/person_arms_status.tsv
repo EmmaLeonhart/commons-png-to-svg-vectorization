@@ -30,7 +30,7 @@ Q17108	Emperor Go-Mizunoo	Q320229	Flag of the Japanese Emperor.svg	svg	Flag of t
 Q17387	Go-Tsuchimikado	Q380623	Flag of the Japanese Emperor.svg	svg	Flag of the Japanese Emperor.svg
 Q17473	Go-Nara	Q349467	Flag of the Japanese Emperor.svg	svg	Flag of the Japanese Emperor.svg
 Q17501	Go-Sai	Q349414	Flag of the Japanese Emperor.svg	svg	Flag of the Japanese Emperor.svg
-Q18225	Tamura Muneyoshi	Q2948444	Ichinoseki Myoga.jpg	todo	
+Q18225	Tamura Muneyoshi	Q2948444	Ichinoseki Myoga.jpg	not-rebuildable	freeform kamon; the myoga SVGs on Commons are a different design (daki myoga)
 Q18419	Sakai Tadakiyo	Q7402769	Kamon maru ni kenkatabami.png	rebuilt	upload/kamon-maru-ni-kenkatabami/Kamon maru ni kenkatabami.svg
 Q18928	Go-Kashiwabara	Q349452	Flag of the Japanese Emperor.svg	svg	Flag of the Japanese Emperor.svg
 Q20015	Sakai Tadatoshi	Q11644106	Sakai Kamon.svg	svg	Sakai Kamon.svg
@@ -986,8 +986,8 @@ Q124279	Egas Duer	Q131624091	Brason Ataíde.jpg	rebuilt	upload/arms-ataide-braso
 Q124281	Martim Viegas de Ataíde	Q131624192	Brason Ataíde.jpg	rebuilt	upload/arms-ataide-brason/ataide-brason.svg
 Q124293	Mencia Lopez de Haro	Q271563	House of Haro COA.svg	svg	House of Haro COA.svg
 Q124295	Diego López III de Haro	Q3027419	House of Haro COA.svg	svg	House of Haro COA.svg
-Q124325	Guerau IV de Cabrera	Q4894186	Escut del Casal de Cabrera-Urgell.png	todo	
-Q124329	Ponc IV de Cabrera	Q9061652	Escut del Casal de Cabrera-Urgell.png	todo	
+Q124325	Guerau IV de Cabrera	Q4894186	Escut del Casal de Cabrera-Urgell.png	generator-gap	cabrera-urgell
+Q124329	Ponc IV de Cabrera	Q9061652	Escut del Casal de Cabrera-Urgell.png	generator-gap	cabrera-urgell
 Q124339	Raymond Roger Trencavel	Q561524	ArmoiriesTrencavel.svg	svg	ArmoiriesTrencavel.svg
 Q124341	Raymond II Trencavel	Q1826696	ArmoiriesTrencavel.svg	svg	ArmoiriesTrencavel.svg
 Q124345	Guillem I d'Entença	Q5643937	Escut d'armes dels Entença.svg	svg	Escut d'armes dels Entença.svg
@@ -1529,7 +1529,7 @@ Q146554	Eric XI of Sweden	Q350202	COA sv Erik Eriksson (Erikska aetten).png	gene
 Q146559	Herman II, Count of Weimar-Orlamünde	Q1611591	Blason Principauté d'Anhalt (XIIIe siècle).svg	svg	Blason Principauté d'Anhalt (XIIIe siècle).svg
 Q146567	Niklot	Q149674	Ruexner mecklenburg.jpg	raster-original	manuscript painting, seal, carving or photo
 Q146568	Pribislav of Mecklenburg	Q566454	Wappen Mecklenburg 2.svg	svg	Wappen Mecklenburg 2.svg
-Q146571	Benedicta Ebbesdotter of Hvide	Q2183430	Hvide Dynasty escutcheon (scan 2008).jpg	todo	
+Q146571	Benedicta Ebbesdotter of Hvide	Q2183430	Hvide Dynasty escutcheon (scan 2008).jpg	rebuilt	upload/arms-hvide/hvide.svg
 Q146577	John I	Q70230	Wappen Mecklenburg 2.svg	svg	Wappen Mecklenburg 2.svg
 Q146578	Nicholas I of Werle	Q84529	CoA Werle Principality.svg	svg	CoA Werle Principality.svg
 Q146604	Raymond II de Roquefeuil	Q3420935	De Roquefeuil-Anduze.svg	svg	De Roquefeuil-Anduze.svg
@@ -1778,7 +1778,7 @@ Q149982	Reginald Grey, 3rd Baron Grey de Ruthyn	Q7308718	Coat of Arms of Sir Joh
 Q149990	Walter Comyn, Lord of Badenoch	Q2543918	Blason-azur-3-gerbes-or.svg	svg	Blason-azur-3-gerbes-or.svg
 Q150001	John de St John	Q18810849	"K-067-Coat of Arms-ST JOHN-John de St. John (""Johan de Saint Johan"").png"	rebuilt	upload/arms-st-john/st-john.svg
 Q150467	Jasper Tudor	Q385679	Coat of arms of Jasper Tudor.svg	svg	Coat of arms of Jasper Tudor.svg
-Q150472	Richard Williams	Q11801889	Sir Richard Cromwell alias Williams, Coat of Arms.jpg	todo	
+Q150472	Richard Williams	Q11801889	Sir Richard Cromwell alias Williams, Coat of Arms.jpg	generator-gap	cromwell-richard
 Q150503	James Tuchet, 5th Baron Audley	Q646476	COA Tuchet.svg	svg	COA Tuchet.svg
 Q150523	Edward Stanley, 1st Baron Monteagle	Q1293748	Coat of arms of Sir Edward Stanley, 1st Baron Monteagle, KG.png	todo	
 Q150582	William de Berkeley, 1st Marquess of Berkeley	Q7607464	Berkeley arms.svg	svg	Berkeley arms.svg

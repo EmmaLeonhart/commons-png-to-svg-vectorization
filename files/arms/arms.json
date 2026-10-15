@@ -403,5 +403,23 @@
   "box": "0.25,0.41,0.72,0.90",
   "note": "Not staged: the two lions beside the bend are not drawn.",
   "status": "generator-gap"
+ },
+ "hvide": {
+  "png": "Hvide Dynasty escutcheon (scan 2008).jpg",
+  "blazon": "Barry of six azure and or, a dove argent",
+  "status": "accepted",
+  "note": "The scan's azure is purple-tinged, which lowers the tincture score; the arms match."
+ },
+ "cabrera-urgell": {
+  "png": "Escut del Casal de Cabrera-Urgell.png",
+  "blazon": "Per pale, Or a goat rampant sable within a bordure embattled sable, and checky or and sable",
+  "status": "generator-gap",
+  "note": "Not staged: the bordure embattled is drawn plain and the goat small and rearing; the PNG's goat stands large."
+ },
+ "cromwell-richard": {
+  "png": "Sir Richard Cromwell alias Williams, Coat of Arms.jpg",
+  "blazon": "Gules, on a chevron argent three lions rampant or",
+  "status": "generator-gap",
+  "note": "Not staged: no layout for three charges on a chevron (charge-no-layout 3|on:chevron); the chevron's inner gules cotises are not drawn either."
  }
 }
