@@ -13,15 +13,14 @@ coat of arms thing". Reading and scope in INTENT.md ("Second strand"). Sources:
 `Documents\claude-screenshots\agentic-vectorization_2026-10-15\order_life_raster_arms_*.png` (numbers below
 are their indices). Output: `files/arms/<slug>/` with notes.md, finished SVG staged in `upload/<slug>/`.
 
-- **Blazonable shields → rebuild with the generator** (`tools/generator_render.py`), compare with the PNG,
-  fix the blazon until it matches; a generator shortfall is noted in notes.md (not fixed: other repo):
-  2 Braose, 3 Geoffrey de Burgo (Ely), 6 Arpad, 9 Basset, 10 Berg old, 11 Berkeley, 15 Bohun, 16 Buornonville,
-  17 Traba, 18 Erik Eriksson, 24 Cardona, 25 Carew, 26 Clifford, 28 Neville, 29 Percy, 37 Vescy,
-  38 Mandeville, 39 Henry de Bohun, 40 Bigod, 42 Clare, 43 Richard de Percy, 44 Quincy, 48 Aubigny,
-  49 Fortibus, 50 Mowbray (Axholme), 53 Terter, 54 DeForz, 62 Téllez de Meneses, 64/65 Cabrera, 68 Giffard,
-  74 St John, 75 Ferrers, 77 Longespée, 79 Meissen, 80 Moels, 82 Mowbray, 84 FitzHamon, 89 County of
-  Portugal, 96 Glyndŵr, 99 Scheibenberg, 100 Springe, 101 Rabenswalde, 103 Wildgraf Dhaun, 105 Woodville,
-  107 Clermont, 8 Barbosa (shield only), 19/20/21/22/23 Swedish untinctured arms.
+- **Blazonable shields → rebuild with the generator** (`tools/build_arms.py`, spec `files/arms/arms.json`),
+  compare with the PNG, fix the blazon until it matches. 23 done (devlog 2026-10-15).
+  - BLOCKED-ON-EXTERNAL (the generator gains the drawing; unblock signal: a generator commit after
+    8d8ab870, then rerun `python tools/build_arms.py <slug>` and look): berg-old, berkeley, bohun,
+    bohun-henry, erik-eriksson, carew, giffard-brimpsfield, vescy-eustace, fortibus-william, deforz, ferrers,
+    moels, quincy-saire, glyndwr. Gaps listed in `files/arms/generator-gaps.md`.
+  - Still to blazon and try: 2 Braose, 17 Traba, 53 Terter, 62 Téllez de Meneses, 64/65 Cabrera,
+    99 Scheibenberg, 100 Springe, 107 Clermont, 8 Barbosa (shield only), 19/20/21/22/23 Swedish untinctured arms.
 - **Garter stall plates** (shield inside a garter with crown/helm: 27, 30–36, 45–47, 90–93): rebuild the
   shield from its blazon; the garter frame is NEEDS-INVESTIGATION (is there a vector garter on Commons?).
 - **Full achievements with helm and crest** (0, 4, 59, 66, 67, 70, 72, 73, 83, 86, 94, 102, 106, 108):

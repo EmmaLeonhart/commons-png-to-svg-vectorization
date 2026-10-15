@@ -131,3 +131,19 @@
 - **NO IMAGE YET square.png, NO IMAGE YET.png, L14 C.png → SVG**: text images rebuilt as fitted `<text>` with the new
   `tools/fit_text.py` (size, letter-spacing and start position from the ink box; padded canvas so trial text is never
   clipped). 5 kamon marked NOT REBUILDABLE; 7 script samples added to the script-specimen decision. Staged in upload/.
+
+## 2026-10-15
+
+- **Coats of arms for order.life** (Emma's inochi-no-michikyo queue item of 2026-10-14). New tools:
+  `person_arms.py` (Wikidata P94 for the 60,067 order.life people with a Wikidata item: 1,805 have arms,
+  230 raster), `arms_triage.py` (110 distinct PNG/GIF files: vector versions, blazons), `fetch_arms_png.py`,
+  `generator_render.py` (Emma's Sodacan generator imported read-only; records reused Commons drawings and
+  what it could not draw), `arms_compare.py` (tincture agreement by hue class + silhouette IoU against the
+  PNG), `build_arms.py` (batch from `files/arms/arms.json`, notes.md per file with sources and licences).
+- **23 arms rebuilt from their blazons and staged in upload/arms-*/**: Arpad, Aubigny, Basset, Bigod,
+  Buornonville, Cardona, Clare, Clifford, County of Portugal, Ely (Geoffrey de Burgo), FitzHamon, Longespée,
+  Mandeville, Meissen, Mowbray (2), Neville, Percy (2), Rabenswalde, St John, Wildgraf Dhaun, Woodville.
+  Checked by eye side by side with each PNG; tincture agreement 0.67–0.90 (lion drawings and shield shape
+  differ by design: Sodacan's style).
+- 14 more blocked on generator gaps (cross patonce, mascles, 'in pale', 'counterchanged', charges between
+  a bend or chevron): `files/arms/generator-gaps.md`.

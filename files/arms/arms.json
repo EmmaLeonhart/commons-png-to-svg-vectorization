@@ -1,0 +1,201 @@
+{
+ "ely-geoffrey-de-burgo": {
+  "png": "Arms displayed by Geoffrey de Burgo, Bishop of Ely, at the signing of Magna Charta.png",
+  "blazon": "Gules, three crowns or",
+  "status": "accepted"
+ },
+ "arpad": {
+  "png": "Arpad.png",
+  "blazon": "Barry of eight gules and argent",
+  "status": "accepted"
+ },
+ "basset": {
+  "png": "BassetArms.png",
+  "blazon": "Barry wavy of six or and gules",
+  "status": "accepted"
+ },
+ "berg-old": {
+  "png": "Berg Arms old.png",
+  "blazon": "Gules, a fess embattled counter-embattled argent",
+  "status": "generator-gap",
+  "note": "Not staged: PNG shows two bars embattled on their upper edge; the generator draws one fess embattled counter-embattled."
+ },
+ "berkeley": {
+  "png": "BerkeleyArms.png",
+  "blazon": "Gules, a chevron between ten crosses pattee argent",
+  "status": "generator-gap",
+  "note": "Not staged: the ten crosses between the chevron are not drawn."
+ },
+ "bohun": {
+  "png": "BohunArms.png",
+  "blazon": "Azure, a bend argent cotised or between six lions rampant or",
+  "status": "generator-gap",
+  "note": "Not staged: cotises and the six lions are not drawn."
+ },
+ "buornonville": {
+  "png": "Buornonville (antes de la I cruzada).png",
+  "blazon": "Sable, three plates",
+  "status": "accepted"
+ },
+ "erik-eriksson": {
+  "png": "COA sv Erik Eriksson (Erikska aetten).png",
+  "blazon": "Azure, semy of hearts gules, three lions passant guardant in pale or",
+  "status": "generator-gap",
+  "note": "Not staged: 'in pale' is ignored: lions are set two and one."
+ },
+ "cardona": {
+  "png": "Cardonapic.png",
+  "blazon": "Gules, three thistles or",
+  "status": "accepted"
+ },
+ "carew": {
+  "png": "CarewArms.png",
+  "blazon": "Or, three lions passant in pale sable",
+  "status": "generator-gap",
+  "note": "Not staged: 'in pale' is ignored: lions are set two and one."
+ },
+ "clifford-bend": {
+  "png": "CliffordArms WithBend.png",
+  "blazon": "Checky or and azure, a bend gules",
+  "status": "accepted"
+ },
+ "neville-westmorland": {
+  "png": "Coat of Arms - Neville, Earls of Westmorland, and Barons Neville of Raby.png",
+  "blazon": "Gules, a saltire argent",
+  "status": "accepted"
+ },
+ "percy-alnwick": {
+  "png": "Coat of Arms - Percy, Barons Percy of Alnwick.png",
+  "blazon": "Or, a lion rampant azure",
+  "status": "accepted"
+ },
+ "vescy-eustace": {
+  "png": "Coat of arms of Eustace de Vescy, Lord of Alnwick Castle.png",
+  "blazon": "Gules, a cross patonce argent",
+  "status": "generator-gap",
+  "note": "Not staged: no drawing for a cross patonce."
+ },
+ "mandeville-geoffrey": {
+  "png": "Coat of arms of Geoffrey de Mandeville, Earl of Essex and Gloucester.png",
+  "blazon": "Per pale or and gules, an escarbuncle sable",
+  "status": "accepted"
+ },
+ "bohun-henry": {
+  "png": "Coat of arms of Henry de Bohun, Earl of Hereford.png",
+  "blazon": "Azure, a bend argent cotised or between six lions rampant or",
+  "status": "generator-gap",
+  "note": "Not staged: cotises and the six lions are not drawn."
+ },
+ "bigod-hugh": {
+  "png": "Coat of arms of Hugh Bigod, heir to the earldoms of Norfolk and Suffolk.png",
+  "blazon": "Per pale gules and azure, a lion rampant argent",
+  "status": "accepted"
+ },
+ "clare-richard": {
+  "png": "Coat of arms of Richard de Clare, Earl of Hertford.png",
+  "blazon": "Or, three chevronels gules",
+  "status": "accepted"
+ },
+ "percy-richard": {
+  "png": "Coat of arms of Richard de Percy, Baron.png",
+  "blazon": "Or, a lion rampant azure",
+  "status": "accepted"
+ },
+ "quincy-saire": {
+  "png": "Coat of arms of Saire de Quincy, Earl of Winchester.png",
+  "blazon": "Or, a fess gules, a label of eleven points azure",
+  "status": "generator-gap",
+  "note": "Not staged: the label is drawn with three points, not eleven, and too low."
+ },
+ "aubigny-william": {
+  "png": "Coat of arms of William d'Aubigny, Earl of Arundel.png",
+  "blazon": "Gules, a lion rampant or",
+  "status": "accepted"
+ },
+ "fortibus-william": {
+  "png": "Coat of arms of William de Fortibus, Earl of Albemarle.png",
+  "blazon": "Gules, a cross patonce vair",
+  "status": "generator-gap",
+  "note": "Not staged: no drawing for a cross patonce."
+ },
+ "mowbray-william": {
+  "png": "Coat of arms of William de Mowbray, Lord of Axholme Castle.png",
+  "blazon": "Gules, a lion rampant argent",
+  "status": "accepted"
+ },
+ "deforz": {
+  "png": "DeForzArms.png",
+  "blazon": "Gules, a cross patonce vair",
+  "status": "generator-gap",
+  "note": "Not staged: no drawing for a cross patonce."
+ },
+ "giffard-brimpsfield": {
+  "png": "Giffard OfBrimpsfield Arms.png",
+  "blazon": "Gules, three lions passant in pale argent",
+  "status": "generator-gap",
+  "note": "Not staged: 'in pale' is ignored: lions are set two and one."
+ },
+ "st-john": {
+  "png": "K-067-Coat of Arms-ST JOHN-John de St. John (\"Johan de Saint Johan\").png",
+  "blazon": "Argent, on a chief gules two mullets or",
+  "status": "accepted"
+ },
+ "ferrers": {
+  "png": "K-075-Coat of Arms-FERRERS-William de Ferrers (\"Guillemes de Ferieres\").png",
+  "blazon": "Gules, seven mascles or",
+  "status": "generator-gap",
+  "note": "Not staged: no drawing for mascles in a group of seven."
+ },
+ "longespee": {
+  "png": "LongespeeArms1.png",
+  "blazon": "Azure, six lions rampant or",
+  "status": "accepted"
+ },
+ "meissen": {
+  "png": "Meissen-Mark.png",
+  "blazon": "Or, a lion rampant sable",
+  "status": "accepted"
+ },
+ "moels": {
+  "png": "MoelsArms.png",
+  "blazon": "Argent, two bars gules, in chief three torteaux",
+  "status": "generator-gap",
+  "note": "Not staged: the three torteaux in chief are drawn as a scalloped chief."
+ },
+ "mowbray": {
+  "png": "MowbrayArms.png",
+  "blazon": "Gules, a lion rampant argent",
+  "status": "accepted"
+ },
+ "fitzhamon": {
+  "png": "RobertFitzHamonAttributedArms.PNG",
+  "blazon": "Azure, a lion rampant guardant or",
+  "status": "accepted"
+ },
+ "county-of-portugal": {
+  "png": "Shield of the County of Portugal (1095-1139).png",
+  "blazon": "Argent, a cross azure",
+  "status": "accepted"
+ },
+ "glyndwr": {
+  "png": "Tarian Glyndwr Arfbais.png",
+  "blazon": "Quarterly or and gules, four lions rampant counterchanged",
+  "status": "generator-gap",
+  "note": "Not staged: 'counterchanged' is not applied: the lions in the gules quarters are gules."
+ },
+ "rabenswalde": {
+  "png": "Wappen derer von Rabenswalde.png",
+  "blazon": "Or, a lion rampant azure",
+  "status": "accepted"
+ },
+ "wildgraf-dhaun": {
+  "png": "Wildgraf Dhaun COA.png",
+  "blazon": "Or, a lion rampant gules crowned azure",
+  "status": "accepted"
+ },
+ "woodville": {
+  "png": "WoodvilleArms.png",
+  "blazon": "Argent, a fess and a canton gules",
+  "status": "accepted"
+ }
+}
