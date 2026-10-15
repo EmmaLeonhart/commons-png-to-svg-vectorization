@@ -30,12 +30,11 @@ shields in `upload/arms-*/`, 3 kamon), 63 waiting on the generator, 72 raster or
   nothing is uploaded to Commons without her go.
 - Then: the Template:Coat of arms PNGs in the main list below, the same way.
 
-## To vectorize (543)
+## To vectorize (542)
 
 Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed images (174).
 
 - [File:1bc1a.png](https://commons.wikimedia.org/wiki/File:1bc1a.png) — Help:Multilingual support — NEEDS-DECISION (user): script specimen; the glyph is the subject. <text> needs the script font on Commons, while glyph outlines from an open font (e.g. Noto) would be paths, against the vector-text rule. Which?
-- [File:45 record.png](https://commons.wikimedia.org/wiki/File:45_record.png) — Module:Portal/images/r — BLOCKED-ON-EXTERNAL: made from Open Clip Art 132667 (an SVG); openclipart.org returned 504 and the Wayback Machine 429 on 2026-10-15. Retry the download, then rebuild from it
 - [File:5th century Korea.png](https://commons.wikimedia.org/wiki/File:5th_century_Korea.png) — Toraijin
 - [File:Abkhazia stub.png](https://commons.wikimedia.org/wiki/File:Abkhazia_stub.png) — Template talk:Portal — NEEDS-DECISION (user): a hand-drawn "map-like symbol"; real outlines (Natural Earth, or OSM relation 1152720 clipped to land) match at IoU 0.93 but not its stylised proportions. Use the geographically correct outline, or leave it? Attempts in scratch/abkhazia/.
 - [File:Abusir map.png](https://commons.wikimedia.org/wiki/File:Abusir_map.png) — Solar Temple of Niuserre

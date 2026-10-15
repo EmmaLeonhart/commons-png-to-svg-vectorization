@@ -167,3 +167,5 @@
 - Template:Coat of arms PNGs from the main list (29) downloaded to `data_lake/downloads/commons-coa/` and
   looked at: ten are seals or manuscript paintings, several modern emblems with lettering. Mallorca, Remich and
   St Petersburg tried through the generator: all three hit gaps (castle, crown, sceptre), logged.
+- **File:45 record.png → SVG**: its Open Clip Art source SVG (public domain), downloaded once openclipart.org was
+  back; only the root size fixed to match its viewBox. 0.014% of pixels differ. Staged in upload/.
