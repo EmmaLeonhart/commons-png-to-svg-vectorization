@@ -1405,7 +1405,7 @@ Q142428	William de Valence, 1st Earl of Pembroke	Q940171	Blason Guillaume de Val
 Q142433	Guy de Montfort, Count of Nola	Q1348720	Armoiries seigneurs Montfort.svg	svg	Armoiries seigneurs Montfort.svg
 Q142437	Baudouin de Béthune	Q811185	Blason Baudouin de Béthunes.svg	svg	Blason Baudouin de Béthunes.svg
 Q142438	Hawise of Aumale	Q2324744	Old Arms of Blois.svg	svg	Old Arms of Blois.svg
-Q142447	John Hastings, 2nd Baron Hastings	Q16841566	Coat of Arms - Hastings, Earls of Pembroke, and Barons Hastings.png	todo	
+Q142447	John Hastings, 2nd Baron Hastings	Q16841566	Coat of Arms - Hastings, Earls of Pembroke, and Barons Hastings.png	generator-gap	hastings-pembroke
 Q142596	Dafydd Gam	Q679417	Arms of Sir Dafydd Gam.jpg	raster-original	manuscript painting, seal, carving or photo
 Q142806	William Herbert, 1st Earl of Pembroke	Q1261083	Coat of Arms of Sir William Herbert, 1st Baron Herbert, KG.png	rebuilt	upload/arms-herbert-william/herbert-william.svg
 Q142933	Rhys ap Thomas	Q7321859	Coat of arms of Sir Rhys ap Thomas, KG.png	rebuilt	upload/arms-rhys-ap-thomas/rhys-ap-thomas.svg
@@ -1514,7 +1514,7 @@ Q145459	Margherita Aldobrandeschi	Q3846916	Coat of Arms of the House of Aldobran
 Q145460	Anastasia de Montfort, Countess of Nola	Q4751900	Armoiries seigneurs Montfort.svg	svg	Armoiries seigneurs Montfort.svg
 Q145467	William I de Forz	Q1553949	DeForzArms.png	generator-gap	deforz
 Q145469	William II de Forz, 3rd Earl of Albemarle	Q7606061	Coat of arms of William de Fortibus, Earl of Albemarle.png	generator-gap	fortibus-william
-Q145492	Laurence Hastings, 1st Earl of Pembroke	Q6500641	Coat of Arms - Hastings, Earls of Pembroke, and Barons Hastings.png	todo	
+Q145492	Laurence Hastings, 1st Earl of Pembroke	Q6500641	Coat of Arms - Hastings, Earls of Pembroke, and Barons Hastings.png	generator-gap	hastings-pembroke
 Q145493	Roger Grey, 1st Baron Grey de Ruthyn	Q7358266	Coat of Arms of Grey.svg	svg	Coat of Arms of Grey.svg
 Q145494	Reginald Grey, 2nd Baron Grey de Ruthyn	Q7308717	Coat of Arms of Grey.svg	svg	Coat of Arms of Grey.svg
 Q145513	William I de Cantilupe	Q8012795	Seal WilliamDeCantilupe (d.1239).jpg	raster-original	manuscript painting, seal, carving or photo
@@ -1771,7 +1771,7 @@ Q149925	Yolanda of Lusignan	Q459175	Blason maison fr de Lusignan.svg	svg	Blason 
 Q149929	Jean I de Montfort	Q937905	Armoiries seigneurs Montfort.svg	svg	Armoiries seigneurs Montfort.svg
 Q149945	Robert VII, Lord of Béthune	Q1027587	Blason Maison de Béthune.svg	svg	Blason Maison de Béthune.svg
 Q149978	William de Clinton, 1st Earl of Huntingdon	Q7610117	Blason Clinton.svg	svg	Blason Clinton.svg
-Q149979	John Hastings, 2nd Earl of Pembroke	Q1700394	Sir John Hastings, 2nd Earl of Pembroke, KG.png	todo	
+Q149979	John Hastings, 2nd Earl of Pembroke	Q1700394	Sir John Hastings, 2nd Earl of Pembroke, KG.png	generator-gap	hastings-john-2nd
 Q149980	John Grey, 2nd Baron Grey de Wilton	Q6236305	Arms of Grey of Rotherfield.svg	svg	Arms of Grey of Rotherfield.svg
 Q149982	Reginald Grey, 3rd Baron Grey de Ruthyn	Q7308718	Coat of Arms of Sir John Grey (1387-1439), KG, son of Reginald Grey, 3rd Baron Grey de Ruthyn.svg	svg	Coat of Arms of Sir John Grey (1387-1439), KG, son of Reginald Grey, 3rd Baron Grey de Ruthyn.svg
 Q149982	Reginald Grey, 3rd Baron Grey de Ruthyn	Q7308718	Coat of Arms of Sir John Grey, KG.png	todo	
@@ -1784,7 +1784,7 @@ Q150523	Edward Stanley, 1st Baron Monteagle	Q1293748	Coat of arms of Sir Edward 
 Q150582	William de Berkeley, 1st Marquess of Berkeley	Q7607464	Berkeley arms.svg	svg	Berkeley arms.svg
 Q150587	Walter Devereux, 7th Baron Ferrers of Chartley	Q7964675	Coat of Arms of Sir Walter Devereux, 7th Baron Ferrers of Chartley, KG.png	rebuilt	upload/arms-devereux-walter/devereux-walter.svg
 Q150588	Henry Percy, 4th Earl of Northumberland	Q2705658	Coat of Arms of Henry Percy, 4th Earl of Northumberland.svg	svg	Coat of Arms of Henry Percy, 4th Earl of Northumberland.svg
-Q150588	Henry Percy, 4th Earl of Northumberland	Q2705658	Coat of arms of Sir Henry Percy, 4th Earl of Northumberland, KG.png	todo	
+Q150588	Henry Percy, 4th Earl of Northumberland	Q2705658	Coat of arms of Sir Henry Percy, 4th Earl of Northumberland, KG.png	rebuilt	upload/arms-percy-henry-4th/percy-henry-4th.svg
 Q150590	Henry Percy, 5th Earl of Northumberland	Q3784903	Arms of Henry Percy, 5th Earl of Northumberland.svg	svg	Arms of Henry Percy, 5th Earl of Northumberland.svg
 Q150598	William Herbert, 1st Earl of Pembroke	Q971331	Earl of Powis COA.svg	svg	Earl of Powis COA.svg
 Q150601	Mary Woodville	Q11707773	WoodvilleArms.png	rebuilt	upload/arms-woodville/woodville.svg

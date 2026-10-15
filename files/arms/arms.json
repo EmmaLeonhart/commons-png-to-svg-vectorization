@@ -326,5 +326,25 @@
   "blazon": "Gules, a cross clechy voided and pommetty or",
   "status": "generator-gap",
   "note": "Not staged: no drawing for the cross of Toulouse (clechy, voided, pommetty)."
+ },
+ "percy-henry-4th": {
+  "png": "Coat of arms of Sir Henry Percy, 4th Earl of Northumberland, KG.png",
+  "blazon": "Quarterly, 1st and 4th or, a lion rampant azure; 2nd and 3rd gules, three lucies hauriant argent",
+  "box": "0.19,0.305,0.81,0.77",
+  "status": "accepted",
+  "note": "The PNG is a Garter stall plate; this SVG is the shield only. The lions and lucies are drawn smaller than in the PNG."
+ },
+ "hastings-john-2nd": {
+  "png": "Sir John Hastings, 2nd Earl of Pembroke, KG.png",
+  "blazon": "Quarterly, 1st and 4th or, a maunch gules; 2nd and 3rd barry of twelve argent and azure, an orle of martlets gules",
+  "box": "0.19,0.305,0.81,0.77",
+  "status": "generator-gap",
+  "note": "Not staged: the orle of martlets is drawn as one large martlet."
+ },
+ "hastings-pembroke": {
+  "png": "Coat of Arms - Hastings, Earls of Pembroke, and Barons Hastings.png",
+  "blazon": "Quarterly, 1st and 4th or, a maunch gules; 2nd and 3rd barry of twelve argent and azure, an orle of martlets gules",
+  "status": "generator-gap",
+  "note": "Not staged: the orle of martlets is drawn as one large martlet."
  }
 }

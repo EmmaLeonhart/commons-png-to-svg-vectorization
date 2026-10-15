@@ -156,3 +156,6 @@
   black and white, fitted (ink IoU 0.854, same crest drawn with slightly wider separations). Staged in upload/.
 - JPG arms triaged (63 files: mostly seals and manuscript paintings). **4 rebuilt from blazons** (Bigod modern,
   Ataíde, Avarna, Giffone); 34 order.life arms staged from the generator in all.
+- Quartered Garter plates: **Percy, 4th Earl of Northumberland** rebuilt (Percy quartering Lucy); Hastings
+  (orle of martlets) and untinctured Swedish arms added to generator-gaps.md. `files/arms/person_arms_status.tsv`:
+  where each of the 1,805 order.life people with arms has an SVG.

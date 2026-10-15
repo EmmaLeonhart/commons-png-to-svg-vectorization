@@ -23,6 +23,8 @@ Pictures (Commons PNG left, generator right):
 | 'fimbriated' not drawn | Azure, a cross gules fimbriated or between four fleurs-de-lis or | clermont-bishopric | |
 | Charge between a beast's horns | (bull's head with a patriarchal cross between the horns) | terter | |
 | No drawing for the cross of Toulouse | Gules, a cross clechy voided and pommetty or | toulouse-tripoli | charge-no-drawing: cross clechy, pommetty |
+| 'an orle of martlets' drawn as one large martlet | Quarterly, 1st and 4th or, a maunch gules; 2nd and 3rd barry of twelve argent and azure, an orle of martlets gules | hastings-john-2nd, hastings-pembroke | none (silent) |
+| Untinctured arms (Swedish medieval seals drawn in grey) have no tincture to blazon | (a lion rampant, untinctured) | COA-Bengt Magnusson, COA-staende lejon, COA-Birger Filipsson, Vingad pil, vingad pilspets | no concept for 'untinctured' |
 | Bars embattled on one edge | (PNG: gules, two bars embattled argent) | berg-old | none |
 
 Also seen, minor: 'Gules, three crowns or' leaves thin dark arcs above the two upper crowns.
