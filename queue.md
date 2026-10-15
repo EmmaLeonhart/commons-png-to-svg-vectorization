@@ -69,12 +69,12 @@ Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed image
 - [File:Cross of Herat - Psalter Pahlavi Inscription.png](https://commons.wikimedia.org/wiki/File:Cross_of_Herat_-_Psalter_Pahlavi_Inscription.png) — Help:Multilingual support
 - [File:Dakiine.png](https://commons.wikimedia.org/wiki/File:Dakiine.png) — Fujishiro Suzuki clan
 - [File:Deir el Bahari-map.png](https://commons.wikimedia.org/wiki/File:Deir_el_Bahari-map.png) — Mortuary Temple of Mentuhotep II
-- [File:DiscussionTools Show new comment 2022 en.png](https://commons.wikimedia.org/wiki/File:DiscussionTools_Show_new_comment_2022_en.png) — Help:Talk pages
+- [File:DiscussionTools Show new comment 2022 en.png](https://commons.wikimedia.org/wiki/File:DiscussionTools_Show_new_comment_2022_en.png) — Help:Talk pages — NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
 - [File:Dolmen in Japan and Jeju.png](https://commons.wikimedia.org/wiki/File:Dolmen_in_Japan_and_Jeju.png) — Toraijin
 - [File:Dravidische Sprachen.png](https://commons.wikimedia.org/wiki/File:Dravidische_Sprachen.png) — Module:Portal/images/d
 - [File:Eastern Europe (Robinson projection).png](https://commons.wikimedia.org/wiki/File:Eastern_Europe_%28Robinson_projection%29.png) — Module:Portal/images/e, Module:Portal/images/e/sandbox
 - [File:EcoviaLogo.png](https://commons.wikimedia.org/wiki/File:EcoviaLogo.png) — Template:Rail-interchange — NOT REBUILDABLE without tracing: a wordmark in custom lettering with a freeform leaf; no vector logo on Commons
-- [File:Enabling Visual Editor.png](https://commons.wikimedia.org/wiki/File:Enabling_Visual_Editor.png) — Help:VisualEditor
+- [File:Enabling Visual Editor.png](https://commons.wikimedia.org/wiki/File:Enabling_Visual_Editor.png) — Help:VisualEditor — NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
 - [File:Ensign of the United States Revenue-Marine (1799).png](https://commons.wikimedia.org/wiki/File:Ensign_of_the_United_States_Revenue-Marine_%281799%29.png) — Template:Country data United States — NOT REBUILDABLE without tracing: the 16 stripes are trivial, but each canton eagle is a freeform drawing with no vector source (searched Commons 2026-10-15; the USCG ensign SVG's eagle is a different design)
 - [File:Ensign of the United States Revenue-Marine (1815).png](https://commons.wikimedia.org/wiki/File:Ensign_of_the_United_States_Revenue-Marine_%281815%29.png) — Template:Country data United States — NOT REBUILDABLE without tracing: the 16 stripes are trivial, but each canton eagle is a freeform drawing with no vector source (searched Commons 2026-10-15; the USCG ensign SVG's eagle is a different design)
 - [File:Ensign of the United States Revenue-Marine (1836).png](https://commons.wikimedia.org/wiki/File:Ensign_of_the_United_States_Revenue-Marine_%281836%29.png) — Template:Country data United States — NOT REBUILDABLE without tracing: the 16 stripes are trivial, but each canton eagle is a freeform drawing with no vector source (searched Commons 2026-10-15; the USCG ensign SVG's eagle is a different design)
@@ -132,7 +132,7 @@ Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed image
 - [File:Linear B Sample.png](https://commons.wikimedia.org/wiki/File:Linear_B_Sample.png) — Help:Multilingual support — NEEDS-DECISION (user): script specimen (see INTENT: <text> needs the font on Commons vs. glyph outlines as paths).
 - [File:Lontara script.png](https://commons.wikimedia.org/wiki/File:Lontara_script.png) — Help:Multilingual support — NEEDS-DECISION (user): script specimen (see INTENT: <text> needs the font on Commons vs. glyph outlines as paths).
 - [File:Malayalam Om.png](https://commons.wikimedia.org/wiki/File:Malayalam_Om.png) — Om — NEEDS-DECISION (user): script specimen (see INTENT: <text> needs the font on Commons vs. glyph outlines as paths).
-- [File:Manual tab only - visual editor - citations.png](https://commons.wikimedia.org/wiki/File:Manual_tab_only_-_visual_editor_-_citations.png) — Help:VisualEditor
+- [File:Manual tab only - visual editor - citations.png](https://commons.wikimedia.org/wiki/File:Manual_tab_only_-_visual_editor_-_citations.png) — Help:VisualEditor — NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
 - [File:Map Kumano Kodo (ja).png](https://commons.wikimedia.org/wiki/File:Map_Kumano_Kodo_%28ja%29.png) — Kiiji
 - [File:Map Kumano Kodo.png](https://commons.wikimedia.org/wiki/File:Map_Kumano_Kodo.png) — Kumano Kodō
 - [File:Map of Suwa Shrine, Kamisha Honmiya (English).png](https://commons.wikimedia.org/wiki/File:Map_of_Suwa_Shrine%2C_Kamisha_Honmiya_%28English%29.png) — Suwa-taisha
@@ -165,12 +165,12 @@ Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed image
 - [File:NoDVDcover copy.png](https://commons.wikimedia.org/wiki/File:NoDVDcover_copy.png) — (file-title list), File:NoDVDcover copy.png, Module:InfoboxImage/data, Module:InfoboxImage/doc, Module:InfoboxImage/sandbox
 - [File:Nonotonoto.png](https://commons.wikimedia.org/wiki/File:Nonotonoto.png) — Help:Multilingual support — NEEDS-DECISION (user): script specimen (see INTENT: <text> needs the font on Commons vs. glyph outlines as paths).
 - [File:North Texas Stacked Wordmark.png](https://commons.wikimedia.org/wiki/File:North_Texas_Stacked_Wordmark.png) — Module:Portal/images/u
-- [File:Notifications - Email received - January 2016.png](https://commons.wikimedia.org/wiki/File:Notifications_-_Email_received_-_January_2016.png) — Help:Notifications
-- [File:Notifications - Failed Mention - August 2016.png](https://commons.wikimedia.org/wiki/File:Notifications_-_Failed_Mention_-_August_2016.png) — Help:Notifications
-- [File:Notifications - First milestone - August 2016.png](https://commons.wikimedia.org/wiki/File:Notifications_-_First_milestone_-_August_2016.png) — Help:Notifications
-- [File:Notifications - Successful Mention - August 2016.png](https://commons.wikimedia.org/wiki/File:Notifications_-_Successful_Mention_-_August_2016.png) — Help:Notifications
-- [File:Notifications - Welcome - January 2016.png](https://commons.wikimedia.org/wiki/File:Notifications_-_Welcome_-_January_2016.png) — Help:Notifications
-- [File:Notifications - Wikidata connection.png](https://commons.wikimedia.org/wiki/File:Notifications_-_Wikidata_connection.png) — Help:Notifications
+- [File:Notifications - Email received - January 2016.png](https://commons.wikimedia.org/wiki/File:Notifications_-_Email_received_-_January_2016.png) — Help:Notifications — NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
+- [File:Notifications - Failed Mention - August 2016.png](https://commons.wikimedia.org/wiki/File:Notifications_-_Failed_Mention_-_August_2016.png) — Help:Notifications — NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
+- [File:Notifications - First milestone - August 2016.png](https://commons.wikimedia.org/wiki/File:Notifications_-_First_milestone_-_August_2016.png) — Help:Notifications — NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
+- [File:Notifications - Successful Mention - August 2016.png](https://commons.wikimedia.org/wiki/File:Notifications_-_Successful_Mention_-_August_2016.png) — Help:Notifications — NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
+- [File:Notifications - Welcome - January 2016.png](https://commons.wikimedia.org/wiki/File:Notifications_-_Welcome_-_January_2016.png) — Help:Notifications — NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
+- [File:Notifications - Wikidata connection.png](https://commons.wikimedia.org/wiki/File:Notifications_-_Wikidata_connection.png) — Help:Notifications — NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
 - [File:O-dot.png](https://commons.wikimedia.org/wiki/File:O-dot.png) — Template:Contains special characters — NEEDS-DECISION (user): a letter specimen (Pe̍h-ōe-jī o͘, U+006F U+0358); same question as the script specimens: <text> in a font Commons renders, or leave
 - [File:Ogham Sample.png](https://commons.wikimedia.org/wiki/File:Ogham_Sample.png) — Help:Multilingual support
 - [File:Old Persian mi.png](https://commons.wikimedia.org/wiki/File:Old_Persian_mi.png) — Template:Contains special characters
@@ -180,13 +180,13 @@ Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed image
 - [File:Orion-Sternkarte.png](https://commons.wikimedia.org/wiki/File:Orion-Sternkarte.png) — Sah (constellation), Seba-en-Sah, Seba-en-Sopdet
 - [File:Oshima Iki.png](https://commons.wikimedia.org/wiki/File:Oshima_Iki.png) — Iki Island
 - [File:Ottoman Turkish in Nastaliq (vertical).png](https://commons.wikimedia.org/wiki/File:Ottoman_Turkish_in_Nastaliq_%28vertical%29.png) — Template:Contains special characters
-- [File:Pagename explanation2.png](https://commons.wikimedia.org/wiki/File:Pagename_explanation2.png) — Help:Page name
-- [File:Panam Sports flag.png](https://commons.wikimedia.org/wiki/File:Panam_Sports_flag.png) — Module:Country alias/data
-- [File:Perform batch task.png](https://commons.wikimedia.org/wiki/File:Perform_batch_task.png) — Help:VisualFileChange.js
+- [File:Pagename explanation2.png](https://commons.wikimedia.org/wiki/File:Pagename_explanation2.png) — Help:Page name — NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
+- [File:Panam Sports flag.png](https://commons.wikimedia.org/wiki/File:Panam_Sports_flag.png) — Module:Country alias/data — NOT REBUILDABLE without tracing: the PANAM SPORTS wordmark is custom inline lettering; no vector logo on Commons
+- [File:Perform batch task.png](https://commons.wikimedia.org/wiki/File:Perform_batch_task.png) — Help:VisualFileChange.js — NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
 - [File:Phaistos-A23.png](https://commons.wikimedia.org/wiki/File:Phaistos-A23.png) — Help:Multilingual support
 - [File:Pleurodeles walti dis.png](https://commons.wikimedia.org/wiki/File:Pleurodeles_walti_dis.png) — Template:Taxobox/doc
-- [File:Position Alpha Cmi.png](https://commons.wikimedia.org/wiki/File:Position_Alpha_Cmi.png) — Imi-chet-Sopdet
-- [File:Position Beta Cma.png](https://commons.wikimedia.org/wiki/File:Position_Beta_Cma.png) — Tepi-a-Sopdet
+- [File:Position Alpha Cmi.png](https://commons.wikimedia.org/wiki/File:Position_Alpha_Cmi.png) — Imi-chet-Sopdet — NOT REBUILDABLE as drawn: a planetarium-program screenshot (star field with glow). A new chart could be drawn from a star catalogue, but that is a new image: NEEDS-DECISION (user) if wanted
+- [File:Position Beta Cma.png](https://commons.wikimedia.org/wiki/File:Position_Beta_Cma.png) — Tepi-a-Sopdet — NOT REBUILDABLE as drawn: a planetarium-program screenshot (star field with glow). A new chart could be drawn from a star catalogue, but that is a new image: NEEDS-DECISION (user) if wanted
 - [File:Position of Ashibe Port Iki City.png](https://commons.wikimedia.org/wiki/File:Position_of_Ashibe_Port_Iki_City.png) — Iki Island
 - [File:Regionen japans.png](https://commons.wikimedia.org/wiki/File:Regionen_japans.png) — Template:Continued Top 100 Japanese Castles
 - [File:Replace this image butterfly.png](https://commons.wikimedia.org/wiki/File:Replace_this_image_butterfly.png) — (file-title list), File:Replace this image butterfly.png, Module:InfoboxImage/data, Module:InfoboxImage/doc, Module:InfoboxImage/sandbox, Template:Infobox instrument/doc
@@ -457,8 +457,8 @@ Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed image
 - [File:Naiku Map in Japanese.png](https://commons.wikimedia.org/wiki/File:Naiku_Map_in_Japanese.png) — Kōtai Jingū
 - [File:Nocover-upload.png](https://commons.wikimedia.org/wiki/File:Nocover-upload.png) — (file-title list), File:Nocover-upload.png, Module:InfoboxImage/data, Module:InfoboxImage/doc, Module:InfoboxImage/sandbox
 - [File:Notification for failed login attempt.png](https://commons.wikimedia.org/wiki/File:Notification_for_failed_login_attempt.png) — Help:Notifications
-- [File:Notifications - Changed rights - January 2016.png](https://commons.wikimedia.org/wiki/File:Notifications_-_Changed_rights_-_January_2016.png) — Help:Notifications
-- [File:Notifications - Thanked edit - January 2016.png](https://commons.wikimedia.org/wiki/File:Notifications_-_Thanked_edit_-_January_2016.png) — Help:Notifications
+- [File:Notifications - Changed rights - January 2016.png](https://commons.wikimedia.org/wiki/File:Notifications_-_Changed_rights_-_January_2016.png) — Help:Notifications — NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
+- [File:Notifications - Thanked edit - January 2016.png](https://commons.wikimedia.org/wiki/File:Notifications_-_Thanked_edit_-_January_2016.png) — Help:Notifications — NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
 - [File:Ototachibanahime.png](https://commons.wikimedia.org/wiki/File:Ototachibanahime.png) — Tachibanahime-no-Mikoto
 - [File:P social sciences-lightblue.png](https://commons.wikimedia.org/wiki/File:P_social_sciences-lightblue.png) — Module:Portal/images/s/sandbox
 - [File:Pagename explanation.png](https://commons.wikimedia.org/wiki/File:Pagename_explanation.png) — Help:Page name
