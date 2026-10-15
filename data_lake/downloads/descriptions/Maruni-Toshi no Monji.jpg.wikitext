@@ -1,0 +1,16 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|1=Maruni-''Toshi(利)'' no mon. Japanese Family Crest.
+This is one of Katahara Matsudaira Clan (形原松平家)'s Family Crest.}}
+{{ja|1=丸に利の文字。{{W|形原松平家||ja}}家紋の一つ。}}
+|Date=2010-03-30
+|Source={{own}}
+|Author={{Uc|SUPER REXTON}}
+}}
+{{Rcat|利|18|5}}
+== {{int:license-header}} ==
+{{cc-by-sa-3.0}}
+
+[[Category:Moji mon (Japanese crests)]]
+[[Category:Tokugawa clan]]
+[[Category:Circles with kanji|利]]

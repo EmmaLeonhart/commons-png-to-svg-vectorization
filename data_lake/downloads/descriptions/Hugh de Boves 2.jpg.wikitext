@@ -1,0 +1,19 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|1=The Battle of Bouvines 1214, Hugh of Boves flees from the Battlefield. (Cambridge, Corpus Christi College, MS 16 fol. 37)}}
+{{de|1=Die Schlacht von Bouvines 1214, Hugo von Boves fieht vom Schlachtfeld. (Cambridge, Corpus Christi College, MS 16 fol. 37)}}
+|Source= Matthew Paris, Chronica Majora, II, fol. 37r<br />
+http://www.hrionline.ac.uk/normans/images/battle-of-bouvines.jpg
+|Author=Matthew Paris
+|Date={{other date|century|13}}
+|Permission=
+|other_versions=
+}}
+
+[[Category:Chronica Majora part 2 (Matthew Paris) - Parker MS 16|037]]
+[[Category:Medieval miniatures of the battle of Bouvines]]
+[[Category:Medieval miniatures of horses]]
+[[Category:Hugh de Boves]]
+
+== {{int:license-header}} ==
+{{PD-old}}

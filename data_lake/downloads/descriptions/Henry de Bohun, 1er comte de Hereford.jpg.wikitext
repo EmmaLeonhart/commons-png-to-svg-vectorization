@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Henry de Bohun , coat of arms, drawn by Matthew Paris, Historia anglorum, 1250-59 [British Library, Royal MS 14 C VII, f°106r]}}
+|date=1250-59
+|source=http://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_c_vii_f106r
+|author="Matthew Paris, Historia anglorum, 1250-59 [British Library, Royal MS 14 C VII, f°106r]"
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-old-100}}
+
+[[Category:Bohun arms]]
+[[Category:Historia Anglorum (1250-1259) - BL Royal MS 14 C VII]]
+[[Category:Henry de Bohun, 1st Earl of Hereford]]

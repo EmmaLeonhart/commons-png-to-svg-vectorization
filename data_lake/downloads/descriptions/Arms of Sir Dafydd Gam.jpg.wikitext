@@ -1,0 +1,20 @@
+== {{int:filedesc}} ==
+{{Information
+|Description=An image from a set of 8 extra-illustrated volumes of A tour in Wales by Thomas Pennant (1726-1798) that chronicle the three journeys he made through Wales between 1773 and 1776. These volumes are unique because they were compiled for Pennant's own library at Downing. This edition was produced in 1781.
+
+The volumes include a number of original drawings by Moses Griffiths, Ingleby and other well known artists of the period.
+
+Thomas Pennant (1726-1798)
+
+|Source={{NLWsource}}
+|Date=2015-12-16 14:53:13
+|Author=Thomas Pennant
+|Permission=
+|other_versions=
+}}
+== {{int:license-header}} ==
+{{PD-old}}
+
+[[Category:A Tour in Wales by Thomas Pennant]]
+[[Category:Coats of arms of families of Wales]]
+[[Category:Images uploaded as part of NLW - WMUK collaboration]]

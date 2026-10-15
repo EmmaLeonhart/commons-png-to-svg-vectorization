@@ -1,0 +1,16 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{ja|1=丸に日の丸扇紋（まるにひのまるおうぎ）- 五本骨扇に月丸, 五本骨日の丸扇}}
+|Source={{own}}
+|Author=[[User:Lenovo|Lenovo]]
+|Date=
+|Permission=
+|other_versions={{G|Japanese Crest Hinomaru Oogi.svg|Barn-Ogi-Sensu.svg|Satake.png|Asarikamon.jpg}}
+}}
+{{Vector version available|1=Satake-1.svg}}
+
+== {{int:license-header}} ==
+{{cc-zero}}
+
+[[Category:Ōgi mon (Japanese crests)]]
+[[Category:Satake clan]]

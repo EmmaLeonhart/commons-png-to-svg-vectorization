@@ -1,0 +1,16 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|1=Arms of William Marshal, 2nd Earl of Pembroke: ''Party per pale or and vert, overall a lion rampant gules''}}
+|Source=http://molcat1.bl.uk/IllImages/BLCD%5Cmid/c131/c13123-03.jpg
+|Author=Matthew Paris (d.1259), British Library MS Royal 14 C VII  f. 117 
+|Date={{other date|century|13}}
+|Permission={{PD-old}}
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{PD-Art}}
+
+[[Category:Historia Anglorum (1250-1259) - BL Royal MS 14 C VII|117]]
+[[Category:William Marshal, 2nd Earl of Pembroke]]
+[[Category:Marshal arms]]

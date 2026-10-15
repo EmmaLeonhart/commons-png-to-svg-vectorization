@@ -1,0 +1,23 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{de|1=Wappen des Thüringer Königreiches}}
+|Source=[http://digital.slub-dresden.de/id280736444/12 Stammbuch von Sachsen], http://nbn-resolving.de/urn:nbn:de:bsz:14-db-id2807364443
+|Date=1546
+|Author={{unknown|author}}
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{PD-old-100}}
+<!-- Templates "Template:Zeit seit" were used in the original description page as well , but do not appear to exist on commons. -->
+
+== {{Original upload log}} ==
+{{original description|de.wikipedia|Th%C3%BCringen+Kgr+Wappen.jpg}}
+{| class="wikitable"
+! {{int:filehist-datetime}} !! {{int:filehist-dimensions}} !! {{int:filehist-user}} !! {{int:filehist-comment}}
+|-
+| 2009-07-21 06:42 || 867×1318× (962376 bytes) || [[:de:User:Rüdiger Bier|Rüdiger Bier]] || ''<nowiki>{{Information |Beschreibung = Wappen des Thüringer Königreiches |Quelle = Stammbuch von Sachsen |Urheber = unbekannt |Datum = 1546 |Genehmigung = |Andere Versionen = |Anmerkungen = }}</nowiki>''
+|}
+
+[[Category:Coats of arms of Thuringia]]

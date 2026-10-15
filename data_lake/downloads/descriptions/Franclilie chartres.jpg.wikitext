@@ -1,0 +1,16 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{cs|1=Vitráž ze Chartres - erb Kapetovců}}
+|Source=http://commons.wikimedia.org/wiki/File:Chartres_cathedral_2858.jpg
+|Author=[[User:Rama]]
+|Date=2008
+|Permission=
+|other_versions=[[:File:Chartres cathedral 2858.jpg]]
+}}
+
+== {{int:license-header}} ==
+
+{{Self|GFDL|cc-by-sa-3.0,2.5,2.0,1.0}}
+
+[[Category:North rose windows of Cathédrale Notre-Dame de Chartres]]
+[[Category:Royal coats of arms of France (ancient)]]

@@ -5,6 +5,13 @@
 Agentic vectorization of individual PNG files on Wikimedia Commons: each PNG is rebuilt
 as an SVG, one file at a time.
 
+Second strand (from 2026-10-15): **coats of arms for the people of the order.life genealogy**.
+Every person with arms on Wikidata whose only image is a PNG or JPG gets an SVG, rebuilt from the
+blazon with the [Sodacan arms generator](https://github.com/EmmaLeonhart) (Emma's blazon → SVG
+generator, used read-only) or from an existing Commons SVG. See `files/arms/README.md`;
+`files/arms/person_arms_status.tsv` says where each person's SVG is, and
+`files/arms/generator-gaps.md` lists what the generator cannot draw yet.
+
 ## Rules
 
 - **Rebuild, don't trace.** Where a PNG was made from a vector source (an existing SVG

@@ -1,0 +1,17 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Seal of Yaroslav Vsevolodovich of Chernigov}}
+|date=XI в.
+|source=https://sammlung.ru/?p=19422
+|author=Неизвестен
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{cc-by-sa-4.0}}
+
+[[Category:PD-RusEmpire]]
+[[Category:Seals of the Rurik Dynasty]]
+[[Category:Seals (emblem)]]
+[[Category:Yaroslav Vsevolodovich, Prince of Chernihiv]]

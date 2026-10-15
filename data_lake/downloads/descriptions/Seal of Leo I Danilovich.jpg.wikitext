@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Seal of Leo I Danilovich}}
+|date=1264 - 1301
+|source=https://sigillum.com.ua/stamp/lev-i-danylovych/
+|author=Неизвестен
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{cc-by-sa-4.0}}
+
+[[Category:PD-RusEmpire]]
+[[Category:PD-Russia]]
+[[Category:Lev I of Galicia]]

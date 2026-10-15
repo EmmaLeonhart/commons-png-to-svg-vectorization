@@ -1,0 +1,18 @@
+=={{int:filedesc}}==
+{{Information
+|description={{fr|1=Nice (Alpes-Maritimes, France), au cœur du Vieux Nice, le palais Lascaris avec, entre autres, sa fabuleuse collection d'instruments de musique anciens, la deuxième de France. - Écartelé: aux 1 et 4, de gueules, à l'aigle éployée d'or, chaque tête couronnée du même (Lascaris); aux 2 et 3,
+de gueules, au chef d'or (Vintimille).}}
+|date=2016-04-25 13:35:11
+|source={{own}}
+|author=[[User:Finoskov|Finoskov]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Palais Lascaris (Nice)]]
+[[Category:Nice, palais Lascaris by Finoskov]]
+[[Category:Coats of arms of the House of Lascaris di Ventimiglia]]
+[[Category:Nec me fulgura]]

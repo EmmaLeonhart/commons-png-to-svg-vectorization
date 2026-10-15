@@ -1,0 +1,16 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{de|Bistumswappen Passau}}
+|Source=Bischöfliche Pressestelle Passau
+|Date=2009
+|Author=Wolfgang Duschl
+|Permission=pressestelle@bistum-passau.de 
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{PD-Seal-Germany}}
+
+[[Category:Coats of arms of bishops of the Roman Catholic Diocese of Passau]]
+[[Category:Passau See coat of arms]]
+ {{DEFAULTSORT:Passau}}

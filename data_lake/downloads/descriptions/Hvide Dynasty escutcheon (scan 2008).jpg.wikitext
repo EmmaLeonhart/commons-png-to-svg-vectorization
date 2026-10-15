@@ -1,0 +1,12 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|1=Arms of the noble Hvide Family of Denmark}}
+|Source=From ''Svenska Kungliga bildstoder och sigill'' P. E. Hedman, Duvnäs, 1905
+|Author=Unknown artist (collection photo scanned by Ristesson Ent.)
+|Date={{other date|circa|1400}} (photo scanned 2008)
+|Permission={{PD-EU-no author disclosure}}
+|other_versions=
+}}
+
+[[Category:Coats of arms of families of Denmark]]
+[[Category:Ristesson History]]

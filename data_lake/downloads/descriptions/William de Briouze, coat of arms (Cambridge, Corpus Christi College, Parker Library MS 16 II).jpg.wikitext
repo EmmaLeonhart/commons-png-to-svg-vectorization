@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Excerpt from Cambridge Corpus Christi College Parker Library MS 16 II (''[[w:Chronica Majora|Chronica Majora]]''). The excerpt depicts the coat of arms of [[w:William de Braose, 4th Lord of Bramber|William de Briouze]] (died 1211). The particular folio that this illustration is shown on is variously stated to be 29v and 33v.}}
+|date={{other date|century|13}}
+|source=Parker Library website ([http://parkerweb.stanford.edu/parker/actions/manuscript_description_long_display.do?ms_no=16II Matthaei Paris Chronica Maiora II])
+|author={{Creator:Matthew Paris}}
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-Art|PD-old-auto-expired|deathyear=1259}}
+
+[[Category:Braose arms]]
+[[Category:Matthew Paris]]

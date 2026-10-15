@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=The Nevsky Emblem}}
+|date=2012-04-25 07:31:27
+|source={{own}}
+|author=[[User:Kwansical|Kwansical]]
+|permission=
+|other_versions=
+|other_fields=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-3.0}}
+
+[[Category:Coats of arms of Alexander Nevsky]]
+[[Category:Taken with Canon PowerShot A3100 IS]]

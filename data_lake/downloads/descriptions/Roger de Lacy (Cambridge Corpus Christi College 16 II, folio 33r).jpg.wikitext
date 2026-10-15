@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Coat of arms of [[w:Roger de Lacy (1170–1211)|Roger de Lacy]] as it appears on folio 33r of Cambridge Corpus Christi College 16 II. The upside down shield represents Roger's death.}}
+|date={{other date|century|13}}
+|source=Parker Library on the Web website: [https://parker.stanford.edu/parker/catalog/qt808nj0703 Cambridge, Corpus Christi College, MS 016II: Matthew Paris OSB, Chronica Maiora II]
+|author={{unknown|author}}
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-Art|PD-old-100-expired}}
+{{DEFAULTSORT:Lacy}}
+[[Category:Matthew Paris]]
+[[Category:Coats of arms of Roger de Lacy, 6th Baron of Pontefract]]

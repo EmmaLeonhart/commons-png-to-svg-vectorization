@@ -1,0 +1,23 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Coat of arms of Sir [[:en:Richard Williams (alias Cromwell)|Richard Cromwell (alias Williams)]] (c.1510-1544): ''Gules, three chevronels Argent, over all three lions rampant Or, armed and langued Azure.''<br> 
+Crest: A demi-lion rampant Or, charged with three chevronels Gules, holding between the paws a plummet Azure.<br>
+
+References:
+*Metcalfe, W. C. (1885). ''A Book of Knights Banneret, Knights of the Bath, and Knights Bachelor''. p. [https://archive.org/stream/abookknightsban00metcgoog#page/n84/mode/2up 69].
+*Siddons, Michael Powell (1993). ''The Development of Welsh Heraldry''. Aberystwyth: National Library of Wales.vol. 2, pp. 602–603.}}
+|date=2020-03-05
+|source={{own}}
+|author=[[User:Ammelida|Ammelida]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+{{DEFAULTSORT:Cromwell}}
+[[Category:Cromwell (of Huntingdon) arms]]
+[[Category:Cromwell family|Williams, Richard]]
+[[Category:Richard Williams (alias Cromwell)]]
+[[Category:Chevronels in heraldry]]
+[[Category:3 lions on a chevron]]

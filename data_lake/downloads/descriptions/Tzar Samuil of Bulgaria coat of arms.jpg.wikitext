@@ -1,0 +1,16 @@
+== {{int:filedesc}} ==
+{{Information
+|Description    ={{en|1=Tzar_Samuil_of_Bulgaria_coat_of_arms}}
+|Source         ={{own}}
+|Author         =[[User:Mpb eu|Mpb eu]]
+|Date           =
+|Permission     =
+|other_versions =
+}}
+
+== {{int:license-header}} ==
+{{self|Cc-zero}}
+
+[[Category:Historical coats of arms of Bulgaria]]
+[[Category:Samuil of Bulgaria]]
+[[Category:Agios Ahillios basilica]]

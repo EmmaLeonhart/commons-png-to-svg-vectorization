@@ -1,0 +1,16 @@
+== {{int:filedesc}} ==
+{{Information
+|Description    ={{en|1=Coat of arms of the Hvide family}}
+|Source         =Danmarks Adels Aarbog 1898
+|Author         ={{Creator:Anders Thiset}}
+|Date           =1898
+|Permission     =
+|other_versions =
+}}
+
+== {{int:license-header}} ==
+{{PD-old}}
+
+[[Category:Coats of arms of families of Denmark]]
+[[Category:Coats of arms by Anders Thiset]]
+[[Category:Danmarks Adels Aarbog]]

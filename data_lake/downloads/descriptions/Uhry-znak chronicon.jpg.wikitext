@@ -1,0 +1,18 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|1=Chronicon Pictum}}
+{{cs|1=Chronicon Pictum}}
+|Source=http://tortenet.oszk.hu/html/magyar/04kincseink/kezirattar/005hub1_codlat404_kepeskronika_p001.jpg
+|Author={{anonymous}}
+|Date={{other date|century|14}}
+|Permission=
+|other_versions=
+}}
+
+
+[[Category:Miniatures in Chronicon Pictum]]
+[[Category:Coats of arms of the Kingdom of Hungary (ancient) (without crown)]]
+|Category:Bojča (coat of arms)
+
+== {{int:license-header}} ==
+{{PD-old}}

@@ -1,0 +1,16 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|Japanese family crest "Ichinoseki Myōga mon", crest of Ichinoseki Tamura clan}}
+|Source={{own}}
+|Author={{U|MChew}}
+|Date=2016-10-17
+|Permission=
+|other_versions={{F|Kamon Tamura.jpg|G}}
+}}
+
+== {{int:license-header}} ==
+{{self|GFDL|cc-by-sa-3.0,2.5,2.0,1.0}}
+{{Convert to SVG|emblem}}
+
+[[Category:Myōga mon (Japanese crests)]]
+[[Category:Scanned with Canon Pixma TS5000]]

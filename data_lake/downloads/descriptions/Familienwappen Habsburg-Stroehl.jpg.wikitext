@@ -1,0 +1,25 @@
+== {{int:filedesc}} ==
+{{COAInformation
+ |blazon of      = {{de|1=''Wappen der Gefürsteten Grafschaft Habsburg mit Helmkleinod''}}{{en|1=''[[House of Habsburg]] coat of arms conforming with one of Habsburg County''}}{{fr|1=''Armoires de [[:fr:Habsbourg|la Maison de Habsbourg]]''}}{{ru|1=''Герб графства и [[:ru:Габсбурги|династии Габсбургов]]''}}
+ |blazon         = {{de|1=''Ein roter Löwe, blau bewehrt und bezungt, gekrönt von einer blauen Krone auf goldenem Grund, darüber ein zur Seite gewandter gekrönter Bügelhelm mit wachsendem die Wappenfigur wiederholenden Löwen, jedoch mit einem mit Pfauenfedern besetzten Rückenkamm.
+
+Erläuterung:
+1.:"Um das Jahr 1020 wurde von [[:de:Werner I. von Habsburg|Wernher, Bischof von Strassburg]], die [[:de:Habsburg (Burg)|Veste Habsburg]] erbaut, welche den Nachkommen seines [[:de:Radbot (Habsburg)|Bruders]] den Namen gab. Unter Herzog [[:de:Friedrich IV. (Tirol)|Friedrich IV.]], genannt »mit der leeren Tasche« wurde die Grafschaft an die [[:de:Alte Eidgenossenschaft|schweizerischen Eidgenossen]] verloren und die Burg von den Bernern zerstört (1414).
+VII Den habsburgischen Löwen, aber ohne Krone, finden wir zum erstenmale in dem Siegel einer Urkunde 1186, das Helmkleinod, ebenfalls ungekrönt, 1259. [[:de:Rudolf IV. (Österreich)|Rudolf IV.]] setzte zum erstenmale dem Löwen eine Krone auf das Haupt und gerieth wegen dieser und anderer Eigenmächtigkeiten in Bezug auf Wappen und Titelführung mit seinem Schwiegervater, dem Kaiser [[:de:Karl IV.|Karl IV.]], in Conflict. Seit 1500 werden beide Löwen stets gekrönt, und da das Gold der Krone im goldenen Felde des Schildes sich zu wenig abheben würde, erhält diese Krone eine blaue Tinctur. Auch die Krone des Löwen am Helme erscheint öfter in blauer Farbe, was mir aber nicht genügend begründet erscheint, da ja hier kein gleichfarbiger Hintergrund vorhanden ist. Das habsburgische Wappen besitzt auch noch ein zweites Helmkleinod: zwei roth- oder gold-geschnäbelte Schwanenhälse, in manchen Darstellungen auch goldene Ringe in den Schnäbeln tragend. Dieses Kleinod ist dem Wappen der [[:de:Herrschaft Rapperswil|Grafschaft Rapperswyl]] entnommen, welche durch die Heirat Rudolf VI. aus der jüngeren, sogenannten [[:de:Habsburg-Laufenburg|Laufenburgischen Linie]] des Hauses Habsburg, mit einer geborenen Gräfin von Rapperswyl (1296) und nach dem Tode ihres Bruders, des letzten Rapperswyl (1283), im Jahre 1323 an Habsburg-Laufenburg kam, von welchen 1358 die Grafschaft von Rudolf IV. von Oesterreich um 1100 Mark Silber erstanden wurde."
+
+2.:"Das habsburgische Kleinod ist ein "wachsender", d. h. aus der Krone hervorkommender Löwe mit einem mit Pfauenfedern besetzten Rückenkamm geschmückt. Der Löwe findet sich bereits 1186 im Siegel der Habsburger; Rudolf IV. der Stifter setzte ihm eine Krone auf das Haupt." -14''}}{{en|1=''Or, a lion rampant gules armed langued and crowned azure''}}{{fr|1=''D'or au lion de gueules armé, lampassé et couronné d'azur''}}{{ru|1=''В золотом поле червлёный вооружённый и коронованный лазурью лев''}}
+ |references     = {{de|1=''1. Hugo Gerhard Ströhl: Wappenrolle Österreich-Ungarns. Erste Auflage, Wien 1890, S. VI-VII.
+2. Hugo Gerhard Ströhl: Wappenrolle Österreich-Ungarns. Dritte Auflage, Wien 1900, S. 14.''}}
+ |description    = 
+ |date           = 1890
+ |artist         = {{Creator:Hugo Gerhard Ströhl}} Lithographie Haufler, Schmutterer & Co. Wien, Verlag von Anton Schroll & Co. Wien
+ |source         = [[File:Ströhl - Österreichische Wappenrolle (1890) Tafel 02.png|thumb|left|Hugo Gerhard Ströhl: Wappenrolle Österreich-Ungarns. Erste Auflage, Wien 1890, Tafel II.]]
+ |permission     = {{PD-old-auto|deathyear=1919}}{{PD-AustrianGov}} 
+ |versions       = Hugo Gerhard Ströhl: Wappenrolle Österreich-Ungarns. Dritte Auflage, Wien 1900, Tafel XVI. (Verbesserte, jedoch monochrome Fassung)
+
+}}
+{{vva|Achievement (coat of arms) of the House of Habsburg.svg}}
+
+[[Category:Wappenrolle Österreich-Ungarns]]
+[[Category:Lion of Habsburg]]
+[[Category:Kyburg crest]]

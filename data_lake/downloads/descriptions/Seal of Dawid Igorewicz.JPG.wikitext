@@ -1,0 +1,16 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|1=Seal of Dawid Igorewicz}}
+|Source={{Own}}
+|Author=Image taken by [[User:Mathiasrex]] Maciej Szczepańczyk
+|Date=2008-08
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{self|GFDL|migration=relicense}}
+
+[[Category:Medieval seals]]
+[[Category:David Igorevich, Prince of Volhynia]]
+[[Category:Taken with Canon PowerShot A650 IS]]

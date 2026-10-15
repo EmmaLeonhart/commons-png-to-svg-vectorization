@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Seal of Ivan Vasilkovich Galitsky}}
+|date=1139-1141
+|source=https://sigillum.com.ua/collections/igor-vasylkovych-knyaz-1139-1141-rr/
+|author=Неизвестен
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{cc-by-sa-4.0}}
+
+[[Category:PD-RusEmpire]]
+[[Category:PD-Russia]]
+[[Category:Princes of Galich Merskiy]]

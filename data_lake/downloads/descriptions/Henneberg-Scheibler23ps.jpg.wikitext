@@ -1,0 +1,18 @@
+{{Information
+|Description=Scheibler'sches Wappenbuch , älterer Teil
+
+Henneberg
+|Source=[http://mdzx.bib-bvb.de/codicon/inventiconCod.icon.%20312%20c.html Bayerische Staatsbibliothek Cod.icon. 312 c] 1450 - 1480
+|Date= {{other date|between|1450|1580}}
+|Author=verschiedene unbekannte Künstler
+|Permission=
+|other_versions=
+}}
+
+{{PD-old}}
+
+[[Category:Scheibler-Franken|Henneberg]]
+
+
+[[Category:Coats of arms of Henneberg family]]
+[[Category:Henneberger Land]]

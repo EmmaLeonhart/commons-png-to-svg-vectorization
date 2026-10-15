@@ -1,0 +1,15 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|1=Coat of Arms of the Ataíde family}}
+|Source={{own}}
+|Author=Aviz2000
+|Date=2009-02-02
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{PD-self}}
+{{DEFAULTSORT:Ataide}}
+[[Category:Coats of arms of Ataíde]]
+[[Category:Coats of arms of countships of Portugal]]

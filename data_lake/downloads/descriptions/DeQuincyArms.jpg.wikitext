@@ -1,0 +1,14 @@
+== {{int:filedesc}} ==
+{{Information
+|Description    ={{en|1=Arms of De Quincy: ''Gules, seven mascles or 3,3,1''}}
+|Source         =Copied to commons from en File:Quincy Coat of Arms.jpg
+|Author         =Dlkeller999
+|Date           =2009
+|Permission     =
+|other_versions =
+}}
+
+[[Category:De Quincy arms]]
+== {{int:license-header}} ==
+{{cc-by-sa-3.0}}
+{{DEFAULTSORT:Quincy -}}

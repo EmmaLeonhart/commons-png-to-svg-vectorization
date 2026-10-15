@@ -1,0 +1,19 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Seal of Prince Svyatoslav Vsevolodovich of Kiev}}
+|date=XII в.
+|source=https://sigillum.com.ua/collections/svyatoslav-vsevolodovych-knyaz-hii-st/
+|author={{unknown|author}}
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{cc-by-sa-4.0}}
+
+[[Category:PD-RusEmpire]]
+[[Category:Kievan Rus]]
+[[Category:Slavonic seals]]
+[[Category:Seals of the Rurik Dynasty]]
+[[Category:Sviatoslav III, Grand Prince of Kyiv]]
+[[Category:Cross of Lorraine]]

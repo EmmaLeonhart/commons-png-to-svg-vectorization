@@ -1,0 +1,30 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ru|1=Печать князя Олега (Михаила Святославича)  – князя Владимирского, Тмутараканьского, Черниговского.
+Печать изготовлена после занятия престола в Чернигове в 1094 г.
+Оригинал: http://uacollections.fal.com.ua}}{{fr|1=Sceau du prince Oleg (Mikhail Sviatoslavich) - Prince de Vladimir, Tmoutarakan, Tchernigov. Le sceau a été réalisé après l'occupation du trône de Tchernigov en 1094.}}
+{{de|1=Siegel des Fürsten Oleg (Michael Svyatoslavich) - Prinz Vladimir, Tmutarakanskogo, Fürstentum Tschernigow.<br>
+Die Prägung wurde im Jahr 1094 nach Übernahme des Thrones von Tschernigow erstellt.<br>
+Original: http://uacollections.fal.com.ua }}
+|date={{other date|century|12}}
+|source=http://www.gerb.bel.ru/pages/bel_obl/img/sever1094_3.jpg
+|author={{Anonymous}}
+|permission=
+|other_versions=
+|other_fields=
+}}
+
+=={{int:license-header}}==
+{{PD-old-100}}
+
+[[Category:Oleg Sviatoslavich I, Prince of Chernihiv]]
+[[Category:Principality of Chernigov]]
+[[Category:Files by Лобачев Владимир]]
+[[Category:Symbols of Belgorod Oblast]]
+[[Category:Seals of Kievan Rus]]
+[[Category:Severians]]
+[[Category:Seals of medieval Ukraine]]
+[[Category:Saint Michael on seals]]
+[[Category:Church Slavonic inscriptions]]
+[[Category:History of Chernihiv]]
+[[Category:Church Slavonic inscriptions in Ukraine]]

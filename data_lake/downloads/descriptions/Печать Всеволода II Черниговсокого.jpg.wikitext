@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Seal of Vsevolod II of Chernigov}}
+|date=XII в.
+|source=https://www.reviewdetector.ru/index.php?showtopic=1856699&st=160
+|author={{unknown|author}}
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{cc-by-sa-4.0}}
+
+[[Category:PD-RusEmpire]]
+[[Category:Vsevolod II, Grand Prince of Kyiv]]

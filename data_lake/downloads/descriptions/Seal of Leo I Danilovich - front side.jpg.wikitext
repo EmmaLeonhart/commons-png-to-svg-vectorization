@@ -1,0 +1,17 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Seal of Leo I Danilovich - front side}}
+|date={{other date|between|1264|1301}}
+|source=https://sigillum.com.ua/stamp/lev-i-danylovych/
+|author={{unknown|author}}
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{cc-by-sa-4.0}}
+
+[[Category:PD-RusEmpire]]
+[[Category:PD-Russia]]
+[[Category:Lev I of Galicia]]
+[[Category:Slavonic seals]]

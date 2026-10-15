@@ -1,0 +1,15 @@
+== {{int:filedesc}} ==
+{{Information
+|Description=Wappen des Konstanzer Bischofs
+Gebhard von Zähringen
+|Source=Wappentafel der Bischöfe von Konstanz (sowie dreier Erzbischöfe von Freiburg), Mitte 19. Jh. von Franz Xaver Stiehle (anfangs Fantasiewappen; später teilweise unzuverlässig, im Mittelalter bei Amtsträgern in Doppelfunktion teilweise mit anderen Bistums-/Abtswappen angereicherte Schilde). Gesamte Wappentafel: [[:File:Wappentafel Bischöfe von Konstanz F X Stiehle 19Jh.jpg]]
+|Date=mid-19th century (1842–1868)
+|Author=Franz Xaver Stiehle
+|Permission=
+|other_versions=
+}}
+== {{int:license-header}} ==
+{{PD-art|PD-old-100}}
+
+[[Category:Wappentafel der Bischöfe von Konstanz (Stiehle)]]
+[[Category:Coats of arms of Zähringer family]]

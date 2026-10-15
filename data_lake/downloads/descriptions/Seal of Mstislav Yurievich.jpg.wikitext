@@ -1,0 +1,19 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Seal of Mstislav Yurievich}}
+|date=XII в.
+|source=https://sigillum.com.ua/collections/mstyslav-yurijovych-knyaz-ser-hii-st/
+|author=Неизвестен
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{cc-by-sa-4.0}}
+
+[[Category:PD-RusEmpire]]
+[[Category:PD-Russia]]
+[[Category:Seals of the Rurik Dynasty]]
+[[Category:Personal symbols of the Rurik Dynasty]]
+[[Category:Seals (emblem)]]
+[[Category:Mstislav Yurievich, Prince of Novgorod]]

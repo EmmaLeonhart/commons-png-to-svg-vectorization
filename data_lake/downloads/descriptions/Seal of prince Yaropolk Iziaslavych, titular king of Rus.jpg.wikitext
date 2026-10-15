@@ -1,0 +1,17 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Seal of prince Yaropolk Iziaslavych, titular king of Rus}}
+|date=1568
+|source=https://sigillum.com.ua/collections/yaropolk-izyaslavych-tytulyarnyj-korol-rusi-knyaz-druga-pol-hi-st/
+|author=Печать Ярополка Изяславича
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{cc-by-sa-4.0}}
+
+[[Category:PD-RusEmpire]]
+[[Category:Slavonic seals]]
+[[Category:Kings of Rus']]
+[[Category:Saint Yaropolk]]

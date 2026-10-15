@@ -1,0 +1,13 @@
+== {{int:filedesc}} ==
+{{Information
+|Description=Stemma della famiglia Avarna
+|Source={{own}}
+|Date=
+|Author= [[User:Massimop|Massimop]]
+|Permission=
+|other_versions=
+}}
+
+[[Category:Coats of arms of families of Italy-Surname beginning for A]]
+== {{int:license-header}} ==
+{{self|cc-by-sa-3.0|GFDL}}

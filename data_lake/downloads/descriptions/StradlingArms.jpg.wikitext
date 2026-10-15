@@ -1,0 +1,14 @@
+== {{int:filedesc}} ==
+{{Information
+|Description=Arms of Stradling, of St Donat's Castle, Glamorgan: ''Paly of six argent and azure, on a bend gules three cinquefoils or'' (Burke, Sir Bernard, The General Armory, London, 1884, p.978)
+|Source={{own}}
+|Date=2012-09
+|Author=own work
+|Permission=
+|other_versions=
+}}
+== {{int:license-header}} ==
+{{PD-self}}
+
+[[Category:Paly of 6 argent and azure]]
+[[Category:Stradling arms]]

@@ -1,0 +1,20 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Princely badge of Sudislav and Yaroslav Vladimirovich}}
+|date=20-30-е г. XI в.
+|source=https://sigillum.com.ua/collections/virchyj-znak-knyaziv-yaroslava-ta-sudyslava-volodymyrovychiv-20-30-ti-roky-hi-st/
+|author={{unknown|author}}
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{cc-by-sa-4.0}}
+
+[[Category:PD-RusEmpire]]
+[[Category:PD-Russia]]
+[[Category:Sudislav Vladimirovich, Prince of Pskov]]
+[[Category:Yaroslav I, Grand Prince of Kyiv]]
+[[Category:Seals (emblem)]]
+[[Category:Kyiv in the 11th century]]
+[[Category:Kievan Rus archaeology]]

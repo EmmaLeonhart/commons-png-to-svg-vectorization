@@ -1,0 +1,58 @@
+{{Information
+|Description={{de|Detail des Titelblatts des ersten Repertoriums des Stiftarchivs des adeligen Damenstifts Buchau, 1605 vom Stiftsekretär Gabriel Leuthold verfasst (Staatsarchiv Sigmaringen, StAS Dep. 30/14 T 2 Nr. 1757)<br />
+Motive: Apokryphe Wappen der legendären Klostergründer Adelindis (hier „Adelgundis ain geborne herzogin von Schwaben“, geviert Schwaben und Teck) und Atto von Tragant (hier „Otto Graf von Tragandt zu Kesselburg“). Des weiteren oben neben der Madonna die Patrone der Stiftskirche St. Cornelius und Cyprianus, in der Mitte oben das Wappen der Eleonore von Montfort (Äbtissin 1596-1610), links unten der Stiftsdame Dorothea von Mörsperg und Beffort (Stiftsdame seit mind. 1594, Seniorin 1605–1619) und Rosimunda von Ortenburg (Stiftsdame 1604–1610).}}
+
+{{en|Attributed arms of Adelindis of Swabia, of Atto of Tragant and of other persons (including that of Eleonore von Montfort, abbess 1596-1610, under the depiction of the Madonna); illumination of an archival finding aid of the Imperial Abbey of Buchau, written in 1605 (Sigmaringen State archive, Dep. 30/14 T 2 Nr. 1757)}}
+|Source=http://www.leo-bw.de/web/guest/themen/landesgeschichte/romer-alemannen-franken
+|Date=1605
+|Author={{unknown|author}}
+|Permission=
+|other_versions=
+}}
+{{PD-old-100}}
+
+[[Category:Staatsarchiv Sigmaringen]]
+[[Category:Images from LEO-BW]]
+[[Category:Damenstift Buchau]]
+[[Category:Armorials from Germany]]
+[[Category:Archives in Germany]]
+[[Category:1605 in art]]
+[[Category:Coats of arms of Montfort]]
+[[Category:Attributed arms]]
+[[Category:Illuminated archival materials]]
+[[Category:Coats of arms of Mörsperg family]]
+[[Category:Saint Cornelius in art]]
+[[Category:Miniatures of Saint Cyprian]]
+[[Category:Adelindis of Buchau]]
+[[Category:Medieval miniatures of popes]]
+[[Category:Coats of arms of Germany to be classified]]
+[[Category:Coats of arms of the house of Teck]]
+[[Category:Lions of Hohenstaufen in heraldry]]
+
+{{ImageNote|id=1|x=968|y=370|w=271|h=247|dimx=2217|dimy=1355|style=2}}
+Coat of arms of Montfort (Eleonora von Montfort, abbess)
+{{ImageNoteEnd|id=1}}
+{{ImageNote|id=2|x=93|y=106|w=390|h=688|dimx=2217|dimy=1355|style=2}}
+Adelindis von Schwaben
+{{ImageNoteEnd|id=2}}
+{{ImageNote|id=3|x=1697|y=123|w=414|h=662|dimx=2217|dimy=1355|style=2}}
+Otto (Atto) Graf von Tragant
+{{ImageNoteEnd|id=3}}
+{{ImageNote|id=4|x=67|y=801|w=357|h=552|dimx=2217|dimy=1355|style=2}}
+Coat of arms of Dorothea Freiin von Mörsperg
+{{ImageNoteEnd|id=4}}
+{{ImageNote|id=5|x=1745|y=805|w=377|h=548|dimx=2217|dimy=1355|style=2}}
+Coats of arms of Rosimunda Gräfin von Ortenburg
+{{ImageNoteEnd|id=5}}
+{{ImageNote|id=6|x=513|y=171|w=245|h=584|dimx=2217|dimy=1355|style=2}}
+Hl. Cornelius
+{{ImageNoteEnd|id=6}}
+{{ImageNote|id=7|x=1477|y=177|w=214|h=623|dimx=2217|dimy=1355|style=2}}
+Hl. Ciprinaus
+{{ImageNoteEnd|id=7}}
+{{ImageNote|id=8|x=294|y=463|w=111|h=127|dimx=2217|dimy=1355|style=2}}
+Teck
+{{ImageNoteEnd|id=8}}
+{{ImageNote|id=9|x=136|y=477|w=125|h=105|dimx=2217|dimy=1355|style=2}}
+Lions of Hohenstaufen (Swabia)
+{{ImageNoteEnd|id=9}}

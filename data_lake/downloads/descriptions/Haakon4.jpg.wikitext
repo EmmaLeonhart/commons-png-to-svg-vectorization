@@ -1,0 +1,16 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|1=An excerpt from folio 216v of Cambridge Corpus Christi College Parker Library MS 16 II (''Chronica Majora'') depicting the coat of arms of [[w:Hákon Hákonarson|Hákon Hákonarson, King of Norway]] (died 1263).}}
+|Source=The coat of arms appears on folio 216v of Cambridge Corpus Christi College Parker Library MS 16 II.
+|Author=[[w:Matthew Paris|Matthew Paris]] (died 1259)
+|Date={{other date|century|13}}
+|Permission=
+|other_versions=Cropped version: [[:File:Haakon4 crop.jpg]]
+}}
+
+== {{int:license-header}} ==
+{{PD-old}}
+
+[[Category:Chronica Majora part 2 (Matthew Paris) - Parker MS 16|216v]]
+[[Category:Coats of arms of Haakon IV of Norway]]
+[[Category:Taken with Panasonic Lumix DMC-FZ50]]

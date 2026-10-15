@@ -1,0 +1,18 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{cs|1=Pečeť Záviše z Falkenštejna}}
+|Source={{Own}}
+|Author={{Creator:August Sedláček}}
+|Date={{other date|century|19}}
+|Permission=|other_versions=
+}}
+z Atlasu erbů a pečetí české a moravské středověké šlechty
+
+== {{int:license-header}} ==
+{{PD-Art|PD-old-auto-expired|deathyear=1926}}
+
+[[Category:August Sedláček]]
+[[Category:Záviš z Falkenštejna]]
+[[Category:Medieval seals]]
+[[Category:Duchy of Niemodlin]]
+[[Category:Taken with Panasonic Lumix DMC-FZ50]]

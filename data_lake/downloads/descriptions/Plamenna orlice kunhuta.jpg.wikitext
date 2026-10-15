@@ -1,0 +1,15 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{cs|1=Plamenná orlice}}
+|Source={{Own}}
+|Author={{Anonymous}}
+|Date={{other date|century|14}}
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{PD-Art|PD-old-100-expired}}
+
+[[Category:Coats of arms of Přemyslid family in Pasionál abatyše Kunhuty]]
+[[Category:Taken with Panasonic Lumix DMC-FZ50]]

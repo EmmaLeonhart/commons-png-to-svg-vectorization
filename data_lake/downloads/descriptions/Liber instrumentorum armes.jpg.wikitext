@@ -1,0 +1,34 @@
+== {{int:filedesc}} ==
+{{Artwork
+ |artist             = peintre inconnu
+ |author             =
+ |title              =
+ |wikidata           = 
+ |description        = {{fr|1=Armes de Montpellier (1443) dans le ''[[:la:Liber instrumentorum memorialium|Liber instrumentorum memorialium]]''}}
+ |date               = 1443
+ |medium             =
+ |dimensions         =
+ |institution        =
+ |department         =
+ |place of discovery =
+ |place of creation  =
+ |object history     =
+ |exhibition history =
+ |credit line        =
+ |inscriptions       =
+ |notes              =
+ |references         =
+ |accession number   =
+ |source             = https://archive.org/details/liberinstrumento00guil
+ |permission         = 
+ |other_versions     = 
+ |other_fields       =  
+}}
+
+[[Category:History of Montpellier]]
+[[Category:1443 paintings]]
+[[Category:Coats of arms of France to be classified]]
+[[Category:Illuminated cartularies]]
+[[Category:Coats of arms of the Guilhem dynasty]]
+== {{int:license-header}} ==
+{{PD-Art|PD-old-100}}

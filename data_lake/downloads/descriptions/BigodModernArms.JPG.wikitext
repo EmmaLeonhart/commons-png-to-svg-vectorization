@@ -1,0 +1,14 @@
+== {{int:filedesc}} ==
+{{Information
+|Description=Arms "Bigod Modern" (from 1269): ''Per party or and vert, a lion rampant gules''
+|Source=modified from: File:Dundas of Dundas arms.svg (wikicommons)
+|Date=2012-08 
+|Author=own work
+|Permission=
+|other_versions=
+}}
+
+[[Category:Bigod arms]]
+[[Category:Marshal arms]]
+== {{int:license-header}} ==
+{{PD-self}}

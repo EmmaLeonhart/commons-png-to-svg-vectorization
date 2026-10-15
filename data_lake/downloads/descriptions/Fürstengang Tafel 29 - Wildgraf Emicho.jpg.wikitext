@@ -1,0 +1,19 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Wappentafel von Wildgraf Emicho, Fürstbischof von Freising, im Fürstengang zwischen Fürstbischöflicher Residenz und Freisinger Dom. Links das geistliche, rechts das persönliche Wappen, darunter ein lateinischer Text mit kurzer Biographie.}}
+|date=2013-07-13 10:14:46
+|source=Photo from the Fürstengang in Freising
+|author=Franz Joseph Lederer (1676-1733) and others
+|permission=
+|other_versions=
+|other_fields=
+}}
+{{Location dec|48.398806|11.745385}}
+
+=={{int:license-header}}==
+{{PD-Art|PD-old-100}}
+
+[[Category:Coats of arms of bishops of Freising from the Fürstengang]]
+[[Category:1 fess dancetty gules]]
+[[Category:Emicho Wildgraf von Kyrburg]]
+[[Category:Taken with Sony NEX-5]]

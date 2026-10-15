@@ -1,0 +1,19 @@
+== {{int:filedesc}} ==
+{{Information
+|description   ={{en|1=Early seal of William I de Cantilupe (d.1239), 1st feudal baron of Eaton Bray in Bedfordshire, as published in Planche, J.R. The Pursuivant of Arms; or Heraldry Founded Upon Facts, London, 1873, p.134. Blazon: ''Gules, three fleurs-de-lys or''. His arms in later generations changed to ''Gules, three leopard's faces jessant-de-lys or''. Original full legend probably: SIG(ILLUM WILLELMI DE CANTIL)UPO ("Seal of William de Cantilupe"). See traced/standardised image of this shield[[File:Arms William I DeCantilupe Died1239 TracedFromHisSeal.svg|100px]]}}
+|date          =1873
+|source        =Planche, J.R. The Pursuivant of Arms; or Heraldry Founded Upon Facts, London, 1873, p.134
+|author        =Planche, J.R
+}}
+
+[[Category:Cantilupe arms (ancient)]]
+[[Category:Seals of medieval England]]
+[[Category:Books about sigillography from England]]
+[[Category:13th-century seals]]
+
+== {{int:license-header}} ==
+{{PD-old-100}}
+
+== {{Original upload log}} ==
+{{original description page|en.wikipedia|SealWilliamDeCantilupe.jpg}}
+* 2011-08-13 13:50 [[:en:User:Lobsterthermidor|Lobsterthermidor]] 462×497× (66576 bytes) ''<nowiki>Early seal of William de Cantilupe (d.1239), as published in Planche, J.R. The Pursuivant of Arms; or Heraldry Founded Upon Facts, London, 1873, p.134. ''3 fleurs de lys''. Original full legend probably: ''SIGILLUM WILLELMI DE CANTILUPO'' (Seal of William</nowiki>''

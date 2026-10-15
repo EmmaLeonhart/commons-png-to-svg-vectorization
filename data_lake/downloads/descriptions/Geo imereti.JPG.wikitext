@@ -1,0 +1,20 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|1=[[:en:Kingdom of Imereti|Kingdom of Imereti]] coat of arms}}
+|Source=[[w:ca:Imatge:Geo_imer.GIF|ca.wikipedia]]
+|Date=2006
+|Author=[[w:ca:Usuari:Jolle|User:Jolle]]
+|other_versions=
+<gallery>
+File:Imeretiflag.jpg
+File:Imereti CoA tr.png
+</gallery>
+}}
+
+== {{int:license-header}} ==
+{{PD-user-w|ca|wikipedia|Jolle}}
+
+[[Category:Description of Kingdom of Georgia, its habits and canons]]
+[[Category:Coats of arms of the Kingdom of Imereti]]
+[[Category:Tamar of Imereti]]
+[[Category:Demetrius of Imereti]]

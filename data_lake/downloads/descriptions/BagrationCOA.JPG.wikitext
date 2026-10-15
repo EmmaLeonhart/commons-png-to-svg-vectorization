@@ -1,0 +1,15 @@
+== {{int:filedesc}} ==
+{{Information
+|Description=Coat of arms of the Bagrationi dynasty
+|Source=Geographic atlas of Prince Vakhushti
+|Date={{other date|s|1740}}
+|Author=Prince Vakhushti Bagrationi
+|Permission=PD
+|other_versions=
+}}
+== {{int:license-header}} ==
+{{PD-old}}
+
+[[Category:Description of Kingdom of Georgia, its habits and canons]]
+[[Category:Bagrationi dynasty coats of arms]]
+[[Category:Georgia (country) in the 1740s]]

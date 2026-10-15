@@ -1,0 +1,17 @@
+{{Information
+|Description=Ingeram-Codex der ehemaligen Bibliothek Cotta
+
+graff von herrenberg
+
+freigestellt aus: [[File:Ingeram Codex 092.jpg|thumb]]
+|Source=Die Wappenbücher Herzog Albrechts VI. von Österreich: Ingeram-Codex d. ehem. Bibliothek Cotta; hrsg. v. Charlotte Becher u. Ortwin Gamber; Wien; Köln; Graz; 1986. Jahrbuch der Heraldisch-Genealogischen Gesellschaft Adler; Folge 3, Bd. 12 Jg. 1984/85; {{ISBN|3-205-05002-9}}
+|Date=1459
+|Author=Hans Ingeram and a so called Exempla-master
+|Permission=Reproduction of a painting that is in the public domain because of its age
+|other_versions=
+}}
+
+{{PD-Art|PD-old-100}}
+
+[[Category:Ingeram Codex - Leitbracken - isolated coats of arms]]
+[[Category:Coats of arms of Herrenberg family]]

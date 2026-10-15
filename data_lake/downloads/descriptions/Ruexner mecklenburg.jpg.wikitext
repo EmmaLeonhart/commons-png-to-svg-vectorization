@@ -1,0 +1,20 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{de|Mecklenburgisches Wappen, Autograph des Georg Rüxner "Herkunft und Wappen der obodritischen Könige und Herzöge von Mecklenburg", MLHA Schwerin, Altes Archiv Chroniken}}
+|Source=1000 Jahre Mecklenburg. Katalog 1995, S. 277
+|Date={{other date|<|1530}}
+|Author={{Creator:Georg Rüxner}}
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{PD-Art|PD-old-auto-expired|deathyear=1550}}
+
+[[Category:Georg Rüxner]]
+[[Category:Wieniawa (coat of arms)]]
+[[Category:Niklot]]
+[[Category:Obotrites]]
+[[Category:Coats of arms of the Duchy of Mecklenburg]]
+[[Category:Coats of arms of Mecklenburg family]]
+[[Category:Slavomir of Obotrites]]

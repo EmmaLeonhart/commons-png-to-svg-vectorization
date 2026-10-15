@@ -1,0 +1,21 @@
+{{Vector version available |1=Heraldic Achievement of Eric X of Sweden.svg}}
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|1=Heraldic lions of Erican Dynasty of Sweden}}
+{{sv|Erikska ättens heraldiska lejon}}
+|Source=From the book ''Ättartal för Swea och Götha konungahus'' by J. F. Peringskiöld, Stockholm, 1725<br>{{Southerly Clubs}}
+|Author=Scanned by Ristesson Ent. & redrawn by [[Jacob Truedson Demitz]] (colored as noted in book); superimposed on arms shield
+|Date=1725 publication
+|Permission={{PD-EU-no author disclosure}}
+|other_versions={{G|Throne of a Thousand Years endpapers 1996.jpg}}
+}}
+== {{int:license-header}} ==
+{{PD-self}}
+
+[[Category:Ristesson History]]
+[[Category:Coats of arms of the House of Eric]]
+[[Category:Margaret Eriksdotter of Sweden]]
+[[Category:Coats of arms of Swedish noble families]]
+[[Category:Throne of a Thousand Years artwork]]
+[[Category:Lions or]]
+[[Category:Ättartal för Swea och Götha konungahus (1725) by Peringskiöld]]

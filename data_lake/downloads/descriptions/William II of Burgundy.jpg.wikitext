@@ -1,0 +1,14 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=William II of Burgundy}}
+|date={{other date|between|1799|1800}}
+|source=Chroniken der Habsburger, der Zähringer und der Stadt Freiburg i. Br. mit Materialsammlung (Band 2: Chronik der Herzöge von Zähringen, der Grafen von Freiburg und Fürstenberg und der Herzöge von Teck) 
+|author=http://dl.ub.uni-freiburg.de/diglit/hs497-2/0001/thumbs?sid=d597560d75d4e0fbda522c966cc25aef#current_page
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-old-70-1923}}
+
+[[Category:William II, Count of Burgundy]]

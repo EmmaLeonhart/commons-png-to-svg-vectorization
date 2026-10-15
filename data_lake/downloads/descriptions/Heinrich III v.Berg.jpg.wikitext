@@ -1,0 +1,15 @@
+== {{int:filedesc}} ==
+{{Information
+|Description=Wappen Heinrich III. von Berg, 1169-1172 Bischof von Passau, 1191-1197 Bischof von Würzburg
+|Source=Universitätsbibliothek Würzburg, Signatur M.ch.f. 760
+|Date= {{other date|between|1574|1582}}
+|Author=Lorenz Fries: Chronik der Bischöfe von Würzburg - Echterexemplar - 
+|Permission=
+|other_versions=
+}}
+
+{{PD-scan|PD-old-70}}
+
+[[Category:Roman Catholic Diocese of Würzburg]]
+[[Category:Coats of arms of bishops of the Roman Catholic Diocese of Würzburg]]
+[[Category:Chronik oder Historie von den Bischöfen von Würzburg]]

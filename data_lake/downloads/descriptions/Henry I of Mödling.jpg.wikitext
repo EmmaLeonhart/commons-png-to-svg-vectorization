@@ -1,0 +1,10 @@
+{{Information
+|Description={{en|1=Henry I of Mödling}}
+|Source=Berichte und Mitteilungen des Altertums-Vereines zu Wien
+|Author=
+|Date={{other date|century|19}}
+|Permission=
+|other_versions=
+}}
+{{PD-old}}
+[[Category:Seals of Henry I, Duke of Mödling]]
