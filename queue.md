@@ -28,9 +28,6 @@ are their indices). Output: `files/arms/<slug>/` with notes.md, finished SVG sta
   shield from its blazon; the garter frame is NEEDS-INVESTIGATION (is there a vector garter on Commons?).
 - **Full achievements with helm and crest** (0, 4, 59, 66, 67, 70, 72, 73, 83, 86, 94, 102, 106, 108):
   shield from the blazon; helm, mantling and crest are freeform → NEEDS-INVESTIGATION (vector parts on Commons).
-- **Kamon**: 81 Mon-Imperial and 76 Maru ni kenkatabami done (devlog 2026-10-15). 95 Takamatsu no miya:
-  the same crest is the centre of File:Emblem of Nobuhito, Prince Takamatsu (Collar of the Order of Charles
-  III).svg (downloaded, 9 MB); extract that group, recolour black, fit to the PNG.
 - **Already vectorized on Commons** (record the SVG in person_arms, nothing to draw): 13 Comté du Maine,
   41 Kingdom of Bulgaria, 52 Entença, 58 Empúries, 60 Přemyslovci, 61 Asturias, 63 Nuno Sanç, 87 Sakai Kamon,
   97 Wettiner Albrecht, 98 Anhalt.

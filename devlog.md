@@ -152,3 +152,5 @@
   6 more added to generator-gaps.md.
 - **File:Mon-Imperial.png → SVG** (Imperial Seal SVG on flat red, gold IoU 0.967) and **File:Kamon maru ni
   kenkatabami.png → SVG** (Mukai's ken-katabami and ring SVGs recoloured and fitted, IoU 0.925). Staged in upload/.
+- **File:Takamatsu no miya.png → SVG**: the crest group cut out of the Prince Takamatsu collar SVG, recoloured
+  black and white, fitted (ink IoU 0.854, same crest drawn with slightly wider separations). Staged in upload/.
