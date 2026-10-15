@@ -30,6 +30,7 @@ def render(src, out, scale=1.0):
     if (w is None or h is None) and vb:  # missing or %: size by the viewBox
         w, h = [float(v) for v in re.split(r'[\s,]+', vb.group(1).strip())[2:4]]
     W, H = round(w * scale), round(h * scale)
+    out.unlink(missing_ok=True)  # so a stale image is never taken for this render
     html = src.with_name(src.stem + '.render.html')
     html.write_text(f'<html><body style="margin:0;background:transparent"><img src="{quote(src.name)}" '
                     f'style="width:{W}px;height:{H}px;display:block"></body></html>', encoding='utf8')

@@ -200,3 +200,7 @@
   first, so renders silently produced nothing).
 - Flags of California (1924), King of Korea, Mexican Maritime SAR: not rebuildable (painted/photo art); South African
   Army (1966) and UAE Navy: blocked on badges with no vector; Category-diagram: NEEDS-DECISION (curve fitting).
+- **File:COL-city icon.png → SVG**: Ciudad.svg with the Colombian flag's bands in its buildings, white sky and building
+  outlines as in the PNG; 3.4% of pixels differ. Staged in upload/.
+- `tools/render_svg.py` deletes the old output before rendering, so the wait added today cannot take a stale image
+  for a new render (it did once, on the COL icon's first try; East Asia's renders were all new files).

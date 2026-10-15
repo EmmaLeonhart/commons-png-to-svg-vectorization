@@ -30,7 +30,7 @@ shields in `upload/arms-*/`, 3 kamon), 63 waiting on the generator, 72 raster or
   nothing is uploaded to Commons without her go.
 - Then: the Template:Coat of arms PNGs in the main list below, the same way.
 
-## To vectorize (535)
+## To vectorize (534)
 
 Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed images (174).
 
@@ -67,7 +67,6 @@ Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed image
 - [File:Category-diagram.png](https://commons.wikimedia.org/wiki/File:Category-diagram.png) — Help:Categories — NEEDS-DECISION (user): a cropped Graphviz render; the boxes and DejaVu text are easy, but its ~40 crossing connectors are Bézier splines that can only be recovered by fitting curves to the drawn strokes (centre-line fitting). Is that acceptable as recovering generated curves, or is it tracing?
 - [File:Ch-1422a.png](https://commons.wikimedia.org/wiki/File:Ch-1422a.png) — Template:Country data Old Swiss Confederacy
 - [File:Cherokee Lowercase.png](https://commons.wikimedia.org/wiki/File:Cherokee_Lowercase.png) — Help:Multilingual support
-- [File:COL-city icon.png](https://commons.wikimedia.org/wiki/File:COL-city_icon.png) — Module:Portal/images/c/sandbox, Template talk:Portal
 - [File:Cricket no pic.png](https://commons.wikimedia.org/wiki/File:Cricket_no_pic.png) — (file-title list), File:Cricket no pic.png, Module:InfoboxImage/data, Module:InfoboxImage/doc, Module:InfoboxImage/sandbox
 - [File:Cross of Herat - Psalter Pahlavi Inscription.png](https://commons.wikimedia.org/wiki/File:Cross_of_Herat_-_Psalter_Pahlavi_Inscription.png) — Help:Multilingual support
 - [File:Dakiine.png](https://commons.wikimedia.org/wiki/File:Dakiine.png) — Fujishiro Suzuki clan
