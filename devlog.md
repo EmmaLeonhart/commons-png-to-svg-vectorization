@@ -164,3 +164,6 @@
   Everstein, Falkenstein, Wittelsbach-Bavaria, Barbosa are logged in generator-gaps.md.
 - **Hvide** rebuilt (barry azure and or, a dove argent); Cabrera-Urgell and Cromwell logged as generator gaps;
   Ichinoseki Myoga marked not rebuildable (freeform kamon, no vector of this design).
+- Template:Coat of arms PNGs from the main list (29) downloaded to `data_lake/downloads/commons-coa/` and
+  looked at: ten are seals or manuscript paintings, several modern emblems with lettering. Mallorca, Remich and
+  St Petersburg tried through the generator: all three hit gaps (castle, crown, sceptre), logged.

@@ -52,7 +52,7 @@ Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed image
 - [File:Bali Ba.png](https://commons.wikimedia.org/wiki/File:Bali_Ba.png) — Template:Contains special characters — NEEDS-DECISION (user): script specimen; the glyph is the subject. <text> needs the script font on Commons, while glyph outlines from an open font (e.g. Noto) would be paths, against the vector-text rule. Which?
 - [File:Bamum King Njoya (4).png](https://commons.wikimedia.org/wiki/File:Bamum_King_Njoya_%284%29.png) — Help:Multilingual support — NEEDS-DECISION (user): script specimen; the glyph is the subject. <text> needs the script font on Commons, while glyph outlines from an open font (e.g. Noto) would be paths, against the vector-text rule. Which?
 - [File:Birth and death rate of japan 1950-2019.png](https://commons.wikimedia.org/wiki/File:Birth_and_death_rate_of_japan_1950-2019.png) — Yang Fire Horse
-- [File:Blasó de Mallorca.png](https://commons.wikimedia.org/wiki/File:Blas%C3%B3_de_Mallorca.png) — Template:Coat of arms
+- [File:Blasó de Mallorca.png](https://commons.wikimedia.org/wiki/File:Blas%C3%B3_de_Mallorca.png) — Template:Coat of arms — BLOCKED-ON-EXTERNAL: generator draws the castle as one tower (files/arms/mallorca/)
 - [File:Blue Ridge Parkway shield.png](https://commons.wikimedia.org/wiki/File:Blue_Ridge_Parkway_shield.png) — Module:Road data/strings/USA/regional/Trails
 - [File:BodhGayaCetiya silhouette.png](https://commons.wikimedia.org/wiki/File:BodhGayaCetiya_silhouette.png) — Template:Buddhist-temple-stub
 - [File:Bohai Sea map.png](https://commons.wikimedia.org/wiki/File:Bohai_Sea_map.png) — Bohai Sea
@@ -421,7 +421,7 @@ Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed image
 - [File:Citation toolbar named ref.png](https://commons.wikimedia.org/wiki/File:Citation_toolbar_named_ref.png) — Help:Footnotes
 - [File:Cite web named ref 01.png](https://commons.wikimedia.org/wiki/File:Cite_web_named_ref_01.png) — Help:Footnotes
 - [File:Climate change icon.png](https://commons.wikimedia.org/wiki/File:Climate_change_icon.png) — Module:Portal/images/c, Module:Portal/images/c/sandbox
-- [File:Coat of Arms of St Petersburg (1780).png](https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_St_Petersburg_%281780%29.png) — Template:Coat of arms
+- [File:Coat of Arms of St Petersburg (1780).png](https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_St_Petersburg_%281780%29.png) — Template:Coat of arms — BLOCKED-ON-EXTERNAL: generator has no sceptre drawing
 - [File:Crystal Clear device cdrom unmount.png](https://commons.wikimedia.org/wiki/File:Crystal_Clear_device_cdrom_unmount.png) — Module:Portal/images/s, Module:Portal/images/s/sandbox
 - [File:Distribution of Yosumi tombs.png](https://commons.wikimedia.org/wiki/File:Distribution_of_Yosumi_tombs.png) — X-shaped Burial Mound
 - [File:Dolmen in Korea.png](https://commons.wikimedia.org/wiki/File:Dolmen_in_Korea.png) — Toraijin
@@ -495,7 +495,7 @@ Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed image
 - [File:PRT.png](https://commons.wikimedia.org/wiki/File:PRT.png) — Template:Coat of arms
 - [File:Qubrathamranshrine.png](https://commons.wikimedia.org/wiki/File:Qubrathamranshrine.png) — Shrine
 - [File:Religion in Japan by prefecture, 1996 statistics.png](https://commons.wikimedia.org/wiki/File:Religion_in_Japan_by_prefecture%2C_1996_statistics.png) — (file-title list), File:Religion in Japan by prefecture, 1996 statistics.png
-- [File:Remich coat of arms.png](https://commons.wikimedia.org/wiki/File:Remich_coat_of_arms.png) — Template:Coat of arms
+- [File:Remich coat of arms.png](https://commons.wikimedia.org/wiki/File:Remich_coat_of_arms.png) — Template:Coat of arms — BLOCKED-ON-EXTERNAL: generator drops the lion's crown (files/arms/remich/)
 - [File:Replace this image - temple.png](https://commons.wikimedia.org/wiki/File:Replace_this_image_-_temple.png) — (file-title list), File:Replace this image - temple.png, Module:InfoboxImage/data, Module:InfoboxImage/doc, Module:InfoboxImage/sandbox
 - [File:Ryukyu Invasion Phase5.png](https://commons.wikimedia.org/wiki/File:Ryukyu_Invasion_Phase5.png) — Invasion of Ryukyu
 - [File:Ryukyu Invasion Phase6.png](https://commons.wikimedia.org/wiki/File:Ryukyu_Invasion_Phase6.png) — Invasion of Ryukyu

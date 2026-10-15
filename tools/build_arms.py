@@ -69,7 +69,7 @@ def main():
         d.mkdir(parents=True, exist_ok=True)
         (d / f'{slug}.svg').write_text(svg, encoding='utf-8')
         pic = SHOTS / f'cmp_{slug}.png'
-        cmd = [sys.executable, 'tools/arms_compare.py', str(PNG / re.sub(r'[\/:*?"<>|]', '_', s['png'])), str(d / f'{slug}.svg'), str(pic)]
+        cmd = [sys.executable, 'tools/arms_compare.py', str(Path(s.get('src_dir', PNG)) / re.sub(r'[\/:*?"<>|]', '_', s['png'])), str(d / f'{slug}.svg'), str(pic)]
         if s.get('box'):
             cmd += ['--box', s['box']]
         out = subprocess.run(cmd, capture_output=True, text=True).stdout.split()

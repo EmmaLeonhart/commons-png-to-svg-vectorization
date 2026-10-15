@@ -421,5 +421,19 @@
   "blazon": "Gules, on a chevron argent three lions rampant or",
   "status": "generator-gap",
   "note": "Not staged: no layout for three charges on a chevron (charge-no-layout 3|on:chevron); the chevron's inner gules cotises are not drawn either."
+ },
+ "mallorca": {
+  "png": "Blasó de Mallorca.png",
+  "src_dir": "data_lake/downloads/commons-coa",
+  "blazon": "Quarterly, 1st and 4th azure, a castle of three towers argent; 2nd and 3rd or, four pallets gules",
+  "status": "generator-gap",
+  "note": "Not staged: 'a castle of three towers' is drawn as a single round tower."
+ },
+ "remich": {
+  "png": "Remich coat of arms.png",
+  "src_dir": "data_lake/downloads/commons-coa",
+  "blazon": "Barry of ten argent and azure, a lion rampant gules crowned or",
+  "status": "generator-gap",
+  "note": "Not staged: the lion's crown is not drawn."
  }
 }
