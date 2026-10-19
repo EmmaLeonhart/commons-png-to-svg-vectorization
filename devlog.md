@@ -289,3 +289,6 @@
   PNG's face is hand-styled (IoU 0.37). Staged in upload/.
 - **File:Bamum King Njoya (4).png → SVG** (`files/bamum-king-njoya-4/`): Njoya's name in Noto Sans Bamum `<text>`,
   letters identified by glyph matching, per-character x positions; IoU 0.979. Staged in upload/.
+- Blasó de Mallorca.png: re-checked; still blocked on the generator (unchanged at 8d8ab870). No Commons SVG
+  shows the same arms (Palma's and the Kingdom of Majorca's add sea, palms or a lozenge), so it stays and the
+  tick moves on; noted on its queue line.
