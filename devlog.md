@@ -292,3 +292,6 @@
 - Blasó de Mallorca.png: re-checked; still blocked on the generator (unchanged at 8d8ab870). No Commons SVG
   shows the same arms (Palma's and the Kingdom of Majorca's add sea, palms or a lozenge), so it stays and the
   tick moves on; noted on its queue line.
+- File:Blue Ridge Parkway shield.png: not rebuildable without tracing. The frame and lettering are constructible,
+  but the sign's content is the hand-drawn tree, mountain and road (freeform, with soft scan edges); no vector
+  version on Commons.

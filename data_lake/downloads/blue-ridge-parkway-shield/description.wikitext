@@ -1,0 +1,19 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Shield for the Blue Ridge Parkway}}
+|date=1953-01-01
+|source=US National Park Service
+|author=US National Park Service
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-USGov}}
+
+[[Category:Diagrams of route signs of the United States]]
+[[Category:Diagrams of scenic byway signs in the United States]]
+[[Category:Road signs related to the Blue Ridge Parkway]]
+[[Category:Diagrams of tourist road signs in the United States]]
+[[Category:Diagrams of parkway signs]]
+[[Category:Parkway (text)]]
