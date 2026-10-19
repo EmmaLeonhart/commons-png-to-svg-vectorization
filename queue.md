@@ -245,8 +245,8 @@ Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed image
 - [File:Sunda Sa.png](https://commons.wikimedia.org/wiki/File:Sunda_Sa.png) — Template:Contains special characters
 - [File:Suwa Hosshō Banner - 諏訪法性旗.png](https://commons.wikimedia.org/wiki/File:Suwa_Hossh%C5%8D_Banner_-_%E8%AB%8F%E8%A8%AA%E6%B3%95%E6%80%A7%E6%97%97.png) — Takeminakata
 - [File:Swasti Prapti ring Wikipédia Basa Bali.png](https://commons.wikimedia.org/wiki/File:Swasti_Prapti_ring_Wikip%C3%A9dia_Basa_Bali.png) — Help:Multilingual support
-- [File:Talk tab location - Minerva - en.png](https://commons.wikimedia.org/wiki/File:Talk_tab_location_-_Minerva_-_en.png) — Help:Talk pages
-- [File:Talk tab location - Vector 2022 - en.png](https://commons.wikimedia.org/wiki/File:Talk_tab_location_-_Vector_2022_-_en.png) — Help:Talk pages
+- [File:Talk tab location - Minerva - en.png](https://commons.wikimedia.org/wiki/File:Talk_tab_location_-_Minerva_-_en.png) — Help:Talk pages — NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
+- [File:Talk tab location - Vector 2022 - en.png](https://commons.wikimedia.org/wiki/File:Talk_tab_location_-_Vector_2022_-_en.png) — Help:Talk pages — NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
 - [File:Tangut Sample.png](https://commons.wikimedia.org/wiki/File:Tangut_Sample.png) — Help:Multilingual support
 - [File:Tenmaya logo.png](https://commons.wikimedia.org/wiki/File:Tenmaya_logo.png) — Template:商業施設/書式
 - [File:Tessen.png](https://commons.wikimedia.org/wiki/File:Tessen.png) — Nomi Shrine (Q11646130), Nomii Shrine (Takatsuki)
@@ -288,31 +288,31 @@ Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed image
 - [File:TrenLigeroCDMX.png](https://commons.wikimedia.org/wiki/File:TrenLigeroCDMX.png) — Template:Rail-interchange
 - [File:Tua Tham.png](https://commons.wikimedia.org/wiki/File:Tua_Tham.png) — Help:Multilingual support
 - [File:Umashimaji by Kikuchi Yōsai.png](https://commons.wikimedia.org/wiki/File:Umashimaji_by_Kikuchi_Y%C5%8Dsai.png) — Umashimaji
-- [File:Unwatched page in Vector.png](https://commons.wikimedia.org/wiki/File:Unwatched_page_in_Vector.png) — Help:Watchlist
+- [File:Unwatched page in Vector.png](https://commons.wikimedia.org/wiki/File:Unwatched_page_in_Vector.png) — Help:Watchlist — NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
 - [File:Urquiza U 60px.png](https://commons.wikimedia.org/wiki/File:Urquiza_U_60px.png) — Template:Rail-interchange
-- [File:Visual editor citoid convert button.png](https://commons.wikimedia.org/wiki/File:Visual_editor_citoid_convert_button.png) — Help:VisualEditor
-- [File:VisualEditor - Apply changes.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Apply_changes.png) — Help:VisualEditor
-- [File:VisualEditor - Category editing 2.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Category_editing_2.png) — Help:VisualEditor
-- [File:VisualEditor - Category editing 3.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Category_editing_3.png) — Help:VisualEditor
-- [File:VisualEditor - editing existing mathematical formula.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_editing_existing_mathematical_formula.png) — Help:VisualEditor
-- [File:VisualEditor - Editing references - Add parameter.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Editing_references_-_Add_parameter.png) — Help:VisualEditor
-- [File:VisualEditor - Editing references 11.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Editing_references_11.png) — Help:VisualEditor
-- [File:VisualEditor - Editing references 20.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Editing_references_20.png) — Help:VisualEditor
-- [File:VisualEditor - Editing references 5.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Editing_references_5.png) — Help:VisualEditor
-- [File:VisualEditor - Editing references 6.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Editing_references_6.png) — Help:VisualEditor
-- [File:VisualEditor - Editing references 9.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Editing_references_9.png) — Help:VisualEditor
-- [File:VisualEditor - Gallery3.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Gallery3.png) — Help:VisualEditor
-- [File:VisualEditor - Media editing 7.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Media_editing_7.png) — Help:VisualEditor
-- [File:VisualEditor - Media editing 8.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Media_editing_8.png) — Help:VisualEditor
-- [File:VisualEditor - Section edit links-en.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Section_edit_links-en.png) — Help:VisualEditor
-- [File:VisualEditor - Template editing 1.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Template_editing_1.png) — Help:VisualEditor
-- [File:VisualEditor - Template editing 3.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Template_editing_3.png) — Help:VisualEditor
-- [File:VisualEditor - Template editing 4.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Template_editing_4.png) — Help:VisualEditor
-- [File:VisualEditor - Template editing 5.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Template_editing_5.png) — Help:VisualEditor
-- [File:VisualEditor - Template editing 7.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Template_editing_7.png) — Help:VisualEditor
-- [File:VisualEditor - Template editing 8.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Template_editing_8.png) — Help:VisualEditor
-- [File:VisualEditor - Toolbar - Linking.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Toolbar_-_Linking.png) — Help:VisualEditor
-- [File:VisualEditor - Toolbar - Undo-redo.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Toolbar_-_Undo-redo.png) — Help:VisualEditor
+- [File:Visual editor citoid convert button.png](https://commons.wikimedia.org/wiki/File:Visual_editor_citoid_convert_button.png) — Help:VisualEditor — NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
+- [File:VisualEditor - Apply changes.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Apply_changes.png) — Help:VisualEditor — NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
+- [File:VisualEditor - Category editing 2.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Category_editing_2.png) — Help:VisualEditor — NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
+- [File:VisualEditor - Category editing 3.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Category_editing_3.png) — Help:VisualEditor — NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
+- [File:VisualEditor - editing existing mathematical formula.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_editing_existing_mathematical_formula.png) — Help:VisualEditor — NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
+- [File:VisualEditor - Editing references - Add parameter.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Editing_references_-_Add_parameter.png) — Help:VisualEditor — NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
+- [File:VisualEditor - Editing references 11.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Editing_references_11.png) — Help:VisualEditor — NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
+- [File:VisualEditor - Editing references 20.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Editing_references_20.png) — Help:VisualEditor — NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
+- [File:VisualEditor - Editing references 5.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Editing_references_5.png) — Help:VisualEditor — NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
+- [File:VisualEditor - Editing references 6.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Editing_references_6.png) — Help:VisualEditor — NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
+- [File:VisualEditor - Editing references 9.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Editing_references_9.png) — Help:VisualEditor — NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
+- [File:VisualEditor - Gallery3.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Gallery3.png) — Help:VisualEditor — NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
+- [File:VisualEditor - Media editing 7.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Media_editing_7.png) — Help:VisualEditor — NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
+- [File:VisualEditor - Media editing 8.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Media_editing_8.png) — Help:VisualEditor — NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
+- [File:VisualEditor - Section edit links-en.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Section_edit_links-en.png) — Help:VisualEditor — NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
+- [File:VisualEditor - Template editing 1.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Template_editing_1.png) — Help:VisualEditor — NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
+- [File:VisualEditor - Template editing 3.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Template_editing_3.png) — Help:VisualEditor — NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
+- [File:VisualEditor - Template editing 4.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Template_editing_4.png) — Help:VisualEditor — NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
+- [File:VisualEditor - Template editing 5.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Template_editing_5.png) — Help:VisualEditor — NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
+- [File:VisualEditor - Template editing 7.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Template_editing_7.png) — Help:VisualEditor — NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
+- [File:VisualEditor - Template editing 8.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Template_editing_8.png) — Help:VisualEditor — NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
+- [File:VisualEditor - Toolbar - Linking.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Toolbar_-_Linking.png) — Help:VisualEditor — NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
+- [File:VisualEditor - Toolbar - Undo-redo.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Toolbar_-_Undo-redo.png) — Help:VisualEditor — NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
 - [File:VisualEditor Apply Changes-en.png](https://commons.wikimedia.org/wiki/File:VisualEditor_Apply_Changes-en.png) — Help:VisualEditor
 - [File:VisualEditor category editing-en.png](https://commons.wikimedia.org/wiki/File:VisualEditor_category_editing-en.png) — Help:VisualEditor
 - [File:VisualEditor category item-en.png](https://commons.wikimedia.org/wiki/File:VisualEditor_category_item-en.png) — Help:VisualEditor
@@ -502,11 +502,11 @@ Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed image
 - [File:Usahachiman1928.png](https://commons.wikimedia.org/wiki/File:Usahachiman1928.png) — Usa Jingū
 - [File:Vector toolbar search-replace button.png](https://commons.wikimedia.org/wiki/File:Vector_toolbar_search-replace_button.png) — Help:Preferences
 - [File:View history - Create permalink - February 2025.png](https://commons.wikimedia.org/wiki/File:View_history_-_Create_permalink_-_February_2025.png) — Help:Page history
-- [File:VisualEditor - Editing References - Cite Web.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Editing_References_-_Cite_Web.png) — Help:VisualEditor
-- [File:VisualEditor - Editing references 1.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Editing_references_1.png) — Help:VisualEditor
-- [File:VisualEditor - Gallery2.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Gallery2.png) — Help:VisualEditor
-- [File:VisualEditor - Media editing 3.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Media_editing_3.png) — Help:VisualEditor
-- [File:VisualEditor - Media editing 6.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Media_editing_6.png) — Help:VisualEditor
+- [File:VisualEditor - Editing References - Cite Web.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Editing_References_-_Cite_Web.png) — Help:VisualEditor — NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
+- [File:VisualEditor - Editing references 1.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Editing_references_1.png) — Help:VisualEditor — NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
+- [File:VisualEditor - Gallery2.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Gallery2.png) — Help:VisualEditor — NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
+- [File:VisualEditor - Media editing 3.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Media_editing_3.png) — Help:VisualEditor — NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
+- [File:VisualEditor - Media editing 6.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Media_editing_6.png) — Help:VisualEditor — NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
 - [File:VisualEditor Cite menu re-use tab.png](https://commons.wikimedia.org/wiki/File:VisualEditor_Cite_menu_re-use_tab.png) — Help:VisualEditor
 - [File:VisualEditor Citoid Inspector-en.png](https://commons.wikimedia.org/wiki/File:VisualEditor_Citoid_Inspector-en.png) — Help:VisualEditor
 - [File:VisualEditor editing poem 1.png](https://commons.wikimedia.org/wiki/File:VisualEditor_editing_poem_1.png) — Help:VisualEditor
@@ -807,7 +807,7 @@ named as screenshots. Not traced. Review: a few exceptions (e.g. text-only place
 - [File:Vampire Smiley.png](https://commons.wikimedia.org/wiki/File:Vampire_Smiley.png) — Module:Portal/images/h/sandbox, Module:Portal/images/s, Module:Portal/images/s/sandbox
 - [File:View History - marked screenshot - February 2025.png](https://commons.wikimedia.org/wiki/File:View_History_-_marked_screenshot_-_February_2025.png) — Help:Page history
 - [File:Vincent Van Gogh - The Potato Eaters.png](https://commons.wikimedia.org/wiki/File:Vincent_Van_Gogh_-_The_Potato_Eaters.png) — Template:Infobox artwork/doc
-- [File:VisualEditor - Media editing 2.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Media_editing_2.png) — Help:VisualEditor
+- [File:VisualEditor - Media editing 2.png](https://commons.wikimedia.org/wiki/File:VisualEditor_-_Media_editing_2.png) — Help:VisualEditor — NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
 - [File:Vulva and penis.png](https://commons.wikimedia.org/wiki/File:Vulva_and_penis.png) — MediaWiki:Bad image list
 - [File:Walden Pond, Massachusetts on June 27, 2012.png](https://commons.wikimedia.org/wiki/File:Walden_Pond%2C_Massachusetts_on_June_27%2C_2012.png) — Module:Portal/images/l
 - [File:Wiki-analsex.png](https://commons.wikimedia.org/wiki/File:Wiki-analsex.png) — MediaWiki:Bad image list
