@@ -221,3 +221,15 @@
   pixel: an empty 1×1 SVG). Staged in upload/. O-dot.png (letter o͘) filed under the script-specimen decision.
 - Triaged: 6 Notifications screenshots and 5 other UI screenshots, 2 planetarium screenshots, the Panam Sports wordmark,
   the chef's hat (freehand): not rebuildable.
+
+## 2026-10-19
+
+- Committed the 31 TransJakarta icons and roundels the 2026-10-15 session built but never committed
+  (`tools/transjakarta_icons.py`); not yet reviewed or taken off the queue.
+- Queue item 1 (arms waiting on the generator): checked, generator still at 8d8ab870 (local and origin), so
+  still blocked. The call: an item blocked on an outside signal stays at the top and is re-checked each tick;
+  the tick goes on to the next item rather than idling.
+- **File:Andechs-Wappen.png → SVG** (`files/arms/andechs/`): blazon settled as *Azure, in chief a lion passant
+  and in base an eagle displayed argent*. Sodacan's Wappen Andechs 2.svg (same arms, gold charges) recoloured
+  or→argent with the generator's own `recolor()` (new `tools/recolor_svg.py`); the generator cannot lay out the
+  blazon itself. Staged in `upload/arms-andechs/`; 2 order.life people now rebuilt.
