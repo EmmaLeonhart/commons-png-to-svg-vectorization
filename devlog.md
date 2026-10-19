@@ -233,3 +233,12 @@
   and in base an eagle displayed argent*. Sodacan's Wappen Andechs 2.svg (same arms, gold charges) recoloured
   or→argent with the generator's own `recolor()` (new `tools/recolor_svg.py`); the generator cannot lay out the
   blazon itself. Staged in `upload/arms-andechs/`; 2 order.life people now rebuilt.
+- Arms needs-investigation item finished and removed from the queue:
+  - Stosch, Imereti (Geo imereti.JPG) and Sir John Grey's Garter plate already have SVGs of the same arms on
+    Commons (CoA Kaunitz Family.svg, whose description names the Stosch family; Kingdom of Imereti coat of
+    arms.svg; Coat of Arms of Sir John Grey (1387-1439)...svg): recorded as vector-exists.
+  - Jaqeli and Scheibenberg: blazons settled and both moved to the generator gaps (no ram-with-banner
+    drawing; firs, hammer-and-pick saltire and charged roundel not drawn). Rows added to generator-gaps.md.
+  - **File:Maruni-Toshi no Monji.jpg → SVG** (`files/maruni-toshi-no-monji/`): measured ring, 利 as `<text>` in
+    Noto Serif CJK JP Black. The call: Commons has no brush CJK face, and the vector-text rule outweighs
+    matching the brush strokes, so the typeset face is used (IoU 0.80). Staged in upload/.

@@ -38,3 +38,5 @@ Pictures (Commons PNG left, generator right):
 | Bars embattled on one edge | (PNG: gules, two bars embattled argent) | berg-old | none |
 
 Also seen, minor: 'Gules, three crowns or' leaves thin dark arcs above the two upper crowns.
+| No ram salient with a banner (Jaqeli emblem, 1745; a mantle with no shield) | Ermine, a ram salient argent horned and unguled or, supporting a banner argent charged with a sabre and a mullet sable | Jaqeli coat of arms.png | 'ram salient' not fully parsed; 'paschal lamb' draws a different, passant lamb |
+| Fir trees drawn as deciduous trees; 'a hammer and pick in saltire' drawn as one pick; a charged roundel surmounting the saltire not parsed | Per fess argent and gules, in chief two fir trees proper, in base a hammer and pick in saltire argent surmounted by a roundel argent charged with a griffin segreant gules | Wappen Scheibenberg klein.png | not fully parsed |

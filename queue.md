@@ -14,16 +14,13 @@ coat of arms thing". Reading and scope in INTENT.md ("Second strand"). Sources:
 are their indices). Output: `files/arms/<slug>/` with notes.md, finished SVG staged in `upload/<slug>/`.
 
 State (2026-10-19): `files/arms/person_arms_status.tsv` lists all 1,805 order.life people with arms and
-where their SVG is: 1,576 already SVG on Wikidata, 27 with a vector on Commons, 56 rebuilt here (generator
-shields in `upload/arms-*/`, 3 kamon), 65 waiting on the generator, 72 raster originals, 1 not rebuildable,
-9 needs-investigation. No person is left unclassified.
+where their SVG is: 1,576 already SVG on Wikidata, 31 with a vector on Commons, 57 rebuilt here (generator
+shields in `upload/arms-*/`, Andechs, 4 kamon), 69 waiting on the generator, 72 raster originals, 1 not
+rebuildable. No person is left unclassified.
 
 - BLOCKED-ON-EXTERNAL (the generator gains the drawing; unblock signal: a generator commit after 8d8ab870;
   then `python tools/build_arms.py`, look at `arms_sheet.png`, accept or not): every `generator-gap` in
   `files/arms/arms.json` and `raster_status.json`; the list is `files/arms/generator-gaps.md`.
-- NEEDS-INVESTIGATION (the `needs-investigation` rows; reason in `files/arms/raster_status.json`): settle
-  the blazons of Stosch, Jaqeli, Scheibenberg, Imereti and the Grey Garter plate (no blazon on their description pages),
-  then build them; Maruni-Toshi no Monji needs a brush-style CJK font for the kanji as `<text>`.
 - NEEDS-DECISION (Emma): the 72 raster originals (seals, manuscript paintings): give those people new
   generator-drawn arms from a blazon, or leave them? Drawing new arms is the generator's work, not vectorizing.
 - NEEDS-DECISION (Emma): uploading. The SVGs are staged in upload/ with notes.md (sources, licences);

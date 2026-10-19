@@ -72,8 +72,8 @@
   "untinctured arms (grey): the generator has no untinctured concept"
  ],
  "Coat of Arms of Sir John Grey, KG.png": [
-  "needs-investigation",
-  "six-quarter Garter plate: blazon not settled"
+  "vector-exists",
+  "Coat of Arms of Sir John Grey (1387-1439), KG, son of Reginald Grey, 3rd Baron Grey de Ruthyn.svg (the shield without the Garter)"
  ],
  "Coat of arms of Kingdom of Bulgaria (1927-1946).png": [
   "vector-exists",
@@ -152,8 +152,8 @@
   "manuscript painting, seal, carving or photo"
  ],
  "Geo imereti.JPG": [
-  "needs-investigation",
-  "modern arms (stag with cross, crescent, crown, wavy base): blazon not settled"
+  "vector-exists",
+  "Kingdom of Imereti coat of arms.svg (same stag, cross, crown and crescent; no wavy base)"
  ],
  "Grb Nemanjica mini transparent.png": [
   "raster-original",
@@ -196,8 +196,8 @@
   "manuscript painting, seal or photo"
  ],
  "Jaqeli coat of arms.png": [
-  "needs-investigation",
-  "ermine mantle with a ram and banner: blazon not settled"
+  "generator-gap",
+  "Ermine, a ram salient argent horned and unguled or, supporting a banner argent charged with a sabre and a mullet sable (the 1745 emblem on a mantle, no shield): no drawing of a ram salient with a banner"
  ],
  "John le Scot (Cambridge Corpus Christi College 16 II, folio 106v).jpg": [
   "raster-original",
@@ -218,10 +218,6 @@
  "Marie of Brabant (1278–1338).png": [
   "raster-original",
   "manuscript painting, seal or photo"
- ],
- "Maruni-Toshi no Monji.jpg": [
-  "needs-investigation",
-  "kanji 利 in a ring: needs a brush CJK font for <text>"
  ],
  "Mitsuba Aoi inverted.jpg": [
   "vector-exists",
@@ -304,8 +300,8 @@
   "manuscript painting, seal, carving or photo"
  ],
  "Stosch-Wappen.png": [
-  "needs-investigation",
-  "blazon not settled"
+  "vector-exists",
+  "CoA Kaunitz Family.svg (its description: the arms of the Kaunitz and the Stosch families; same charge)"
  ],
  "StradlingArms.jpg": [
   "vector-exists",
@@ -336,8 +332,8 @@
   "manuscript painting, seal, carving or photo"
  ],
  "Wappen Scheibenberg klein.png": [
-  "needs-investigation",
-  "municipal arms (firs, hammers, griffin): blazon not settled"
+  "generator-gap",
+  "Per fess argent and gules, in chief two fir trees proper, in base a hammer and pick in saltire argent surmounted by a roundel argent charged with a griffin segreant gules: firs drawn as deciduous trees, the saltire as one pick, the roundel not parsed"
  ],
  "Wappen Springe.png": [
   "generator-gap",
