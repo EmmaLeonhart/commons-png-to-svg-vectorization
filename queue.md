@@ -26,7 +26,6 @@ rebuildable. No person is left unclassified.
 
 Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed images (174).
 
-- [File:ATC DASH Bus Logo 2025.png](https://commons.wikimedia.org/wiki/File:ATC_DASH_Bus_Logo_2025.png) — Template:Rail-interchange
 - [File:Atsuta Hongu oyobi Setsu-Matsu-sha no Zu.png](https://commons.wikimedia.org/wiki/File:Atsuta_Hongu_oyobi_Setsu-Matsu-sha_no_Zu.png) — Hakkengū, Shimotsuchikamano Shrine
 - [File:Aviacionavion.png](https://commons.wikimedia.org/wiki/File:Aviacionavion.png) — Module:Portal/images/a
 - [File:Bali Ba.png](https://commons.wikimedia.org/wiki/File:Bali_Ba.png) — Template:Contains special characters — NEEDS-DECISION (user): script specimen; the glyph is the subject. <text> needs the script font on Commons, while glyph outlines from an open font (e.g. Noto) would be paths, against the vector-text rule. Which?

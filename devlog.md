@@ -274,3 +274,7 @@
   the 2008 IUCN map; IUCN range polygons are not freely licensed, and USGS GAP ranges (PD) cover the US only
   and are drawn by watershed, so they would be a different map. No vector range map on Commons. PNG kept in
   `data_lake/downloads/aplodontia-rufa-map/`.
+- File:ATC DASH Bus Logo 2025.png: not rebuildable without tracing. A wordmark in custom overlapping lettering
+  (the D's bowl and the S are freeform curves, not a typeface); no vector on Commons, and dashbus.com serves
+  only PNGs (word-logo-blue.png, bus-logo-full-color.png). Same as the Ecovia logo. PNG kept in
+  `data_lake/downloads/atc-dash-logo/`.
