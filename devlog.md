@@ -252,3 +252,7 @@
   ink box by the new `tools/glyph_specimen.py` (for the other script specimens too). The call on the
   script-specimen question: text, per the vector-text rule, accepting a fallback box if Commons lacks the font.
   Staged in upload/.
+- File:5th century Korea.png: not rebuildable without tracing. No vector source on Commons (the author, Asieon,
+  uploads only PNGs of this series). The coast could come from boundary data, but the map's content is its
+  hand-drawn kingdom borders (Goguryeo's northern line, the Baekje/Silla/Gaya borders), which no dataset holds;
+  recovering them would be tracing. Source PNG kept in `data_lake/downloads/5th-century-korea/`.

@@ -26,7 +26,6 @@ rebuildable. No person is left unclassified.
 
 Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed images (174).
 
-- [File:5th century Korea.png](https://commons.wikimedia.org/wiki/File:5th_century_Korea.png) — Toraijin
 - [File:Abkhazia stub.png](https://commons.wikimedia.org/wiki/File:Abkhazia_stub.png) — Template talk:Portal — NEEDS-DECISION (user): a hand-drawn "map-like symbol"; real outlines (Natural Earth, or OSM relation 1152720 clipped to land) match at IoU 0.93 but not its stylised proportions. Use the geographically correct outline, or leave it? Attempts in scratch/abkhazia/.
 - [File:ADLaM.png](https://commons.wikimedia.org/wiki/File:ADLaM.png) — Help:Multilingual support — NEEDS-DECISION (user): script specimen; the glyph is the subject. <text> needs the script font on Commons, while glyph outlines from an open font (e.g. Noto) would be paths, against the vector-text rule. Which?
 - [File:Ahom rendering.png](https://commons.wikimedia.org/wiki/File:Ahom_rendering.png) — Help:Multilingual support — NEEDS-DECISION (user): script specimen; the glyph is the subject. <text> needs the script font on Commons, while glyph outlines from an open font (e.g. Noto) would be paths, against the vector-text rule. Which?
