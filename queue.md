@@ -21,11 +21,6 @@ rebuildable. No person is left unclassified.
 - BLOCKED-ON-EXTERNAL (the generator gains the drawing; unblock signal: a generator commit after 8d8ab870;
   then `python tools/build_arms.py`, look at `arms_sheet.png`, accept or not): every `generator-gap` in
   `files/arms/arms.json` and `raster_status.json`; the list is `files/arms/generator-gaps.md`.
-- NEEDS-DECISION (Emma): the 72 raster originals (seals, manuscript paintings): give those people new
-  generator-drawn arms from a blazon, or leave them? Drawing new arms is the generator's work, not vectorizing.
-- NEEDS-DECISION (Emma): uploading. The SVGs are staged in upload/ with notes.md (sources, licences);
-  nothing is uploaded to Commons without her go.
-- Then: the Template:Coat of arms PNGs in the main list below, the same way.
 
 ## To vectorize (522)
 

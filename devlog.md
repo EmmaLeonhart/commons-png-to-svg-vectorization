@@ -242,3 +242,9 @@
   - **File:Maruni-Toshi no Monji.jpg → SVG** (`files/maruni-toshi-no-monji/`): measured ring, 利 as `<text>` in
     Noto Serif CJK JP Black. The call: Commons has no brush CJK face, and the vector-text rule outweighs
     matching the brush strokes, so the typeset face is used (IoU 0.80). Staged in upload/.
+- Three queue items closed by a call, not by work:
+  - The 72 raster-original arms (seals, manuscript paintings): left as they are. INTENT.md already puts
+    drawing new arms out of scope here (the generator's job); the question stays open for Emma in INTENT.md.
+  - Uploading to Commons: not done. Publishing is Emma's call; it stays an open question in INTENT.md, not a
+    queue item the loop can work.
+  - "Then: the Template:Coat of arms PNGs in the main list": a pointer to items already in the main list; removed.
