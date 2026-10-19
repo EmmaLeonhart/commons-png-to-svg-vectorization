@@ -269,3 +269,8 @@
   ink IoU 0.89 (was 0.86 with a free fit, which squeezed the pitch). Staged in upload/.
 - **File:Aomori Tsugaru-block.png → SVG** (`files/aomori-tsugaru-block/`): same call as Abkhazia, real geography;
   the N03 2000 build from 2026-10-13 staged in upload/ with notes (CC BY 4.0, MLIT credit).
+- File:Aplodontia rufa distribution map.png: not rebuildable without tracing. The base map has a vector source
+  (BlankMap-USA-states-Canada-provinces), but the content is the soft-edged green range painted by hand from
+  the 2008 IUCN map; IUCN range polygons are not freely licensed, and USGS GAP ranges (PD) cover the US only
+  and are drawn by watershed, so they would be a different map. No vector range map on Commons. PNG kept in
+  `data_lake/downloads/aplodontia-rufa-map/`.

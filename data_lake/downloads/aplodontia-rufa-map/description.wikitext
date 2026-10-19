@@ -1,0 +1,21 @@
+== {{int:filedesc}} ==
+{{Information
+|Description=
+{{en| Distribution of Mountain Beaver (Aplodontia rufa) in the U.S.A. and Canada}}
+* {{legend|#57ff57|Aplodontia rufa}}
+* {{Legend|white|International boundary||line=2px dashed blue}}
+|Source={{own}}, based on [[:File:BlankMap-USA-states-Canada-provinces.png]] by [[User:Roke|Roke]]. Data from [http://www.iucnredlist.org/details/1869/0 IUCN Red List]: Aplodontia rufa. International Union for Conservation of Nature, 2008.
+|Date=2012-08-17
+|Author=Pavel Hrdlička (Czech Wikipedia user [[User:Packa|Packa]])
+|Permission={{user:Packa/permission}}
+|other_versions=<gallery>
+ File:Aplodontia rufa distribution map (cs).png|In Czech
+</gallery>
+}}
+
+== {{int:license-header}} ==
+{{self|cc-by-sa-3.0}}
+
+[[Category:Aplodontia rufa]]
+[[Category:Animal distribution maps of North America]]
+[[Category:Aplodontiidae distribution maps]]
