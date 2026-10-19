@@ -287,3 +287,5 @@
   Turkmenistan Airlines 757 by Adrian Pingstone) inside a drawn blue ring; only the ring is constructible.
 - **File:Bali Ba.png → SVG** (`files/bali-ba/`): Balinese BA as `<text>` in Noto Serif Balinese; same letter, the
   PNG's face is hand-styled (IoU 0.37). Staged in upload/.
+- **File:Bamum King Njoya (4).png → SVG** (`files/bamum-king-njoya-4/`): Njoya's name in Noto Sans Bamum `<text>`,
+  letters identified by glyph matching, per-character x positions; IoU 0.979. Staged in upload/.
