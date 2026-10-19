@@ -26,7 +26,6 @@ rebuildable. No person is left unclassified.
 
 Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed images (174).
 
-- [File:Aomori Tsugaru-block.png](https://commons.wikimedia.org/wiki/File:Aomori_Tsugaru-block.png) — Tsugaru region — NEEDS-DECISION (user): same question as Abkhazia/Gunma. The PNG comes from the generalised raster File:Japan map.png; a rebuild from MLIT N03 data of 2000-10-01 (67 municipalities, Tsugaru filled; files/aomori-tsugaru-block/, projection fitted, chamfer 2.1 px) is correct geography but visibly differs from the PNG's drawing (Shimokita, Mutsu Bay). Use the correct geography?
 - [File:Aplodontia rufa distribution map.png](https://commons.wikimedia.org/wiki/File:Aplodontia_rufa_distribution_map.png) — Template:Automatic taxobox/doc
 - [File:ATC DASH Bus Logo 2025.png](https://commons.wikimedia.org/wiki/File:ATC_DASH_Bus_Logo_2025.png) — Template:Rail-interchange
 - [File:Atsuta Hongu oyobi Setsu-Matsu-sha no Zu.png](https://commons.wikimedia.org/wiki/File:Atsuta_Hongu_oyobi_Setsu-Matsu-sha_no_Zu.png) — Hakkengū, Shimotsuchikamano Shrine

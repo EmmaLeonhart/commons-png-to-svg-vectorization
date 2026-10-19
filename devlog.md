@@ -267,3 +267,5 @@
 - **File:Amateur radio compact icon.png → SVG** (`files/amateur-radio-icon/`): the call on the coil is a regular
   helix (pitch fixed to the measured 22.5 px, rest fitted) rather than fitting curves to the hand-drawn loops;
   ink IoU 0.89 (was 0.86 with a free fit, which squeezed the pitch). Staged in upload/.
+- **File:Aomori Tsugaru-block.png → SVG** (`files/aomori-tsugaru-block/`): same call as Abkhazia, real geography;
+  the N03 2000 build from 2026-10-13 staged in upload/ with notes (CC BY 4.0, MLIT credit).
