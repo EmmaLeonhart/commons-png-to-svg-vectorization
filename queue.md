@@ -26,7 +26,6 @@ rebuildable. No person is left unclassified.
 
 Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed images (174).
 
-- [File:Ahom rendering.png](https://commons.wikimedia.org/wiki/File:Ahom_rendering.png) — Help:Multilingual support — NEEDS-DECISION (user): script specimen; the glyph is the subject. <text> needs the script font on Commons, while glyph outlines from an open font (e.g. Noto) would be paths, against the vector-text rule. Which?
 - [File:Amateur radio compact icon.png](https://commons.wikimedia.org/wiki/File:Amateur_radio_compact_icon.png) — Module:Portal/images/a, Template talk:Portal — NEEDS-INVESTIGATION: border, antenna and ground bars constructed exactly (files/amateur-radio-icon/), but the coil's lopsided loops do not fit a trochoid even with a second harmonic (IoU 0.86); it is a hand-drawn spline. Fit it as a chain of cubic loops, or accept the regular coil? Not staged
 - [File:Aomori Tsugaru-block.png](https://commons.wikimedia.org/wiki/File:Aomori_Tsugaru-block.png) — Tsugaru region — NEEDS-DECISION (user): same question as Abkhazia/Gunma. The PNG comes from the generalised raster File:Japan map.png; a rebuild from MLIT N03 data of 2000-10-01 (67 municipalities, Tsugaru filled; files/aomori-tsugaru-block/, projection fitted, chamfer 2.1 px) is correct geography but visibly differs from the PNG's drawing (Shimokita, Mutsu Bay). Use the correct geography?
 - [File:Aplodontia rufa distribution map.png](https://commons.wikimedia.org/wiki/File:Aplodontia_rufa_distribution_map.png) — Template:Automatic taxobox/doc

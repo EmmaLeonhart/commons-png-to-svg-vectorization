@@ -262,3 +262,5 @@
 - **File:ADLaM.png → SVG** (`files/adlam/`): the word Adlam in Adlam script as one `<text>` run in Noto Sans
   Adlam Bold; IoU 0.84. `tools/glyph_specimen.py` now fits from the shaped render (needed for joined,
   right-to-left scripts); 1bc1a re-checked, same result. Staged in upload/.
+- **File:Ahom rendering.png → SVG** (`files/ahom-rendering/`): Ahom BA + medial RA as `<text>` in Noto Serif
+  Ahom (formerly Noto Sans Ahom, both named in font-family); IoU 0.88. Staged in upload/.
