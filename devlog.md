@@ -256,3 +256,6 @@
   uploads only PNGs of this series). The coast could come from boundary data, but the map's content is its
   hand-drawn kingdom borders (Goguryeo's northern line, the Baekje/Silla/Gaya borders), which no dataset holds;
   recovering them would be tracing. Source PNG kept in `data_lake/downloads/5th-century-korea/`.
+- **File:Abkhazia stub.png → SVG** (`files/abkhazia-stub/`): the call on the hand-drawn-geography question is
+  correct geography (tracing the stylised outline is not wanted). The OSM ∩ Natural Earth outline from
+  2026-10-13, now with the outline stroked to the PNG's ~8 px line; IoU 0.92. ODbL (OSM). Staged in upload/.
