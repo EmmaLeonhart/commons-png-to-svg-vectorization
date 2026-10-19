@@ -1,0 +1,14 @@
+== {{int:filedesc}} ==
+{{Information
+|Description=Balinese letter Ba
+|Source={{Own}}
+|Date=
+|Author= [[User:Made Adiputra|Made Adiputra]]
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{self|GFDL|cc-by-sa-all}}
+
+[[Category:Balinese letters]]

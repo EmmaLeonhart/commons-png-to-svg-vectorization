@@ -285,3 +285,5 @@
   A partial construction would only be worth doing if Emma accepts curve fitting (the Category-diagram question).
 - File:Aviacionavion.png: not rebuildable, a raster original. The airplane is a cut-out photograph (a
   Turkmenistan Airlines 757 by Adrian Pingstone) inside a drawn blue ring; only the ring is constructible.
+- **File:Bali Ba.png → SVG** (`files/bali-ba/`): Balinese BA as `<text>` in Noto Serif Balinese; same letter, the
+  PNG's face is hand-styled (IoU 0.37). Staged in upload/.
