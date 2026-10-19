@@ -87,6 +87,13 @@ My reading of how this repo serves it (Claude's assumption, 2026-10-15; correct 
 - Hand-drawn or generalised geography (Abkhazia stub, Gunma shadow picture, Aomori Tsugaru-block from the
   old ja.wp Japan map.png): the correct outline differs from the drawn one. Replace with correct geography,
   or leave? NEEDS-DECISION (user). A correct-geography build of the Tsugaru map is ready, unstaged.
+- Loop rule vs. NEEDS-DECISION (noted 2026-10-19 15:45 PST, cleanvibe v2.0.6): the loop skill says a stuck
+  first item gets "make the call yourself and record why"; CLAUDE.md's not-done taxonomy allows a
+  NEEDS-DECISION tag, and the update-check skill says CLAUDE.md wins a conflict. Many top queue items are
+  tagged NEEDS-DECISION (user), so with "never look past the first item" the loop would stall on item 1.
+  Assumption until Emma says otherwise: the tick makes the call on items where an existing user constraint
+  points one way (rebuild, don't trace; vector text) and records it in devlog.md; items that are a genuinely
+  new question for her (licences, uploading) keep their tag. NEEDS-DECISION (Emma): is that right?
 - Which wiki the search list was run on: its article titles are on neither en.wikipedia
   nor Commons. Filenames are resolved against Commons instead.
 
