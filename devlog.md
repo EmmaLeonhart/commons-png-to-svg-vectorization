@@ -248,3 +248,7 @@
   - Uploading to Commons: not done. Publishing is Emma's call; it stays an open question in INTENT.md, not a
     queue item the loop can work.
   - "Then: the Template:Coat of arms PNGs in the main list": a pointer to items already in the main list; removed.
+- **File:1bc1a.png → SVG** (`files/1bc1a/`): Duployan letter N as `<text>` in Noto Sans Duployan, fitted to the
+  ink box by the new `tools/glyph_specimen.py` (for the other script specimens too). The call on the
+  script-specimen question: text, per the vector-text rule, accepting a fallback box if Commons lacks the font.
+  Staged in upload/.
