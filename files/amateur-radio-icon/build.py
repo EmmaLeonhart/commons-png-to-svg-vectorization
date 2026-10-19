@@ -65,7 +65,20 @@ if __name__ == '__main__':
     p0 = np.array([77, 135, 37, 107, 82, 92, 120, 106, 28, 9, 128, 23, 0.0, 25.13, 234, 6.5, 0.0, 0.0])
     if len(sys.argv) > 1 and sys.argv[1] == 'fit':
         r = optimize.minimize(loss, p0, method='Nelder-Mead', options={'maxiter': 3000, 'xatol': 0.05, 'fatol': 1e-5})
-        json.dump(list(r.x), open('files/amateur-radio-icon/params.json', 'w'))
+        p = r.x
+        # a free fit squeezes the pitch to cover the lopsided loops; fix the coil's start, pitch (22.5 px,
+        # measured between the loops' left extremes from y 132) and phase, and refit the rest of the coil
+        p[10], p[11], p[12] = 132.0, 22.5, -np.pi / 2
+        free = [7, 8, 9, 13, 15, 16, 17]
+        p[free] = [107, 27.5, 9, 4 * 2 * np.pi + np.pi / 2, 7.2, 0, 0]
+
+        def loss_coil(q):
+            p[free] = q
+            return loss(p)
+        r = optimize.minimize(loss_coil, p[free].copy(), method='Nelder-Mead',
+                              options={'maxiter': 2000, 'xatol': 0.05, 'fatol': 1e-5})
+        p[free] = r.x
+        json.dump(list(p), open('files/amateur-radio-icon/params.json', 'w'))
         print('fitted IoU %.4f' % (1 - r.fun))
     p = np.array(json.load(open('files/amateur-radio-icon/params.json'))) if len(sys.argv) == 1 or sys.argv[1] == 'fit' else p0
     open(OUT, 'w', encoding='utf8').write(svg(p))

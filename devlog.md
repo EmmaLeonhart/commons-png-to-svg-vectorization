@@ -264,3 +264,6 @@
   right-to-left scripts); 1bc1a re-checked, same result. Staged in upload/.
 - **File:Ahom rendering.png → SVG** (`files/ahom-rendering/`): Ahom BA + medial RA as `<text>` in Noto Serif
   Ahom (formerly Noto Sans Ahom, both named in font-family); IoU 0.88. Staged in upload/.
+- **File:Amateur radio compact icon.png → SVG** (`files/amateur-radio-icon/`): the call on the coil is a regular
+  helix (pitch fixed to the measured 22.5 px, rest fitted) rather than fitting curves to the hand-drawn loops;
+  ink IoU 0.89 (was 0.86 with a free fit, which squeezed the pitch). Staged in upload/.
