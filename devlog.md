@@ -259,3 +259,6 @@
 - **File:Abkhazia stub.png → SVG** (`files/abkhazia-stub/`): the call on the hand-drawn-geography question is
   correct geography (tracing the stylised outline is not wanted). The OSM ∩ Natural Earth outline from
   2026-10-13, now with the outline stroked to the PNG's ~8 px line; IoU 0.92. ODbL (OSM). Staged in upload/.
+- **File:ADLaM.png → SVG** (`files/adlam/`): the word Adlam in Adlam script as one `<text>` run in Noto Sans
+  Adlam Bold; IoU 0.84. `tools/glyph_specimen.py` now fits from the shaped render (needed for joined,
+  right-to-left scripts); 1bc1a re-checked, same result. Staged in upload/.
