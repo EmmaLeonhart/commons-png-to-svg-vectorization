@@ -133,6 +133,13 @@ caused by unbounded steps (since fixed).
   (charts from data or recovered functions, maps from census/N03 boundaries, diagrams and icons by construction),
   and about 35 triaged as not rebuildable, blocked on a missing vector badge, or a decision for the user. Reading
   of the project unchanged.
+- 2026-10-19 16:38 PST: new session; loop refreshed to cleanvibe v2.0.6 (first item, then the next, one at a
+  time). Under it, items tagged NEEDS-DECISION that an existing constraint settles were decided and logged in
+  devlog.md: script specimens become `<text>` in the script's Noto font (1bc1a, ADLaM, Ahom done); hand-drawn
+  or generalised geography is replaced by real geography (Abkhazia, Aomori Tsugaru done); hand-drawn curves
+  are not fitted (amateur radio coil made regular). Arms: every order.life person is now classified with no
+  needs-investigation left (57 rebuilt, 31 vector on Commons, 69 waiting on the generator). Reading of the
+  project unchanged.
 - Work started 2026-10-07 23:02 PST, on the user's go-ahead. GitHub repo (private):
   EmmaLeonhart/commons-png-to-svg-vectorization.
 - 2026-10-08 13:20 PST: 40 files finished and staged in upload/; 546 still to vectorize, 256 already
