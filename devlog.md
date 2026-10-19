@@ -295,3 +295,6 @@
 - File:Blue Ridge Parkway shield.png: not rebuildable without tracing. The frame and lettering are constructible,
   but the sign's content is the hand-drawn tree, mountain and road (freeform, with soft scan edges); no vector
   version on Commons.
+- File:BodhGayaCetiya silhouette.png: not rebuildable without tracing. The stepped base and towers are straight
+  runs, but the finials, onion domes and the curved flanks of the central tower are freeform outlines; fitting
+  them would be tracing (same rule as the chef's hat). No vector on Commons.

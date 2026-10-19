@@ -1,0 +1,19 @@
+{{Convert to SVG|icon}}
+
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Stupa of Bodh Gaya Silhouettes}}
+|date=2019-11-17
+|source={{own}}
+|author=[[User:Chainwit.|Chainwit.]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Buddhist symbols]]
+[[Category:Exterior of the Mahabodhi Temple]]
+[[Category:Religious building icons]]
+[[Category:Stub icons]]

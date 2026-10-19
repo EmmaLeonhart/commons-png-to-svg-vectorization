@@ -27,7 +27,6 @@ rebuildable. No person is left unclassified.
 Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed images (174).
 
 - [File:Blasó de Mallorca.png](https://commons.wikimedia.org/wiki/File:Blas%C3%B3_de_Mallorca.png) — Template:Coat of arms — BLOCKED-ON-EXTERNAL: generator draws the castle as one tower (files/arms/mallorca/); Commons SVGs of Palma/Kingdom of Majorca arms checked 2026-10-19, all differ (sea, palm, lozenge), so no vector-exists
-- [File:BodhGayaCetiya silhouette.png](https://commons.wikimedia.org/wiki/File:BodhGayaCetiya_silhouette.png) — Template:Buddhist-temple-stub
 - [File:Bohai Sea map.png](https://commons.wikimedia.org/wiki/File:Bohai_Sea_map.png) — Bohai Sea — NEEDS-INVESTIGATION: its 'SVG' derivatives (hr, bs) only wrap the raster map; rebuild from geographic data (Natural Earth coast, rivers, cities) with English <text>
 - [File:Bonji-I.png](https://commons.wikimedia.org/wiki/File:Bonji-I.png) — Jūniten — NEEDS-DECISION (user): brush-written Siddham (bonji) letter, a script specimen like ADLaM/Bali Ba: <text> needs a Siddham font Commons renders (Noto Sans Siddham is a typeset form, not this brushwork); outlines would be tracing. Which?
 - [File:Bonji-Ii.png](https://commons.wikimedia.org/wiki/File:Bonji-Ii.png) — Jūniten — NEEDS-DECISION (user): brush-written Siddham (bonji) letter, a script specimen like ADLaM/Bali Ba: <text> needs a Siddham font Commons renders (Noto Sans Siddham is a typeset form, not this brushwork); outlines would be tracing. Which?
