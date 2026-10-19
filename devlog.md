@@ -278,3 +278,8 @@
   (the D's bowl and the S are freeform curves, not a typeface); no vector on Commons, and dashbus.com serves
   only PNGs (word-logo-blue.png, bus-logo-full-color.png). Same as the Ecovia logo. PNG kept in
   `data_lake/downloads/atc-dash-logo/`.
+- File:Atsuta Hongu oyobi Setsu-Matsu-sha no Zu.png: not rebuildable without tracing (reversing last tick's
+  plan). Its palette is Office's default theme, so it was drawn as Office shapes: the buildings, plots and
+  straight roads could be constructed, but the moat, pond, sea and curved road bends are freehand freeform
+  curves (crop checked), and with no vector source those can only be traced; same call as the Korea map.
+  A partial construction would only be worth doing if Emma accepts curve fitting (the Category-diagram question).
