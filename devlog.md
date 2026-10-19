@@ -283,3 +283,5 @@
   straight roads could be constructed, but the moat, pond, sea and curved road bends are freehand freeform
   curves (crop checked), and with no vector source those can only be traced; same call as the Korea map.
   A partial construction would only be worth doing if Emma accepts curve fitting (the Category-diagram question).
+- File:Aviacionavion.png: not rebuildable, a raster original. The airplane is a cut-out photograph (a
+  Turkmenistan Airlines 757 by Adrian Pingstone) inside a drawn blue ring; only the ring is constructible.

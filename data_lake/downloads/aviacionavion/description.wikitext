@@ -1,0 +1,22 @@
+{{Information
+|Description={{en|Sign based on photograph with front view of a Turkmenistan Airlines Boeing 757 landing at London Heathrow Airport, England. The registration is not known. Photographed by Adrian Pingstone in June 2004 and released to the public domain.}}
+|Source=*[[:File:Turkmenistan.airlines.frontview.arp.jpg|Turkmenistan.airlines.frontview.arp.jpg]]
+|Date=2009-03-03 20:53 (UTC)
+|Author=*[[:File:Turkmenistan.airlines.frontview.arp.jpg|Turkmenistan.airlines.frontview.arp.jpg]]: [[Usuario:elfuser|elfuser]]
+*derivative work: [[User:Elfuser|Elfuser]] ([[User talk:Elfuser|<span class="signature-talk">talk</span>]])
+|Permission={{PD-self}}
+|other_versions=
+}}
+
+{{RetouchedPicture|Removed background, added circle|editor=Elfuser|orig=Turkmenistan.airlines.frontview.arp.jpg}}
+
+== {{original upload log}} ==
+This image is a derivative work of the following images:
+
+*[[:File:Turkmenistan.airlines.frontview.arp.jpg]] licensed with PD-user
+**2005-12-16T18:41:54Z [[User:Arpingstone|Arpingstone]] 1600x1029 (541795 Bytes) ''<nowiki>Front view of Turkmenistan B757</nowiki>''
+
+{{Uploaded with derivativeFX}}
+
+[[Category:Boeing 757-200 of Turkmenistan Airlines]]
+[[Category:Airplane icons]]
