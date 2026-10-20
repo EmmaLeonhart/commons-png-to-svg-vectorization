@@ -4,6 +4,9 @@ PNG files from `data_lake/wikipedia-png-search-results.txt`, resolved against
 Commons by `tools/build_queue.py`. One line per file; delete a line when the file
 is done (record it in devlog.md). Prefer rebuilding from a vector source over tracing.
 
+**PAUSED until 2026-10-19 20:00 (Emma, 18:28): no vectorizations; she is uploading the finished SVGs. Loop ticks
+only commit and push until then.**
+
 ## Coats of arms for order.life (worked first)
 
 Emma, inochi-no-michikyo queue, 2026-10-14, word for word: "start a session of
@@ -31,7 +34,6 @@ Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed image
 - [File:Flag of the South African Army (1966–1973).png](https://commons.wikimedia.org/wiki/File:Flag_of_the_South_African_Army_%281966%E2%80%931973%29.png) — Template:Country data South Africa — BLOCKED-ON-EXTERNAL: field and canton are easy (Flag of South Africa (1928–1994).svg), but the springbok-and-sabres badge has no vector on Commons (the 1973–1994 army flag's springbok is a different drawing; searched 2026-10-15)
 - [File:Flag of the Sri Lankan Army.png](https://commons.wikimedia.org/wiki/File:Flag_of_the_Sri_Lankan_Army.png) — Template:Country data Sri Lanka — BLOCKED-ON-EXTERNAL: field is three bands, but the Sri Lanka Army badge (crossed swords, national emblem, lion supporters, Sinhala scroll) has no vector on Commons (searched 2026-10-15; Sri Lankan Army Flag.svg is a different flag). Unblocks when someone vectorises the badge
 - [File:Flag of the United Arab Emirates Navy.png](https://commons.wikimedia.org/wiki/File:Flag_of_the_United_Arab_Emirates_Navy.png) — Template:Country data United Arab Emirates — BLOCKED-ON-EXTERNAL: the navy emblem (falcon, anchor, wreath, Arabic ring text) has no vector on Commons (only UAE-NAvylogo.png; searched 2026-10-15)
-- [File:Higashimuro District Map.png](https://commons.wikimedia.org/wiki/File:Higashimuro_District_Map.png) — Higashimuro District, Wakayama — NEEDS-INVESTIGATION: own 2006 drawing of the pre-merger municipalities; File:Higashimuro district in Wakayama prefecture it.svg is a different, post-merger map. Next: try MLIT N03 boundaries for 2006 (pre-merger) fitted with rebuild_flagmap, plus the four labels as text.
 - [File:Historical expanse of Ainu.png](https://commons.wikimedia.org/wiki/File:Historical_expanse_of_Ainu.png) — Talk:Jōmon period
 - [File:Icona catastrofi.png](https://commons.wikimedia.org/wiki/File:Icona_catastrofi.png) — Module:Portal/images/t — NOT REBUILDABLE without tracing: woodblock / line-art figure drawing (flat colours, but freeform art).
 - [File:Idioma osetio.png](https://commons.wikimedia.org/wiki/File:Idioma_osetio.png) — Module:Portal/images/o

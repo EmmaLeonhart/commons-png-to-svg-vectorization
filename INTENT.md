@@ -61,6 +61,10 @@ My reading of how this repo serves it (Claude's assumption, 2026-10-15; correct 
   (`upload/<slug>/<name>.svg`). `upload/` also holds the user's own material (e.g.
   `upload/inochi-daigengu/` photos); leave that alone.
 
+- **No vectorizations until 2026-10-19 20:00.** Emma, 2026-10-19 18:28 (chat): "do not do any more vectorizations
+  for until 8 p.m. because I'm going to be uploading these." She asked for everything finished, double-checked and
+  zipped into the chat. Loop ticks before 20:00 only commit and push.
+
 - **Do not edit the other repositories** (inochi-no-michikyo, Sodacan-arms-svg-generator): read
   them, import the generator read-only, write only here (relayed instruction, 2026-10-15).
 

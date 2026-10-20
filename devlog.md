@@ -387,3 +387,7 @@
 - **File:Harushima Iki.png → SVG** (`files/harushima-iki/`): Iki City from N03 2024, Harushima located via OSM and
   filled red, labels as `<text>`. The PNG is schematic, so real geography differs visibly (land IoU 0.76); same
   call as Abkhazia/Aomori. N03 Nagasaki (42) downloaded. Staged in upload/.
+- **File:Higashimuro District Map.png → SVG** (`files/higashimuro-district-map/`): N03 2006 municipalities, Higashimuro
+  in magenta, labels as `<text>`; 7.1% of pixels differ. Staged in upload/.
+- Emma, 2026-10-19 (relayed in chat): finish up, double-check, zip everything for her to upload, and do no more
+  vectorizations until 20:00. Queue paused until then.
