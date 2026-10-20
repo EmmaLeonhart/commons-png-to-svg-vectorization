@@ -326,3 +326,5 @@
   elsewhere on-wiki). Recovering it by beam-search glyph matching failed (best IoU 0.43): the PNG is not set in
   Noto Sans Psalter Pahlavi (its strokes are heavier and rounder). Guessing would publish wrong text; tracing the
   glyphs would break the vector-text rule. A published transcription of the Herat cross would unblock it.
+- File:Dakiine.png: not rebuildable without tracing. The 抱き稲 crest is an organic drawing (curved leaves and
+  grain heads; from kamon.website), the class INTENT.md already sets aside as tracing-only; no SVG of it on Commons.

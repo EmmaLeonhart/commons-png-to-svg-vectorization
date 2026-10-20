@@ -1,0 +1,17 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ja|1=家紋：抱き稲}}
+|date=2016-11-16
+|source=[http://kamon.website/kamon/dakiine]
+|author={{U|NoR}}
+|permission=
+|other versions={{G|Dakiawa.png|稲川会代紋.png}}
+}}
+
+=={{int:license-header}}==
+{{cc-by-sa-4.0}}
+{{Convert to SVG|emblem}}
+
+[[Category:Japanese crests of flowers and plants]]
+[[Category:Mon with embracing motif]]
+[[Category:Rice in heraldry]]
