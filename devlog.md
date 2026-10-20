@@ -715,3 +715,4 @@
 - File:Visual editor citoid convert button.png: removed from the queue; already triaged as NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
 - File:VisualEditor - Apply changes.png: removed from the queue; already triaged as NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
 - File:VisualEditor - Category editing 2.png: removed from the queue; already triaged as NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
+- File:VisualEditor - Category editing 3.png: removed from the queue; already triaged as NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
