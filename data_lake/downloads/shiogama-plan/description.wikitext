@@ -1,0 +1,15 @@
+== {{int:filedesc}} ==
+{{Information
+|Description    ={{en|1=Plan of Shiogama Jinja, Shiogama, Miyagi Prefecture, Japan}}
+|Source         ={{own}}
+|Author         =[[User:Pel macolato|Pel macolato]]
+|Date           =2011-05-14
+|Permission     =
+|other_versions =
+}}
+
+== {{int:license-header}} ==
+{{self|Cc-zero}}
+
+[[Category:Shiogama-jinja]]
+[[Category:Floor plans of shinto shrines in Japan]]

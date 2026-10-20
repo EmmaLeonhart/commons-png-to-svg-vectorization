@@ -663,3 +663,5 @@
 - File:Shinkai Sansha Jinja map.png: not rebuildable without tracing. It is a scan of a hand-drawn 1940 printed sketch
   map (hand-lettered labels, freehand roads and trees, print grain), with no data source or construction geometry.
   PNG kept in `data_lake/downloads/shinkai-sansha/`.
+- **File:Shiogama Jinja plan.png → SVG** (`files/shiogama-plan/`): line plan by construction (dark lines at sub-pixel
+  positions, light lines on the grid, two fitted circles); mean pixel diff 0.32. Staged in upload/.
