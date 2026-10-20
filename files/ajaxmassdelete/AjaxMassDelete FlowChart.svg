@@ -48,6 +48,13 @@
 <rect x="0.5" y="0.5" width="999" height="1504" fill="none" stroke="#000000"/>
 <path fill="#99ccff" d="M14,6H979V1146H358V960H14Z"/>
 <path fill="#cccc99" d="M14,964H354V1149H834V1495H14Z"/>
+<path fill="none" stroke="#333333" stroke-width="7" stroke-linejoin="round" d="M27.0,45.0 21.5,45.0 21.5,116.0M148.0,121.0 160.0,121.0M96.0,249.0 96.0,258.0M774.0,257.5 816.0,257.5M338.0,337.0 423.0,337.0M541.0,337.0 552.0,337.0M96.0,454.0 96.0,470.0M286.0,543.5 409.0,543.5M413.0,673.0 413.0,685.0M413.0,777.0 413.0,788.0M413.0,880.0 413.0,897.0M170.0,1028.0 197.0,1028.0M112.0,1056.0 112.0,1114.0M616.0,1197.5 642.0,1197.5M101.0,1212.5 210.0,1212.5M272.0,1273.0 315.0,1273.0M647.0,1325.0 647.0,1338.0M562.0,1390.0 592.0,1390.0M224.5,189.0 224.5,194.0 159.0,194.0M258.0,252.5 285.5,252.5 285.5,269.0M204.5,291.0 204.5,310.0 148.0,310.0M159.0,401.0 701.0,401.0 701.0,334.5 766.0,334.5M912.5,631.0 912.5,1200.5 800.0,1200.5M164.0,1020.5 198.5,1020.5 198.5,1012.5 158.0,1012.5M586.5,1238.0 586.5,1271.0 433.0,1271.0M392.0,1338.0 392.0,1319.0 477.5,1319.0 477.5,1348.0M323.0,1362.0 280.0,1362.0 280.0,1331.0 237.0,1331.0M233.5,1430.0 233.5,1471.0 904.0,1469.5 912.5,1469.5 912.5,1205.0M725.0,305.5 712.0,305.5 712.0,304.0 704.5,304.0 704.5,306.0 670.0,306.0M148.0,522.5 201.0,522.5 201.0,613.0 248.0,611.5 256.5,611.5 256.5,584.0"/>
+<path fill="#00cc00" stroke="#333333" stroke-width="1" d="M21.5,126.0L13.0,116.0L30.0,116.0ZM170.0,121.0L160.0,129.5L160.0,112.5ZM149.0,194.0L159.0,185.5L159.0,202.5ZM96.0,268.0L87.5,258.0L104.5,258.0ZM826.0,257.5L816.0,266.0L816.0,249.0ZM285.5,279.0L277.0,269.0L294.0,269.0ZM204.5,281.0L213.0,291.0L196.0,291.0ZM715.0,305.5L725.0,297.0L725.0,314.0ZM433.0,337.0L423.0,345.5L423.0,328.5ZM562.0,337.0L552.0,345.5L552.0,328.5ZM149.0,401.0L159.0,392.5L159.0,409.5ZM96.0,480.0L87.5,470.0L104.5,470.0ZM419.0,543.5L409.0,552.0L409.0,535.0ZM256.5,574.0L265.0,584.0L248.0,584.0ZM912.5,621.0L921.0,631.0L904.0,631.0ZM413.0,695.0L404.5,685.0L421.5,685.0ZM413.0,798.0L404.5,788.0L421.5,788.0ZM413.0,907.0L404.5,897.0L421.5,897.0ZM148.0,1012.5L158.0,1004.0L158.0,1021.0ZM154.0,1020.5L164.0,1012.0L164.0,1029.0ZM112.0,1124.0L103.5,1114.0L120.5,1114.0ZM652.0,1197.5L642.0,1206.0L642.0,1189.0ZM586.5,1228.0L595.0,1238.0L578.0,1238.0ZM325.0,1273.0L315.0,1281.5L315.0,1264.5ZM392.0,1331.0L383.5,1321.0L400.5,1321.0ZM392.0,1339.0L383.5,1329.0L400.5,1329.0ZM392.0,1348.0L383.5,1338.0L400.5,1338.0ZM647.0,1348.0L638.5,1338.0L655.5,1338.0ZM227.0,1331.0L237.0,1322.5L237.0,1339.5ZM552.0,1390.0L562.0,1381.5L562.0,1398.5Z"/>
+<path fill="none" stroke="#00cc00" stroke-width="5" stroke-linejoin="round" d="M27.0,45.0 21.5,45.0 21.5,116.0M148.0,121.0 160.0,121.0M96.0,249.0 96.0,258.0M774.0,257.5 816.0,257.5M338.0,337.0 423.0,337.0M541.0,337.0 552.0,337.0M96.0,454.0 96.0,470.0M286.0,543.5 409.0,543.5M413.0,673.0 413.0,685.0M413.0,777.0 413.0,788.0M413.0,880.0 413.0,897.0M170.0,1028.0 197.0,1028.0M112.0,1056.0 112.0,1114.0M616.0,1197.5 642.0,1197.5M101.0,1212.5 210.0,1212.5M272.0,1273.0 315.0,1273.0M647.0,1325.0 647.0,1338.0M562.0,1390.0 592.0,1390.0M224.5,189.0 224.5,194.0 159.0,194.0M258.0,252.5 285.5,252.5 285.5,269.0M204.5,291.0 204.5,310.0 148.0,310.0M159.0,401.0 701.0,401.0 701.0,334.5 766.0,334.5M912.5,631.0 912.5,1200.5 800.0,1200.5M164.0,1020.5 198.5,1020.5 198.5,1012.5 158.0,1012.5M586.5,1238.0 586.5,1271.0 433.0,1271.0M392.0,1338.0 392.0,1319.0 477.5,1319.0 477.5,1348.0M323.0,1362.0 280.0,1362.0 280.0,1331.0 237.0,1331.0M233.5,1430.0 233.5,1471.0 904.0,1469.5 912.5,1469.5 912.5,1205.0M725.0,305.5 712.0,305.5 712.0,304.0 704.5,304.0 704.5,306.0 670.0,306.0M148.0,522.5 201.0,522.5 201.0,613.0 248.0,611.5 256.5,611.5 256.5,584.0"/>
+<path fill="none" stroke="#993333" stroke-width="7" stroke-linejoin="round" d="M823.0,735.0 864.2,735.0 864.2,887.0 864.2,895.0 823.0,895.0M239.0,1131.0 239.0,1162.0 550.0,1162.0 550.0,1130.0M241.0,1164.0 241.0,1199.8 249.0,1199.8 549.5,1199.8 549.5,1162.0 862.5,1162.0 862.5,901.0"/>
+<path fill="#993333" d="M862.5,891.0L871.0,901.0L854.0,901.0ZM239.0,1121.0L247.5,1131.0L230.5,1131.0ZM241.0,1154.0L249.5,1164.0L232.5,1164.0Z"/>
+<path fill="none" stroke="#ff9933" stroke-width="5" stroke-linejoin="round" d="M501.5,572.0 501.5,620.0 466.0,620.0M746.5,1240.0 746.5,1272.0 699.0,1272.0"/>
+<path fill="#ff9933" d="M501.5,562.0L510.0,572.0L493.0,572.0ZM746.5,1230.0L755.0,1240.0L738.0,1240.0Z"/>
 <rect x="29" y="11" width="129" height="65" rx="32.5" fill="#3298ff"/>
 <rect x="34.5" y="16.5" width="118.0" height="54.0" rx="27.0" fill="url(#g0)"/>
 <rect x="318" y="22" width="100" height="74" rx="9" fill="#3298ff"/>
@@ -188,7 +195,7 @@
 <text x="443.0" y="324.0" font-size="9.72" letter-spacing="0.18" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">mdGenIThumbs</text>
 <text x="579.0" y="318.0" font-size="9.72" letter-spacing="0.44" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">mdSendNext</text>
 <text x="595.0" y="330.0" font-size="9.09" letter-spacing="0.67" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">Queries</text>
-<text x="64.0" y="398.0" font-size="9.72" letter-spacing="-0.77" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">Batch of files</text>
+<text x="57.0" y="398.0" font-size="9.72" letter-spacing="0.23" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">Batch of files</text>
 <text x="69.0" y="410.0" font-size="9.62" letter-spacing="0.29" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">queried?</text>
 <text x="214.0" y="444.0" font-size="9.62" letter-spacing="0.5" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">mdQueryMore</text>
 <text x="229.0" y="456.0" font-size="9.62" letter-spacing="0.14" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">(Thumbs)</text>
@@ -198,13 +205,13 @@
 <text x="641.0" y="562.0" font-size="9.62" font-weight="bold" fill="#00ff99" font-family="Verdana, 'DejaVu Sans', sans-serif">ApiCall</text>
 <text x="880.0" y="583.0" font-size="9.72" letter-spacing="0.5" font-weight="bold" fill="#ffffff" font-family="Verdana, 'DejaVu Sans', sans-serif">mdExecute</text>
 <text x="895.0" y="595.0" font-size="9.62" letter-spacing="0.5" font-weight="bold" fill="#ffffff" font-family="Verdana, 'DejaVu Sans', sans-serif">Ready</text>
-<text x="382.0" y="619.0" font-size="6.48" letter-spacing="1.36" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">user pressed</text>
+<text x="375.0" y="617.0" font-size="9.62" letter-spacing="0.36" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">user pressed</text>
 <text x="393.0" y="629.0" font-size="9.72" letter-spacing="0.4" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">button</text>
-<text x="359.0" y="767.0" font-size="79.59" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">mdExecute</text>
+<text x="377.0" y="740.0" font-size="9.72" letter-spacing="0.5" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">mdExecute</text>
 <text x="377.0" y="838.0" font-size="9.72" letter-spacing="0.5" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">mdExecute</text>
 <text x="385.0" y="850.0" font-size="9.72" letter-spacing="0.14" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">Continue</text>
 <text x="643.0" y="765.0" font-size="9.62" font-weight="bold" fill="#00ff99" font-family="Verdana, 'DejaVu Sans', sans-serif">ApiCall</text>
-<text x="382.0" y="965.0" font-size="9.72" letter-spacing="-0.92" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">files selected</text>
+<text x="374.0" y="965.0" font-size="9.72" letter-spacing="0.23" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">files selected</text>
 <text x="537.0" y="965.0" font-size="9.72" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">Task</text>
 <text x="643.0" y="927.0" font-size="9.62" font-weight="bold" fill="#00ff99" font-family="Verdana, 'DejaVu Sans', sans-serif">ApiCall</text>
 <text x="251.0" y="991.0" font-size="9.62" letter-spacing="0.23" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">Setting up the</text>
@@ -218,8 +225,8 @@
 <text x="66.0" y="1176.0" font-size="9.62" letter-spacing="0.2" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">QueriedFile</text>
 <text x="705.0" y="1204.0" font-size="9.62" letter-spacing="0.31" font-weight="bold" fill="#ffffff" font-family="Verdana, 'DejaVu Sans', sans-serif">destroy dialog</text>
 <text x="199.0" y="1269.0" font-size="9.72" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">All files</text>
-<text x="188.0" y="1279.0" font-size="7.78" letter-spacing="1.22" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">processed?</text>
-<text x="615.0" y="1271.0" font-size="6.48" letter-spacing="1.18" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">user pressed</text>
+<text x="186.0" y="1281.0" font-size="9.62" letter-spacing="0.44" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">processed?</text>
+<text x="608.0" y="1269.0" font-size="9.62" letter-spacing="0.36" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">user pressed</text>
 <text x="626.0" y="1281.0" font-size="9.72" letter-spacing="0.4" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">button</text>
 <text x="362.0" y="1268.0" font-size="9.72" letter-spacing="0.67" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">mdRv</text>
 <text x="338.0" y="1280.0" font-size="9.62" letter-spacing="0.21" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">AllFilesQueried</text>
@@ -228,4 +235,6 @@
 <text x="176.0" y="1394.0" font-size="9.72" letter-spacing="0.56" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">mdReverted</text>
 <text x="468.0" y="1388.0" font-size="9.72" letter-spacing="0.71" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">mdRevert</text>
 <text x="479.0" y="1400.0" font-size="9.09" letter-spacing="1.0" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">Image</text>
+<text x="616.0" y="1388.0" font-size="9.72" letter-spacing="0.57" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">mdRvEval</text>
+<text x="624.0" y="1397.0" font-size="6.94" letter-spacing="1.71" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">Selction</text>
 </svg>

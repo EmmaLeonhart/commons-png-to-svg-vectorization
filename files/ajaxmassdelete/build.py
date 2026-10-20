@@ -56,10 +56,12 @@ def text_lines(k, x, y, w, h, t):
     rgb = [int(col[i:i + 2], 16) for i in (1, 3, 5)]
     if k == 'async3':
         x, y, w, h = x + 14, y + 14, w - 14, h - 14
-    ix, iy = (20, 22) if k == 'dec' else (6, 6)  # diamonds: their centre only, clear of connector tips
+    ix, iy = (10, 24) if k == 'dec' else (6, 6)  # diamonds: their middle band only, clear of connector tips
     x, y, w, h = x + ix - 6, y + iy - 6, w - 2 * (ix - 6), h - 2 * (iy - 6)
+    if k == 'red':  # the dialog checkbox sits under the text
+        h -= 24
     sub = a[y + 6:y + h - 6, x + 6:x + w - 6]
-    dark = sub.sum(2) < 330
+    dark = sub.sum(2) < (150 if k == 'red' else 330)  # the dialog gradient is dark itself
     m = (np.abs(sub - rgb).sum(2) < 60) | (dark if col != '#ffffff' else False)
     if col != '#ffffff' and not (np.abs(sub - rgb).sum(2) < 60).sum() > 20:
         col = '#000000' if (sub[dark].mean() < 30 if dark.any() else True) else '#333333'
@@ -135,6 +137,21 @@ if __name__ == '__main__':
          f'<rect width="{W}" height="{H}" fill="#ffffff"/>',
          f'<rect x="0.5" y="0.5" width="{W - 1}" height="{H - 1}" fill="none" stroke="#000000"/>',
          f'<path fill="#99ccff" d="{BLUE_REGION}"/>', f'<path fill="#cccc99" d="{OLIVE_REGION}"/>']
+    C = json.load(open('files/ajaxmassdelete/connectors.json'))
+    pd = lambda p: 'M' + ' '.join(f'{x},{y}' for x, y in p)
+    tri = lambda q: (lambda b, t, h: (lambda u: f'M{t[0]:.1f},{t[1]:.1f}L{b[0] - u[1] * h:.1f},{b[1] + u[0] * h:.1f}'
+                     f'L{b[0] + u[1] * h:.1f},{b[1] - u[0] * h:.1f}Z')(np.subtract(t, b) / max(np.hypot(*np.subtract(t, b)), 1e-6)))(
+                     q['base'], q['tip'], q['half'])
+    conn = []
+    for style, col, w, outline in (('green', '#00cc00', 5, True), ('red', '#993333', 7, False), ('orange', '#ff9933', 5, False)):
+        d = ''.join(pd(p) for p in C[style]['paths']); arr = ''.join(tri(q) for q in C[style]['arrows'])
+        if outline:
+            conn.append(f'<path fill="none" stroke="#333333" stroke-width="{w + 2}" stroke-linejoin="round" d="{d}"/>')
+            conn.append(f'<path fill="{col}" stroke="#333333" stroke-width="1" d="{arr}"/>')
+        conn.append(f'<path fill="none" stroke="{col}" stroke-width="{w}" stroke-linejoin="round" d="{d}"/>')
+        if not outline:
+            conn.append(f'<path fill="{col}" d="{arr}"/>')
+    o += conn
     for i, (k, x, y, w, h, t) in enumerate(NODES):
         o += node(i, k, x, y, w, h)
     for q in T:
