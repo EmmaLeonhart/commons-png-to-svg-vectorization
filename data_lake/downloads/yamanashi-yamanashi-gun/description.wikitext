@@ -1,0 +1,15 @@
+<!--This file was moved here using FileImporter from https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Yamanashi_Yamanashi-gun.png-->
+== {{int:filedesc}} ==
+{{Information
+|Description    = {{ja|山梨県山梨郡の位置}}
+|Source         = Yamanashi-pref.png を元に投稿者が作成
+|Date           = 2013-01-02
+|Author         = 検見川町
+|Permission     = {{Japan map}}
+|other_versions = 
+}}
+
+== {{int:license-header}} ==
+{{self|GFDL|Cc-by-sa-3.0}}
+
+[[Category:Maps of districts in Yamanashi prefecture]]

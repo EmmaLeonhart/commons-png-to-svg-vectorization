@@ -799,3 +799,7 @@
   big lakes cut by the PNG's pixels, Caspian filled. Staged in upload/.
 - File:WP alert new messages.png: not rebuildable: a screenshot of the Wikipedia interface ({{Wikipedia-screenshot}}, a raster
   original). PNG kept in `data_lake/downloads/wp-alert/`.
+- **File:Yamanashi Koma-gun.png, File:Yamanashi Yamanashi-gun.png → SVG** (`files/yamanashi-gun/`): one build for both,
+  from N03 2024 municipalities and the N03 1920 districts (北・中・南巨摩郡; 東・西山梨郡), projection fitted to the PNG's
+  Yamanashi outline (IoU 0.99); Fuji Five Lakes from W09, Sagami Bay at the edge. The 2000 municipalities were tried
+  first and did not match the Meiji edge (Nanbu, Kōfu). Staged in upload/.
