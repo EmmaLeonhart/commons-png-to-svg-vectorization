@@ -1,0 +1,442 @@
+{
+ "p": [
+  161.39683593413056,
+  145.51595864203205,
+  -17852.303650728976,
+  3960.5021472585327
+ ],
+ "labels": [
+  {
+   "text": "Okinawa Prefecture",
+   "colour": "#000000",
+   "italic": false,
+   "cjk": false,
+   "x": 58.0,
+   "y": 46.0,
+   "size": 29.17,
+   "ls": 0.88,
+   "final_box": [
+    59,
+    327,
+    25,
+    45
+   ]
+  },
+  {
+   "text": "沖縄県",
+   "colour": "#000000",
+   "italic": false,
+   "cjk": true,
+   "x": 58.0,
+   "y": 78.0,
+   "size": 29.12,
+   "ls": -2.5,
+   "final_box": [
+    60,
+    137,
+    55,
+    80
+   ]
+  },
+  {
+   "text": "Okinawa Islands",
+   "colour": "#0000ff",
+   "italic": true,
+   "cjk": false,
+   "x": 566.0,
+   "y": 49.0,
+   "size": 23.61,
+   "ls": -0.29,
+   "final_box": [
+    568,
+    734,
+    32,
+    48
+   ]
+  },
+  {
+   "text": "沖縄諸島",
+   "colour": "#0000ff",
+   "italic": false,
+   "cjk": true,
+   "x": 609.0,
+   "y": 73.0,
+   "size": 21.59,
+   "ls": -1.0,
+   "final_box": [
+    612,
+    691,
+    56,
+    73
+   ]
+  },
+  {
+   "text": "Kume",
+   "colour": "#000000",
+   "italic": false,
+   "cjk": false,
+   "x": 557.0,
+   "y": 122.0,
+   "size": 16.67,
+   "ls": 1.0,
+   "final_box": [
+    558,
+    602,
+    110,
+    121
+   ]
+  },
+  {
+   "text": "久米島",
+   "colour": "#000000",
+   "italic": false,
+   "cjk": true,
+   "x": 560.0,
+   "y": 141.0,
+   "size": 15.8,
+   "ls": -2.0,
+   "final_box": [
+    560,
+    601,
+    127,
+    141
+   ]
+  },
+  {
+   "text": "Naha",
+   "colour": "#000000",
+   "italic": false,
+   "cjk": false,
+   "x": 710.0,
+   "y": 127.0,
+   "size": 15.28,
+   "ls": -0.67,
+   "final_box": [
+    711,
+    743,
+    116,
+    126
+   ]
+  },
+  {
+   "text": "那覇",
+   "colour": "#000000",
+   "italic": false,
+   "cjk": true,
+   "x": 718.0,
+   "y": 142.0,
+   "size": 16.85,
+   "ls": -8.0,
+   "final_box": [
+    719,
+    743,
+    129,
+    142
+   ]
+  },
+  {
+   "text": "Okinawa",
+   "colour": "#000000",
+   "italic": false,
+   "cjk": false,
+   "x": 801.0,
+   "y": 142.0,
+   "size": 16.67,
+   "ls": 0.83,
+   "final_box": [
+    802,
+    869,
+    130,
+    141
+   ]
+  },
+  {
+   "text": "Island",
+   "colour": "#000000",
+   "italic": false,
+   "cjk": false,
+   "x": 810.0,
+   "y": 162.0,
+   "size": 16.67,
+   "ls": 1.2,
+   "final_box": [
+    812,
+    859,
+    150,
+    161
+   ]
+  },
+  {
+   "text": "沖縄本島",
+   "colour": "#000000",
+   "italic": false,
+   "cjk": true,
+   "x": 809.0,
+   "y": 181.0,
+   "size": 13.54,
+   "ls": 1.33,
+   "final_box": [
+    809,
+    867,
+    169,
+    181
+   ]
+  },
+  {
+   "text": "Kerama Is.",
+   "colour": "#0000ff",
+   "italic": true,
+   "cjk": false,
+   "x": 634.0,
+   "y": 172.0,
+   "size": 15.28,
+   "ls": 0.33,
+   "final_box": [
+    635,
+    708,
+    161,
+    171
+   ]
+  },
+  {
+   "text": "慶良間諸島",
+   "colour": "#0000ff",
+   "italic": false,
+   "cjk": true,
+   "x": 636.0,
+   "y": 189.0,
+   "size": 15.8,
+   "ls": -2.75,
+   "final_box": [
+    636,
+    702,
+    175,
+    189
+   ]
+  },
+  {
+   "text": "Senkaku",
+   "colour": "#000000",
+   "italic": false,
+   "cjk": false,
+   "x": 170.0,
+   "y": 214.0,
+   "size": 18.06,
+   "ls": -0.17,
+   "final_box": [
+    171,
+    237,
+    201,
+    213
+   ]
+  },
+  {
+   "text": "尖閣諸島",
+   "colour": "#000000",
+   "italic": false,
+   "cjk": true,
+   "x": 170.0,
+   "y": 236.0,
+   "size": 17.16,
+   "ls": -0.33,
+   "final_box": [
+    171,
+    237,
+    222,
+    236
+   ]
+  },
+  {
+   "text": "Miyako Islands",
+   "colour": "#0000ff",
+   "italic": true,
+   "cjk": false,
+   "x": 310.0,
+   "y": 286.0,
+   "size": 22.44,
+   "ls": 0.29,
+   "final_box": [
+    313,
+    464,
+    273,
+    289
+   ]
+  },
+  {
+   "text": "宮古諸島",
+   "colour": "#0000ff",
+   "italic": false,
+   "cjk": true,
+   "x": 347.0,
+   "y": 315.0,
+   "size": 21.11,
+   "ls": -0.33,
+   "final_box": [
+    349,
+    430,
+    298,
+    315
+   ]
+  },
+  {
+   "text": "Yaeyama Islands",
+   "colour": "#0000ff",
+   "italic": true,
+   "cjk": false,
+   "x": 68.0,
+   "y": 341.0,
+   "size": 22.44,
+   "ls": 0.29,
+   "final_box": [
+    71,
+    241,
+    325,
+    344
+   ]
+  },
+  {
+   "text": "八重山諸島",
+   "colour": "#0000ff",
+   "italic": false,
+   "cjk": true,
+   "x": 105.0,
+   "y": 365.0,
+   "size": 21.59,
+   "ls": -1.5,
+   "final_box": [
+    108,
+    206,
+    348,
+    365
+   ]
+  },
+  {
+   "text": "Miyako",
+   "colour": "#000000",
+   "italic": false,
+   "cjk": false,
+   "x": 387.0,
+   "y": 384.0,
+   "size": 17.54,
+   "ls": 0.0,
+   "final_box": [
+    388,
+    441,
+    371,
+    387
+   ]
+  },
+  {
+   "text": "宮古島",
+   "colour": "#000000",
+   "italic": false,
+   "cjk": true,
+   "x": 392.0,
+   "y": 404.0,
+   "size": 15.8,
+   "ls": -0.5,
+   "final_box": [
+    392,
+    436,
+    390,
+    404
+   ]
+  },
+  {
+   "text": "Yonaguni",
+   "colour": "#000000",
+   "italic": false,
+   "cjk": false,
+   "x": 31.0,
+   "y": 427.0,
+   "size": 17.54,
+   "ls": 0.14,
+   "final_box": [
+    31,
+    102,
+    414,
+    430
+   ]
+  },
+  {
+   "text": "与那国島",
+   "colour": "#000000",
+   "italic": false,
+   "cjk": true,
+   "x": 33.0,
+   "y": 449.0,
+   "size": 15.8,
+   "ls": 1.67,
+   "final_box": [
+    33,
+    99,
+    435,
+    449
+   ]
+  },
+  {
+   "text": "Ishigaki",
+   "colour": "#000000",
+   "italic": false,
+   "cjk": false,
+   "x": 235.0,
+   "y": 434.0,
+   "size": 17.54,
+   "ls": 0.86,
+   "final_box": [
+    237,
+    298,
+    421,
+    437
+   ]
+  },
+  {
+   "text": "石垣島",
+   "colour": "#000000",
+   "italic": false,
+   "cjk": true,
+   "x": 247.0,
+   "y": 454.0,
+   "size": 15.8,
+   "ls": -1.5,
+   "final_box": [
+    247,
+    289,
+    440,
+    454
+   ]
+  },
+  {
+   "text": "Iriomote",
+   "colour": "#000000",
+   "italic": false,
+   "cjk": false,
+   "x": 119.0,
+   "y": 442.0,
+   "size": 16.67,
+   "ls": 1.86,
+   "final_box": [
+    121,
+    191,
+    430,
+    441
+   ]
+  },
+  {
+   "text": "西表島",
+   "colour": "#000000",
+   "italic": false,
+   "cjk": true,
+   "x": 134.0,
+   "y": 461.0,
+   "size": 13.54,
+   "ls": 2.0,
+   "final_box": [
+    134,
+    178,
+    449,
+    461
+   ]
+  }
+ ]
+}

@@ -479,3 +479,6 @@
 - File:Map of Suwa Shrine, Kamisha Honmiya (English).png: not rebuildable without tracing. Buildings and labels could
   be constructed, but the river, the contour lines and the curved roads are freehand curves; no SVG of it or its
   Japanese original on Commons.
+- **File:Map-okinawa-pref.png → SVG** (`files/map-okinawa-pref/`): N03 Okinawa islands fitted to six island positions
+  (separate x/y scales; the PNG's source is not quite equirectangular), flat green (relief shading not reproduced),
+  27 labels as `<text>`. Staged in upload/.
