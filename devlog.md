@@ -509,3 +509,5 @@
 - **File:Nagashima Iki.png → SVG** (`files/nagashima-iki/`): the Harushima Iki build with Nagashima (OSM position) in red
   and its label. Staged in upload/.
 - File:Nagikama.png: not rebuildable without tracing (freehand outline drawings of three nagikama blades).
+- File:Nakano Inugoya dog shelters 1696.png: not rebuildable, a raster original (a scanned woodblock-style illustration
+  from a 1928 book).
