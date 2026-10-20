@@ -835,3 +835,7 @@
   and column runs of black (320 rectangles; the labels are masked first). The dithered grey precincts become one flat
   #d8d8d8 fill; there are two straight leader lines and Meiryo labels in the PNG's own wording. Ink IoU 0.96. Staged in
   upload/.
+- **File:断夫山古墳 周濠復原図.png → SVG** (`files/danpusan/`): by construction, as for Muro Miyayama. The mound and the
+  present moat are fitted; the estimated moat line is made regular (straight sides tangent to a circle over the top,
+  median distance 5 px) with round-capped dashes phased per piece. Roads are dashed lines; the arrow, the 10 px leaders
+  and Meiryo labels (伏見通 rotated) are added. Ink IoU 0.74. Staged in upload/.

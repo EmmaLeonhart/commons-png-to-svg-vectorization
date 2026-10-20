@@ -1,0 +1,17 @@
+<!--This file was moved here using FileImporter from https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:%E6%96%AD%E5%A4%AB%E5%B1%B1%E5%8F%A4%E5%A2%B3_%E5%91%A8%E6%BF%A0%E5%BE%A9%E5%8E%9F%E5%9B%B3.png-->
+{{Information
+|Description={{en|Danfuyama Burial Mound_Reconstruction Map of Surrounding Moat}}{{ja|断夫山古墳_周濠復原図}}
+|Source= 
+{{en|Contributor's own work:
+* Source: Atsushi Fukaya, "The Moat Around the Danfuyama Burial Mound," Nagoya City Miharashidai Archaeological Museum Research Bulletin No. 11, Nagoya City Miharashidai Archaeological Museum, 2009, p. 26.}}
+{{ja|投稿者自身による作品。
+* 出典：深谷淳 「断夫山古墳の周濠」『名古屋市見晴台考古資料館研究紀要 第11号』 名古屋市見晴台考古資料館、2009年、p. 26。}}
+|Date= 2015-10-01
+|Author= [[:ja:user:Saigen Jiro|Saigen Jiro]]
+|Permission={{PD-self}}
+|other_versions=
+}}
+
+[[Category:Files uploaded by Saigen Jiro]]
+[[Category:Danpusan kofun]]
+[[Category:Nagoya City Miharashidai Archaeological Museum]]

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2365" height="1848" viewBox="0 0 2365 1848">
+<rect width="2365" height="1848" fill="#ffffff"/>
+<g fill="none" stroke="#000000" stroke-linejoin="miter">
+<path stroke-width="4" d="M657.4,1519.1 805.5,507.0 844.6,407.9 979.2,226.2 1083.6,119.6 1171.3,122.0 1352.1,206.5 1472.1,303.1 1548.6,477.5 1576.7,832.8 1643.6,1108.2 1703.9,1477.5Z"/>
+<path stroke-width="15" d="M966.8,740.7A305.5,305.5 0 1 1 1413.3,724.6M969.8,736.5 882.5,730.2 823.1,866.4 889.3,912.0 717.6,1423.8 839.7,1469.0 1432.7,1466.9 1646.9,1368.3 1404.5,723.2"/>
+<path stroke-width="15" stroke-linecap="round" stroke-dasharray="31.23 29.07" stroke-dashoffset="2.50" d="M458.9,1702.0L720.3,463.4"/>
+<path stroke-width="15" stroke-linecap="round" stroke-dasharray="33.30 29.70" stroke-dashoffset="-0.50" d="M720.3,463.4A473.8,473.8 0 0 1 1646.0,457.0"/>
+<path stroke-width="15" stroke-linecap="round" stroke-dasharray="31.00 29.00" stroke-dashoffset="13.00" d="M1646.0,457.0L1926.8,1702.0"/>
+<path stroke-width="15" stroke-linecap="round" stroke-dasharray="31.00 29.00" stroke-dashoffset="1.50" d="M1926.8,1702.0L458.9,1702.0"/>
+<path stroke-width="4" stroke-dasharray="16 12" stroke-dashoffset="4.00" d="M1912.0,154.0L1847.6,1499.5"/>
+<path stroke-width="4" stroke-dasharray="16 12" stroke-dashoffset="0.00" d="M1840.1,1570.7L1830.8,1762.0"/>
+<path stroke-width="4" stroke-dasharray="16 12" stroke-dashoffset="0.00" d="M2323.5,149.0L2246.8,1760.0"/>
+<path stroke-width="4" stroke-dasharray="16 12" stroke-dashoffset="27.00" d="M299.0,1557.3L1847.6,1499.5"/>
+<path stroke-width="4" stroke-dasharray="16 12" stroke-dashoffset="26.00" d="M303.0,1627.7L1844.2,1570.5"/>
+<path stroke-width="10" d="M530.1,288.8L760.4,403.3M475.8,553.9L784.1,687.8"/>
+</g>
+<path fill="#000000" d="M2182.4,152.3 2162.5,290.4 2128.3,266.7 2026.7,412.8 1992.4,389.0 2094.0,242.8 2059.8,219.1Z"/>
+<text x="2141.0" y="116.0" font-size="82.56" font-weight="bold" font-family="'Meiryo', 'Yu Gothic', 'Noto Sans CJK JP', sans-serif">北</text>
+<text x="314.0" y="302.0" font-size="91.34" letter-spacing="2.0" font-family="'Meiryo', 'Yu Gothic', 'Noto Sans CJK JP', sans-serif">周濠</text>
+<text x="268.0" y="413.0" font-size="92.22" font-family="'Meiryo', 'Yu Gothic', 'Noto Sans CJK JP', sans-serif">推定線</text>
+<text x="314.0" y="579.0" font-size="91.34" letter-spacing="2.0" font-family="'Meiryo', 'Yu Gothic', 'Noto Sans CJK JP', sans-serif">周濠</text>
+<text x="274.0" y="690.0" font-size="91.79" letter-spacing="-0.33" font-family="'Meiryo', 'Yu Gothic', 'Noto Sans CJK JP', sans-serif">(現在)</text>
+<text x="860.0" y="856.0" font-size="82.95" letter-spacing="1.0" font-family="'Meiryo', 'Yu Gothic', 'Noto Sans CJK JP', sans-serif">造出</text>
+<text x="1056.0" y="977.0" font-size="119.34" letter-spacing="11.0" font-family="'Meiryo', 'Yu Gothic', 'Noto Sans CJK JP', sans-serif">墳丘</text>
+<text x="325.0" y="1615.0" font-size="67.35" font-family="'Meiryo', 'Yu Gothic', 'Noto Sans CJK JP', sans-serif">市道</text>
+<text x="1980.0" y="865.0" font-size="74.9" letter-spacing="-12.5" transform="rotate(-90 2079.0 836.0)" font-family="'Meiryo', 'Yu Gothic', 'Noto Sans CJK JP', sans-serif">伏見通</text>
+</svg>
