@@ -379,3 +379,6 @@
 - File:God of Taion.png: removed from the queue; already triaged as NOT REBUILDABLE without tracing: woodblock / line-art figure drawing (flat colours, but freeform art).
 - File:God of Taisai.png: removed from the queue; already triaged as NOT REBUILDABLE without tracing: woodblock / line-art figure drawing (flat colours, but freeform art).
 - File:God of Toshitoku.png: removed from the queue; already triaged as NOT REBUILDABLE without tracing: woodblock / line-art figure drawing (flat colours, but freeform art).
+- **File:Greater Macedonia.png → SVG** (`files/greater-macedonia/`): Natural Earth land and borders in an LCC fitted to
+  the PNG (central meridian found by search: 9.6°E), the Macedonia region from North Macedonia, Blagoevgrad and
+  Greek municipalities (geoBoundaries, CC BY 4.0). 4.7% of pixels differ. Staged in upload/.
