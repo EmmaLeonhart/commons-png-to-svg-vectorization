@@ -533,3 +533,4 @@
   of North Texas wordmark.svg is the separate "UNT" mark.
 - File:Notifications - Email received - January 2016.png: removed from the queue; already triaged as NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
 - File:Notifications - Failed Mention - August 2016.png: removed from the queue; already triaged as NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
+- File:Notifications - First milestone - August 2016.png: removed from the queue; already triaged as NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
