@@ -853,3 +853,6 @@
   `data_lake/downloads/dakinis-ninnaji/`.
 - File:2006 Quarter Proof.png: not rebuildable. It is a United States Mint photograph of a proof quarter's obverse, with
   the background removed (a photo of relief sculpture). PNG kept in `data_lake/downloads/quarter-2006/`.
+- File:2017 Northern Lunar Calendar.png: not rebuildable as a vector. The month grid and captions could be constructed,
+  but every cell's moon is a photograph. A vector version would have to embed raster crops or substitute drawn moons,
+  which would be a different image. PNG kept in `data_lake/downloads/lunar-calendar-2017/`.
