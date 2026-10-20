@@ -844,3 +844,7 @@
   drawing).svg, but in a different drawing: scaled to the same ring, the figures overlap at IoU 0.74, and the leaf
   outlines, stamens and central gap differ. So it is not a vector of this PNG, though it could stand in for the emblem
   (inverted to white on navy). PNG kept in `data_lake/downloads/tsukigata-gyoyo/`.
+- File:福岡城曲輪分界図.png: not rebuildable without tracing. It is a hand-drawn colour plan of Fukuoka Castle's
+  enclosures, after an Edo-period plan in the Fukuoka City Library (its own note). The moat and sea edges are freehand
+  curves, the enclosure outlines are irregular hand polygons, and there is no data source to rebuild from (same author
+  and class as 吉田神社境内図.png). PNG kept in `data_lake/downloads/fukuoka-castle-kuruwa/`.
