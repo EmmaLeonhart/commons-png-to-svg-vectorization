@@ -737,3 +737,4 @@
 - File:VisualEditor - Toolbar - Undo-redo.png: removed from the queue; already triaged as NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
 - File:VisualEditor Apply Changes-en.png: not rebuildable: a LanguageScreenshotBot screenshot of the wiki interface (a
   raster original, like the other VisualEditor screenshots). PNG kept in `data_lake/downloads/ve-apply-changes/`.
+- File:VisualEditor category editing-en.png: not rebuildable: a screenshot of the VisualEditor interface (raster original).
