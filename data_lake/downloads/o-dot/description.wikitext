@@ -1,0 +1,23 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|The [[:en:Peh-oe-ji|Peh-oe-ji]] letter o͘}}
+|Source={{own}} ({{original text|1=I created this work entirely by myself.|nobold=1}})
+|Date=2009-04-07
+|Author=[[:en:User:Taiwantaffy|Taffy]] ([[:en:User talk:Taiwantaffy|talk]])
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{PD-user-en|Taiwantaffy}}
+
+== {{Original upload log}} ==
+{{original description page|en.wikipedia|O-dot.png}}
+* 2009-04-07 03:57 [[:en:User:Taiwantaffy|Taiwantaffy]] 691×376× (20328 bytes) ''<nowiki>{{Information |Description = The [[Peh-oe-ji]] letter o͘ |Source = I created this work entirely by myself. |Date = 7 April 2009 |Author = ~~~ |other_versions = }}</nowiki>''
+[[Category:Pe̍h-ōe-jī]]
+[[Category:O with diacritics]]
+[[Category:Black letter O]]
+[[Category:OO letter combinations]]
+[[Category:Letters with dot]]
+[[Category:Latin upper- and lower-case pairs]]
+[[Category:Latin letters obsoleted by SVG replacement]]
