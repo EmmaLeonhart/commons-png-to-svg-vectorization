@@ -488,3 +488,6 @@
 - **File:Matsuura-gun.png → SVG** (`files/matsuura-gun/`): N03 2000 municipalities of four prefectures fitted to four
   landmarks; Meiji-era Matsuura District chosen by name (its 2000 towns and the cities made from it), since colour
   voting missed Goto towns. Staged in upload/.
+- File:Megamihōri-no-in (売神祝印) seal imprint.png: not rebuildable without tracing. The seal-script characters were
+  drawn freehand from a photograph of the seal; as `<text>` they would become ordinary glyphs, which loses the seal
+  script the image is about, and no seal-script font is available on Commons.
