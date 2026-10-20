@@ -1,0 +1,14 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=A sample of Tangut writing in the "Tangut Yinchuan" font. The text reads 𗈁𗤻𗖰𗚩, "Compassionate Flower Sutra."}}
+|date=2017-10-05
+|source={{own}}
+|author=[[User:Wikilackey|Wikilackey]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-zero}}
+
+[[Category:Deciphered Tangut text]]

@@ -4,7 +4,7 @@ import subprocess, re
 done = []
 while True:
     L = open('queue.md', encoding='utf8').read().split('\n')
-    items = [j for j, l in enumerate(L) if l.startswith('- [File:') and 'BLOCKED-ON-EXTERNAL' not in l]
+    items = [j for j, l in enumerate(L) if l.startswith('- [File:') and 'BLOCKED-ON-EXTERNAL' not in l and 'NEEDS-DECISION' not in l]
     i = items[0]; line = L[i]
     m = re.search(r' — (NOT REBUILDABLE.*)$', line)
     if not m:
