@@ -540,3 +540,5 @@
 - **File:O-dot.png → SVG** (`files/o-dot/`): o͘ O͘ as `<text>` in Noto Serif (has U+0358), sized so the dotted capital
   fits the canvas. Staged in upload/.
 - **File:Ogham Sample.png → SVG** (`files/ogham-sample/`): the described ENABARR in Noto Sans Ogham, on white. Staged.
+- **File:Old Persian mi.png → SVG** (`files/old-persian-mi/`): 𐎷 as `<text>` in Noto Sans Old Persian (solid wedges where
+  the PNG outlines them). Staged in upload/.
