@@ -66,7 +66,8 @@ open(os.path.join(out, 'LICENSE.txt'), 'w', encoding='utf8').write(
     'CC BY-SA 2.5/3.0/4.0 (which allow adaptations under later versions), GFDL files that are also CC BY-SA, the\n'
     'Government of Japan Standard Terms of Use 2.0 (CC BY 4.0 compatible; MLIT credit given), geoBoundaries (CC BY 4.0)\n'
     'and OpenStreetMap (ODbL; maps drawn from it are produced works that need only attribution). All of these can be\n'
-    'adapted under CC BY-SA 4.0. Files whose originals are public domain stay free to use as public domain material.\n\n'
+    'adapted under CC BY-SA 4.0. Files whose originals are public domain stay free to use as public domain material.\n'
+    'Exception: files rebuilt from renderings of a font under the SIL OFL keep the OFL (their comment says so).\n\n'
     'file\toriginal\toriginal licence\toriginal author\n' + '\n'.join(rows) + '\n')
 z = out.rstrip('/\\') + '.zip'
 with zipfile.ZipFile(z, 'w', zipfile.ZIP_DEFLATED) as zf:
