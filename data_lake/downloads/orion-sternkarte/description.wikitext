@@ -1,0 +1,18 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{de|Sternkarte des [[:de:Sternbild|Sternbild]]s [[:de:Orion (Sternbild)|Orion]]}}
+|Source=erstellt mit [http://pp3.sourceforge.net/ pp3] 1.3
+|Date={{original upload date|2004-01-07}}
+|Author={{user at project|Marc Layer|wikipedia|de}}
+|Permission=[[:de:GNU Freie Dokumentationslizenz|GNU FDL]]
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{GFDL-user-de|Marc Layer|migration=relicense}}
+
+== {{Original upload log}} ==
+{{original description page|de.wikipedia|Orion-Sternkarte.png}}
+* 2004-01-07 23:52 [[:de:User:Marc Layer|Marc Layer]] 381×457× (45341 bytes) ''<nowiki>Sternkarte des [[Orion (Sternbild)|]]</nowiki>''
+
+[[Category:Star charts of Orion]]
