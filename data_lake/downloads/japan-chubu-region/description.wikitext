@@ -1,0 +1,14 @@
+== {{int:filedesc}} ==
+{{Information
+ |description = Large size map of Japan with Chubu region highlighted, self made but originally based on a japanese mapbook.
+ |date = {{Original upload date|2005-10-22}}
+ |source = {{own assumed}}
+ |author = {{Author assumed|[[User:Ningyou|Ningyou]]}}
+ |permission = 
+ |other_versions = 
+}}
+
+== {{int:license-header}} ==
+{{PD-self}}
+
+[[Category:Maps of Chūbu region]]

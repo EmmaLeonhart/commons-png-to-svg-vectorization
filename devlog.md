@@ -432,3 +432,6 @@
   Yamaguchi (real geography, as for the other Japan map.png crops), Itsukushima green, 17 transcribed labels as
   `<text>`, leaders and underlines from the PNG's pixel runs; land IoU 0.83. Staged in upload/.
 - File:Izuna Gongen.png: removed from the queue; already triaged as NOT REBUILDABLE without tracing: woodblock / line-art figure drawing (flat colours, but freeform art).
+- **File:Japan Chubu Region large.png → SVG** (`files/japan-chubu-region/`): Natural Earth prefectures in a fitted LCC
+  (IoU 0.89), Chūbu dark green, southern Kurils pink, Okinawa and Sakishima refitted into the measured inset.
+  Staged in upload/. The same build serves the other "Japan … Region large" PNGs if they come up (change CHUBU).
