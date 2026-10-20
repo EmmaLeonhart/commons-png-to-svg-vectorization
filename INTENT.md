@@ -156,6 +156,9 @@ caused by unbounded steps (since fixed).
   are not fitted (amateur radio coil made regular). Arms: every order.life person is now classified with no
   needs-investigation left (57 rebuilt, 31 vector on Commons, 69 waiting on the generator). Reading of the
   project unchanged.
+- 2026-10-19 22:57 PST: queue through the N–O files. New rule of thumb from these ticks: a script specimen whose
+  text cannot be read reliably (PNG in a non-Noto font, no text in the description: Cross of Herat, Nonotonoto) is set
+  aside rather than guessed. Reading of the project unchanged.
 - 2026-10-19 21:40 PST: after the 20:00 pause, the queue is moving through the K–M files: script specimens set in their
   Noto fonts (identified by glyph matching where the description doesn't give the text), maps rebuilt from N03 /
   Natural Earth (Japan region maps now via `tools/japan_region_map.py`), line-art plans and crests by construction.
