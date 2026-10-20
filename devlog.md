@@ -641,3 +641,5 @@
   its own framed region, Lake Shinji and Nakaumi cut out (W09); rendered IoU 0.928. Staged in upload/.
 - **File:Shadow picture of Shizuoka prefecture.png → SVG** (`files/shadow-shizuoka/`): `tools/shadow_rotfit.py`, IoU 0.968
   (rotation 0.0°). Staged in upload/.
+- **File:Shadow picture of Tochigi prefecture.png → SVG** (`files/shadow-tochigi/`): `tools/shadow_rotfit.py`, IoU 0.980
+  (rotation 0.0°). Staged in upload/.
