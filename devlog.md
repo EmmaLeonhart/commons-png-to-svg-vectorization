@@ -343,3 +343,4 @@
 - **File:Eastern Europe (Robinson projection).png → SVG** (`files/eastern-europe-robinson/`): finished. All land
   classes (coastxx, limitxx, antxx too) in the PNG's grey, borders widened to ~2 px; 3.65% of pixels differ.
   Staged in upload/.
+- File:EcoviaLogo.png: removed from the queue; already triaged as NOT REBUILDABLE without tracing: a wordmark in custom lettering with a freeform leaf; no vector logo on Commons
