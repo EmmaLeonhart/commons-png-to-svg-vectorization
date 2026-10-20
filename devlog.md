@@ -574,3 +574,5 @@
 - File:Replace this image butterfly.png: not rebuildable without tracing. The text is trivial, but the butterfly is a
   freeform silhouette cut from the raster plate File:NSRW Butterfly.png; no vector butterfly placeholder or silhouette
   on Commons (searched). PNG kept in `data_lake/downloads/replace-butterfly/`.
+- **File:Resolution angle.png → SVG** (`files/resolution-angle/`): diffraction diagram by construction (rings about the
+  source, shadow arcs about the bar's tip, rays, θ as `<text>`); the Paint ellipses made exact circles. Staged in upload/.
