@@ -476,3 +476,6 @@
   content is the pilgrimage routes drawn by hand as schematic coloured lines; same call as the Korea and Ossetian maps.
 - File:Map Kumano Kodo.png: not rebuildable without tracing; the English-labelled twin of Map Kumano Kodo (ja).png (same
   hand-drawn routes).
+- File:Map of Suwa Shrine, Kamisha Honmiya (English).png: not rebuildable without tracing. Buildings and labels could
+  be constructed, but the river, the contour lines and the curved roads are freehand curves; no SVG of it or its
+  Japanese original on Commons.
