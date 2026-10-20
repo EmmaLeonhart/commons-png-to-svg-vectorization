@@ -419,3 +419,6 @@
   another projection with a legend. The PNG's own drawing could only be reproduced by tracing its hand-drawn ranges,
   so it is recorded rather than redone.
 - File:Icona catastrofi.png: removed from the queue; already triaged as NOT REBUILDABLE without tracing: woodblock / line-art figure drawing (flat colours, but freeform art).
+- File:Idioma osetio.png: not rebuildable without tracing. The Caucasus base could come from Natural Earth, but the
+  map's content is the hand-painted Ossetian-speaking areas (freehand minority patches; the page is tagged "map
+  datasource missing"), which only tracing would reproduce.
