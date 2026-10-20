@@ -19,4 +19,5 @@ in the map since 2017.
 
 Comparison: `Documents\claude-screenshots\agentic-vectorization_2026-10-20\cmp_letter-i.png`.
 
-Licence: CC BY-SA 2.5, as the PNG. The base map is CC BY-SA too, and Natural Earth is public domain.
+Licence: CC BY-SA 3.0. The base map is CC BY-SA 3.0, which binds the derivative; the PNG itself is CC BY-SA 2.5.
+Natural Earth is public domain.
