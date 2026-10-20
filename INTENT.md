@@ -65,6 +65,10 @@ My reading of how this repo serves it (Claude's assumption, 2026-10-15; correct 
   for until 8 p.m. because I'm going to be uploading these." She asked for everything finished, double-checked and
   zipped into the chat. Loop ticks before 20:00 only commit and push.
 
+- **Upload packages are flat and licensed.** Emma, 2026-10-19 (chat): "give it to me with the licenses added as
+  comments in the svg files, and all top level. Give me a license all of them can be released under if possible."
+  `tools/package_upload.py` does this; the common licence is CC BY-SA 4.0 (every source checked as compatible).
+
 - **Do not edit the other repositories** (inochi-no-michikyo, Sodacan-arms-svg-generator): read
   them, import the generator read-only, write only here (relayed instruction, 2026-10-15).
 
