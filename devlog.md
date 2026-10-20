@@ -369,3 +369,4 @@
 - **File:Fukuchiyama Toyuke-daijinja map.png → SVG** (`files/fukuchiyama-toyuke-map/`): exact straight-run line work
   and 45 transcribed labels as `<text>` with per-character cells; 1.7% of pixels differ. One reading (篷戸 vs 蓬戸)
   flagged in notes.md. Staged in upload/.
+- File:GaelicGamesProjectLogo.png: removed from the queue; already triaged as NOT REBUILDABLE without tracing: freehand hurleys and ball (only the circles are geometric)
