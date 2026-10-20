@@ -330,3 +330,4 @@
   grain heads; from kamon.website), the class INTENT.md already sets aside as tracing-only; no SVG of it on Commons.
 - File:Deir el Bahari-map.png: not rebuildable without tracing. A scanned temple plan (soft grey edges, hundreds
   of irregular column dots, walls of uneven width); only the numerals could be constructed. No vector version.
+- File:DiscussionTools Show new comment 2022 en.png: removed from the queue; already triaged as NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals').
