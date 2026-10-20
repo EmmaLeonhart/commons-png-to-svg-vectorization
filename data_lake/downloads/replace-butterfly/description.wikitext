@@ -1,0 +1,19 @@
+<!--This file was moved here using FileImporter from https://en.wikipedia.org/wiki/File:Replace_this_image_butterfly.png-->
+{{Wikipedia:Upload/Replace this image/People}}
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|A image place holder, for butterflies, made with the use of this
+[[:Image:NSRW Butterfly.png|image]], which is in the public domain.}}
+|Source=self-made
+|Date= 1st of may 2008
+|Author=[[:w:User:Kerotan|<span style="color:#FF33FF;">Kerotan</span>]][[:w:User Talk:Kerotan|<span style="color:#FF33FF;"><sup>Leave Me a Message</sup></span>]] Have  a nice day :)
+|other_versions=
+}}
+[[Category:Wikipedia image placeholders]]
+
+A note on the image, if anyone wishes to improve it, feel free, this image is far from perfect, and was only made due to a request made [[:w:User talk:Wloveral#Image_placeholder_for_other_animals?|here]].
+
+A note on the template, Wikipedia:Upload/Replace this image/people isn't ideal, but pretty much fits, yet again, I actively encourage anyone to improve on this.
+
+== {{int:license-header}} ==
+{{self|cc-by-sa-3.0|GFDL}}

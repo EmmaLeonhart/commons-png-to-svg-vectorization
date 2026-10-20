@@ -571,3 +571,6 @@
 - **File:Regionen japans.png → SVG** (`files/regionen-japans/`): Natural Earth prefectures in the eight region colours,
   Okinawa Island in the inset; the hand-drawn PNG squeezes the west (overlap fit IoU 0.58 pushed Kyūshū off the
   canvas), so the real map is laid out to the PNG's land extent instead. Staged in upload/.
+- File:Replace this image butterfly.png: not rebuildable without tracing. The text is trivial, but the butterfly is a
+  freeform silhouette cut from the raster plate File:NSRW Butterfly.png; no vector butterfly placeholder or silhouette
+  on Commons (searched). PNG kept in `data_lake/downloads/replace-butterfly/`.
