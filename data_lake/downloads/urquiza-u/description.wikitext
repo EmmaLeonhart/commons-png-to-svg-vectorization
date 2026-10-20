@@ -1,0 +1,20 @@
+<!--This file was moved here using FileImporter from https://en.wikipedia.org/wiki/File:Urquiza_U_60px.png-->
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|'''Espa&#xF1;ol:'''Logotipo que identifica a la línea Urquiza de la red de subterráneos porteña según colores de SBASE/Metrovías..
+
+'''English:'''Logotype that identifies Urquiza Line  Commuter railway network according to colors of SBASE/Metrov&#xED;as.}}
+|Source={{own}}
+|Date=2008-02-12
+|Location=
+|Author=[[:w:User:Moebiusuibeom-en|Moebiusuibeom-en]] ([[:w:User talk:Moebiusuibeom-en|talk]])
+|Permission=
+|other_versions=
+}}
+== {{int:license-header}} ==
+{{self|cc-by-sa-3.0|GFDL}}
+
+[[Category:Orange circle logos]]
+[[Category:White letter logos with orange background]]
+[[Category:Rapid transit icons of Argentina]]
+[[Category:Urquiza Line]]
