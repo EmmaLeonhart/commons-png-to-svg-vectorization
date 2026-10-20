@@ -309,3 +309,4 @@
 - **File:BonjiCa.png → SVG** (`files/bonjica/`): Siddham Ca as `<text>` in Noto Sans Siddham (typeset vs. brush, IoU 0.54). Staged.
 - **File:BonjiHaammaam.png → SVG** (`files/bonjihaammaam/`): Siddham hāṃmmāṃ as `<text>` in Noto Sans Siddham (typeset vs. brush, IoU 0.38). Staged.
 - **File:BonjiMa.png → SVG** (`files/bonjima/`): Siddham Ma as `<text>` in Noto Sans Siddham (typeset vs. brush, IoU 0.27). Staged.
+- **File:BonjiNr.png → SVG** (`files/bonjinr/`): Siddham Nṛ as `<text>` in Noto Sans Siddham (typeset vs. brush, IoU 0.37). Staged.
