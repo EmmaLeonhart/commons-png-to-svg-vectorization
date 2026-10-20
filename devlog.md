@@ -435,3 +435,6 @@
 - **File:Japan Chubu Region large.png → SVG** (`files/japan-chubu-region/`): Natural Earth prefectures in a fitted LCC
   (IoU 0.89), Chūbu dark green, southern Kurils pink, Okinawa and Sakishima refitted into the measured inset.
   Staged in upload/. The same build serves the other "Japan … Region large" PNGs if they come up (change CHUBU).
+- **File:Japan large.png → SVG** (`files/japan-large/`): new `tools/japan_region_map.py` (the Chubu build with the
+  inset frame, highlighted prefectures and Kurils as parameters); land IoU 0.87; Amami Ōshima falls off the canvas at
+  its true position (the PNG moves it). Staged in upload/.
