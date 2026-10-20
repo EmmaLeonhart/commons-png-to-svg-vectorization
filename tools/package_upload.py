@@ -37,9 +37,12 @@ for folder, png in sorted(d['items'].items()):
     seen[name] = folder
     lic = d['lic'][png][0] or 'see the original file page'
     author = d['artist'].get(png) or 'see the original file page'
+    # OFL originals (renderings of a font) cannot be relicensed under CC BY-SA: they keep the OFL
+    ofl = 'OFL' in lic
     lines = [f'{commons_name}: vector rebuild of File:{png} (Wikimedia Commons).',
+             'Licence: SIL Open Font License 1.1 (OFL), as the original, https://openfontlicense.org' if ofl else
              'Licence: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0),',
-             '  https://creativecommons.org/licenses/by-sa/4.0/',
+             *([] if ofl else ['  https://creativecommons.org/licenses/by-sa/4.0/']),
              f'Original: File:{png}, by {author}, licensed {lic}.']
     lines += [c for p, c in CREDITS if re.search(p, notes)]
     reused = re.findall(r'\[\[:File:([^\]]+\.svg)\]\][^\n]*?\(([^)]*)\)', notes)
