@@ -660,3 +660,6 @@
   (rotation 0.0°). Staged in upload/.
 - **File:Shield Coat of arms of East Timor.png → SVG** (`files/east-timor-shield/`): the shield cut from the 2012 revision
   of its source SVG (rings, lettering, scroll removed); 0.02% pixels differ. Staged in upload/.
+- File:Shinkai Sansha Jinja map.png: not rebuildable without tracing. It is a scan of a hand-drawn 1940 printed sketch
+  map (hand-lettered labels, freehand roads and trees, print grain), with no data source or construction geometry.
+  PNG kept in `data_lake/downloads/shinkai-sansha/`.

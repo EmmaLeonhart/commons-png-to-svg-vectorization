@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ja|1=新海三社神社の杉と欅}}
+|date=1940
+|source= (長野県)史蹟名勝天然紀念物調査報告 第21輯 
+|author=長野県
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+
+{{PD-Japan-oldphoto}}
+
+[[Category:Prayer trees]]
+[[Category:Shinkai Sansha Shrine]]
