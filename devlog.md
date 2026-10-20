@@ -583,3 +583,5 @@
 - **File:Shadow picture of Ehime prefecture.png → SVG** (`files/shadow-ehime/`): the PNG is drawn rotated 29°, which the
   batch fitter didn't allow (IoU 0.52); a direct fit with rotation gives IoU 0.931 from N03. Staged in upload/. The
   other parked shadow pictures (Fukui, Gunma, Hiroshima) may have the same cause.
+- **File:Shadow picture of Fukui prefecture.png → SVG** (`files/shadow-fukui/`): `tools/shadow_rotfit.py`, IoU 0.950
+  (rotation -5.2°). Staged in upload/.
