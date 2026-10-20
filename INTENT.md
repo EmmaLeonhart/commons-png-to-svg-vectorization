@@ -140,6 +140,12 @@ caused by unbounded steps (since fixed).
   are not fitted (amateur radio coil made regular). Arms: every order.life person is now classified with no
   needs-investigation left (57 rebuilt, 31 vector on Commons, 69 waiting on the generator). Reading of the
   project unchanged.
+- 2026-10-19 18:13 PST: three loop ticks on the main queue since. More maps rebuilt from public data (Bohai Sea,
+  Greater Macedonia, Eastern Europe locator from the 2011 world SVG), an emblem flag from its source SVG (Indonesian
+  Marine Corps), a shrine plan by construction with transcribed text, and every script specimen as Noto `<text>`.
+  Working rule from these ticks: an item BLOCKED-ON-EXTERNAL stays in place, is re-checked when reached, and the
+  tick moves on; items already triaged not rebuildable are taken off the queue with a devlog line. Reading of the
+  project unchanged.
 - Work started 2026-10-07 23:02 PST, on the user's go-ahead. GitHub repo (private):
   EmmaLeonhart/commons-png-to-svg-vectorization.
 - 2026-10-08 13:20 PST: 40 files finished and staged in upload/; 546 still to vectorize, 256 already
