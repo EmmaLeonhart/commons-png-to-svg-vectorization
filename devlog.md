@@ -516,3 +516,4 @@
 - File:Nara Toichi-gun.png: not rebuildable without tracing. Unlike Matsuura-gun, the yellow Meiji-era Toichi District
   is a strip that cuts across modern municipalities (parts of Kashihara and Sakurai); no dataset holds Meiji village
   boundaries, so the highlighted area could only be traced.
+- File:Naval jack of the United States (1975–1976).png: removed from the queue; already triaged as NOT REBUILDABLE without tracing: the shaded rattlesnake is its own drawing; the vector jacks on Commons (1776–1777, 2002–2019) have different snakes. Using the 2002–2019 SVG's snake would change the design: NEEDS-DECISION (user) if wanted
