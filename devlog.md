@@ -484,3 +484,4 @@
   27 labels as `<text>`. Staged in upload/.
 - File:Maru ni Sasa Rindō inverted.png: removed from the queue; already triaged as NOT REBUILDABLE without tracing: kamon with freeform organic motifs.
 - File:Marunimitsukashiwa.png: removed from the queue; already triaged as NOT REBUILDABLE without tracing: kamon with freeform organic motifs.
+- File:Marunitsurukashiwa.png: removed from the queue; already triaged as NOT REBUILDABLE without tracing: kamon with freeform organic motifs.
