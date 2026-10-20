@@ -805,3 +805,7 @@
   first and did not match the Meiji edge (Nanbu, Kōfu). Staged in upload/.
 - **File:Кха чампа.png → SVG** (`files/kha-champa/`): Cham letter KHA ꨇ in Noto Sans Cham, fitted by glyph_specimen
   (IoU 0.50; the PNG is a calligraphic hand of the same letter). Staged in upload/.
+- File:一文字（丸に一文字）紋.png: not rebuildable without tracing: the ring is trivial, but the 一 is a freehand brush
+  stroke (pointed left end, rounded right end, curved edges), the freeform-kamon class. The Commons ichimonji SVGs
+  (Japanese Crest Ichimonji.svg, Japanese Crest Yamauchi Ichimonji.svg) draw a different bar. PNG kept in
+  `data_lake/downloads/maru-ni-ichimonji/`.

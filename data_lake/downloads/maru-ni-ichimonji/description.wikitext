@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ja|1=一文字（丸に一文字）紋。日本の家紋（family crest）の一つ。字・文字紋の「一文字・一の字」紋の外側を輪紋（わもん）で囲んだ紋である。}}
+|date=2023-06-28
+|source={{own}}
+|author=[[User:MLFU5BrYMJ2|MLFU5BrYMJ2]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Mon with enclosing circle; white on black]]
+[[Category:Kanji logos (1 letter)]]
