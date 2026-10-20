@@ -156,6 +156,10 @@ caused by unbounded steps (since fixed).
   are not fitted (amateur radio coil made regular). Arms: every order.life person is now classified with no
   needs-investigation left (57 rebuilt, 31 vector on Commons, 69 waiting on the generator). Reading of the
   project unchanged.
+- 2026-10-19 21:40 PST: after the 20:00 pause, the queue is moving through the K–M files: script specimens set in their
+  Noto fonts (identified by glyph matching where the description doesn't give the text), maps rebuilt from N03 /
+  Natural Earth (Japan region maps now via `tools/japan_region_map.py`), line-art plans and crests by construction.
+  OFL-licensed originals (font renderings) keep the OFL in upload packages. Reading of the project unchanged.
 - 2026-10-19 18:13 PST: three loop ticks on the main queue since. More maps rebuilt from public data (Bohai Sea,
   Greater Macedonia, Eastern Europe locator from the 2011 world SVG), an emblem flag from its source SVG (Indonesian
   Marine Corps), a shrine plan by construction with transcribed text, and every script specimen as Noto `<text>`.
