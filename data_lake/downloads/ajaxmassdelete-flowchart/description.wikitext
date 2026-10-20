@@ -1,0 +1,16 @@
+== {{int:filedesc}} ==
+{{Information
+|Description    ={{en|1=script-control- flow chart for AjaxMassDelete documentation}}
+{{de|1=Flussdiagramm für die Dokumentation von AjaxMassDelete}}
+|Source         ={{own}}
+|Author         =[[User:Rillke|Rillke]]
+|Date           =2011-05-06
+|Permission     =
+|other_versions =
+}}
+
+== {{int:license-header}} ==
+{{self|GFDL|cc-by-sa-3.0}}
+
+[[Category:Flow charts]]
+[[Category:VisualFileChange]]
