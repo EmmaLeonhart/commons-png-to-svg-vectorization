@@ -11,6 +11,6 @@ Built by `files/yamanashi-gun/build.py yamanashi` from MLIT 国土数値情報 N
   IPAGothic / Noto Sans CJK JP as fallbacks).
 
 The PNG has no 郡役所 marker on the map, only in the legend, and neither does the SVG. Comparison:
-`Documents\claude-screenshotsgentic-vectorization_2026-10-20\cmp_yamanashi-yamanashi-gun.png`.
+`Documents\claude-screenshots\agentic-vectorization_2026-10-20\cmp_yamanashi-yamanashi-gun.png`.
 
 Licence: as the PNG (Template:Japan map: GFDL / CC BY-SA 3.0), with the credit 「国土数値情報（行政区域データ・湖沼データ）」（国土交通省）.
