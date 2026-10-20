@@ -1,0 +1,82 @@
+{
+ "p": [
+  0.8144975252251614,
+  0.0003200887642970682,
+  436.143606155084,
+  354.02300799692705
+ ],
+ "labels": [
+  {
+   "text": "LAKE SUWA (CURRENT SIZE)",
+   "colour": "#ffffff",
+   "x": 241.0,
+   "y": 344.0,
+   "size": 25.56,
+   "ls": 1.61
+  },
+  {
+   "text": "(surface elevation: 759 m)",
+   "colour": "#ffffff",
+   "x": 263.0,
+   "y": 378.0,
+   "size": 25.56,
+   "ls": 1.24
+  },
+  {
+   "text": "LAKE SUWA",
+   "colour": "#ffffff",
+   "x": 618.0,
+   "y": 658.0,
+   "size": 27.78,
+   "ls": 0.38
+  },
+  {
+   "text": "ca. 500-1000 CE",
+   "colour": "#ffffff",
+   "x": 593.0,
+   "y": 692.0,
+   "size": 27.78,
+   "ls": 0.57
+  },
+  {
+   "text": "(approx. 765 m)",
+   "colour": "#ffffff",
+   "x": 598.0,
+   "y": 725.0,
+   "size": 26.55,
+   "ls": 0.86
+  },
+  {
+   "text": "Shimosha Akimiya",
+   "colour": "#000000",
+   "x": 509.0,
+   "y": 63.0,
+   "size": 23.77,
+   "ls": 0.27
+  },
+  {
+   "text": "Kamisha Honmiya",
+   "colour": "#000000",
+   "x": 615.0,
+   "y": 987.0,
+   "size": 23.77,
+   "ls": 0.14
+  },
+  {
+   "text": "Togawa",
+   "colour": "#519ad7",
+   "x": 367.0,
+   "y": 62.0,
+   "size": 16.67,
+   "ls": 0.6
+  },
+  {
+   "text": "Tenryū River",
+   "colour": "#519ad7",
+   "x": 7.0,
+   "y": 317.0,
+   "size": 17.54,
+   "ls": -0.18
+  }
+ ]
+}

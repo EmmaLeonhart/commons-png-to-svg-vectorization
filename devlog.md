@@ -672,3 +672,5 @@
   drop shadow. Staged in upload/.
 - **File:Sikaku.png → SVG** (`files/sikaku/`): card by construction plus File:User icon 2.svg's figure (shadow removed);
   0.6% pixels differ. Staged in upload/.
+- **File:Size of Lake Suwa.png → SVG** (`files/lake-suwa/`): GSI 10 m DEM bands (765/800/900 m), the 765 m old lake,
+  W09 current lake (IoU 0.975, Web Mercator), W05 rivers, labels as `<text>` (Bahnschrift), torii as shapes. Staged in upload/.
