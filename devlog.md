@@ -703,3 +703,6 @@
   `<text>`. Staged in upload/ (filename without the quotes).
 - **File:Tree of life kircher plain.png → SVG** (`files/tree-of-life-kircher/`): ten circles, 22 double-lined channels in the
   PNG's drawing order, dotted Da'at, by construction. Staged in upload/.
+- File:TrenLigeroCDMX.png: not rebuildable without tracing. The current Tren Ligero logo is a freeform brush swirl round
+  hand-drawn letters. The vector logos on Commons are other designs (the old geometric STE emblem, the SITREN wordmark,
+  line badges). PNG kept in `data_lake/downloads/tren-ligero/`.

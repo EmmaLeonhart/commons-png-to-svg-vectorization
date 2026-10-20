@@ -1,0 +1,17 @@
+=={{int:filedesc}}==
+{{Information
+|description={{es|1=Logo propio del Tren Ligero de la Ciudad de México.}}
+{{en|1=Mexico City Light Rail proper logo.}}
+|date=2019-12-31
+|source=https://metro.cdmx.gob.mx/la-red/linea-2/tasquena
+|author=Gobierno de la Ciudad de México.
+|permission=
+|other versions={{SVG|logo}}
+}}
+
+=={{int:license-header}}==
+
+{{LGACDMX}}
+
+[[Category:Movilidad Integrada]]
+[[Category:Mexico City light rail]]
