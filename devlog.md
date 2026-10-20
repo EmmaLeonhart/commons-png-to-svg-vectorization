@@ -750,3 +750,4 @@
 - File:VisualEditor link tool simple link.png: not rebuildable: a screenshot of the VisualEditor interface (raster original).
 - File:VisualEditor lists 1 unordered bullet.png: not rebuildable: a screenshot of the VisualEditor interface (raster original).
 - File:VisualEditor lists 2 ordered numbered.png: not rebuildable: a screenshot of the VisualEditor interface (raster original).
+- File:VisualEditor lists 3 select to indent.png: not rebuildable: a screenshot of the VisualEditor interface (raster original).
