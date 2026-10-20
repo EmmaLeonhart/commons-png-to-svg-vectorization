@@ -1,0 +1,14 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Kharosthi font rendering sample (Unicode text U+10A24 10A2A 10A0C 10A2A 10A3F 10A17 10A38 10A05 10A0C 10A0F)}}
+|date=2017-09-06
+|source={{own}}
+|author=[[User:Drmccreedy|Drmccreedy]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Kharoshthi text]]

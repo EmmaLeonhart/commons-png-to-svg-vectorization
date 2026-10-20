@@ -450,3 +450,5 @@
   diagram.
 - **File:KAWI LETTER OM.png → SVG** (`files/kawi-letter-om/`): Kawi O + candrabindu as `<text>` in Noto Sans Kawi,
   IoU 0.973. Staged in upload/. Licence OFL, as the PNG (note for the upload package: OFL, not CC BY-SA).
+- **File:Kharosthi font rendering sample.png → SVG** (`files/kharosthi-font-rendering-sample/`): the described Unicode
+  text as `<text>` in Noto Sans Kharoshthi; same text, different font's stacking (IoU 0.15). Staged in upload/.
