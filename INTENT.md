@@ -34,6 +34,14 @@ My reading of how this repo serves it (Claude's assumption, 2026-10-15; correct 
    generator's (its INTENT keeps "existing blazons only" for now) and inochi's queue says it waits for
    the generator. OUT-OF-SCOPE here. Other repositories are read, never edited.
 
+### Third strand: making existing traced SVGs smaller (from 2026-10-19)
+
+Emma, 2026-10-19 (chat), on Category:Vectorized_Tarot_by_Immanuelle: "can you download all of these and run an
+attempt at vectorization on these? As I believe they can be made much more efficient. Separate folder and relying
+more on trimming down existing ones like merging really close color things and such". Done for all 79 cards
+(`tarot/`, 276 MB -> 75 MB, visually identical); `tools/optimize_traced_svg.py` + svgo can be reused on other
+auto-traced SVGs she points to.
+
 ## What supports it
 
 - User, 2026-10-07: "the notion here is that we are trying to vectorize individual
