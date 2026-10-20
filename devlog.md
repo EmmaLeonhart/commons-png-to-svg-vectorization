@@ -443,3 +443,5 @@
   `<text>`. Staged in upload/.
 - File:Kajikimen (鹿食免).png: removed from the queue; already triaged as NOT REBUILDABLE without tracing: woodblock / line-art figure drawing (flat colours, but freeform art).
 - File:Kashikodokoro Jogyosha and Ohaguruma 04.png: removed from the queue; already triaged as NOT REBUILDABLE without tracing: woodblock / line-art figure drawing (flat colours, but freeform art).
+- **File:Kata jangangjangang.png → SVG** (`files/kata-jangangjangang/`): Makasar JA NGA JA NGA as `<text>` in Noto Serif
+  Makasar, stretched 1.53× to the PNG's wide monoline letters (IoU 0.26; a different typeface). Staged in upload/.
