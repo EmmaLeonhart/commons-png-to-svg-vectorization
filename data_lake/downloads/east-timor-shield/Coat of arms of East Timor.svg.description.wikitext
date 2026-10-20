@@ -1,0 +1,37 @@
+== {{int:filedesc}} ==
+{{Information 
+|Description= {{en|East Timor Coat Of Arms}} 
+|Source= {{own}} 
+|Date= 2007-06-03 
+|Author= [[:en:User:Vino4u]]
+|other versions=
+<gallery>
+File:Coat of arms of East Timor 2.svg
+</gallery>
+|Permission= 
+}}{{Insignia}}
+
+
+
+== {{int:license-header}} ==
+{{PD-self|author=[[User:Vino4u|Vino4u]]}}
+
+=== {{original upload log}} ===
+{| class=wikitable
+! date/time || username || resolution || size || edit summary
+|----
+| 22:05, 15 July 2007 || [[User:Himasaram]] || 645×641 || 148 KB || <nowiki>turn text objects into paths to improve mediawiki rendering</nowiki>|
+|----
+| 11:29, 16 June 2007 || [[User:Vino4u]] || 645×641 || 99 KB || <nowiki>{{Information |Description= East Timor Coat Of Arms |Source= own work |Date= 2007-06-03 |Author= ~~~ |Permission=  |other_versions=<a href="/w/index.php?title=Http://commons.wikimedia.org/wiki/Image:Timor-Leste_CoA.gif&amp;action=edit" class="new" title="Http://commons.wikimedia.org/wiki/Image:Timor-Leste CoA.gif">http://commons.wikimedia.org/wiki/Image:Timor-Leste_CoA.gif</a> }} </nowiki>|
+|}
+
+
+[[Category:National emblem of East Timor]]
+[[Category:AK in heraldry]]
+[[Category:Maize in heraldry]]
+[[Category:1 wheat ear in heraldry]]
+[[Category:1 book open gules in heraldry]]
+[[Category:Gears in heraldry]]
+[[Category:1 five rays argent in heraldry]]
+[[Category:1 arrow in heraldry]]
+[[Category:Bows in heraldry]]

@@ -658,3 +658,5 @@
   (rotation -5.2°). Staged in upload/.
 - **File:Shadow picture of Yamanashi prefecture.png → SVG** (`files/shadow-yamanashi/`): `tools/shadow_rotfit.py`, IoU 0.980
   (rotation 0.0°). Staged in upload/.
+- **File:Shield Coat of arms of East Timor.png → SVG** (`files/east-timor-shield/`): the shield cut from the 2012 revision
+  of its source SVG (rings, lettering, scroll removed); 0.02% pixels differ. Staged in upload/.
