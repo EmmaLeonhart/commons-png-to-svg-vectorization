@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{id|Gambar ini adalah Lambang [[:id:Korps Marinir Indonesia|Korps Marinir RI]]}}
+|date=2021-10-02
+|source=[https://iconape.com/koprs-marinir-logo-logo-icon-svg-png.htmll]
+|author=[[:id:Korps Marinir Indonesia|Korps Marinir RI]]
+|permission=
+|other versions=
+|other fields={{Image generation|U|+|s=em}}
+}}
+
+=={{int:license-header}}==
+{{PD-IDGov}}
+
+[[Category:Naval Infantry]]
+[[Category:Military coats of arms of Indonesia]]
