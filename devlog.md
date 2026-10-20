@@ -599,3 +599,5 @@
   (rotation 0.0°). Staged in upload/.
 - **File:Shadow picture of Ishikawa prefecture.png → SVG** (`files/shadow-ishikawa/`): `tools/shadow_rotfit.py`, IoU 0.958
   (rotation -0.0°). Staged in upload/.
+- **File:Shadow picture of Kagawa prefecture.png → SVG** (`files/shadow-kagawa/`): `tools/shadow_rotfit.py`, IoU 0.945
+  (rotation 0.0°). Staged in upload/.
