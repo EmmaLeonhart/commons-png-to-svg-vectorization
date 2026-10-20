@@ -1,0 +1,15 @@
+== {{int:filedesc}} ==
+{{Information
+ |description = Distribution of ''Pleurodeles_walti'', based on Nöllert/Nöllert: ''"Die Amphibien Europas''"
+ |date = {{Original upload date|2006-02-21}}
+ |source = {{own assumed}}
+ |author = {{Author assumed|[[User:Achim Raschka|Achim Raschka]]}}
+ |permission = 
+ |other_versions = 
+}}
+== {{int:license-header}} ==
+{{self|GFDL|Cc-by-sa-3.0-migrated|Cc-by-sa-2.5,2.0,1.0}}
+
+
+[[Category:Salamandridae distribution maps]]
+[[Category:Pleurodeles waltl]]

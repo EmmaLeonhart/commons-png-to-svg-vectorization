@@ -560,3 +560,7 @@
 - File:Perform batch task.png: removed from the queue; already triaged as NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
 - **File:Phaistos-A23.png → SVG** (`files/phaistos-a23/`): 𐇑𐇛𐇪𐇝𐇯𐇡𐇪 as `<text>` in Noto Sans Symbols 2 (IoU 0.80).
   Staged in upload/.
+- File:Pleurodeles walti dis.png: not rebuildable without tracing (as Aplodontia rufa). The grey Europe base map is the
+  common one, but the green range is painted by hand from Nöllert & Nöllert's book, with no free data source. Commons
+  already has a vector range map of the species, File:202012 Pleurodeles waltl.svg (a different map, 512×896), which
+  could replace it in Template:Taxobox/doc. PNG kept in `data_lake/downloads/pleurodeles-dis/`.
