@@ -613,3 +613,5 @@
   (rotation 0.0°). Staged in upload/.
 - **File:Shadow picture of Mie prefecture.png → SVG** (`files/shadow-mie/`): `tools/shadow_rotfit.py`, IoU 0.943
   (rotation 5.2°). Staged in upload/.
+- **File:Shadow picture of Miyagi prefecture.png → SVG** (`files/shadow-miyagi/`): `tools/shadow_rotfit.py`, IoU 0.944
+  (rotation -4.7°). Staged in upload/.
