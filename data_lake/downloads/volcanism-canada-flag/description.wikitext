@@ -1,0 +1,13 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|1=Flag for volcanism of Canada}}
+|Source={{Own}}
+|Author=[[User:Black Tusk|Black Tusk]]
+|Date=2009-06-14
+|Permission=
+|other_versions=
+}}
+== {{int:license-header}} ==
+{{self|cc-by-3.0}}
+
+[[Category:Volcanoes in Canada]]

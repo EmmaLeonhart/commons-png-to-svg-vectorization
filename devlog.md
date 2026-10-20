@@ -778,3 +778,6 @@
 - File:VisualEditor Toolbar Headings-en.png: not rebuildable: a screenshot of the wiki interface (raster original).
 - File:VisualEditor Toolbar Lists and indentation-en.png: not rebuildable: a screenshot of the wiki interface (raster original).
 - File:VisualEditor toolbar-en.png: not rebuildable: a screenshot of the wiki interface (raster original).
+- File:Volcanism of Canada flag.png: not rebuildable without tracing. The red bars and the volcano's trapezoid are
+  geometric, but the ash cloud and the lava flows are freehand paint strokes. PNG kept in
+  `data_lake/downloads/volcanism-canada-flag/`.
