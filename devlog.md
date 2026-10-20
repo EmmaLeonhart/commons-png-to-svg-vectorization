@@ -701,3 +701,5 @@
 - **File:The Letter "i" in Different European Languages.png → SVG** (`files/letter-i/`): Blank map of Europe cropped.svg
   framed to the PNG, countries recoloured by vote, Wales from Natural Earth fitted to the map's UK, IPA labels as
   `<text>`. Staged in upload/ (filename without the quotes).
+- **File:Tree of life kircher plain.png → SVG** (`files/tree-of-life-kircher/`): ten circles, 22 double-lined channels in the
+  PNG's drawing order, dotted Da'at, by construction. Staged in upload/.

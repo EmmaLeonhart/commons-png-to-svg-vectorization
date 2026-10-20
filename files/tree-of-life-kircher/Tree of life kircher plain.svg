@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="422" height="655" viewBox="0 0 422 655">
+<rect width="422" height="655" fill="#ffffff"/>
+<path d="M207,59L322.5,125.5M207,59L91.5,125.5M207,59L207,325.5M322.5,125.5L322.5,259M322.5,125.5L207,325.5M91.5,125.5L91.5,259M91.5,125.5L207,325.5M322.5,259L207,325.5M322.5,259L322.5,392M91.5,259L207,325.5M91.5,259L91.5,392M207,325.5L322.5,392M207,325.5L91.5,392M207,325.5L207,459M322.5,392L207,459M322.5,392L207,592M91.5,392L207,459M91.5,392L207,592M207,459L207,592" fill="none" stroke="#000000" stroke-width="20.4"/>
+<path d="M207,59L322.5,125.5M207,59L91.5,125.5M207,59L207,325.5M322.5,125.5L322.5,259M322.5,125.5L207,325.5M91.5,125.5L91.5,259M91.5,125.5L207,325.5M322.5,259L207,325.5M322.5,259L322.5,392M91.5,259L207,325.5M91.5,259L91.5,392M207,325.5L322.5,392M207,325.5L91.5,392M207,325.5L207,459M322.5,392L207,459M322.5,392L207,592M91.5,392L207,459M91.5,392L207,592M207,459L207,592" fill="none" stroke="#ffffff" stroke-width="16.0"/>
+<path d="M322.5,125.5L91.5,125.5M322.5,259L91.5,259M322.5,392L91.5,392" fill="none" stroke="#000000" stroke-width="20.4"/>
+<path d="M322.5,125.5L91.5,125.5M322.5,259L91.5,259M322.5,392L91.5,392" fill="none" stroke="#ffffff" stroke-width="16.0"/>
+<circle cx="206.5" cy="190" r="34" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-dasharray="0.01 7.356"/>
+<circle cx="207" cy="59" r="33" fill="#ffffff" stroke="#000000" stroke-width="2.4"/>
+<circle cx="322.5" cy="125.5" r="33" fill="#ffffff" stroke="#000000" stroke-width="2.4"/>
+<circle cx="91.5" cy="125.5" r="33" fill="#ffffff" stroke="#000000" stroke-width="2.4"/>
+<circle cx="322.5" cy="259" r="33" fill="#ffffff" stroke="#000000" stroke-width="2.4"/>
+<circle cx="91.5" cy="259" r="33" fill="#ffffff" stroke="#000000" stroke-width="2.4"/>
+<circle cx="207" cy="325.5" r="33" fill="#ffffff" stroke="#000000" stroke-width="2.4"/>
+<circle cx="322.5" cy="392" r="33" fill="#ffffff" stroke="#000000" stroke-width="2.4"/>
+<circle cx="91.5" cy="392" r="33" fill="#ffffff" stroke="#000000" stroke-width="2.4"/>
+<circle cx="207" cy="459" r="33" fill="#ffffff" stroke="#000000" stroke-width="2.4"/>
+<circle cx="207" cy="592" r="33" fill="#ffffff" stroke="#000000" stroke-width="2.4"/>
+</svg>

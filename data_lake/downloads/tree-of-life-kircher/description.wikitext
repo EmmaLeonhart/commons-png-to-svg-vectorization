@@ -1,0 +1,13 @@
+== {{int:filedesc}} ==
+{{Information
+ |description = The Kabbalistic Tree of Life.  This image is based on the work of [[:en:Kircher|Athanasius Kircher]]. Created by PuckSmith with LView Pro 1.D2 and ACDSee 3.1.
+ |date = {{Original upload date|2006-01-07}}
+ |source = {{own assumed}}
+ |author = {{Author assumed|[[User:PuckSmith~commonswiki|PuckSmith~commonswiki]]}}
+ |permission = 
+ |other_versions = 
+}}
+== {{int:license-header}} ==
+{{PD-self}}
+
+[[Category:Tree of life (Kabbalah)]]
