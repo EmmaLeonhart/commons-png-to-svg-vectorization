@@ -4,20 +4,44 @@ data_lake/downloads/pp3/), in the azimuthal equidistant projection fitted by fit
 Star radii follow the PNG's measured radius-by-magnitude medians; labels are real <text> placed at the PNG's labels.
 Run from the repo root."""
 import io, json, re, sys, zipfile
+sys.path.insert(0, 'tools')
 import numpy as np
 from PIL import Image
 
 PNG = 'data_lake/downloads/orion-sternkarte/Orion-Sternkarte.png'
 OUT = 'files/orion-sternkarte/Orion-Sternkarte.svg'
+PAR = 'files/orion-sternkarte/labels.json'
 Z = zipfile.ZipFile('data_lake/downloads/pp3/pp3-1.3.3-win.zip')
 dat = lambda f: Z.read('pp3-1.3.3-win/' + f).decode('latin1')
 RA0, DEC0, SCALE, ROT, CX, CY = 5.5591, 2.715, 506.6733, -0.0045, 191.334, 229.3006
 W, H = 381, 457
-GRID, LINES, LABELS, BOUND, BOUND_HI, TEXTL, ECL, MW = (
+GRID, LINES, LABELS_C, BOUND, BOUND_HI, TEXTL, ECL, MW = (
     '#d6ebff', '#00cc00', '#0000ee', '#fff3aa', '#ffdd00', '#b3b3b3', '#cc2200', (0.5, 0.5, 1))
 FAINTEST = 5.0
 R_MAG = [(-1.5, 7.09), (0.0, 6.10), (0.5, 5.69), (1.5, 4.88), (2.0, 4.47), (2.5, 3.77), (3.0, 3.24), (3.5, 2.62),
          (4.0, 1.20), (4.5, 0.54), (5.0, 0.45)]  # medians measured in the PNG (bin starts), see devlog
+
+# labels: (text, ink box x0, x1, y0, y1 in the PNG, kind); kind g = Greek letter, n = name, c = constellation (grey, bold)
+LABELS = [('β', 192, 199, 6, 18, 'g'), ('ε', 53, 57, 16, 22, 'g'), ('M 35', 107, 129, 21, 29, 'n'),
+          ('NGC 1746', 196, 245, 37, 45, 'n'), ('M 1', 168, 182, 45, 53, 'n'), ('μ', 76, 82, 57, 66, 'g'),
+          ('η', 110, 116, 57, 66, 'g'), ('ζ', 170, 175, 61, 71, 'g'), ('ε', 335, 339, 70, 76, 'g'),
+          ('γ', 355, 362, 98, 107, 'g'), ('γ', 62, 69, 101, 110, 'g'), ('Aldebaran', 254, 305, 100, 108, 'n'),
+          ('θ²', 323, 336, 116, 127, 'g'), ('ξ', 24, 31, 121, 131, 'g'), ('λ', 192, 199, 152, 161, 'g'),
+          ('γ', 216, 223, 182, 191, 'g'), ('π³', 266, 279, 185, 196, 'g'), ('Beteigeuze', 80, 137, 193, 203, 'n'),
+          ('π⁴', 265, 279, 207, 218, 'g'), ('NGC 2238', 41, 89, 215, 223, 'n'), ('M 78', 132, 154, 249, 257, 'n'),
+          ('δ', 182, 188, 241, 250, 'g'), ('ζ', 162, 167, 265, 275, 'g'), ('ε', 193, 197, 269, 275, 'g'),
+          ('η', 218, 224, 270, 279, 'g'), ('M 42', 195, 217, 292, 302, 'n'), ('τ', 223, 230, 301, 308, 'g'),
+          ('β', 254, 261, 303, 315, 'g'), ('ι', 186, 188, 312, 318, 'g'), ('κ', 169, 174, 336, 342, 'g'),
+          ('Rigel', 202, 226, 331, 341, 'n'), ('ζ', 167, 172, 369, 379, 'g'), ('Sirius', 44, 72, 387, 395, 'n'),
+          ('μ', 243, 250, 392, 401, 'g'), ('β', 94, 101, 407, 419, 'g'), ('α', 179, 187, 416, 422, 'g'),
+          ('β', 208, 215, 420, 432, 'g'), ('M 41', 44, 65, 434, 442, 'n'), ('γ', 155, 161, 447, 456, 'g'),
+          ('ε', 258, 262, 448, 454, 'g'),
+          ('Zwillinge', 69, 130, 6, 20, 'c'), ('Orion', 174, 210, 122, 131, 'c'), ('Stier', 304, 335, 147, 160, 'c'),
+          ('Einhorn', 79, 131, 332, 346, 'c'), ('Eridanus', 253, 312, 332, 341, 'c'), ('Hase', 183, 221, 361, 371, 'c'),
+          ('Großer', 45, 105, 357, 367, 'c'), ('Hund', 60, 105, 372, 381, 'c')]
+FAMILY = "Arial, 'Liberation Sans', 'DejaVu Sans', sans-serif"
+# the seven nebulae the PNG draws (pp3 1.3's filter, not reproducible from 1.3.3's data): NGC numbers
+NEBULAE = [1976, 2168, 2238, 1746, 2068, 1952, 2287]
 
 
 def proj(ra, dec):
@@ -56,6 +80,31 @@ def curve(ras, decs):
     if cur:
         out.append(cur)
     return ''.join(poly_d(c) for c in out if len(c) > 1)
+
+
+def fit_labels():
+    """measure each label's tight ink box (its colour, inside the listed box) and fit Arial text to it"""
+    from fit_text import fit
+    a = np.asarray(Image.open(PNG).convert('RGB')).astype(int)
+    blue = (a[..., 2] - a[..., 0] > 60) & (a[..., 2] - a[..., 1] > 60) & (a[..., 0] < 180)
+    grey = (np.abs(a[..., 0] - a[..., 2]) < 12) & (a[..., 0] > 150) & (a[..., 0] < 215)
+    out = []
+    for t, x0, x1, y0, y1, kind in LABELS:
+        m = (grey if kind == 'c' else blue)[y0:y1 + 1, x0:x1 + 1]
+        if kind == 'c':  # the Milky Way's grey speckle: keep rows and columns of the word only
+            m = m & (m.sum(1) >= 2)[:, None]
+            m = m & (m.sum(0) >= 1)[None, :]
+        ys, xs = np.nonzero(m)
+        box = (x0 + xs.min(), x0 + xs.max(), y0 + ys.min(), y0 + ys.max())
+        weight = 'bold' if kind == 'c' else 'normal'
+        q = fit(t, box, 'Arial', weight, canvas=(W, H))
+        out.append(dict(text=t, kind=kind, weight=weight, box=[int(v) for v in box], **{k: q[k] for k in ('x', 'y', 'size', 'ls')}))
+        print(t, box, out[-1])
+    json.dump(out, open(PAR, 'w', encoding='utf8'), ensure_ascii=False, indent=1)
+
+
+if len(sys.argv) > 1 and sys.argv[1] == 'fit':
+    fit_labels()
 
 
 # stars
@@ -106,18 +155,25 @@ for ii, s in enumerate(cand):
 pairs = {tuple(sorted(q)) for q in pairs}
 
 
-def between(s, m, t):
-    """star m lies on the segment s-t"""
-    dx, dy = t['x'] - s['x'], t['y'] - s['y']; n2 = dx * dx + dy * dy
-    u = ((m['x'] - s['x']) * dx + (m['y'] - s['y']) * dy) / n2
-    return 0 < u < 1 and abs((m['x'] - s['x']) * dy - (m['y'] - s['y']) * dx) / np.sqrt(n2) < 2
-
-
-# a line A-M-B also shows green between A and B: drop A-B when A-M and M-B are lines
-adj = {}
-for q in pairs:
-    adj.setdefault(q[0], set()).add(q[1]); adj.setdefault(q[1], set()).add(q[0])
-pairs = {(i, j) for i, j in pairs if not any(between(stars[i], stars[m], stars[j]) for m in adj[i] & adj[j])}
+# a line A-M-B also shows green between A and B, and close pairs of stars give near-parallel duplicates: accept pairs
+# shortest first, skipping any whose stretch is already mostly covered by accepted lines
+from PIL import ImageDraw
+cover = Image.new('1', (W + 400, H + 400), 0)
+dr = ImageDraw.Draw(cover)
+kept = set()
+for i, j in sorted(pairs, key=lambda q: np.hypot(stars[q[0]]['x'] - stars[q[1]]['x'], stars[q[0]]['y'] - stars[q[1]]['y'])):
+    s, t = stars[i], stars[j]
+    n = np.hypot(t['x'] - s['x'], t['y'] - s['y'])
+    a, b = radius(s['mag']) + GAP + 1, radius(t['mag']) + GAP + 1
+    u = np.linspace(a / n, 1 - b / n, max(2, int(n))) if n > a + b else np.array([0.5])
+    xs, ys = s['x'] + (t['x'] - s['x']) * u + 200, s['y'] + (t['y'] - s['y']) * u + 200
+    ok = (xs >= 200) & (xs < W + 200) & (ys >= 200) & (ys < H + 200)  # judge on the visible stretch only
+    cv = np.asarray(cover)
+    if ok.any() and cv[ys[ok].astype(int), xs[ok].astype(int)].mean() > 0.6:
+        continue
+    kept.add((i, j))
+    dr.line([(s['x'] + 200, s['y'] + 200), (t['x'] + 200, t['y'] + 200)], fill=1, width=4)
+pairs = kept
 seg = []
 for i, j in sorted(pairs):
     s, t = stars[i], stars[j]
@@ -149,15 +205,35 @@ lam = np.radians(np.linspace(0, 360, 3000)); eps = np.radians(23.4393)
 ecl = curve((np.degrees(np.arctan2(np.sin(lam) * np.cos(eps), np.cos(lam))) % 360) / 15,
             np.degrees(np.arcsin(np.sin(lam) * np.sin(eps))))
 
+# nebulae: clusters as fixed circles, nebulae at their catalogue size when larger (ellipse, axes as listed)
+t = dat('nebulae.dat').split()
+neb = []
+for i in range(0, len(t) - 10, 11):
+    if int(t[i]) in NEBULAE:
+        ra, de, d1, d2 = (float(v) for v in (t[i + 4], t[i + 5], t[i + 7], t[i + 8]))
+        x, y = (float(v) for v in proj(ra, de))
+        px = SCALE * np.pi / 180  # pixels per degree at the centre
+        rx, ry = max(3.6, d1 * px / 2), max(3.6, d2 * px / 2)
+        neb.append(f'<ellipse cx="{x:.2f}" cy="{y:.2f}" rx="{rx:.2f}" ry="{ry:.2f}"/>')
+P = json.load(open(PAR, encoding='utf8'))
+texts = []
+for q in P:
+    col = TEXTL if q['kind'] == 'c' else LABELS_C
+    ls = f' letter-spacing="{q["ls"]}"' if 0.05 < abs(q['ls']) < 3 else ''
+    wt = ' font-weight="bold"' if q['weight'] == 'bold' else ''
+    texts.append(f'<text x="{q["x"]}" y="{q["y"]}" font-size="{q["size"]}"{wt}{ls} fill="{col}">{q["text"]}</text>')
+
 o = [f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}">',
      f'<rect width="{W}" height="{H}" fill="#ffffff"/>',
      f'<path fill="none" stroke="{GRID}" stroke-width="1.2" d="{"".join(grid)}"/>',
      f'<path fill="none" stroke="{BOUND}" stroke-width="1.6" stroke-dasharray="6,3" d="{"".join(bnd)}"/>',
      f'<path fill="none" stroke="{BOUND_HI}" stroke-width="1.6" stroke-dasharray="6,3" d="{"".join(bnd_hi)}"/>',
-     f'<path fill="none" stroke="{ECL}" stroke-width="1.2" stroke-dasharray="7,3" d="{ecl}"/>',
+     f'<path fill="none" stroke="{ECL}" stroke-width="1.5" stroke-dasharray="7,3" d="{ecl}"/>',
      f'<path fill="none" stroke="{LINES}" stroke-width="1.2" d="{"".join(seg)}"/>',
      '<g fill="#000000" stroke="#ffffff" stroke-width="0.8">' +
      ''.join(f'<circle cx="{s["x"]:.2f}" cy="{s["y"]:.2f}" r="{radius(s["mag"]):.2f}"/>' for s in shown) + '</g>',
+     '<g fill="#ffffff" stroke="#000000" stroke-width="1">' + ''.join(neb) + '</g>',
+     f'<g font-family="{FAMILY}">', *texts, '</g>',
      '</svg>']
 open(OUT, 'w', encoding='utf8').write('\n'.join(o) + '\n')
 print('wrote', OUT, len(shown), 'stars,', len(seg), 'line segments')
