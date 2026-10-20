@@ -546,3 +546,4 @@
   IoU 0.942. Staged in upload/.
 - **File:Om siddham2.png → SVG** (`files/om-siddham2/`): 𑖌𑖼 as `<text>` in Noto Sans Siddham (brush hand vs typeset,
   IoU 0.34). Staged in upload/.
+- File:One chef's hat.png: removed from the queue; already triaged as NOT REBUILDABLE without tracing: a freehand brush-style outline (varying stroke width, tapered pleats)
