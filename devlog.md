@@ -769,3 +769,4 @@
 - File:VisualEditor Template Insert Menu-en.png: not rebuildable: a screenshot of the VisualEditor interface (raster original).
 - File:VisualEditor template not visible context menu.png: not rebuildable: a screenshot of the VisualEditor interface (raster original).
 - File:VisualEditor template not visible.png: not rebuildable: a screenshot of the VisualEditor interface (raster original).
+- File:VisualEditor template with no TemplateData.png: not rebuildable: a screenshot of the VisualEditor interface (raster original).
