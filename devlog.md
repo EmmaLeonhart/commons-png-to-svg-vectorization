@@ -471,3 +471,4 @@
   upload/.
 - **File:Malayalam Om.png → SVG** (`files/malayalam-om/`): ഓം as `<text>` in Noto Sans Malayalam (IoU 0.59). Staged in
   upload/.
+- File:Manual tab only - visual editor - citations.png: removed from the queue; already triaged as NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
