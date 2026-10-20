@@ -156,6 +156,14 @@ caused by unbounded steps (since fixed).
   are not fitted (amateur radio coil made regular). Arms: every order.life person is now classified with no
   needs-investigation left (57 rebuilt, 31 vector on Commons, 69 waiting on the generator). Reading of the
   project unchanged.
+- 2026-10-20 02:25 PST: every queued prefecture shadow picture is now rebuilt from N03 and staged. Variants handled:
+  rotation (`tools/shadow_rotfit.py`), lakes the PNG shows as holes (MLIT W09: Ibaraki, Shiga, Shizuoka, Shimane),
+  framed insets fitted per region (Hokkaidō, Nagasaki with N03 2000, Shimane), and island-only views (Okinawa 2,
+  bounding box). Two sit below 0.93 with the outline in register (Hiroshima, Nagasaki: coarse islets in small PNGs).
+  At 01:5x a wind-down request from Emma arrived, relayed by another session ("pc-manager"): finish, commit, push,
+  stop crons. The work was finished and pushed. The cron was kept on, because her standing rule says crons stay on
+  and only she stops them directly. This is asked in chat and awaits her word. NEEDS-DECISION (Emma): stop the loop
+  cron or not.
 - 2026-10-20 00:55 PST: the shadow pictures parked below IoU 0.93 (Ehime, Fukui, Gunma, Hiroshima) were not bad data:
   several PNGs are drawn rotated (5–29°), which `tools/batch_shadow.py` can't fit. `tools/shadow_rotfit.py` (scale,
   aspect, rotation, offset) rebuilds them from N03 at 0.90–0.975, and `tools/shadow_package.py` stages them. The
