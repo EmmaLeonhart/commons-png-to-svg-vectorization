@@ -4,9 +4,6 @@ PNG files from `data_lake/wikipedia-png-search-results.txt`, resolved against
 Commons by `tools/build_queue.py`. One line per file; delete a line when the file
 is done (record it in devlog.md). Prefer rebuilding from a vector source over tracing.
 
-**PAUSED until 2026-10-19 20:00 (Emma, 18:28): no vectorizations; she is uploading the finished SVGs. Loop ticks
-only commit and push until then.**
-
 ## Coats of arms for order.life (worked first)
 
 Emma, inochi-no-michikyo queue, 2026-10-14, word for word: "start a session of
