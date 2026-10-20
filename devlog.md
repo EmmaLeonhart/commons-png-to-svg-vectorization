@@ -851,3 +851,5 @@
 - File:荼枳尼（大悲胎藏大曼荼羅 仁和寺版） - Dakinis (Ninna-ji Taizō Mandala).png: not rebuildable without tracing. It is
   an 1869 woodblock line drawing (Taishō Tripiṭaka iconography): freehand figure art. PNG kept in
   `data_lake/downloads/dakinis-ninnaji/`.
+- File:2006 Quarter Proof.png: not rebuildable. It is a United States Mint photograph of a proof quarter's obverse, with
+  the background removed (a photo of relief sculpture). PNG kept in `data_lake/downloads/quarter-2006/`.
