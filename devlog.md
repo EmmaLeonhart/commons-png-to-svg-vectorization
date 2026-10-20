@@ -848,3 +848,6 @@
   enclosures, after an Edo-period plan in the Fukuoka City Library (its own note). The moat and sea edges are freehand
   curves, the enclosure outlines are irregular hand polygons, and there is no data source to rebuild from (same author
   and class as 吉田神社境内図.png). PNG kept in `data_lake/downloads/fukuoka-castle-kuruwa/`.
+- File:荼枳尼（大悲胎藏大曼荼羅 仁和寺版） - Dakinis (Ninna-ji Taizō Mandala).png: not rebuildable without tracing. It is
+  an 1869 woodblock line drawing (Taishō Tripiṭaka iconography): freehand figure art. PNG kept in
+  `data_lake/downloads/dakinis-ninnaji/`.
