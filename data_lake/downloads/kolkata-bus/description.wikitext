@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=This is a drawing of the front view of a bus in Kolkata.}}
+|date=2019-06-28
+|source={{own}}
+|author=[[User:Arnabsaha2212|Arnabsaha2212]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Blue and yellow buses in Kolkata]]
+[[Category:Bus icons]]
+[[Category:Unidentified public transport]]
