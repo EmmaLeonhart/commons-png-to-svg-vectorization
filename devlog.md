@@ -501,3 +501,5 @@
 - **File:Modre symbol Omkara.png → SVG** (`files/modre-symbol-omkara/`): Balinese okara + ulu candra as `<text>` in Noto
   Serif Balinese (best of eight encoding/font tries). Staged in upload/.
 - File:Mon- Izumo taisha.png: removed from the queue; already triaged as NOT REBUILDABLE without tracing: kamon with freeform organic motifs.
+- **File:Moriya Family Tree - 守矢氏系図.png → SVG** (`files/moriya-family-tree-ja/`): lines as the PNG's runs, 14 vertical
+  name columns, ①–⑤ and the note as transcribed `<text>`. Staged in upload/.
