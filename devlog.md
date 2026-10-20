@@ -321,3 +321,8 @@
   different picture; fitting curves to the drawn splines is tracing.
 - **File:Cherokee Lowercase.png → SVG** (`files/cherokee-lowercase/`): the described text in Noto Sans Cherokee
   as `<text>` on white. Staged in upload/.
+- File:Cross of Herat - Psalter Pahlavi Inscription.png: not rebuildable for now. As vector text it needs the
+  inscription's Unicode text, and none is available (not in the description, the Psalter Pahlavi article or
+  elsewhere on-wiki). Recovering it by beam-search glyph matching failed (best IoU 0.43): the PNG is not set in
+  Noto Sans Psalter Pahlavi (its strokes are heavier and rounder). Guessing would publish wrong text; tracing the
+  glyphs would break the vector-text rule. A published transcription of the Herat cross would unblock it.

@@ -27,7 +27,6 @@ rebuildable. No person is left unclassified.
 Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed images (174).
 
 - [File:Blasó de Mallorca.png](https://commons.wikimedia.org/wiki/File:Blas%C3%B3_de_Mallorca.png) — Template:Coat of arms — BLOCKED-ON-EXTERNAL: generator draws the castle as one tower (files/arms/mallorca/); Commons SVGs of Palma/Kingdom of Majorca arms checked 2026-10-19, all differ (sea, palm, lozenge), so no vector-exists
-- [File:Cross of Herat - Psalter Pahlavi Inscription.png](https://commons.wikimedia.org/wiki/File:Cross_of_Herat_-_Psalter_Pahlavi_Inscription.png) — Help:Multilingual support
 - [File:Dakiine.png](https://commons.wikimedia.org/wiki/File:Dakiine.png) — Fujishiro Suzuki clan
 - [File:Deir el Bahari-map.png](https://commons.wikimedia.org/wiki/File:Deir_el_Bahari-map.png) — Mortuary Temple of Mentuhotep II
 - [File:DiscussionTools Show new comment 2022 en.png](https://commons.wikimedia.org/wiki/File:DiscussionTools_Show_new_comment_2022_en.png) — Help:Talk pages — NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
