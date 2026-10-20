@@ -384,3 +384,6 @@
   Greek municipalities (geoBoundaries, CC BY 4.0). 4.7% of pixels differ. Staged in upload/.
 - File:Hakusan Myori Daigongen.png: removed from the queue; already triaged as NOT REBUILDABLE without tracing: woodblock / line-art figure drawing (flat colours, but freeform art).
 - File:Harisainyo.png: removed from the queue; already triaged as NOT REBUILDABLE without tracing: woodblock / line-art figure drawing (flat colours, but freeform art).
+- **File:Harushima Iki.png → SVG** (`files/harushima-iki/`): Iki City from N03 2024, Harushima located via OSM and
+  filled red, labels as `<text>`. The PNG is schematic, so real geography differs visibly (land IoU 0.76); same
+  call as Abkhazia/Aomori. N03 Nagasaki (42) downloaded. Staged in upload/.
