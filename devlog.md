@@ -753,3 +753,4 @@
 - File:VisualEditor lists 3 select to indent.png: not rebuildable: a screenshot of the VisualEditor interface (raster original).
 - File:VisualEditor lists 4 indentation menu.png: not rebuildable: a screenshot of the VisualEditor interface (raster original).
 - File:VisualEditor lists after indenting.png: not rebuildable: a screenshot of the VisualEditor interface (raster original).
+- File:VisualEditor lists mixed.png: not rebuildable: a screenshot of the VisualEditor interface (raster original).
