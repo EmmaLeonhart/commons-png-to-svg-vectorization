@@ -465,3 +465,5 @@
   name in the shell; renamed with Python.)
 - **File:LFW2008 2403.png → SVG** (`files/lfw2008-2403/`): Tangut U+173C7 as `<text>` in Noto Serif Tangut (Noto's glyph
   design, not the dictionary's; IoU 0.32). Staged in upload/.
+- **File:Linear B Sample.png → SVG** (`files/linear-b-sample/`): the described au-ke-wa in Noto Sans Linear B, on white.
+  Staged in upload/.
