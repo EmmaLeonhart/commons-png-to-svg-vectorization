@@ -652,3 +652,5 @@
 - **File:Shadow picture of Wakayama prefecture.png → SVG** (`files/shadow-wakayama/`): `tools/shadow_rotfit.py`, IoU 0.972
   (rotation -0.0°). Staged in upload/.
 - Shadow picture of Shizuoka redone with Lake Hamana cut out (W09): IoU 0.968 to 0.972.
+- **File:Shadow picture of Yamagata prefecture.png → SVG** (`files/shadow-yamagata/`): `tools/shadow_rotfit.py`, IoU 0.977
+  (rotation 0.0°). Staged in upload/.
