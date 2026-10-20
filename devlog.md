@@ -776,3 +776,4 @@
 - File:VisualEditor toolbar actions-en.png: not rebuildable: a screenshot of the wiki interface (raster original).
 - File:VisualEditor Toolbar Formatting-en.png: not rebuildable: a screenshot of the wiki interface (raster original).
 - File:VisualEditor Toolbar Headings-en.png: not rebuildable: a screenshot of the wiki interface (raster original).
+- File:VisualEditor Toolbar Lists and indentation-en.png: not rebuildable: a screenshot of the wiki interface (raster original).
