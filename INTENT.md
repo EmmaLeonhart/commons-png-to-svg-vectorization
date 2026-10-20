@@ -156,6 +156,11 @@ caused by unbounded steps (since fixed).
   are not fitted (amateur radio coil made regular). Arms: every order.life person is now classified with no
   needs-investigation left (57 rebuilt, 31 vector on Commons, 69 waiting on the generator). Reading of the
   project unchanged.
+- 2026-10-20 06:13 PST: queue through the U–Y files. District locators drawn on Meiji-era districts are built from
+  the N03 data of 1920, when those districts still stood (Yamanashi Koma-gun / Yamanashi-gun); the 2000 municipalities
+  don't follow the old district edges. Text cut off by a crop edge that cannot be read is not guessed; such files are
+  set aside as UNSAFE-TO-GUESS (XinXiu star chart). `tools/fit_text.py` rewrites the tracked
+  `scratch/fit_text_tool/line.*` on each run; restore them before committing. Reading of the project unchanged.
 - 2026-10-20 04:52 PST: this session's raw transcript, `sessions/2026-10-19_fd7db514.jsonl`, has passed GitHub's
   100 MB file limit (101 MB), so a commit containing it cannot be pushed. That session-log commit was redone with only
   the readable `.md` transcript. The `.jsonl` is left modified in the working tree and kept out of commits by hand; the
