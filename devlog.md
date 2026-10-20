@@ -605,3 +605,5 @@
   (rotation -0.0°). Staged in upload/.
 - **File:Shadow picture of Kochi prefecture.png → SVG** (`files/shadow-kochi/`): `tools/shadow_rotfit.py`, IoU 0.971
   (rotation 5.2°). Staged in upload/.
+- Shadow picture of Ibaraki redone with the lakes cut out (MLIT W09; `tools/shadow_rotfit.py` gained
+  SHADOW_LAKES_MIN_AREA): IoU 0.945 to 0.959.

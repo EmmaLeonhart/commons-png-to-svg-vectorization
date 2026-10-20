@@ -4,7 +4,8 @@
 - **Rebuilt from:** 「国土数値情報（行政区域データ）」（国土交通省） N03-2024, municipalities merged into the
   prefecture and simplified to 0.0003°. Terms: Government of Japan Standard Terms of Use 2.0, compatible with
   CC BY 4.0. Release as CC BY 4.0 with that credit.
-- **Method:** `python tools/shadow_rotfit.py ibaraki 8 fit` (scale, aspect 1.21, rotation 0.0°, offset);
-  silhouette IoU against the PNG 0.9452. `tools/batch_shadow.py`, which fits scale and offset only, had parked it.
+- **Method:** `SHADOW_LAKES_MIN_AREA=0.0005 python tools/shadow_rotfit.py ibaraki 8 fit` (scale, aspect 1.21, rotation
+  0.0°, offset); silhouette IoU against the PNG 0.9594. The PNG shows the lakes as holes, so lakes of at
+  least 0.0005 square degrees from MLIT 国土数値情報 W09 (湖沼, same terms) are cut out: 霞ヶ浦, 北浦, 外浪逆浦, 涸沼. `tools/batch_shadow.py`, which fits scale and offset only, had parked it.
 - **Text:** none.
 - Comparison: `Documents\claude-screenshots\agentic-vectorization_2026-10-20\cmp_shadow-ibaraki.png`.

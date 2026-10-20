@@ -29,6 +29,17 @@ DROP = set(filter(None, os.environ.get('SHADOW_DROP_DISTRICTS', '').split(',')))
 MAX_LON = float(os.environ.get('SHADOW_MAX_LON', '999'))
 geo = unary_union([shape(f['geometry']) for f in load(CODE)['features']
                    if f['properties'].get('N03_003') not in DROP]).buffer(0)
+# optional: cut out lakes (MLIT 国土数値情報 W09, data_lake/downloads/w09-lakes/) of at least this area in square
+# degrees, for pictures that show them as holes (N03 administrative areas include lake surfaces)
+LAKES_MIN = float(os.environ.get('SHADOW_LAKES_MIN_AREA', '0'))
+if LAKES_MIN:
+    import io, zipfile, shapefile
+    z = zipfile.ZipFile('data_lake/downloads/w09-lakes/W09-05_GML.zip')
+    rd = shapefile.Reader(shp=io.BytesIO(z.read('W09-05-g_Lake.shp')), shx=io.BytesIO(z.read('W09-05-g_Lake.shx')),
+                          dbf=io.BytesIO(z.read('W09-05-g_Lake.dbf')), encoding='cp932')
+    lakes = [shape(r.shape.__geo_interface__).buffer(0) for r in rd.iterShapeRecords()]
+    lakes = [g for g in lakes if g.area >= LAKES_MIN and g.intersects(geo)]
+    geo = geo.difference(unary_union(lakes)).buffer(0)
 parts = [g for g in (geo.geoms if hasattr(geo, 'geoms') else [geo]) if g.area > 1e-7 and g.centroid.x < MAX_LON]
 
 
