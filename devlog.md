@@ -413,3 +413,4 @@
   originals, at most 0.67% of pixels off by >48 (sub-pixel shifts of Inkscape-added outlines). Integer precision
   was tried and rejected (27 dB, visible). Per-card numbers in `tarot/report.txt`. First tool version rebuilt the
   document and ignored Inkscape transforms; replaced by the in-place version.
+- Pause ended at 20:00; queue resumed (checked at 20:21).
