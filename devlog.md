@@ -520,3 +520,4 @@
 - File:NaviMumbaiMetro-Logo.png: not rebuildable without tracing. Custom "nmm" lettering and freeform swooshes (only the
   "NAVI MUMBAI METRO" caption could be text); Commons has only other PNGs of the logo.
 - File:Nbfr logo.png: removed from the queue; already triaged as NOT REBUILDABLE without tracing: a freehand brush mark (badminton federation logo, 107×51)
+- File:Neulicht.Botein.P1162773.png: not rebuildable, a raster original (a photograph of the crescent Moon and Botein).
