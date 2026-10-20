@@ -156,6 +156,12 @@ caused by unbounded steps (since fixed).
   are not fitted (amateur radio coil made regular). Arms: every order.life person is now classified with no
   needs-investigation left (57 rebuilt, 31 vector on Commons, 69 waiting on the generator). Reading of the
   project unchanged.
+- 2026-10-20 08:08 PST: the end of the Japanese-named files, now into the digits and A– files. Saigen Jiro's line plans
+  (kofun, Heian Palace) are rebuilt by construction. A smooth drawn curve in such a plan is made regular, not fitted:
+  for the Danpusan estimated moat line, straight sides tangent to a circle. Dash phases are fitted per piece, since the
+  PNGs restart dashes per path. Hand-estimated colour plans with freehand water edges (Hiroshi Nishida's), photographs
+  (coins, the lunar calendar's moons) and painted illustrations are set aside. A Commons SVG of the same emblem in a
+  different drawing is noted, not used. Reading of the project unchanged.
 - 2026-10-20 07:10 PST: into the Japanese-named files at the end of the queue. Kamon are rebuilt by construction when
   they are compass-and-ruler work (井桁に唐花菱: a 井 frame and circle-lobe petals in a square space, one affine map into
   the lozenge); freehand brush strokes and trees are set aside. A PNG that cannot match its stated base (大洋.png) can
