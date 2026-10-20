@@ -826,3 +826,8 @@
   of real geography matches it, which is also why World Map Blank.svg never did. Real geography replaces it: Natural Earth
   10m land, equirectangular at lon_0 150 (the best of Robinson, Miller, Mercator and equirectangular), fitted with New
   Zealand left out (land IoU 0.71). Each polygon takes the colour of the PNG's nearest land. Staged in upload/.
+- **File:室宮山古墳 復原図.png → SVG** (`files/muro-miyayama/`): by construction. 15 px outlines from fitted circles and
+  least-squares straight runs; a dashed dyke run; route 309 as two three-run dashed lines (the east one hidden under the
+  moat side, as in the PNG); dashed and solid chamber rectangles from their principal axes; the north arrow polygon; and
+  labels in Meiryo. Ink IoU 0.79. The PNG's strokes are solid; downscaled previews had made them look hollow. Staged in
+  upload/.
