@@ -839,3 +839,8 @@
   present moat are fitted; the estimated moat line is made regular (straight sides tangent to a circle over the top,
   median distance 5 px) with round-capped dashes phased per piece. Roads are dashed lines; the arrow, the 10 px leaders
   and Meiryo labels (伏見通 rotated) are added. Ink IoU 0.74. Staged in upload/.
+- File:月形杏葉（つきがた ぎょうよう）.png: not rebuildable without tracing. It is the Jōdo-shū emblem (月影杏葉), freeform
+  apricot-leaf kamon. Commons has the same crest as File:Japanese Crest Tsukikage Gyouyou (No background and Black color
+  drawing).svg, but in a different drawing: scaled to the same ring, the figures overlap at IoU 0.74, and the leaf
+  outlines, stamens and central gap differ. So it is not a vector of this PNG, though it could stand in for the emblem
+  (inverted to white on navy). PNG kept in `data_lake/downloads/tsukigata-gyoyo/`.
