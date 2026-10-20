@@ -576,3 +576,5 @@
   on Commons (searched). PNG kept in `data_lake/downloads/replace-butterfly/`.
 - **File:Resolution angle.png → SVG** (`files/resolution-angle/`): diffraction diagram by construction (rings about the
   source, shadow arcs about the bar's tip, rays, θ as `<text>`); the Paint ellipses made exact circles. Staged in upload/.
+- **File:RSAFinfoboxflag.png → SVG** (`files/rsaf-flag/`): canton, crescent, stars, roundel and the 12-vertex emblem by
+  construction (0.6% pixels differ). Staged in upload/.
