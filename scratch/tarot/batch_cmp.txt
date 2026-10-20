@@ -1,0 +1,79 @@
+Cups01.svg                            3.12 ->  0.80 MB  PSNR 35.8  >24: 0.11%  >48: 0.01%
+Cups02.svg                            5.30 ->  1.32 MB  PSNR 34.2  >24: 0.21%  >48: 0.11%
+Cups03.svg                            5.86 ->  1.56 MB  PSNR 35.3  >24: 0.27%  >48: 0.18%
+Cups04.svg                            4.21 ->  1.10 MB  PSNR 37.7  >24: 0.06%  >48: 0.00%
+Cups05.svg                            2.42 ->  0.61 MB  PSNR 40.5  >24: 0.06%  >48: 0.00%
+Cups06.svg                            4.63 ->  1.78 MB  PSNR 32.4  >24: 0.76%  >48: 0.21%
+Cups07.svg                            3.33 ->  0.93 MB  PSNR 35.7  >24: 0.15%  >48: 0.01%
+Cups08.svg                            2.04 ->  0.56 MB  PSNR 38.9  >24: 0.06%  >48: 0.00%
+Cups09.svg                            3.56 ->  0.97 MB  PSNR 36.8  >24: 0.18%  >48: 0.01%
+Cups10.svg                            3.95 ->  1.01 MB  PSNR 36.6  >24: 0.07%  >48: 0.00%
+Cups11.svg                            3.96 ->  1.02 MB  PSNR 35.9  >24: 0.38%  >48: 0.18%
+Cups12.svg                            5.14 ->  1.28 MB  PSNR 35.9  >24: 0.12%  >48: 0.01%
+Cups13.svg                            3.75 ->  1.01 MB  PSNR 36.5  >24: 0.14%  >48: 0.01%
+Cups14.svg                            5.06 ->  1.32 MB  PSNR 35.2  >24: 0.10%  >48: 0.00%
+Pents01.svg                           3.85 ->  0.99 MB  PSNR 34.6  >24: 0.08%  >48: 0.01%
+Pents02.svg                           2.59 ->  0.68 MB  PSNR 37.5  >24: 0.05%  >48: 0.00%
+Pents03.svg                           4.05 ->  1.13 MB  PSNR 34.2  >24: 0.32%  >48: 0.19%
+Pents04.svg                           2.86 ->  0.72 MB  PSNR 36.1  >24: 0.05%  >48: 0.00%
+Pents05.svg                           4.48 ->  1.25 MB  PSNR 36.7  >24: 0.24%  >48: 0.03%
+Pents06.svg                           3.55 ->  0.93 MB  PSNR 36.9  >24: 0.10%  >48: 0.03%
+Pents07.svg                           3.94 ->  1.05 MB  PSNR 38.2  >24: 0.10%  >48: 0.02%
+Pents08.svg                           3.48 ->  0.92 MB  PSNR 38.3  >24: 0.09%  >48: 0.02%
+Pents09.svg                           3.70 ->  1.01 MB  PSNR 37.7  >24: 0.12%  >48: 0.02%
+Pents10.svg                           4.40 ->  1.21 MB  PSNR 31.2  >24: 1.06%  >48: 0.67%
+Pents11.svg                           2.89 ->  0.78 MB  PSNR 38.5  >24: 0.09%  >48: 0.01%
+Pents12.svg                           3.14 ->  0.85 MB  PSNR 38.3  >24: 0.11%  >48: 0.01%
+Pents13.svg                           4.78 ->  1.32 MB  PSNR 37.5  >24: 0.19%  >48: 0.01%
+Pents14.svg                           3.44 ->  0.95 MB  PSNR 37.5  >24: 0.17%  >48: 0.02%
+RWS Tarot 00 Fool.svg                 2.05 ->  0.62 MB  PSNR 34.3  >24: 0.31%  >48: 0.04%
+RWS Tarot 01 Magician.svg             2.95 ->  0.87 MB  PSNR 34.8  >24: 0.39%  >48: 0.05%
+RWS Tarot 02 High Priestess.svg       2.30 ->  0.64 MB  PSNR 33.0  >24: 0.37%  >48: 0.13%
+RWS Tarot 03 Empress.svg              2.29 ->  0.72 MB  PSNR 34.4  >24: 0.51%  >48: 0.06%
+RWS Tarot 04 Emperor.svg              2.77 ->  0.84 MB  PSNR 33.6  >24: 0.40%  >48: 0.06%
+RWS Tarot 05 Hierophant.svg           2.09 ->  0.63 MB  PSNR 33.7  >24: 0.45%  >48: 0.06%
+RWS Tarot 06 Lovers.svg               3.14 ->  0.88 MB  PSNR 34.1  >24: 0.32%  >48: 0.03%
+RWS Tarot 07 Chariot.svg              2.46 ->  0.74 MB  PSNR 33.4  >24: 0.42%  >48: 0.06%
+RWS Tarot 08 Strength.svg             1.53 ->  0.45 MB  PSNR 35.8  >24: 0.27%  >48: 0.03%
+RWS Tarot 09 Hermit.svg               1.41 ->  0.41 MB  PSNR 35.4  >24: 0.18%  >48: 0.04%
+RWS Tarot 10 Wheel of Fortune.svg     1.92 ->  0.59 MB  PSNR 34.0  >24: 0.38%  >48: 0.06%
+RWS Tarot 11 Justice.svg              2.13 ->  0.66 MB  PSNR 34.9  >24: 0.42%  >48: 0.07%
+RWS Tarot 12 Hanged Man.svg           3.36 ->  0.87 MB  PSNR 36.6  >24: 0.20%  >48: 0.04%
+RWS Tarot 13 Death.svg                2.61 ->  0.74 MB  PSNR 32.8  >24: 0.44%  >48: 0.06%
+RWS Tarot 14 Temperance.svg           2.84 ->  0.85 MB  PSNR 33.9  >24: 0.39%  >48: 0.05%
+RWS Tarot 15 Devil.svg                1.68 ->  0.54 MB  PSNR 34.6  >24: 0.32%  >48: 0.04%
+RWS Tarot 16 Tower.svg                1.25 ->  0.37 MB  PSNR 35.2  >24: 0.27%  >48: 0.05%
+RWS Tarot 17 Star.svg                 3.18 ->  0.91 MB  PSNR 33.7  >24: 0.29%  >48: 0.04%
+RWS Tarot 18 Moon.svg                 2.51 ->  0.71 MB  PSNR 33.6  >24: 0.35%  >48: 0.05%
+RWS Tarot 19 Sun.svg                  2.25 ->  0.67 MB  PSNR 34.0  >24: 0.43%  >48: 0.05%
+RWS Tarot 20 Judgement.svg            2.24 ->  0.67 MB  PSNR 33.1  >24: 0.38%  >48: 0.05%
+RWS Tarot 21 World.svg                2.18 ->  0.68 MB  PSNR 33.7  >24: 0.45%  >48: 0.06%
+Swords01.svg                          3.13 ->  0.78 MB  PSNR 35.5  >24: 0.08%  >48: 0.01%
+Swords02.svg                          4.03 ->  1.03 MB  PSNR 35.8  >24: 0.04%  >48: 0.00%
+Swords03.svg                          1.11 ->  0.31 MB  PSNR 40.4  >24: 0.07%  >48: 0.00%
+Swords04.svg                          4.42 ->  1.16 MB  PSNR 33.7  >24: 0.27%  >48: 0.18%
+Swords05.svg                          4.92 ->  1.27 MB  PSNR 36.1  >24: 0.07%  >48: 0.00%
+Swords06.svg                          4.51 ->  1.18 MB  PSNR 36.7  >24: 0.08%  >48: 0.01%
+Swords07.svg                          3.07 ->  0.83 MB  PSNR 37.0  >24: 0.09%  >48: 0.00%
+Swords08.svg                          4.10 ->  1.08 MB  PSNR 35.2  >24: 0.12%  >48: 0.01%
+Swords09.svg                          2.60 ->  0.71 MB  PSNR 38.2  >24: 0.12%  >48: 0.01%
+Swords10.svg                          3.01 ->  0.81 MB  PSNR 37.1  >24: 0.10%  >48: 0.02%
+Swords11.svg                          4.82 ->  1.28 MB  PSNR 35.0  >24: 0.06%  >48: 0.00%
+Swords12.svg                          3.45 ->  0.93 MB  PSNR 35.9  >24: 0.08%  >48: 0.01%
+Swords13.svg                          1.83 ->  0.51 MB  PSNR 39.2  >24: 0.10%  >48: 0.00%
+Swords14.svg                          4.95 ->  1.26 MB  PSNR 33.4  >24: 0.28%  >48: 0.18%
+Waite–Smith Tarot Roses and Lilies cropped.svg  4.47 ->  1.33 MB  PSNR 33.0  >24: 0.17%  >48: 0.00%
+Wands01.svg                           4.42 ->  1.11 MB  PSNR 35.1  >24: 0.05%  >48: 0.00%
+Wands02.svg                           3.62 ->  0.97 MB  PSNR 34.7  >24: 0.34%  >48: 0.18%
+Wands03.svg                           5.35 ->  1.39 MB  PSNR 36.0  >24: 0.06%  >48: 0.00%
+Wands04.svg                           4.14 ->  1.09 MB  PSNR 36.7  >24: 0.11%  >48: 0.01%
+Wands05.svg                           4.65 ->  1.26 MB  PSNR 36.7  >24: 0.06%  >48: 0.00%
+Wands06.svg                           3.58 ->  0.95 MB  PSNR 38.8  >24: 0.06%  >48: 0.00%
+Wands07.svg                           3.28 ->  0.89 MB  PSNR 38.0  >24: 0.06%  >48: 0.00%
+Wands08.svg                           4.40 ->  1.19 MB  PSNR 35.7  >24: 0.06%  >48: 0.00%
+Wands09.svg                           4.17 ->  1.12 MB  PSNR 35.9  >24: 0.14%  >48: 0.01%
+Wands10.svg                           4.89 ->  1.30 MB  PSNR 36.6  >24: 0.07%  >48: 0.00%
+Wands11.svg                           3.93 ->  1.01 MB  PSNR 36.4  >24: 0.07%  >48: 0.00%
+Wands12.svg                           5.18 ->  1.35 MB  PSNR 34.1  >24: 0.46%  >48: 0.28%
+Wands13.svg                           4.74 ->  1.26 MB  PSNR 36.6  >24: 0.14%  >48: 0.01%
+Wands14.svg                           6.66 ->  1.71 MB  PSNR 36.0  >24: 0.09%  >48: 0.00%

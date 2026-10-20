@@ -405,3 +405,11 @@
   Documents/commons-upload_2026-10-19(.zip).
 - WoodvilleArms.svg fixed (Emma: "this one is not good"): the canton stopped 6 px short of the fess, leaving a white
   line; it now joins the fess, as in the PNG. Generator gap recorded. Upload package rebuilt.
+- Tarot (Emma, 2026-10-19: download Category:Vectorized_Tarot_by_Immanuelle and make them "much more efficient",
+  separate folder, "merging really close color things"): 79 public-domain SVGs (276 MB) in
+  `data_lake/downloads/tarot/`. New `tools/optimize_traced_svg.py` merges colours within CIELAB ΔE 6 in place
+  (e.g. Wands14: 7,741 colours -> 271), then svgo 3.3.2 (`tools/svgo.tarot.config.js`, 0.1 px precision) compacts
+  structure and paths. Output in `tarot/` with the original names: 75 MB (-73%), PSNR 31-41 dB against the
+  originals, at most 0.67% of pixels off by >48 (sub-pixel shifts of Inkscape-added outlines). Integer precision
+  was tried and rejected (27 dB, visible). Per-card numbers in `tarot/report.txt`. First tool version rebuilt the
+  document and ignored Inkscape transforms; replaced by the in-place version.

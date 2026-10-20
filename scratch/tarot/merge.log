@@ -1,0 +1,79 @@
+data_lake/downloads/tarot/Cups01.svg: 2373 colours -> 142
+data_lake/downloads/tarot/Cups02.svg: 3636 colours -> 229
+data_lake/downloads/tarot/Cups03.svg: 8059 colours -> 273
+data_lake/downloads/tarot/Cups04.svg: 3170 colours -> 172
+data_lake/downloads/tarot/Cups05.svg: 1968 colours -> 142
+data_lake/downloads/tarot/Cups06.svg: 5742 colours -> 210
+data_lake/downloads/tarot/Cups07.svg: 2807 colours -> 183
+data_lake/downloads/tarot/Cups08.svg: 1509 colours -> 118
+data_lake/downloads/tarot/Cups09.svg: 2504 colours -> 154
+data_lake/downloads/tarot/Cups10.svg: 3834 colours -> 269
+data_lake/downloads/tarot/Cups11.svg: 4051 colours -> 242
+data_lake/downloads/tarot/Cups12.svg: 4178 colours -> 199
+data_lake/downloads/tarot/Cups13.svg: 3867 colours -> 221
+data_lake/downloads/tarot/Cups14.svg: 3736 colours -> 223
+data_lake/downloads/tarot/Pents01.svg: 2304 colours -> 135
+data_lake/downloads/tarot/Pents02.svg: 2121 colours -> 188
+data_lake/downloads/tarot/Pents03.svg: 4833 colours -> 195
+data_lake/downloads/tarot/Pents04.svg: 1765 colours -> 191
+data_lake/downloads/tarot/Pents05.svg: 6129 colours -> 272
+data_lake/downloads/tarot/Pents06.svg: 3103 colours -> 196
+data_lake/downloads/tarot/Pents07.svg: 4494 colours -> 231
+data_lake/downloads/tarot/Pents08.svg: 3471 colours -> 187
+data_lake/downloads/tarot/Pents09.svg: 4063 colours -> 242
+data_lake/downloads/tarot/Pents10.svg: 5265 colours -> 259
+data_lake/downloads/tarot/Pents11.svg: 3291 colours -> 214
+data_lake/downloads/tarot/Pents12.svg: 3581 colours -> 223
+data_lake/downloads/tarot/Pents13.svg: 7760 colours -> 243
+data_lake/downloads/tarot/Pents14.svg: 4575 colours -> 265
+data_lake/downloads/tarot/RWS Tarot 00 Fool.svg: 2451 colours -> 223
+data_lake/downloads/tarot/RWS Tarot 01 Magician.svg: 2549 colours -> 238
+data_lake/downloads/tarot/RWS Tarot 02 High Priestess.svg: 2256 colours -> 167
+data_lake/downloads/tarot/RWS Tarot 03 Empress.svg: 3525 colours -> 228
+data_lake/downloads/tarot/RWS Tarot 04 Emperor.svg: 3775 colours -> 170
+data_lake/downloads/tarot/RWS Tarot 05 Hierophant.svg: 2681 colours -> 187
+data_lake/downloads/tarot/RWS Tarot 06 Lovers.svg: 4955 colours -> 265
+data_lake/downloads/tarot/RWS Tarot 07 Chariot.svg: 2522 colours -> 192
+data_lake/downloads/tarot/RWS Tarot 08 Strength.svg: 2389 colours -> 199
+data_lake/downloads/tarot/RWS Tarot 09 Hermit.svg: 765 colours -> 102
+data_lake/downloads/tarot/RWS Tarot 10 Wheel of Fortune.svg: 2178 colours -> 150
+data_lake/downloads/tarot/RWS Tarot 11 Justice.svg: 2889 colours -> 158
+data_lake/downloads/tarot/RWS Tarot 12 Hanged Man.svg: 1361 colours -> 151
+data_lake/downloads/tarot/RWS Tarot 13 Death.svg: 2545 colours -> 177
+data_lake/downloads/tarot/RWS Tarot 14 Temperance.svg: 3425 colours -> 217
+data_lake/downloads/tarot/RWS Tarot 15 Devil.svg: 3258 colours -> 138
+data_lake/downloads/tarot/RWS Tarot 16 Tower.svg: 1235 colours -> 137
+data_lake/downloads/tarot/RWS Tarot 17 Star.svg: 2691 colours -> 230
+data_lake/downloads/tarot/RWS Tarot 18 Moon.svg: 1739 colours -> 178
+data_lake/downloads/tarot/RWS Tarot 19 Sun.svg: 2426 colours -> 196
+data_lake/downloads/tarot/RWS Tarot 20 Judgement.svg: 2536 colours -> 190
+data_lake/downloads/tarot/RWS Tarot 21 World.svg: 2993 colours -> 197
+data_lake/downloads/tarot/Swords01.svg: 1586 colours -> 115
+data_lake/downloads/tarot/Swords02.svg: 2319 colours -> 178
+data_lake/downloads/tarot/Swords03.svg: 489 colours -> 45
+data_lake/downloads/tarot/Swords04.svg: 2688 colours -> 158
+data_lake/downloads/tarot/Swords05.svg: 3776 colours -> 273
+data_lake/downloads/tarot/Swords06.svg: 4513 colours -> 198
+data_lake/downloads/tarot/Swords07.svg: 3179 colours -> 238
+data_lake/downloads/tarot/Swords08.svg: 3932 colours -> 223
+data_lake/downloads/tarot/Swords09.svg: 3984 colours -> 223
+data_lake/downloads/tarot/Swords10.svg: 3629 colours -> 235
+data_lake/downloads/tarot/Swords11.svg: 3199 colours -> 196
+data_lake/downloads/tarot/Swords12.svg: 2900 colours -> 188
+data_lake/downloads/tarot/Swords13.svg: 2063 colours -> 203
+data_lake/downloads/tarot/Swords14.svg: 3707 colours -> 244
+data_lake/downloads/tarot/Waite–Smith Tarot Roses and Lilies cropped.svg: 7078 colours -> 47
+data_lake/downloads/tarot/Wands01.svg: 2653 colours -> 184
+data_lake/downloads/tarot/Wands02.svg: 3095 colours -> 201
+data_lake/downloads/tarot/Wands03.svg: 5899 colours -> 232
+data_lake/downloads/tarot/Wands04.svg: 4578 colours -> 211
+data_lake/downloads/tarot/Wands05.svg: 5507 colours -> 276
+data_lake/downloads/tarot/Wands06.svg: 4366 colours -> 229
+data_lake/downloads/tarot/Wands07.svg: 4073 colours -> 264
+data_lake/downloads/tarot/Wands08.svg: 4312 colours -> 185
+data_lake/downloads/tarot/Wands09.svg: 4929 colours -> 210
+data_lake/downloads/tarot/Wands10.svg: 5926 colours -> 232
+data_lake/downloads/tarot/Wands11.svg: 3690 colours -> 186
+data_lake/downloads/tarot/Wands12.svg: 6579 colours -> 300
+data_lake/downloads/tarot/Wands13.svg: 6033 colours -> 242
+data_lake/downloads/tarot/Wands14.svg: 7741 colours -> 271
