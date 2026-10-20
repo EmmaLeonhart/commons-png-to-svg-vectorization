@@ -494,3 +494,4 @@
 - File:Melanesian Cultural Area.png: not rebuildable without tracing (the call on its open question). The base map and
   labels could be rebuilt, but the map's content is the hand-drawn cultural-area blob with no data source; same call
   as the Korea, Ossetian and Kumano maps.
+- File:Micronesian Cultural Area.png: not rebuildable without tracing; the twin of the Melanesian map (hand-drawn region).
