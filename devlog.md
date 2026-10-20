@@ -370,3 +370,4 @@
   and 45 transcribed labels as `<text>` with per-character cells; 1.7% of pixels differ. One reading (篷戸 vs 蓬戸)
   flagged in notes.md. Staged in upload/.
 - File:GaelicGamesProjectLogo.png: removed from the queue; already triaged as NOT REBUILDABLE without tracing: freehand hurleys and ball (only the circles are geometric)
+- File:Gion Daimyojin.png: removed from the queue; already triaged as NOT REBUILDABLE without tracing: woodblock / line-art figure drawing (flat colours, but freeform art).
