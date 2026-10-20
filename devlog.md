@@ -781,3 +781,5 @@
 - File:Volcanism of Canada flag.png: not rebuildable without tracing. The red bars and the volcano's trapezoid are
   geometric, but the ash cloud and the lava flows are freehand paint strokes. PNG kept in
   `data_lake/downloads/volcanism-canada-flag/`.
+- **File:W-asia.png → SVG** (`files/w-asia/`): Western Asia locator from Natural Earth, equirectangular fit (IoU 0.87,
+  hand-generalised PNG), green set read off the PNG, Sinai light green. Staged in upload/.
