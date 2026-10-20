@@ -506,3 +506,5 @@
 - File:Moromi.png: already vectorized on Commons. It is a 200 px render of File:Africa (orthographic projection).svg
   (3.8% of pixels differ, from later border updates in the SVG); recorded rather than redone.
 - File:Mouse icon vector.png: removed from the queue; already triaged as NOT REBUILDABLE without tracing: the body is a stroked rounded shape, but the cable is a freehand curve
+- **File:Nagashima Iki.png → SVG** (`files/nagashima-iki/`): the Harushima Iki build with Nagashima (OSM position) in red
+  and its label. Staged in upload/.
