@@ -831,3 +831,7 @@
   moat side, as in the PNG); dashed and solid chamber rectangles from their principal axes; the north arrow polygon; and
   labels in Meiryo. Ink IoU 0.79. The PNG's strokes are solid; downscaled previews had made them look hollow. Staged in
   upload/.
+- **File:平安宮 中和院位置.png → SVG** (`files/heiankyu-chukain/`): an axis-aligned plan, read by construction from row
+  and column runs of black (320 rectangles; the labels are masked first). The dithered grey precincts become one flat
+  #d8d8d8 fill; there are two straight leader lines and Meiryo labels in the PNG's own wording. Ink IoU 0.96. Staged in
+  upload/.
