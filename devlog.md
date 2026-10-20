@@ -783,3 +783,5 @@
   `data_lake/downloads/volcanism-canada-flag/`.
 - **File:W-asia.png → SVG** (`files/w-asia/`): Western Asia locator from Natural Earth, equirectangular fit (IoU 0.87,
   hand-generalised PNG), green set read off the PNG, Sinai light green. Staged in upload/.
+- **File:Wakamiyajima Iki.png → SVG** (`files/wakamiyajima-iki/`): the Iki series build retargeted to Wakamiyajima (OSM),
+  N03 2024 coast (IoU 0.77). Staged in upload/.
