@@ -795,3 +795,5 @@
 - File:WikiEditor-heading menu-en.png: not rebuildable: a screenshot of the wiki interface (raster original).
 - File:Wikipedia VisualEditor Table Properties.png: not rebuildable: a screenshot of the wiki interface (raster original).
 - File:Wikipedia-The Missing Manual I replacement2.png: not rebuildable: a screenshot of the wiki interface (raster original).
+- **File:World map green.png → SVG** (`files/world-map-green/`): Natural Earth land in Robinson fitted to the PNG (IoU 0.91),
+  big lakes cut by the PNG's pixels, Caspian filled. Staged in upload/.
