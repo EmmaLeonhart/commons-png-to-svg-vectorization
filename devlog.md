@@ -495,3 +495,4 @@
   labels could be rebuilt, but the map's content is the hand-drawn cultural-area blob with no data source; same call
   as the Korea, Ossetian and Kumano maps.
 - File:Micronesian Cultural Area.png: not rebuildable without tracing; the twin of the Melanesian map (hand-drawn region).
+- File:Midtown line GO logo.png: removed from the queue; already triaged as NOT REBUILDABLE without tracing: 62 px two-colour pixel art with curved parts (rounded roof, oval lamps); not a Material Design train icon (compared 2026-10-15, files in data_lake/downloads/batch4/)
