@@ -773,3 +773,4 @@
 - File:VisualEditor template with TemplateData.png: not rebuildable: a screenshot of the VisualEditor interface (raster original).
 - **File:VisualEditor tool reference-ltr.png → SVG** (`files/ve-tool-reference/`): onboarding illustration by construction
   (page, highlights with [1]/[2] as `<text>`, links, book and newspaper line art). Staged in upload/.
+- File:VisualEditor toolbar actions-en.png: not rebuildable: a screenshot of the wiki interface (raster original).
