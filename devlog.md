@@ -693,3 +693,6 @@
   rects, arches, the N diagonal, the Y bend, the pink stroke); ink IoU 0.966. Staged in upload/.
 - **File:Tessen.png → SVG** (`files/tessen/`): clematis crest by construction (six lens petals from three-point arcs,
   twelve-petal chrysanthemum, ring); ink IoU 0.967. Staged in upload/.
+- File:THA AFF 2020.png: not rebuildable without tracing. A 150×93 deliberately simplified Thailand team crest (a
+  freeform elephant-head shield), simplified to stay clear of the original logo's copyright; no vector source.
+  PNG kept in `data_lake/downloads/tha-aff-2020/`.
