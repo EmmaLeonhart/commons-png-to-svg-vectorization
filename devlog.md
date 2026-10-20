@@ -319,3 +319,5 @@
   of a 2007 catgraph (tools.wikimedia.de/~dapete/catgraph, long gone) whose edges run off the canvas to nodes not
   shown, so the source graph cannot be recovered and a fresh Graphviz layout of the visible part would be a
   different picture; fitting curves to the drawn splines is tracing.
+- **File:Cherokee Lowercase.png → SVG** (`files/cherokee-lowercase/`): the described text in Noto Sans Cherokee
+  as `<text>` on white. Staged in upload/.
