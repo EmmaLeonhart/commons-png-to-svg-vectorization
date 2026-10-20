@@ -803,3 +803,5 @@
   from N03 2024 municipalities and the N03 1920 districts (北・中・南巨摩郡; 東・西山梨郡), projection fitted to the PNG's
   Yamanashi outline (IoU 0.99); Fuji Five Lakes from W09, Sagami Bay at the edge. The 2000 municipalities were tried
   first and did not match the Meiji edge (Nanbu, Kōfu). Staged in upload/.
+- **File:Кха чампа.png → SVG** (`files/kha-champa/`): Cham letter KHA ꨇ in Noto Sans Cham, fitted by glyph_specimen
+  (IoU 0.50; the PNG is a calligraphic hand of the same letter). Staged in upload/.
