@@ -2,8 +2,9 @@
 black by IoU with scale, aspect, rotation and offset. For the shadow pictures that tools/batch_shadow.py (scale and
 offset only) cannot fit, e.g. Ehime, which is drawn rotated about 29°.
 usage (repo root): python tools/shadow_rotfit.py SLUG N03-CODE [fit]
-  reads data_lake/downloads/shadow-SLUG/Shadow picture of <Slug> prefecture.png, writes files/shadow-SLUG/"""
-import json, sys
+  reads data_lake/downloads/shadow-SLUG/Shadow picture of <Slug> prefecture.png (or $SHADOW_TITLE.png), writes
+  files/shadow-SLUG/"""
+import json, os, sys
 import numpy as np
 from PIL import Image, ImageDraw
 from scipy import optimize
@@ -14,7 +15,7 @@ sys.path.insert(0, 'tools')
 from n03_prefecture_svg import load  # noqa: E402
 
 SLUG, CODE = sys.argv[1], int(sys.argv[2])
-NAME = f'Shadow picture of {SLUG.capitalize()} prefecture'
+NAME = os.environ.get('SHADOW_TITLE', f'Shadow picture of {SLUG.capitalize()} prefecture')  # override for odd titles
 SRC = f'data_lake/downloads/shadow-{SLUG}/{NAME}.png'
 OUT = f'files/shadow-{SLUG}/{NAME}.svg'
 PAR = f'files/shadow-{SLUG}/projection.json'
@@ -23,8 +24,12 @@ im = Image.open(SRC).convert('RGBA')
 a = np.asarray(Image.alpha_composite(Image.new('RGBA', im.size, 'white'), im).convert('L'))
 H, W = a.shape
 ink = a < 128
-geo = unary_union([shape(f['geometry']) for f in load(CODE)['features']]).buffer(0)
-parts = [g for g in (geo.geoms if hasattr(geo, 'geoms') else [geo]) if g.area > 1e-7]
+# optional: leave out districts (N03_003, comma-separated) and islands east of a longitude, for maps drawn without them
+DROP = set(filter(None, os.environ.get('SHADOW_DROP_DISTRICTS', '').split(',')))
+MAX_LON = float(os.environ.get('SHADOW_MAX_LON', '999'))
+geo = unary_union([shape(f['geometry']) for f in load(CODE)['features']
+                   if f['properties'].get('N03_003') not in DROP]).buffer(0)
+parts = [g for g in (geo.geoms if hasattr(geo, 'geoms') else [geo]) if g.area > 1e-7 and g.centroid.x < MAX_LON]
 
 
 CX0, CY0 = geo.centroid.x, geo.centroid.y
@@ -61,8 +66,10 @@ if __name__ == '__main__':
     if len(sys.argv) > 3 and sys.argv[3] == 'fit':
         ys, xs = np.nonzero(ink)
         best = None
+        gx0, gy0, gx1, gy1 = unary_union(parts).bounds
+        s0 = (xs.max() - xs.min()) / (gx1 - gx0)  # seed scale from the extents
         for rot in range(-40, 41, 5):  # coarse grid over rotation and scale, then Nelder-Mead
-            for sc in (250, 285, 320):
+            for sc in (0.8 * s0, s0, 1.2 * s0):
                 p0 = [sc, 1.2, rot, xs.mean(), ys.mean()]
                 l = loss(p0)
                 if best is None or l < best[0]:

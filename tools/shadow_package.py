@@ -8,7 +8,7 @@ from PIL import Image
 slug, code, iou = sys.argv[1], sys.argv[2], float(sys.argv[3])
 extra = (' ' + sys.argv[4]) if len(sys.argv) > 4 else ''
 name = slug.capitalize()
-title = f'Shadow picture of {name} prefecture'
+title = os.environ.get('SHADOW_TITLE', f'Shadow picture of {name} prefecture')
 svg_path = f'files/shadow-{slug}/{title}.svg'
 png_path = f'data_lake/downloads/shadow-{slug}/{title}.png'
 shots = os.path.join(os.path.expanduser('~'), 'Documents', 'claude-screenshots',
