@@ -1,0 +1,17 @@
+{{Fake insignia}}
+
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Simplified version of the Singapore Army flag for use in infoboxes.}}
+|date=2021-10-04
+|source={{own}}
+|author=[[User:Seloloving|Seloloving]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-zero}}
+
+[[Category:Infobox flags]]
+[[Category:PNG flags of Singapore]]
