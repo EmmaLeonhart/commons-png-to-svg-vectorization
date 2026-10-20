@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="300" viewBox="0 0 500 300">
+<rect width="500" height="300" fill="#ffffff"/>
+<rect x="80" y="51" width="40" height="165" fill="#f1f1f1"/>
+<circle cx="98.5" cy="74" r="12.3" fill="#c5c5c5"/>
+<rect x="76.75" y="48.75" width="125" height="169.5" fill="none" stroke="#797d94" stroke-width="1.5"/>
+<rect x="130" y="104" width="58" height="30" fill="#ffffdf"/>
+<rect x="130" y="178" width="58" height="30" fill="#ffffdf"/>
+<path d="M158,69.5H181M157,79.5H178M136,89.5H178M138,99.5H180M138,139.5H181M138,148.5H180M135,158.5H177M135,168.5H177" fill="none" stroke="#797d94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="137.5" y="80" font-family="Georgia, 'Times New Roman', serif" font-size="16" fill="#797d94">T</text>
+<text x="133" y="134.5" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="bold" fill="#5e5e50">“</text>
+<text x="133" y="208.5" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="bold" fill="#5e5e50">“</text>
+<text x="156.5" y="127.5" font-family="Arial, 'Liberation Sans', sans-serif" font-size="19" font-weight="bold" fill="#3366ff">[1]</text>
+<text x="156.5" y="201.5" font-family="Arial, 'Liberation Sans', sans-serif" font-size="19" font-weight="bold" fill="#3366ff">[2]</text>
+<path d="M181,117.5L299.5,59M181,197.5L300.5,255.5" fill="none" stroke="#3366ff" stroke-width="1.5"/>
+<path d="M322.5,104V31Q322.5,25 327,24M322.5,104Q322.5,111 330,112.5L370,118.5Q374,119 378,118.5L418,112.5Q425.5,111 425.5,104V31Q425.5,25 421,24M327.5,102V24Q327.5,18 333,18.5L374,29.5L415,18.5Q420.5,18 420.5,24V102Q420.5,107 414,108.5L374,117.5L334,108.5Q327.5,107 327.5,102ZM374,29.5V117.5" fill="none" stroke="#555555" stroke-width="2" stroke-linejoin="round"/>
+<path d="M337,32L367,41M337,40L367,49M337,47.5L367,56.5M337,54.5L367,63.5M337,62L367,71M337,69.5L367,78.5M337,77L367,86M337,84L367,93M337,91.5L367,100.5" fill="none" stroke="#555555" stroke-width="1.4" stroke-linecap="round"/>
+<path d="M323.5,196.5H404.5V268M323.5,196.5V266Q323.5,276 333.5,276H418Q426,276 426,268V218.5M412,226V264Q412,269.5 416.5,269.5Q421,269.5 421,264V220" fill="none" stroke="#555555" stroke-width="2" stroke-linejoin="round"/>
+<rect x="333" y="205" width="62" height="9.5" fill="none" stroke="#555555" stroke-width="2"/><rect x="332.5" y="225" width="26" height="22" fill="none" stroke="#555555" stroke-width="2"/>
+<path d="M363,225.5H393M363,233H389M363,240.5H386M363,248H382M332,255H354M363,255H379M332,262.5H358M363,262H374" fill="none" stroke="#555555" stroke-width="2.2"/>
+</svg>
