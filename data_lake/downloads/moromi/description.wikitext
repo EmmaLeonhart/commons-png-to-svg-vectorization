@@ -1,0 +1,19 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Moromi - translated one who sends in the Northern Sotho language,
+officially known as Sesotho sa lebowa, this language is spoken by over 4 million
+people in the nothern parts of South Africa, the langague is related to two other
+languages known as South Sotho and Setswana, these three languages fall under the Sotho group 
+in the South Eastern Bantu Zone}}
+|date=2012-04-28
+|source={{own}}
+|author=[[User:Mohlala|Mohlala]]
+|permission=
+|other_versions=
+|other_fields=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-3.0}}
+
+[[Category:Maps with orthographic projection]]

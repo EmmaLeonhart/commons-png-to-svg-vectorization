@@ -503,3 +503,5 @@
 - File:Mon- Izumo taisha.png: removed from the queue; already triaged as NOT REBUILDABLE without tracing: kamon with freeform organic motifs.
 - **File:Moriya Family Tree - 守矢氏系図.png → SVG** (`files/moriya-family-tree-ja/`): lines as the PNG's runs, 14 vertical
   name columns, ①–⑤ and the note as transcribed `<text>`. Staged in upload/.
+- File:Moromi.png: already vectorized on Commons. It is a 200 px render of File:Africa (orthographic projection).svg
+  (3.8% of pixels differ, from later border updates in the SVG); recorded rather than redone.
