@@ -302,3 +302,4 @@
   Lambert conformal conic fitted to ten city dots (2.4 px RMS) and the land mask (IoU 0.91); graticule, dots,
   labels as fitted `<text>`, north arrow and scale bar. 5.9% of pixels differ. Staged in upload/. Natural Earth
   borders, rivers and lakes added to `data_lake/downloads/natural-earth/`.
+- **File:Bonji-I.png → SVG** (`files/bonji-i/`): Siddham I as `<text>` in Noto Sans Siddham (typeset vs. brush, IoU 0.30). Staged.

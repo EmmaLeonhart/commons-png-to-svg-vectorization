@@ -1,0 +1,14 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ja|1=梵字aア　大日如来（胎蔵界） 宝幢如来 日光菩薩 大元帥明王 火天 日天などの種子字}}
+|date=2019-04-29
+|source={{own}}
+|author=[[User:Blueknight611jp|Blueknight611jp]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:A (Siddham script)]]
