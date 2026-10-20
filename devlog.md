@@ -551,3 +551,5 @@
   (MIT; BSC stars, IAU boundaries, lines, NGC/IC, Milky Way) in the fitted azimuthal equidistant projection (0.15 px on
   the anchors), wiki.pp3 colours, star radii calibrated to the PNG, the PNG's extra constellation lines detected from its
   green, 48 labels as `<text>`. Staged in upload/.
+- **File:Oshima Iki.png → SVG** (`files/oshima-iki/`): the Nagashima Iki build retargeted to Ōshima (OSM position),
+  N03 2024 coast (IoU 0.75 to the schematic PNG). Staged in upload/.
