@@ -156,6 +156,10 @@ caused by unbounded steps (since fixed).
   are not fitted (amateur radio coil made regular). Arms: every order.life person is now classified with no
   needs-investigation left (57 rebuilt, 31 vector on Commons, 69 waiting on the generator). Reading of the
   project unchanged.
+- 2026-10-20 00:55 PST: the shadow pictures parked below IoU 0.93 (Ehime, Fukui, Gunma, Hiroshima) were not bad data:
+  several PNGs are drawn rotated (5–29°), which `tools/batch_shadow.py` can't fit. `tools/shadow_rotfit.py` (scale,
+  aspect, rotation, offset) rebuilds them from N03 at 0.90–0.975, and `tools/shadow_package.py` stages them. The
+  remaining queued shadow pictures go through these two tools. Reading of the project unchanged.
 - 2026-10-20 00:25 PST: queue through the O–R files. Chart and map rules from these ticks: a chart made by a known
   program from public data (Orion-Sternkarte, pp3) is rebuilt from that program's own data and style file, with what
   the author added by hand (extra constellation lines) read back from the PNG as data. A hand-drawn map that real
