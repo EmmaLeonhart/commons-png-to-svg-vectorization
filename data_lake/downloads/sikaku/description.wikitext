@@ -1,0 +1,12 @@
+== {{int:filedesc}} ==
+{{Information
+|Description= {{ja|[[:ja:Wikipedia:ウィキプロジェクト 資格]]のイメージ画像}}
+|Source= {{ja|作者作成(人物写真は[[:File:User icon 2.svg]]より一部改変)}}
+|Date= 2009-08-10
+|Author=[[User:Sakoppi|Sakoppi]]
+|Permission= {{PD-self}}
+|other_versions=
+}}
+
+[[Category:Japanese Wikipedia]]
+[[Category:Files by Sakoppi]]

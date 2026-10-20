@@ -670,3 +670,5 @@
   (searched). PNG kept in `data_lake/downloads/shiogama-zakura/`.
 - **File:Shu logo.png → SVG** (`files/shu-logo/`): SETON HALL as `<text>` (Garamond, glyphs placed per letter) with its
   drop shadow. Staged in upload/.
+- **File:Sikaku.png → SVG** (`files/sikaku/`): card by construction plus File:User icon 2.svg's figure (shadow removed);
+  0.6% pixels differ. Staged in upload/.

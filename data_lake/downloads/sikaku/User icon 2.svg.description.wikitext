@@ -1,0 +1,15 @@
+{{Information
+| description    = {{en|An icon representing a {{W|User (computing)|user}} (or any other male person, I suppose.)}}
+| date           = 2007-08-12
+| source         = Ripped directly from the Tango project's {{F|System-users.svg|+}} by {{U|bdesham}}.
+| author         = The Tango Icon Team
+| permission     = 
+| other versions = {{F|User icon 3.svg|G}}
+| other fields   = {{Igen|I|+|s=ti}}
+}}
+
+{{Tango project}}
+
+
+[[Category:Tango project/people]]
+[[Category:SVG men icons]]
