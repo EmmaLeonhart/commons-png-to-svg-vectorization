@@ -761,3 +761,4 @@
   difference 26 of 255 from anti-aliasing). PNG kept in `data_lake/downloads/ve-clear-icon/`.
 - File:VisualEditor More Settings-en.png: not rebuildable: a screenshot of the VisualEditor interface (raster original).
 - File:VisualEditor page settings item-en.png: not rebuildable: a screenshot of the VisualEditor interface (raster original).
+- File:VisualEditor Page Settings Redirects-en.png: not rebuildable: a screenshot of the VisualEditor interface (raster original).
