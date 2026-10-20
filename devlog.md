@@ -619,3 +619,5 @@
   (rotation 0.0°). Staged in upload/.
 - **File:Shadow picture of Nagano prefecture.png → SVG** (`files/shadow-nagano/`): `tools/shadow_rotfit.py`, IoU 0.978
   (rotation 0.0°). Staged in upload/.
+- **File:Shadow picture of Nagasaki prefecture.png → SVG** (`files/shadow-nagasaki/`): N03 2000, main / Tsushima / Iki
+  each fitted in its own framed region, frames measured; whole IoU 0.869 (smoothed islets in the PNG). Staged in upload/.
