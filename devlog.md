@@ -372,3 +372,4 @@
 - File:GaelicGamesProjectLogo.png: removed from the queue; already triaged as NOT REBUILDABLE without tracing: freehand hurleys and ball (only the circles are geometric)
 - File:Gion Daimyojin.png: removed from the queue; already triaged as NOT REBUILDABLE without tracing: woodblock / line-art figure drawing (flat colours, but freeform art).
 - File:God of Daishogun.png: removed from the queue; already triaged as NOT REBUILDABLE without tracing: woodblock / line-art figure drawing (flat colours, but freeform art).
+- File:God of Hyobi.png: removed from the queue; already triaged as NOT REBUILDABLE without tracing: woodblock / line-art figure drawing (flat colours, but freeform art).
