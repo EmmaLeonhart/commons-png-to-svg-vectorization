@@ -691,3 +691,5 @@
 - **File:Tangut Sample.png → SVG** (`files/tangut-sample/`): 𗈁𗤻𗖰𗚩 as `<text>` in Noto Serif Tangut. Staged in upload/.
 - **File:Tenmaya logo.png → SVG** (`files/tenmaya-logo/`): wordmark by construction from measured primitives (rounded
   rects, arches, the N diagonal, the Y bend, the pink stroke); ink IoU 0.966. Staged in upload/.
+- **File:Tessen.png → SVG** (`files/tessen/`): clematis crest by construction (six lens petals from three-point arcs,
+  twelve-petal chrysanthemum, ring); ink IoU 0.967. Staged in upload/.
