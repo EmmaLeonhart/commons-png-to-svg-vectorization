@@ -156,6 +156,12 @@ caused by unbounded steps (since fixed).
   are not fitted (amateur radio coil made regular). Arms: every order.life person is now classified with no
   needs-investigation left (57 rebuilt, 31 vector on Commons, 69 waiting on the generator). Reading of the
   project unchanged.
+- 2026-10-20 04:52 PST: this session's raw transcript, `sessions/2026-10-19_fd7db514.jsonl`, has passed GitHub's
+  100 MB file limit (101 MB), so a commit containing it cannot be pushed. That session-log commit was redone with only
+  the readable `.md` transcript. The `.jsonl` is left modified in the working tree and kept out of commits by hand; the
+  last pushed copy is the 78 MB version. The hourly hook (`.claude/hooks/save_session_log.py`) will try to commit it
+  again, and such commits must be redone without it before pushing. NEEDS-DECISION (Emma): how cleanvibe should store
+  transcripts over 100 MB: Git LFS, splitting, compressing, or not tracking the raw `.jsonl`.
 - 2026-10-20 03:32 PST: queue through the S–T files. Script samples on en.wikipedia Help:Multilingual support take
   their exact text from that page (it shows each image beside the same text). Images cut from a Commons SVG are
   rebuilt from the revision current when the PNG was made (East Timor shield: 2012 revision). A hate-group logo
