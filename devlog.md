@@ -558,3 +558,5 @@
 - File:Pagename explanation2.png: removed from the queue; already triaged as NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
 - File:Panam Sports flag.png: removed from the queue; already triaged as NOT REBUILDABLE without tracing: the PANAM SPORTS wordmark is custom inline lettering; no vector logo on Commons
 - File:Perform batch task.png: removed from the queue; already triaged as NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
+- **File:Phaistos-A23.png → SVG** (`files/phaistos-a23/`): 𐇑𐇛𐇪𐇝𐇯𐇡𐇪 as `<text>` in Noto Sans Symbols 2 (IoU 0.80).
+  Staged in upload/.

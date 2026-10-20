@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Side A, word 23 of the Phaistos Disc inscription, rendered using the "Noto Sans Symbols" font. The text reads, "𐇑𐇛𐇪𐇝𐇯𐇡𐇪".}}
+|date=2017-08-28
+|source={{own}}
+|author=[[User:Wikilackey|Wikilackey]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-zero}}
+
+[[Category:Archaeological illustrations]]
+[[Category:Phaistos glyphs]]
+[[Category:Noto Sans Symbols]]
