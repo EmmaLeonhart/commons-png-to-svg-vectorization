@@ -763,3 +763,4 @@
 - File:VisualEditor page settings item-en.png: not rebuildable: a screenshot of the VisualEditor interface (raster original).
 - File:VisualEditor Page Settings Redirects-en.png: not rebuildable: a screenshot of the VisualEditor interface (raster original).
 - File:VisualEditor Page Settings TOC-en.png: not rebuildable: a screenshot of the VisualEditor interface (raster original).
+- File:VisualEditor Page Settings-en.png: not rebuildable: a screenshot of the VisualEditor interface (raster original).
