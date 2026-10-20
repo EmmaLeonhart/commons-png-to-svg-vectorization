@@ -535,3 +535,4 @@
 - File:Notifications - Failed Mention - August 2016.png: removed from the queue; already triaged as NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
 - File:Notifications - First milestone - August 2016.png: removed from the queue; already triaged as NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
 - File:Notifications - Successful Mention - August 2016.png: removed from the queue; already triaged as NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
+- File:Notifications - Welcome - January 2016.png: removed from the queue; already triaged as NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
