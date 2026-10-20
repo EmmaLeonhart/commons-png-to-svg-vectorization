@@ -557,3 +557,4 @@
   Noto Nastaliq Urdu (IoU 0.86). Staged in upload/.
 - File:Pagename explanation2.png: removed from the queue; already triaged as NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
 - File:Panam Sports flag.png: removed from the queue; already triaged as NOT REBUILDABLE without tracing: the PANAM SPORTS wordmark is custom inline lettering; no vector logo on Commons
+- File:Perform batch task.png: removed from the queue; already triaged as NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
