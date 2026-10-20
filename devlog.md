@@ -529,3 +529,5 @@
   description; brute-force matching of every base + subjoined letter (+ vowel) against Noto Sans Marchen reached only
   IoU 0.77 and none of the top readings looks right by eye: the PNG uses another, blockier font. Guessing would publish
   wrong text; the Unicode text from the uploader would unblock it.
+- File:North Texas Stacked Wordmark.png: not rebuildable without tracing. Custom athletic lettering; Commons' University
+  of North Texas wordmark.svg is the separate "UNT" mark.
