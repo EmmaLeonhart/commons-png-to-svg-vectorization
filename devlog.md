@@ -760,3 +760,4 @@
   theme's 'clear' icon, which Commons has as File:OOjs UI icon cancel.svg (MIT; rendered at 11 px it matches, mean
   difference 26 of 255 from anti-aliasing). PNG kept in `data_lake/downloads/ve-clear-icon/`.
 - File:VisualEditor More Settings-en.png: not rebuildable: a screenshot of the VisualEditor interface (raster original).
+- File:VisualEditor page settings item-en.png: not rebuildable: a screenshot of the VisualEditor interface (raster original).
