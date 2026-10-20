@@ -856,3 +856,6 @@
 - File:2017 Northern Lunar Calendar.png: not rebuildable as a vector. The month grid and captions could be constructed,
   but every cell's moon is a photograph. A vector version would have to embed raster crops or substitute drawn moons,
   which would be a different image. PNG kept in `data_lake/downloads/lunar-calendar-2017/`.
+- File:AFL Trophy alt.png: not rebuildable without tracing. It is a shaded painted illustration of the AFL trophy:
+  gradient-modelled ball and base, wood-grain texture, freehand flame and player figures. It is cropped from AFL
+  Trophy.png, itself a raster, and there is no vector on Commons (searched). PNG kept in `data_lake/downloads/afl-trophy-alt/`.
