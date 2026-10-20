@@ -513,3 +513,6 @@
   from a 1928 book).
 - **File:Name muhammad in sylheti nagari.png → SVG** (`files/name-muhammad-sylheti-nagari/`): the name in Noto Sans
   Syloti Nagri as `<text>`, IoU 0.96. Staged in upload/.
+- File:Nara Toichi-gun.png: not rebuildable without tracing. Unlike Matsuura-gun, the yellow Meiji-era Toichi District
+  is a strip that cuts across modern municipalities (parts of Kashihara and Sakurai); no dataset holds Meiji village
+  boundaries, so the highlighted area could only be traced.

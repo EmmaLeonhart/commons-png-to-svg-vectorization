@@ -1,0 +1,15 @@
+<!--This file was moved here using FileImporter from https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Nara_Toichi-gun.png-->
+== {{int:filedesc}} ==
+{{Information
+|Description    = {{ja|奈良県十市郡の位置}}
+|Source         = Japan map.png を元に投稿者が作成
+|Date           = 2013-10-27
+|Author         = 検見川町
+|Permission     = {{Japan map}}
+|other_versions = 
+}}
+
+== {{int:license-header}} ==
+{{self|GFDL|Cc-by-sa-3.0}}
+
+[[Category:Maps of districts in Nara prefecture]]
