@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{id|1=Tulisan ini berarti "Selamat Datang di Wikipedia Bahasa Bali".}}{{jv|1=Serat punika artosipun "Sugeng Rawuh ing Wikipédhiya Basa Bali".}}{{en|1=This writing means "Welcome to Balinese Wikipedia".}}
+|date=2012-12-12 07:36:37
+|source={{own}}
+|author=[[User:NoiX180|NoiX180]]
+|permission=
+|other_versions=
+|other_fields=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-3.0}}
+
+[[Category:Tables and samples of Balinese script]]

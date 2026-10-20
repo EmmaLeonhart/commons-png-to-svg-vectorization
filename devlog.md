@@ -684,3 +684,5 @@
 - **File:Sunda Sa.png → SVG** (`files/sunda-sa/`): ᮞ as `<text>` in Noto Sans Sundanese (IoU 0.85). Staged in upload/.
 - **File:Suwa Hosshō Banner - 諏訪法性旗.png → SVG** (`files/suwa-hossho/`): 南無諏方南宮法性上下大明神 as vertical `<text>` in a
   kaisho face, outlined to the brush weight. Staged in upload/.
+- **File:Swasti Prapti ring Wikipédia Basa Bali.png → SVG** (`files/swasti-prapti/`): the Balinese welcome text (from
+  en.wikipedia Help:Multilingual support) as `<text>` in Noto Sans Balinese. Staged in upload/.
