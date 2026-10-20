@@ -363,3 +363,4 @@
   Sodacan's JASDF emblem SVG; substituting that would misrepresent the 1955 flag, and the older drawing has no
   vector source.
 - File:Flag of the King of Korea (1856–1871).png: removed from the queue; already triaged as NOT REBUILDABLE without tracing: a painted dragon among clouds
+- File:Flag of the Mexican Maritime Search and Rescue.png: removed from the queue; already triaged as NOT REBUILDABLE: the emblem contains a photograph (boat at sea)
