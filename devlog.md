@@ -467,3 +467,5 @@
   design, not the dictionary's; IoU 0.32). Staged in upload/.
 - **File:Linear B Sample.png → SVG** (`files/linear-b-sample/`): the described au-ke-wa in Noto Sans Linear B, on white.
   Staged in upload/.
+- **File:Lontara script.png → SVG** (`files/lontara-script/`): "Basa Ugi" in Noto Sans Buginese as `<text>`. Staged in
+  upload/.
