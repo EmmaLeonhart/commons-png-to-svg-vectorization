@@ -1,0 +1,13 @@
+<!--This file was moved here using FileImporter from https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:%E5%AE%A4%E5%AE%AE%E5%B1%B1%E5%8F%A4%E5%A2%B3_%E5%BE%A9%E5%8E%9F%E5%9B%B3.png-->
+{{Information
+|Description={{ja|室宮山古墳 復原図}}
+|Source= 投稿者自身による作品。
+* 出典：木許守 「室宮山古墳墳丘復原案」[http://sitereports.nabunken.go.jp/ja/list/29/29208/p/2/item/1923 『奈良県御所市 室宮山古墳範囲確認調査報告（御所市文化財調査報告書 第20集）』] 御所市教育委員会、1996年、pp. 44-45。
+|Date= 2015-10-29
+|Author= [[:ja:user:Saigen Jiro|Saigen Jiro]]
+|Permission={{PD-self}}
+|other_versions=
+}}
+
+[[Category:Muro Miya-yama Kofun]]
+[[Category:Models of Kofun]]
