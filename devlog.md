@@ -315,3 +315,7 @@
 - **File:BonjiVaa.png → SVG** (`files/bonjivaa/`): Siddham Vā as `<text>` in Noto Sans Siddham (typeset vs. brush, IoU 0.65). Staged.
 - **File:BonjiVai.png → SVG** (`files/bonjivai/`): Siddham Vai as `<text>` in Noto Sans Siddham (typeset vs. brush, IoU 0.54). Staged.
 - **File:BonjiYam.png → SVG** (`files/bonjiyam/`): Siddham Yaṃ as `<text>` in Noto Sans Siddham (typeset vs. brush, IoU 0.22). Staged.
+- File:Category-diagram.png: not rebuildable without tracing (the call on its curve-fitting question). It is a crop
+  of a 2007 catgraph (tools.wikimedia.de/~dapete/catgraph, long gone) whose edges run off the canvas to nodes not
+  shown, so the source graph cannot be recovered and a fresh Graphviz layout of the visible part would be a
+  different picture; fitting curves to the drawn splines is tracing.
