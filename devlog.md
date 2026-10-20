@@ -706,3 +706,5 @@
 - File:TrenLigeroCDMX.png: not rebuildable without tracing. The current Tren Ligero logo is a freeform brush swirl round
   hand-drawn letters. The vector logos on Commons are other designs (the old geometric STE emblem, the SITREN wordmark,
   line badges). PNG kept in `data_lake/downloads/tren-ligero/`.
+- **File:Tua Tham.png → SVG** (`files/tua-tham/`): ᨲ᩠ᩅᩫᨵᩢᨾ᩠ᨾ᩼ (from en.wikipedia Help:Multilingual support) as `<text>` in Noto Sans
+  Tai Tham (the PNG's calligraphic face differs). Staged in upload/.

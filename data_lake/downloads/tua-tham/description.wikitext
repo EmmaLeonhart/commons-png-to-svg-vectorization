@@ -1,0 +1,14 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Tua Tham, the name of Tai Tham script in the orignal language}}
+|date=2022-10-25
+|source={{own}}
+|author=[[User:Noktonissian|Noktonissian]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Tai Tham script]]
