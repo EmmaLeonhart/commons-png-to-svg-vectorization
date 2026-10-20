@@ -553,3 +553,5 @@
   green, 48 labels as `<text>`. Staged in upload/.
 - **File:Oshima Iki.png → SVG** (`files/oshima-iki/`): the Nagashima Iki build retargeted to Ōshima (OSM position),
   N03 2024 coast (IoU 0.75 to the schematic PNG). Staged in upload/.
+- **File:Ottoman Turkish in Nastaliq (vertical).png → SVG** (`files/ottoman-nastaliq/`): لسان / عثمانی as two `<text>` lines in
+  Noto Nastaliq Urdu (IoU 0.86). Staged in upload/.

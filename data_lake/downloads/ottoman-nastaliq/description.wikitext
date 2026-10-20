@@ -1,0 +1,23 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|1=Ottoman Turkish (lisân-ı Osmânî), written in Arabic script in Nastaliq style.}}
+|Source={{Derived from|Ottoman Turkish in Nastaliq.png|display=50}}
+|Date=2024-01-02 12:19 (UTC)
+|Author=* [[:File:Ottoman Turkish in Nastaliq.png|File:Ottoman Turkish in Nastaliq.png]]: [[User:ThatDohDude|ThatDohDude]]
+* derivative work: [[User:Anlztrk|Anlztrk]]
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{self|Cc-by-sa-4.0}}
+
+== {{Original upload log}} ==
+This image is a derivative work of the following images:
+
+* [[:File:Ottoman Turkish in Nastaliq.png]] licensed with Cc-by-sa-4.0
+** 2021-10-10T15:33:46Z [[User:ThatDohDude|ThatDohDude]] 500x200 (9791 Bytes) ''<nowiki>Uploaded own work with UploadWizard</nowiki>''
+
+{{Uploaded with derivativeFX|version=2}}
+
+[[Category:Ottoman Turkish text]]
