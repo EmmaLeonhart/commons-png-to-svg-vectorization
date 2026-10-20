@@ -1,0 +1,15 @@
+== {{int:filedesc}} ==
+{{Information
+|Description    ={{en|1=A Japanese Edo period wood block of ''koshiate'' (Sword Hangers).}}
+|Source         =Tanki Yoriaku: Hi Ko Ben ( Japanese book on samurai armor published in 1735)
+|Author         =Hayakawa Kyuukei
+|Date           =1735
+|Permission     ={{PD-Art|PD-old-100}}
+|other_versions =
+}}
+
+== {{int:license-header}} ==
+{{PD-old-100}}
+
+[[Category:Tachi]]
+[[Category:Koshiate (Sword Hangers)]]

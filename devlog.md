@@ -454,3 +454,5 @@
   text as `<text>` in Noto Sans Kharoshthi; same text, different font's stacking (IoU 0.15). Staged in upload/.
 - **File:Kolkata bus.png → SVG** (`files/kolkata-bus/`): constructed from measured rectangles, rounded rectangles and the
   roof polygon; 0.6% of pixels differ. Staged in upload/.
+- File:Koshiate (Sword Hangers).png: not rebuildable, a raster original (an Edo-period woodblock illustration from a
+  1735 book; freeform line art).
