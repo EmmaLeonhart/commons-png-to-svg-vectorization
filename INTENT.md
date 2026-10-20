@@ -156,6 +156,12 @@ caused by unbounded steps (since fixed).
   are not fitted (amateur radio coil made regular). Arms: every order.life person is now classified with no
   needs-investigation left (57 rebuilt, 31 vector on Commons, 69 waiting on the generator). Reading of the
   project unchanged.
+- 2026-10-20 07:10 PST: into the Japanese-named files at the end of the queue. Kamon are rebuilt by construction when
+  they are compass-and-ruler work (井桁に唐花菱: a 井 frame and circle-lobe petals in a square space, one affine map into
+  the lozenge); freehand brush strokes and trees are set aside. A PNG that cannot match its stated base (大洋.png) can
+  have a generalised base map; real geography replaces it, coloured by the PNG's nearest land. Check strokes at native
+  resolution before reading a style from a downscaled preview: 室宮山古墳 復原図.png looked hollow in previews but has
+  solid 15 px strokes. Reading of the project unchanged.
 - 2026-10-20 06:13 PST: queue through the U–Y files. District locators drawn on Meiji-era districts are built from
   the N03 data of 1920, when those districts still stood (Yamanashi Koma-gun / Yamanashi-gun); the 2000 municipalities
   don't follow the old district edges. Text cut off by a crop edge that cannot be read is not guessed; such files are
