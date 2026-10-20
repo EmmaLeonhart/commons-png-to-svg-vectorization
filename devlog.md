@@ -587,3 +587,5 @@
   (rotation -5.2°). Staged in upload/.
 - **File:Shadow picture of Gunma prefecture.png → SVG** (`files/shadow-gunma/`): `tools/shadow_rotfit.py`, IoU 0.975
   (rotation 15.0°). Staged in upload/.
+- **File:Shadow picture of Hiroshima prefecture.png → SVG** (`files/shadow-hiroshima/`): `tools/shadow_rotfit.py`, IoU 0.904
+  (rotation 0.0°). Staged in upload/.
