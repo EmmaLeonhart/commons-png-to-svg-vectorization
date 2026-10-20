@@ -418,3 +418,4 @@
   the Ainu.svg as the other version: the same content (attested and suspected Ainu ranges, toponym dots) redrawn in
   another projection with a legend. The PNG's own drawing could only be reproduced by tracing its hand-drawn ranges,
   so it is recorded rather than redone.
+- File:Icona catastrofi.png: removed from the queue; already triaged as NOT REBUILDABLE without tracing: woodblock / line-art figure drawing (flat colours, but freeform art).
