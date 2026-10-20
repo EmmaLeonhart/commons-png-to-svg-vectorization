@@ -637,3 +637,5 @@
   (rotation 0.0°). Staged in upload/.
 - **File:Shadow picture of Shiga prefecture.png → SVG** (`files/shadow-shiga/`): `tools/shadow_rotfit.py`, IoU 0.945
   (rotation 0.0°). Staged in upload/.
+- **File:Shadow picture of Shimane prefecture.png → SVG** (`files/shadow-shimane/`): main / Oki / Takeshima each fitted in
+  its own framed region, Lake Shinji and Nakaumi cut out (W09); rendered IoU 0.928. Staged in upload/.
