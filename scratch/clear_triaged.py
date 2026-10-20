@@ -13,7 +13,7 @@ while True:
     del L[i]; open('queue.md', 'w', encoding='utf8').write('\n'.join(L))
     with open('devlog.md', 'a', encoding='utf8') as f:
         f.write(f"- File:{name}: removed from the queue; already triaged as {m.group(1)}\n")
-    subprocess.run(['git', 'add', '-A'], check=True)
+    subprocess.run(['git', 'add', 'queue.md', 'devlog.md'], check=True)
     subprocess.run(['git', 'commit', '-q', '-m', f'{name}: off the queue (already triaged not rebuildable)\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>\nClaude-Session: https://claude.ai/code/session_01MahXmkWSoLiEgfYsCeMKSw'], check=True)
     done.append(name)
 print('removed', len(done), done)
