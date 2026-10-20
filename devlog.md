@@ -456,3 +456,5 @@
   roof polygon; 0.6% of pixels differ. Staged in upload/.
 - File:Koshiate (Sword Hangers).png: not rebuildable, a raster original (an Edo-period woodblock illustration from a
   1735 book; freeform line art).
+- **File:Koshur in Sharada Script.png → SVG** (`files/koshur-in-sharada/`): Kashmiri "Koshur" in Sharada as `<text>` in
+  Noto Sans Sharada (the PNG's own font); IoU 0.85. Staged in upload/.
