@@ -723,3 +723,4 @@
 - File:VisualEditor - Editing references 5.png: removed from the queue; already triaged as NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
 - File:VisualEditor - Editing references 6.png: removed from the queue; already triaged as NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
 - File:VisualEditor - Editing references 9.png: removed from the queue; already triaged as NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
+- File:VisualEditor - Gallery3.png: removed from the queue; already triaged as NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
