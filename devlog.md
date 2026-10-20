@@ -519,3 +519,4 @@
 - File:Naval jack of the United States (1975–1976).png: removed from the queue; already triaged as NOT REBUILDABLE without tracing: the shaded rattlesnake is its own drawing; the vector jacks on Commons (1776–1777, 2002–2019) have different snakes. Using the 2002–2019 SVG's snake would change the design: NEEDS-DECISION (user) if wanted
 - File:NaviMumbaiMetro-Logo.png: not rebuildable without tracing. Custom "nmm" lettering and freeform swooshes (only the
   "NAVI MUMBAI METRO" caption could be text); Commons has only other PNGs of the logo.
+- File:Nbfr logo.png: removed from the queue; already triaged as NOT REBUILDABLE without tracing: a freehand brush mark (badminton federation logo, 107×51)
