@@ -742,3 +742,4 @@
 - File:VisualEditor citoid Cite button.png: not rebuildable: a screenshot of the VisualEditor interface (raster original).
 - File:VisualEditor edit tab-en.png: not rebuildable: a screenshot of the VisualEditor interface (raster original).
 - File:VisualEditor empty table.png: not rebuildable: a screenshot of the VisualEditor interface (raster original).
+- File:VisualEditor Formula Insert Menu-en.png: not rebuildable: a screenshot of the VisualEditor interface (raster original).
