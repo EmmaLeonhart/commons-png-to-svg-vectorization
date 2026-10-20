@@ -580,3 +580,6 @@
   construction (0.6% pixels differ). Staged in upload/.
 - **File:Seeman douman.png → SVG** (`files/seeman-douman/`): regular pentagram and 4×5 kuji grid as round-capped
   strokes (ink IoU 0.93). Staged in upload/.
+- **File:Shadow picture of Ehime prefecture.png → SVG** (`files/shadow-ehime/`): the PNG is drawn rotated 29°, which the
+  batch fitter didn't allow (IoU 0.52); a direct fit with rotation gives IoU 0.931 from N03. Staged in upload/. The
+  other parked shadow pictures (Fukui, Gunma, Hiroshima) may have the same cause.
