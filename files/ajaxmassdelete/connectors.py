@@ -136,8 +136,9 @@ def join(paths, reach=26):
     return paths
 
 
-def extract(rgb, shaft_r=3.4):
-    m = np.abs(a - rgb).sum(2) < 12
+def extract(rgb, shaft_r=3.4, m=None):
+    if m is None:
+        m = np.abs(a - rgb).sum(2) < 12
     edt = ndimage.distance_transform_edt(m)
     heads = ndimage.binary_dilation(edt > shaft_r, iterations=6) & m
     lab, n = ndimage.label(heads)
@@ -174,8 +175,32 @@ def extract(rgb, shaft_r=3.4):
     return {'paths': paths, 'arrows': arrows}
 
 
+# white light areas that are not connectors: the document stacks, the 'wait for user input' shapes, the legend box
+NOT_WIRES = [(817, 150, 98, 99), (714, 536, 101, 102), (716, 682, 101, 102), (716, 844, 101, 102), (28, 1282, 98, 99),
+             (238, 519, 43, 48), (568, 1173, 43, 48), (20, 685, 325, 263)]
+
+
+def white_mask():
+    """white connector cores: pure white inside the two regions, minus nodes and the shapes above"""
+    from PIL import ImageDraw
+    import importlib.util
+    spec = importlib.util.spec_from_file_location('build', 'files/ajaxmassdelete/build.py')
+    build = importlib.util.module_from_spec(spec); spec.loader.exec_module(build)
+    nodes = build.NODES
+    img = Image.new('1', (W, H), 0); d = ImageDraw.Draw(img)
+    d.polygon([(14, 6), (979, 6), (979, 1146), (358, 1146), (358, 960), (14, 960)], fill=1)
+    d.polygon([(14, 964), (354, 964), (354, 1149), (834, 1149), (834, 1495), (14, 1495)], fill=1)
+    for k, x, y, w, h, t in nodes:
+        d.rectangle([x - 2, y - 2, x + w + 2, y + h + 2], fill=0)
+    for x, y, w, h in NOT_WIRES:  # their white outlines reach a little past the light area
+        d.rectangle([x - 6, y - 6, x + w + 6, y + h + 6], fill=0)
+    inside = ndimage.binary_erosion(np.asarray(img), iterations=5)  # off the white gaps along the region edges
+    return (a == 255).all(2) & inside
+
+
 if __name__ == '__main__':
     out = {k: extract(rgb, 4.6 if k == 'red' else 3.4) for k, rgb in STYLES.items()}
+    out['white'] = extract(None, 3.4, white_mask())
     json.dump(out, open('files/ajaxmassdelete/connectors.json', 'w'), indent=0)
     for k, v in out.items():
         print(k, len(v['paths']), 'paths', len(v['arrows']), 'arrows')

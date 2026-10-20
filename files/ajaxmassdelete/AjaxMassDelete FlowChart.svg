@@ -43,11 +43,21 @@
 <linearGradient id="g40"><stop offset="0" stop-color="#8b8baf"/><stop offset="1" stop-color="#cbcbff"/></linearGradient>
 <linearGradient id="g41"><stop offset="0" stop-color="#8b8baf"/><stop offset="1" stop-color="#cbcbff"/></linearGradient>
 <linearGradient id="g42"><stop offset="0" stop-color="#8e4646"/><stop offset="1" stop-color="#ca6464"/></linearGradient>
+<linearGradient id="s0"><stop offset="0" stop-color="#b8b8b8"/><stop offset="0.75" stop-color="#ffffff"/></linearGradient>
+<linearGradient id="s1"><stop offset="0" stop-color="#b8b8b8"/><stop offset="0.75" stop-color="#ffffff"/></linearGradient>
+<linearGradient id="s2"><stop offset="0" stop-color="#b8b8b8"/><stop offset="0.75" stop-color="#ffffff"/></linearGradient>
+<linearGradient id="s3"><stop offset="0" stop-color="#b8b8b8"/><stop offset="0.75" stop-color="#ffffff"/></linearGradient>
+<linearGradient id="s4"><stop offset="0" stop-color="#b8b8b8"/><stop offset="0.75" stop-color="#ffffff"/></linearGradient>
+<linearGradient id="s5"><stop offset="0" stop-color="#b8b8b8"/><stop offset="0.75" stop-color="#ffffff"/></linearGradient>
+<linearGradient id="lav"><stop offset="0" stop-color="#8b8baf"/><stop offset="1" stop-color="#cbcbff"/></linearGradient>
 </defs>
 <rect width="1000" height="1505" fill="#ffffff"/>
 <rect x="0.5" y="0.5" width="999" height="1504" fill="none" stroke="#000000"/>
 <path fill="#99ccff" d="M14,6H979V1146H358V960H14Z"/>
 <path fill="#cccc99" d="M14,964H354V1149H834V1495H14Z"/>
+<path fill="none" stroke="#333333" stroke-width="7" stroke-linejoin="round" d="M467.5,368.0 467.5,395.0M597.0,376.0 597.0,394.0M764.0,523.5 758.0,523.5M472.0,963.0 482.0,963.0M219.5,999.0 219.5,1033.0M907.0,1075.5 869.0,1075.5M610.0,1076.0 856.0,1076.0M220.0,1128.0 220.0,1204.0M77.0,1269.5 71.0,1269.5M607.0,48.5 670.5,48.5 670.5,65.0M296.0,64.0 296.0,118.5 285.0,118.5M669.5,167.0 669.5,209.0 156.0,209.0M488.0,264.5 456.0,264.5 456.0,248.5 481.0,248.5M22.0,329.0 22.0,505.5 34.0,505.5M596.5,407.0 596.5,432.0 316.0,432.0M773.0,523.0 765.5,523.0 765.5,508.0 664.0,508.0M604.0,588.5 550.5,588.5 550.5,734.0M769.0,796.5 767.5,796.5 767.5,796.5 767.0,796.5M766.0,808.5 759.0,808.5 662.5,810.0 662.5,797.5 655.0,797.5M606.0,894.5 550.0,894.5 550.0,733.0 606.0,733.0M768.0,958.5 766.5,958.5 766.5,958.5 766.0,958.5M765.0,972.5 758.0,972.5 662.5,974.0 662.5,959.5 655.0,959.5M412.5,1021.0 412.5,1077.0 482.0,1077.0M79.0,1221.0 79.0,1269.0 86.0,1269.0M540.0,83.5 546.5,83.5 546.5,94.5 538.0,94.5 482.0,96.0 482.0,59.5 428.0,59.5M928.0,199.0 928.0,200.5 960.0,200.5 960.0,334.0 880.5,334.0 880.5,333.0"/>
+<path fill="#ffffff" stroke="#333333" stroke-width="1" d="M670.5,75.0L662.0,65.0L679.0,65.0ZM491.0,248.5L481.0,257.0L481.0,240.0ZM22.0,319.0L30.5,329.0L13.5,329.0ZM597.0,366.0L605.5,376.0L588.5,376.0ZM654.0,508.0L664.0,499.5L664.0,516.5ZM492.0,963.0L482.0,971.5L482.0,954.5ZM492.0,1077.0L482.0,1085.5L482.0,1068.5ZM220.0,1214.0L211.5,1204.0L228.5,1204.0ZM79.0,1211.0L87.5,1221.0L70.5,1221.0Z"/>
+<path fill="none" stroke="#ffffff" stroke-width="5" stroke-linejoin="round" d="M467.5,368.0 467.5,395.0M597.0,376.0 597.0,394.0M764.0,523.5 758.0,523.5M472.0,963.0 482.0,963.0M219.5,999.0 219.5,1033.0M907.0,1075.5 869.0,1075.5M610.0,1076.0 856.0,1076.0M220.0,1128.0 220.0,1204.0M77.0,1269.5 71.0,1269.5M607.0,48.5 670.5,48.5 670.5,65.0M296.0,64.0 296.0,118.5 285.0,118.5M669.5,167.0 669.5,209.0 156.0,209.0M488.0,264.5 456.0,264.5 456.0,248.5 481.0,248.5M22.0,329.0 22.0,505.5 34.0,505.5M596.5,407.0 596.5,432.0 316.0,432.0M773.0,523.0 765.5,523.0 765.5,508.0 664.0,508.0M604.0,588.5 550.5,588.5 550.5,734.0M769.0,796.5 767.5,796.5 767.5,796.5 767.0,796.5M766.0,808.5 759.0,808.5 662.5,810.0 662.5,797.5 655.0,797.5M606.0,894.5 550.0,894.5 550.0,733.0 606.0,733.0M768.0,958.5 766.5,958.5 766.5,958.5 766.0,958.5M765.0,972.5 758.0,972.5 662.5,974.0 662.5,959.5 655.0,959.5M412.5,1021.0 412.5,1077.0 482.0,1077.0M79.0,1221.0 79.0,1269.0 86.0,1269.0M540.0,83.5 546.5,83.5 546.5,94.5 538.0,94.5 482.0,96.0 482.0,59.5 428.0,59.5M928.0,199.0 928.0,200.5 960.0,200.5 960.0,334.0 880.5,334.0 880.5,333.0"/>
 <path fill="none" stroke="#333333" stroke-width="7" stroke-linejoin="round" d="M27.0,45.0 21.5,45.0 21.5,116.0M148.0,121.0 160.0,121.0M96.0,249.0 96.0,258.0M774.0,257.5 816.0,257.5M338.0,337.0 423.0,337.0M541.0,337.0 552.0,337.0M96.0,454.0 96.0,470.0M286.0,543.5 409.0,543.5M413.0,673.0 413.0,685.0M413.0,777.0 413.0,788.0M413.0,880.0 413.0,897.0M170.0,1028.0 197.0,1028.0M112.0,1056.0 112.0,1114.0M616.0,1197.5 642.0,1197.5M101.0,1212.5 210.0,1212.5M272.0,1273.0 315.0,1273.0M647.0,1325.0 647.0,1338.0M562.0,1390.0 592.0,1390.0M224.5,189.0 224.5,194.0 159.0,194.0M258.0,252.5 285.5,252.5 285.5,269.0M204.5,291.0 204.5,310.0 148.0,310.0M159.0,401.0 701.0,401.0 701.0,334.5 766.0,334.5M912.5,631.0 912.5,1200.5 800.0,1200.5M164.0,1020.5 198.5,1020.5 198.5,1012.5 158.0,1012.5M586.5,1238.0 586.5,1271.0 433.0,1271.0M392.0,1338.0 392.0,1319.0 477.5,1319.0 477.5,1348.0M323.0,1362.0 280.0,1362.0 280.0,1331.0 237.0,1331.0M233.5,1430.0 233.5,1471.0 904.0,1469.5 912.5,1469.5 912.5,1205.0M725.0,305.5 712.0,305.5 712.0,304.0 704.5,304.0 704.5,306.0 670.0,306.0M148.0,522.5 201.0,522.5 201.0,613.0 248.0,611.5 256.5,611.5 256.5,584.0"/>
 <path fill="#00cc00" stroke="#333333" stroke-width="1" d="M21.5,126.0L13.0,116.0L30.0,116.0ZM170.0,121.0L160.0,129.5L160.0,112.5ZM149.0,194.0L159.0,185.5L159.0,202.5ZM96.0,268.0L87.5,258.0L104.5,258.0ZM826.0,257.5L816.0,266.0L816.0,249.0ZM285.5,279.0L277.0,269.0L294.0,269.0ZM204.5,281.0L213.0,291.0L196.0,291.0ZM715.0,305.5L725.0,297.0L725.0,314.0ZM433.0,337.0L423.0,345.5L423.0,328.5ZM562.0,337.0L552.0,345.5L552.0,328.5ZM149.0,401.0L159.0,392.5L159.0,409.5ZM96.0,480.0L87.5,470.0L104.5,470.0ZM419.0,543.5L409.0,552.0L409.0,535.0ZM256.5,574.0L265.0,584.0L248.0,584.0ZM912.5,621.0L921.0,631.0L904.0,631.0ZM413.0,695.0L404.5,685.0L421.5,685.0ZM413.0,798.0L404.5,788.0L421.5,788.0ZM413.0,907.0L404.5,897.0L421.5,897.0ZM148.0,1012.5L158.0,1004.0L158.0,1021.0ZM154.0,1020.5L164.0,1012.0L164.0,1029.0ZM112.0,1124.0L103.5,1114.0L120.5,1114.0ZM652.0,1197.5L642.0,1206.0L642.0,1189.0ZM586.5,1228.0L595.0,1238.0L578.0,1238.0ZM325.0,1273.0L315.0,1281.5L315.0,1264.5ZM392.0,1331.0L383.5,1321.0L400.5,1321.0ZM392.0,1339.0L383.5,1329.0L400.5,1329.0ZM392.0,1348.0L383.5,1338.0L400.5,1338.0ZM647.0,1348.0L638.5,1338.0L655.5,1338.0ZM227.0,1331.0L237.0,1322.5L237.0,1339.5ZM552.0,1390.0L562.0,1381.5L562.0,1398.5Z"/>
 <path fill="none" stroke="#00cc00" stroke-width="5" stroke-linejoin="round" d="M27.0,45.0 21.5,45.0 21.5,116.0M148.0,121.0 160.0,121.0M96.0,249.0 96.0,258.0M774.0,257.5 816.0,257.5M338.0,337.0 423.0,337.0M541.0,337.0 552.0,337.0M96.0,454.0 96.0,470.0M286.0,543.5 409.0,543.5M413.0,673.0 413.0,685.0M413.0,777.0 413.0,788.0M413.0,880.0 413.0,897.0M170.0,1028.0 197.0,1028.0M112.0,1056.0 112.0,1114.0M616.0,1197.5 642.0,1197.5M101.0,1212.5 210.0,1212.5M272.0,1273.0 315.0,1273.0M647.0,1325.0 647.0,1338.0M562.0,1390.0 592.0,1390.0M224.5,189.0 224.5,194.0 159.0,194.0M258.0,252.5 285.5,252.5 285.5,269.0M204.5,291.0 204.5,310.0 148.0,310.0M159.0,401.0 701.0,401.0 701.0,334.5 766.0,334.5M912.5,631.0 912.5,1200.5 800.0,1200.5M164.0,1020.5 198.5,1020.5 198.5,1012.5 158.0,1012.5M586.5,1238.0 586.5,1271.0 433.0,1271.0M392.0,1338.0 392.0,1319.0 477.5,1319.0 477.5,1348.0M323.0,1362.0 280.0,1362.0 280.0,1331.0 237.0,1331.0M233.5,1430.0 233.5,1471.0 904.0,1469.5 912.5,1469.5 912.5,1205.0M725.0,305.5 712.0,305.5 712.0,304.0 704.5,304.0 704.5,306.0 670.0,306.0M148.0,522.5 201.0,522.5 201.0,613.0 248.0,611.5 256.5,611.5 256.5,584.0"/>
@@ -55,6 +65,7 @@
 <path fill="#993333" d="M862.5,891.0L871.0,901.0L854.0,901.0ZM239.0,1121.0L247.5,1131.0L230.5,1131.0ZM241.0,1154.0L249.5,1164.0L232.5,1164.0Z"/>
 <path fill="none" stroke="#ff9933" stroke-width="5" stroke-linejoin="round" d="M501.5,572.0 501.5,620.0 466.0,620.0M746.5,1240.0 746.5,1272.0 699.0,1272.0"/>
 <path fill="#ff9933" d="M501.5,562.0L510.0,572.0L493.0,572.0ZM746.5,1230.0L755.0,1240.0L738.0,1240.0Z"/>
+<rect x="19.5" y="684.5" width="326" height="264" fill="#ffffff" stroke="#000000"/>
 <rect x="29" y="11" width="129" height="65" rx="32.5" fill="#3298ff"/>
 <rect x="34.5" y="16.5" width="118.0" height="54.0" rx="27.0" fill="url(#g0)"/>
 <rect x="318" y="22" width="100" height="74" rx="9" fill="#3298ff"/>
@@ -174,6 +185,28 @@
 <rect x="596" y="1353" width="100" height="74" rx="9" fill="#3298ff"/>
 <rect x="603.5" y="1360.5" width="88.0" height="62.0" rx="3.5" fill="#226ab2"/>
 <rect x="601.5" y="1358.5" width="89.0" height="63.0" rx="3.5" fill="url(#g42)"/>
+<path d="M817,156A6,6 0 0 1 823,150H889A6,6 0 0 1 895,156V216.4C871.6,205.3 849.8,235.3 817,223.5Z" fill="url(#s0)" stroke="#ffffff" stroke-width="2.5"/>
+<path d="M827,166A6,6 0 0 1 833,160H899A6,6 0 0 1 905,166V226.4C881.6,215.3 859.8,245.3 827,233.5Z" fill="url(#s0)" stroke="#ffffff" stroke-width="2.5"/>
+<path d="M837,176A6,6 0 0 1 843,170H909A6,6 0 0 1 915,176V236.4C891.6,225.3 869.8,255.3 837,243.5Z" fill="url(#s0)" stroke="#ffffff" stroke-width="2.5"/>
+<path d="M714,542A6,6 0 0 1 720,536H789A6,6 0 0 1 795,542V604.9C770.7,593.4 748.0,624.6 714,612.3Z" fill="url(#s1)" stroke="#ffffff" stroke-width="2.5"/>
+<path d="M724,552A6,6 0 0 1 730,546H799A6,6 0 0 1 805,552V614.9C780.7,603.4 758.0,634.6 724,622.3Z" fill="url(#s1)" stroke="#ffffff" stroke-width="2.5"/>
+<path d="M734,562A6,6 0 0 1 740,556H809A6,6 0 0 1 815,562V624.9C790.7,613.4 768.0,644.6 734,632.3Z" fill="url(#s1)" stroke="#ffffff" stroke-width="2.5"/>
+<path d="M716,688A6,6 0 0 1 722,682H791A6,6 0 0 1 797,688V750.9C772.7,739.4 750.0,770.6 716,758.3Z" fill="url(#s2)" stroke="#ffffff" stroke-width="2.5"/>
+<path d="M726,698A6,6 0 0 1 732,692H801A6,6 0 0 1 807,698V760.9C782.7,749.4 760.0,780.6 726,768.3Z" fill="url(#s2)" stroke="#ffffff" stroke-width="2.5"/>
+<path d="M736,708A6,6 0 0 1 742,702H811A6,6 0 0 1 817,708V770.9C792.7,759.4 770.0,790.6 736,778.3Z" fill="url(#s2)" stroke="#ffffff" stroke-width="2.5"/>
+<path d="M716,850A6,6 0 0 1 722,844H791A6,6 0 0 1 797,850V912.9C772.7,901.4 750.0,932.6 716,920.3Z" fill="url(#s3)" stroke="#ffffff" stroke-width="2.5"/>
+<path d="M726,860A6,6 0 0 1 732,854H801A6,6 0 0 1 807,860V922.9C782.7,911.4 760.0,942.6 726,930.3Z" fill="url(#s3)" stroke="#ffffff" stroke-width="2.5"/>
+<path d="M736,870A6,6 0 0 1 742,864H811A6,6 0 0 1 817,870V932.9C792.7,921.4 770.0,952.6 736,940.3Z" fill="url(#s3)" stroke="#ffffff" stroke-width="2.5"/>
+<path d="M28,1288A6,6 0 0 1 34,1282H100A6,6 0 0 1 106,1288V1348.4C82.6,1337.3 60.8,1367.3 28,1355.5Z" fill="url(#s4)" stroke="#ffffff" stroke-width="2.5"/>
+<path d="M38,1298A6,6 0 0 1 44,1292H110A6,6 0 0 1 116,1298V1358.4C92.6,1347.3 70.8,1377.3 38,1365.5Z" fill="url(#s4)" stroke="#ffffff" stroke-width="2.5"/>
+<path d="M48,1308A6,6 0 0 1 54,1302H120A6,6 0 0 1 126,1308V1368.4C102.6,1357.3 80.8,1387.3 48,1375.5Z" fill="url(#s4)" stroke="#ffffff" stroke-width="2.5"/>
+<path d="M34,799A6,6 0 0 1 40,793H61A6,6 0 0 1 67,799V820.7C57.1,816.1 47.9,828.6 34,823.7Z" fill="url(#s5)" stroke="#3298ff" stroke-width="1.5"/>
+<path d="M38,803A6,6 0 0 1 44,797H65A6,6 0 0 1 71,803V824.7C61.1,820.1 51.9,832.6 38,827.7Z" fill="url(#s5)" stroke="#3298ff" stroke-width="1.5"/>
+<path d="M42,807A6,6 0 0 1 48,801H69A6,6 0 0 1 75,807V828.7C65.1,824.1 55.9,836.6 42,831.7Z" fill="url(#s5)" stroke="#3298ff" stroke-width="1.5"/>
+<path d="M54,688L74,707.5L54,727L34,707.5Z" fill="url(#lav)" stroke="#3298ff" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M37,860H66A10,10 0 0 1 66,880H37A3,3 0 0 1 34,877V863A3,3 0 0 1 37,860Z" fill="url(#s0)" stroke="#3298ff" stroke-width="1.5"/>
+<path d="M233,518H282L274,565Q273,568 269,568H246Q242,568 241,565Z" fill="url(#s0)" stroke="#3298ff" stroke-width="2"/>
+<path d="M563,1172H612L604,1219Q603,1222 599,1222H576Q572,1222 571,1219Z" fill="url(#s0)" stroke="#3298ff" stroke-width="2"/>
 <text x="41.0" y="48.0" font-size="9.72" letter-spacing="0.31" font-weight="bold" fill="#ffffff" font-family="Verdana, 'DejaVu Sans', sans-serif">Perfom batch task</text>
 <text x="335.0" y="56.0" font-size="9.62" letter-spacing="0.18" font-weight="bold" fill="#333333" font-family="Verdana, 'DejaVu Sans', sans-serif">findOriginal</text>
 <text x="342.0" y="68.0" font-size="9.62" letter-spacing="0.29" font-weight="bold" fill="#333333" font-family="Verdana, 'DejaVu Sans', sans-serif">Uploader</text>
@@ -237,4 +270,24 @@
 <text x="479.0" y="1400.0" font-size="9.09" letter-spacing="1.0" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">Image</text>
 <text x="616.0" y="1388.0" font-size="9.72" letter-spacing="0.57" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">mdRvEval</text>
 <text x="624.0" y="1397.0" font-size="6.94" letter-spacing="1.71" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">Selction</text>
+<text x="840.0" y="185.0" font-size="9.72" letter-spacing="0.62" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">mdExtract</text>
+<text x="854.0" y="197.0" font-size="9.09" letter-spacing="0.67" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">Tags</text>
+<text x="841.0" y="221.0" font-size="9.72" letter-spacing="0.14" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">~License</text>
+<text x="737.0" y="584.0" font-size="9.72" letter-spacing="0.57" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">mdInsert</text>
+<text x="734.0" y="596.0" font-size="9.72" letter-spacing="0.22" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">Permission</text>
+<text x="721.0" y="693.0" font-size="6.94" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">mdPrepend</text>
+<text x="734.0" y="719.0" font-size="9.62" letter-spacing="2.14" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">Template</text>
+<text x="721.0" y="755.0" font-size="9.62" letter-spacing="0.29" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">notifyUploaders</text>
+<text x="733.0" y="880.0" font-size="9.62" letter-spacing="0.62" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">mdPrepend</text>
+<text x="741.0" y="892.0" font-size="9.62" letter-spacing="0.29" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">Template</text>
+<text x="721.0" y="916.0" font-size="9.62" letter-spacing="0.29" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">notifyUploaders</text>
+<text x="60.0" y="1323.0" font-size="9.72" letter-spacing="0.67" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">mdRv</text>
+<text x="47.0" y="1335.0" font-size="9.09" letter-spacing="0.88" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">CreateImg</text>
+<text x="36.0" y="1347.0" font-size="9.72" letter-spacing="0.15" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">RevisionMatrix</text>
+<text x="238.0" y="534.0" font-size="9.72" letter-spacing="-0.57" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">wait for</text>
+<text x="243.0" y="546.0" font-size="9.26" letter-spacing="1.0" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">user</text>
+<text x="241.0" y="559.0" font-size="8.33" letter-spacing="1.5" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">input</text>
+<text x="568.0" y="1188.0" font-size="9.72" letter-spacing="-0.57" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">wait for</text>
+<text x="573.0" y="1200.0" font-size="9.26" letter-spacing="1.0" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">user</text>
+<text x="571.0" y="1213.0" font-size="8.33" letter-spacing="1.5" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">input</text>
 </svg>
