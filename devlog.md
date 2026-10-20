@@ -448,3 +448,5 @@
 - File:Katana (common shema).png: not rebuildable without tracing. The labels and leader lines could be constructed, but
   the sword and scabbard are a shaded painted illustration; File:Katana diagram.svg on Commons vectorises a different
   diagram.
+- **File:KAWI LETTER OM.png → SVG** (`files/kawi-letter-om/`): Kawi O + candrabindu as `<text>` in Noto Sans Kawi,
+  IoU 0.973. Staged in upload/. Licence OFL, as the PNG (note for the upload package: OFL, not CC BY-SA).

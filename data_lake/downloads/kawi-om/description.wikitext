@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=A Kawi glyph in Noto Sans Kawi font.}}
+|date=2024-06-24
+|source=https://notofonts.github.io/kawi/ The Noto Project Authors
+|author=Fadhl Waliy Ul Haqq
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+
+{{OFL|[https://notofonts.github.io/kawi/ The Noto Project Authors]|2023|1.1}}
+
+{{Uncategorized|year=2024|month=June|day=24}}
