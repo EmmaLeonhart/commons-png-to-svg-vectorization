@@ -358,3 +358,7 @@
   flag (svgelements' own subpath output loses the current point, so they are rewritten with absolute commands).
   The call on the lettering: kept as the emblem's outlines (reused artwork, not text set here). 2.41% of pixels
   differ. Staged in upload/.
+- File:Flag of the Japan Air Self-Defense Force (1955-1957).png: not rebuildable without tracing (the call on its
+  emblem question). Its emblem is an older, different design (smaller eagle, solid wing band, star ring) from
+  Sodacan's JASDF emblem SVG; substituting that would misrepresent the 1955 flag, and the older drawing has no
+  vector source.
