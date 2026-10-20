@@ -345,3 +345,4 @@
   Staged in upload/.
 - File:EcoviaLogo.png: removed from the queue; already triaged as NOT REBUILDABLE without tracing: a wordmark in custom lettering with a freeform leaf; no vector logo on Commons
 - File:Enabling Visual Editor.png: removed from the queue; already triaged as NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
+- File:Ensign of the United States Revenue-Marine (1799).png: removed from the queue; already triaged as NOT REBUILDABLE without tracing: the 16 stripes are trivial, but each canton eagle is a freeform drawing with no vector source (searched Commons 2026-10-15; the USCG ensign SVG's eagle is a different design)
