@@ -460,3 +460,6 @@
   Noto Sans Sharada (the PNG's own font); IoU 0.85. Staged in upload/.
 - **File:Kounoke kamon.png → SVG** (`files/kounoke-kamon/`): octagonal ring (fitted octagon + 58 px round offset) and
   three bands on one fitted sine wave; IoU 0.98. Staged in upload/.
+- **File:Kōfukuji plan.png → SVG** (`files/kofukuji-plan/`): anti-aliased 1 px plan lines measured at sub-pixel positions
+  as exact segments, two fitted octagons, the triangle; staged in upload/. (The download lost the macron in its file
+  name in the shell; renamed with Python.)
