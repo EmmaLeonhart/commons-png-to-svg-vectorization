@@ -304,3 +304,4 @@
   borders, rivers and lakes added to `data_lake/downloads/natural-earth/`.
 - **File:Bonji-I.png → SVG** (`files/bonji-i/`): Siddham I as `<text>` in Noto Sans Siddham (typeset vs. brush, IoU 0.30). Staged.
 - **File:Bonji-Ii.png → SVG** (`files/bonji-ii/`): Siddham Ii as `<text>` in Noto Sans Siddham (typeset vs. brush, IoU 0.42). Staged.
+- **File:BonjiA.png → SVG** (`files/bonjia/`): Siddham A as `<text>` in Noto Sans Siddham (typeset vs. brush, IoU 0.58). Staged.
