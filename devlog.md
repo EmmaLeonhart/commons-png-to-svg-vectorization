@@ -809,3 +809,5 @@
   stroke (pointed left end, rounded right end, curved edges), the freeform-kamon class. The Commons ichimonji SVGs
   (Japanese Crest Ichimonji.svg, Japanese Crest Yamauchi Ichimonji.svg) draw a different bar. PNG kept in
   `data_lake/downloads/maru-ni-ichimonji/`.
+- File:三本杉（さんぼんすぎ）.png: not rebuildable without tracing: three freehand cedar trees (freeform-kamon class); no
+  SVG of the crest on Commons (searched). PNG kept in `data_lake/downloads/sanbonsugi/`.

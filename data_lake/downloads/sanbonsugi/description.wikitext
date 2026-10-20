@@ -1,0 +1,14 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ja|1=三本杉（さんぼんすぎ）　家紋である杉紋の一つ。}}
+|date=2023-06-11
+|source={{own}}
+|author=[[User:MLFU5BrYMJ2|MLFU5BrYMJ2]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Japanese crests of flowers and plants]]
