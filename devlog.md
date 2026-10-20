@@ -521,3 +521,5 @@
   "NAVI MUMBAI METRO" caption could be text); Commons has only other PNGs of the logo.
 - File:Nbfr logo.png: removed from the queue; already triaged as NOT REBUILDABLE without tracing: a freehand brush mark (badminton federation logo, 107×51)
 - File:Neulicht.Botein.P1162773.png: not rebuildable, a raster original (a photograph of the crescent Moon and Botein).
+- **File:New Tai Lue script sample.png → SVG** (`files/new-tai-lue-script-sample/`): ten glyphs identified by matching
+  and an eye check (one corrected to vowel sign AY), set as `<text>` in Noto Sans New Tai Lue. Staged in upload/.
