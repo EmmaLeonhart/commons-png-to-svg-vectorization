@@ -818,3 +818,6 @@
   estimate "from aerial photos, YouTube and the like, partly guessed" (its own note): freehand forest and lawn edges, a
   curved main path, irregular steps, with no data source; OpenStreetMap footprints would make a different map. PNG kept
   in `data_lake/downloads/yoshida-jinja-map/`.
+- File:大山道.png: already vectorized. It is the uploader's own PNG re-upload of File:大山通.svg (its description says so);
+  rendered side by side, the PNG is that SVG cropped to the map. Nothing to build. PNG kept in
+  `data_lake/downloads/oyama-michi/`.
