@@ -688,3 +688,4 @@
   en.wikipedia Help:Multilingual support) as `<text>` in Noto Sans Balinese. Staged in upload/.
 - File:Talk tab location - Minerva - en.png: removed from the queue; already triaged as NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
 - File:Talk tab location - Vector 2022 - en.png: removed from the queue; already triaged as NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
+- **File:Tangut Sample.png → SVG** (`files/tangut-sample/`): 𗈁𗤻𗖰𗚩 as `<text>` in Noto Serif Tangut. Staged in upload/.
