@@ -1,0 +1,20 @@
+<!--This file was moved here using FileImporter from https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Itsukushima-island.png-->
+== {{int:filedesc}} ==
+{{Information
+|Description    = {{ja|広島県、厳島の位置}}
+|Source         = [[:File:Japan map.png]]
+|Date           = 
+|Author         = * 改変元：著作権・使用制限テンプレート参照
+* 改変部分：アップロード者
+|Permission     = {{Japan map}}
+|other_versions = 
+}}
+
+== {{int:license-header}} ==
+{{GFDL|migration=redundant}}
+{{Cc-by-sa-3.0}}
+
+[[Category:Maps of Hiroshima prefecture]]
+[[Category:Geography of Miyajima]]
+[[Category:Aki Islands]]
+[[Category:Maps of islands of the Seto Inland Sea]]

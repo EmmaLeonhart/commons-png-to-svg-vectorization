@@ -428,3 +428,6 @@
 - **File:Indigenous of Asia.png → SVG** (`files/indigenous-of-asia/`): Pahawh Hmong sentence as `<text>` in Noto Sans
   Pahawh Hmong, letters identified by glyph matching; `tools/glyph_specimen.py` now takes fallback fonts (the full
   stop is DejaVu Sans). Staged in upload/.
+- **File:Itsukushima-island.png → SVG** (`files/itsukushima-island/`): N03 2000 municipalities of Hiroshima and
+  Yamaguchi (real geography, as for the other Japan map.png crops), Itsukushima green, 17 transcribed labels as
+  `<text>`, leaders and underlines from the PNG's pixel runs; land IoU 0.83. Staged in upload/.
