@@ -674,3 +674,8 @@
   0.6% pixels differ. Staged in upload/.
 - **File:Size of Lake Suwa.png → SVG** (`files/lake-suwa/`): GSI 10 m DEM bands (765/800/900 m), the 765 m old lake,
   W09 current lake (IoU 0.975, Web Mercator), W05 rivers, labels as `<text>` (Bahnschrift), torii as shapes. Staged in upload/.
+- File:Stema TR.png: not rebuildable without tracing. The eagle's wings and head are those of the 1992 Romanian arms
+  (File:Coat of arms of Romania.svg, 2008 revision, and File:Coat of arms of Romania Eagle (1992-2016).svg), but in
+  every vector version the escutcheon covers the breast. The PNG's scaled breast and empty talons were drawn by its
+  uploader. The escutcheon's own Wallachia quarter is a different, simpler eagle (tried: 50% pixels differ).
+  Downloads kept in `data_lake/downloads/stema-tr/`.
