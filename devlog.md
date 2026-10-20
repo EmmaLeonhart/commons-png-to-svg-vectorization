@@ -469,3 +469,5 @@
   Staged in upload/.
 - **File:Lontara script.png → SVG** (`files/lontara-script/`): "Basa Ugi" in Noto Sans Buginese as `<text>`. Staged in
   upload/.
+- **File:Malayalam Om.png → SVG** (`files/malayalam-om/`): ഓം as `<text>` in Noto Sans Malayalam (IoU 0.59). Staged in
+  upload/.
