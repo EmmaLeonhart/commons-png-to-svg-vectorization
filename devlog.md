@@ -745,3 +745,4 @@
 - File:VisualEditor Formula Insert Menu-en.png: not rebuildable: a screenshot of the VisualEditor interface (raster original).
 - File:VisualEditor formula-en.png: not rebuildable: a screenshot of the VisualEditor interface (raster original).
 - File:VisualEditor Insert Menu-en.png: not rebuildable: a screenshot of the VisualEditor interface (raster original).
+- File:VisualEditor insert table.png: not rebuildable: a screenshot of the VisualEditor interface (raster original).
