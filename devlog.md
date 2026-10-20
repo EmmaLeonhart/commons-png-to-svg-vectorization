@@ -336,3 +336,7 @@
 - File:Dravidische Sprachen.png: not rebuildable without tracing. Hand-drawn language areas (copied from a 1992
   atlas, per its description) over a raster relief base from demis.nl; Dravidian map.svg on Commons is a different
   map with other sources and classes.
+- File:Eastern Europe (Robinson projection).png: in progress. `files/eastern-europe-robinson/build.py` registers
+  the 2011-01-03 revision of BlankMap-World6.svg (CSS-classed countries, rendered as an index image with crisp
+  edges) against the PNG and colours the 21 green countries; 3.2% of pixels differ. Two fixes left (light-grey
+  units from other CSS rules, border width), noted on the queue line.
