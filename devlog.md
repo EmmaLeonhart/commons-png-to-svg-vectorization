@@ -681,3 +681,4 @@
   Downloads kept in `data_lake/downloads/stema-tr/`.
 - **File:Sugeng rawuh tuladha.png → SVG** (`files/sugeng-rawuh/`): the Javanese welcome text (spelling from en.wikipedia
   Help:Multilingual support) as `<text>` in Tuladha Jejeg OT (OFL); glyph for glyph. Staged in upload/.
+- **File:Sunda Sa.png → SVG** (`files/sunda-sa/`): ᮞ as `<text>` in Noto Sans Sundanese (IoU 0.85). Staged in upload/.
