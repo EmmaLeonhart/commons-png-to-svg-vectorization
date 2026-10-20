@@ -303,3 +303,4 @@
   labels as fitted `<text>`, north arrow and scale bar. 5.9% of pixels differ. Staged in upload/. Natural Earth
   borders, rivers and lakes added to `data_lake/downloads/natural-earth/`.
 - **File:Bonji-I.png → SVG** (`files/bonji-i/`): Siddham I as `<text>` in Noto Sans Siddham (typeset vs. brush, IoU 0.30). Staged.
+- **File:Bonji-Ii.png → SVG** (`files/bonji-ii/`): Siddham Ii as `<text>` in Noto Sans Siddham (typeset vs. brush, IoU 0.42). Staged.
