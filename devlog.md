@@ -566,3 +566,5 @@
   could replace it in Template:Taxobox/doc. PNG kept in `data_lake/downloads/pleurodeles-dis/`.
 - File:Position Alpha Cmi.png: removed from the queue; already triaged as NOT REBUILDABLE as drawn: a planetarium-program screenshot (star field with glow). A new chart could be drawn from a star catalogue, but that is a new image: NEEDS-DECISION (user) if wanted
 - File:Position Beta Cma.png: removed from the queue; already triaged as NOT REBUILDABLE as drawn: a planetarium-program screenshot (star field with glow). A new chart could be drawn from a star catalogue, but that is a new image: NEEDS-DECISION (user) if wanted
+- **File:Position of Ashibe Port Iki City.png → SVG** (`files/ashibe-port-iki/`): N03 Iki, the real shore inside the PNG's
+  blue mark in blue (checked against OSM's 芦辺港), labels as `<text>`. Staged in upload/.
