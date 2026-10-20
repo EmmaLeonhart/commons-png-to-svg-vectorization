@@ -679,3 +679,5 @@
   every vector version the escutcheon covers the breast. The PNG's scaled breast and empty talons were drawn by its
   uploader. The escutcheon's own Wallachia quarter is a different, simpler eagle (tried: 50% pixels differ).
   Downloads kept in `data_lake/downloads/stema-tr/`.
+- **File:Sugeng rawuh tuladha.png → SVG** (`files/sugeng-rawuh/`): the Javanese welcome text (spelling from en.wikipedia
+  Help:Multilingual support) as `<text>` in Tuladha Jejeg OT (OFL); glyph for glyph. Staged in upload/.

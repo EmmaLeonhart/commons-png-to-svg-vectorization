@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Javanese ''sugeng rawuh wonten ing Wikipedia Jawi'', meaning "welcome to the Javanese Wikipedia". Using Tuladha Jejeg font.}}
+|date=2013-06-16 18:01:15
+|source=Tuladha jejeg font
+|author=RS Wihananto
+|permission=
+|other_versions=
+|other_fields=
+}}
+
+=={{int:license-header}}==
+{{Open Font}}
+
+[[Category:Tables and samples of Javanese script]]
+[[Category:Javanese letters in Tuladha Jejeg font]]
