@@ -1,0 +1,14 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Mention of the name of Muhammad in sylheti nagari harf}}
+|date=2026-01-19
+|source={{own}}
+|author=[[User:RongerDuniya100|RongerDuniya100]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-zero}}
+
+[[Category:ꠝꠥꠢꠣꠝ꠆ꠝꠣꠖ (text)]]

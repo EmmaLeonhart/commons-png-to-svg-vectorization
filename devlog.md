@@ -511,3 +511,5 @@
 - File:Nagikama.png: not rebuildable without tracing (freehand outline drawings of three nagikama blades).
 - File:Nakano Inugoya dog shelters 1696.png: not rebuildable, a raster original (a scanned woodblock-style illustration
   from a 1928 book).
+- **File:Name muhammad in sylheti nagari.png → SVG** (`files/name-muhammad-sylheti-nagari/`): the name in Noto Sans
+  Syloti Nagri as `<text>`, IoU 0.96. Staged in upload/.
