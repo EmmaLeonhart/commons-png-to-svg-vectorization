@@ -710,3 +710,4 @@
   Tai Tham (the PNG's calligraphic face differs). Staged in upload/.
 - File:Umashimaji by Kikuchi Yōsai.png: not rebuildable without tracing. A woodblock figure illustration from the Zenken
   Kojitsu (freehand artwork). PNG kept in `data_lake/downloads/umashimaji/`.
+- File:Unwatched page in Vector.png: removed from the queue; already triaged as NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
