@@ -738,3 +738,4 @@
 - File:VisualEditor Apply Changes-en.png: not rebuildable: a LanguageScreenshotBot screenshot of the wiki interface (a
   raster original, like the other VisualEditor screenshots). PNG kept in `data_lake/downloads/ve-apply-changes/`.
 - File:VisualEditor category editing-en.png: not rebuildable: a screenshot of the VisualEditor interface (raster original).
+- File:VisualEditor category item-en.png: not rebuildable: a screenshot of the VisualEditor interface (raster original).
