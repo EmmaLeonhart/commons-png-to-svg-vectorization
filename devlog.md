@@ -542,4 +542,5 @@
 - **File:Ogham Sample.png → SVG** (`files/ogham-sample/`): the described ENABARR in Noto Sans Ogham, on white. Staged.
 - **File:Old Persian mi.png → SVG** (`files/old-persian-mi/`): 𐎷 as `<text>` in Noto Sans Old Persian (solid wedges where
   the PNG outlines them). Staged in upload/.
-- 2026-10-19 23:24 — File:Om in Cham script.png → SVG: ꨅꩌ as text in Noto Sans Cham (IoU 0.942); staged in upload/om-cham/.
+- **File:Om in Cham script.png → SVG** (`files/om-cham/`): ꨅꩌ (Cham O + final M) as `<text>` in Noto Sans Cham,
+  IoU 0.942. Staged in upload/.
