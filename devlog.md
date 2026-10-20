@@ -565,3 +565,4 @@
   already has a vector range map of the species, File:202012 Pleurodeles waltl.svg (a different map, 512×896), which
   could replace it in Template:Taxobox/doc. PNG kept in `data_lake/downloads/pleurodeles-dis/`.
 - File:Position Alpha Cmi.png: removed from the queue; already triaged as NOT REBUILDABLE as drawn: a planetarium-program screenshot (star field with glow). A new chart could be drawn from a star catalogue, but that is a new image: NEEDS-DECISION (user) if wanted
+- File:Position Beta Cma.png: removed from the queue; already triaged as NOT REBUILDABLE as drawn: a planetarium-program screenshot (star field with glow). A new chart could be drawn from a star catalogue, but that is a new image: NEEDS-DECISION (user) if wanted
