@@ -463,3 +463,5 @@
 - **File:Kōfukuji plan.png → SVG** (`files/kofukuji-plan/`): anti-aliased 1 px plan lines measured at sub-pixel positions
   as exact segments, two fitted octagons, the triangle; staged in upload/. (The download lost the macron in its file
   name in the shell; renamed with Python.)
+- **File:LFW2008 2403.png → SVG** (`files/lfw2008-2403/`): Tangut U+173C7 as `<text>` in Noto Serif Tangut (Noto's glyph
+  design, not the dictionary's; IoU 0.32). Staged in upload/.
