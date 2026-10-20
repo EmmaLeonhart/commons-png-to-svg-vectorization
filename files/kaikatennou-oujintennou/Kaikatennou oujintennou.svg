@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="352" height="901" viewBox="0 0 352 901">
+  <title>開化天皇から応神天皇への系図 (Family tree from Emperor Kaika to Emperor Ōjin)</title>
+  <rect width="352" height="901" fill="#ffffff"/>
+  <g style="fill:none;stroke:#000000;stroke-width:1">
+    <path d="M58,134.5 H222 M144,531.5 H224 M74,714.5 H134 M57.5,135 V151 M143.5,532 V550"/>
+  </g>
+  <g id="extra" style="fill:none;stroke:#000000;stroke-width:1">
+    <path d="M52.17,641 V675" stroke="#000000" stroke-width="1" fill="none"/>
+    <path d="M55.17,519 V549" stroke="#000000" stroke-width="1" fill="none"/>
+    <path d="M56.17,404 V434" stroke="#000000" stroke-width="1" fill="none"/>
+    <path d="M57.56,134 V151" stroke="#000000" stroke-width="1" fill="none"/>
+    <path d="M58.17,218 V248" stroke="#000000" stroke-width="1" fill="none"/>
+    <path d="M101.12,714 V799" stroke="#000000" stroke-width="1" fill="none"/>
+    <path d="M143.55,531 V550" stroke="#000000" stroke-width="1" fill="none"/>
+    <path d="M145.17,640 V674" stroke="#000000" stroke-width="1" fill="none"/>
+    <path d="M223.05,117 V155" stroke="#000000" stroke-width="1" fill="none"/>
+    <path d="M224.05,511 V549" stroke="#000000" stroke-width="1" fill="none"/>
+    <path d="M224.17,246 V284" stroke="#000000" stroke-width="1" fill="none"/>
+    <path d="M224.17,378 V416" stroke="#000000" stroke-width="1" fill="none"/>
+  </g>
+  <g id="dots">
+
+  </g>
+  <g id="names" style="font-family:'Noto Sans CJK JP', 'Noto Sans JP', 'MS Gothic', sans-serif;font-size:18px">
+    <text x="225.5" y="32.5" writing-mode="tb" style="fill:#000000">開化天皇</text>
+    <text x="57.5" y="159.5" writing-mode="tb" style="fill:#000000">彦坐王</text>
+    <text x="225.5" y="160.5" writing-mode="tb" style="fill:#000000">崇神天皇</text>
+    <text x="225.5" y="292.5" writing-mode="tb" style="fill:#000000">垂仁天皇</text>
+    <text x="226.0" y="426.5" writing-mode="tb" style="fill:#000000">景行天皇</text>
+    <text x="223.5" y="556.5" writing-mode="tb" style="fill:#000000">成務天皇</text>
+    <text x="146.0" y="560.5" writing-mode="tb" style="fill:#000000">日本武尊</text>
+    <text x="145.5" y="676.5" writing-mode="tb" style="fill:#000000">仲哀天皇</text>
+    <text x="53.0" y="677.5" writing-mode="tb" style="fill:#ff0000">神功皇后</text>
+    <text x="101.5" y="811.5" writing-mode="tb" style="fill:#000000">応神天皇</text>
+  </g>
+  <g id="notes" style="font-family:'Noto Sans CJK JP', 'Noto Sans JP', 'MS Gothic', sans-serif">
+    <text x="57.5" y="249.5" writing-mode="tb" style="font-size:15px;fill:#000000">山代之大筒木眞若王</text>
+    <text x="57.5" y="435.5" writing-mode="tb" style="font-size:15px;fill:#000000">迦邇米雷王</text>
+    <text x="55.5" y="552.5" writing-mode="tb" style="font-size:15px;fill:#000000">息長宿禰王</text>
+  </g>
+</svg>

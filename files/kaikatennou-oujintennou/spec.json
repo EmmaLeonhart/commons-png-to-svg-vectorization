@@ -1,0 +1,264 @@
+{
+ "png": "data_lake/downloads/kaikatennou-oujintennou/Kaikatennou oujintennou.png",
+ "out": "files/kaikatennou-oujintennou/Kaikatennou oujintennou.svg",
+ "title": "開化天皇から応神天皇への系図 (Family tree from Emperor Kaika to Emperor Ōjin)",
+ "font_size": 18,
+ "colours": {
+  "red": "#ff0000",
+  "black": "#000000"
+ },
+ "names": [
+  {
+   "text": "開化天皇",
+   "colour": "black",
+   "bold": false,
+   "box": [
+    216,
+    234,
+    33,
+    111
+   ]
+  },
+  {
+   "text": "彦坐王",
+   "colour": "black",
+   "bold": false,
+   "box": [
+    49,
+    65,
+    160,
+    216
+   ]
+  },
+  {
+   "text": "崇神天皇",
+   "colour": "black",
+   "bold": false,
+   "box": [
+    216,
+    234,
+    161,
+    239
+   ]
+  },
+  {
+   "text": "垂仁天皇",
+   "colour": "black",
+   "bold": false,
+   "box": [
+    216,
+    234,
+    293,
+    371
+   ]
+  },
+  {
+   "text": "景行天皇",
+   "colour": "black",
+   "bold": false,
+   "box": [
+    217,
+    234,
+    427,
+    505
+   ]
+  },
+  {
+   "text": "成務天皇",
+   "colour": "black",
+   "bold": false,
+   "box": [
+    214,
+    232,
+    557,
+    635
+   ]
+  },
+  {
+   "text": "日本武尊",
+   "colour": "black",
+   "bold": false,
+   "box": [
+    137,
+    154,
+    561,
+    638
+   ]
+  },
+  {
+   "text": "仲哀天皇",
+   "colour": "black",
+   "bold": false,
+   "box": [
+    136,
+    154,
+    677,
+    755
+   ]
+  },
+  {
+   "text": "神功皇后",
+   "colour": "red",
+   "bold": false,
+   "box": [
+    44,
+    61,
+    678,
+    754
+   ]
+  },
+  {
+   "text": "応神天皇",
+   "colour": "black",
+   "bold": false,
+   "box": [
+    92,
+    110,
+    812,
+    890
+   ]
+  }
+ ],
+ "notes": [
+  {
+   "text": "山代之大筒木眞若王",
+   "box": [
+    50,
+    64,
+    250,
+    398
+   ],
+   "size": 15,
+   "colour": "#000000",
+   "vertical": true
+  },
+  {
+   "text": "迦邇米雷王",
+   "box": [
+    50,
+    64,
+    436,
+    516
+   ],
+   "size": 15,
+   "colour": "#000000",
+   "vertical": true
+  },
+  {
+   "text": "息長宿禰王",
+   "box": [
+    48,
+    62,
+    553,
+    635
+   ],
+   "size": 15,
+   "colour": "#000000",
+   "vertical": true
+  }
+ ],
+ "line_colours": [
+  {
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "stroke": "#000000"
+  }
+ ],
+ "mask": [
+  [
+   215,
+   235,
+   32,
+   112
+  ],
+  [
+   48,
+   66,
+   159,
+   217
+  ],
+  [
+   215,
+   235,
+   160,
+   240
+  ],
+  [
+   215,
+   235,
+   292,
+   372
+  ],
+  [
+   216,
+   235,
+   426,
+   506
+  ],
+  [
+   213,
+   233,
+   556,
+   636
+  ],
+  [
+   136,
+   155,
+   560,
+   639
+  ],
+  [
+   135,
+   155,
+   676,
+   756
+  ],
+  [
+   43,
+   62,
+   677,
+   755
+  ],
+  [
+   91,
+   111,
+   811,
+   891
+  ],
+  [
+   49,
+   65,
+   249,
+   399
+  ],
+  [
+   49,
+   65,
+   435,
+   517
+  ],
+  [
+   47,
+   63,
+   552,
+   636
+  ]
+ ],
+ "extra": [
+  "<path d=\"M52.17,641 V675\" stroke=\"#000000\" stroke-width=\"1\" fill=\"none\"/>",
+  "<path d=\"M55.17,519 V549\" stroke=\"#000000\" stroke-width=\"1\" fill=\"none\"/>",
+  "<path d=\"M56.17,404 V434\" stroke=\"#000000\" stroke-width=\"1\" fill=\"none\"/>",
+  "<path d=\"M57.56,134 V151\" stroke=\"#000000\" stroke-width=\"1\" fill=\"none\"/>",
+  "<path d=\"M58.17,218 V248\" stroke=\"#000000\" stroke-width=\"1\" fill=\"none\"/>",
+  "<path d=\"M101.12,714 V799\" stroke=\"#000000\" stroke-width=\"1\" fill=\"none\"/>",
+  "<path d=\"M143.55,531 V550\" stroke=\"#000000\" stroke-width=\"1\" fill=\"none\"/>",
+  "<path d=\"M145.17,640 V674\" stroke=\"#000000\" stroke-width=\"1\" fill=\"none\"/>",
+  "<path d=\"M223.05,117 V155\" stroke=\"#000000\" stroke-width=\"1\" fill=\"none\"/>",
+  "<path d=\"M224.05,511 V549\" stroke=\"#000000\" stroke-width=\"1\" fill=\"none\"/>",
+  "<path d=\"M224.17,246 V284\" stroke=\"#000000\" stroke-width=\"1\" fill=\"none\"/>",
+  "<path d=\"M224.17,378 V416\" stroke=\"#000000\" stroke-width=\"1\" fill=\"none\"/>"
+ ]
+}

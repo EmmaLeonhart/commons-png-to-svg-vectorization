@@ -438,3 +438,6 @@
 - **File:Japan large.png → SVG** (`files/japan-large/`): new `tools/japan_region_map.py` (the Chubu build with the
   inset frame, highlighted prefectures and Kurils as parameters); land IoU 0.87; Amami Ōshima falls off the canvas at
   its true position (the PNG moves it). Staged in upload/.
+- **File:Kaikatennou oujintennou.png → SVG** (`files/kaikatennou-oujintennou/`): family tree via `tools/rebuild_tree.py`;
+  its vertical connectors are anti-aliased, so `verticals.py` measures them into the spec as exact lines. 13 names as
+  `<text>`. Staged in upload/.
