@@ -1,0 +1,29 @@
+To IMPROVE THIS PIC :
+
+Big part have to be with letters
+*  8 Tsuka => A Tsuka
+* ... => B (Handle) part from 13 to 16)
+* 22 sori => C Sori
+* 28 Mono-Uchi => D Mono-Uchi
+* 20 Saya => E Saya
+
+And for each part, number have to be in order :
+* A Tsuka => 1, 2, 3, 4, 5, 6, 7 menuki
+* B (handle) => 1, 2, 3, 4 habaki
+* C Sori => [1, 2, 3, 4 Nagasa/ 5 Shinogi, 6, 7 Ji, 8 Yokote]
+* D Mono-Uchi => [1 Ha, 2 Hasaki, 3, 4]
+* E Saya => 1 koigucchi, 2, 3, 4, [E-saya], 5 kojiri
+
+From: [[:Image:Katana (shema).png]] (deutsche Version)
+
+Beschreibung: Bestandteile eines japanischen Schwertes (neue Version)
+
+Autor: Jarok (eigene Zeichnung, gemeinfrei)
+
+{{GFDL|migration=relicense}}
+{{Atelier graphique}}
+
+[[Category:Parts of the Japanese sword blade]]
+[[Category:Glossary of Japanese sword parts]]
+[[Category:Media missing infobox template]]
+[[Category:Sageo]]
