@@ -531,3 +531,4 @@
   wrong text; the Unicode text from the uploader would unblock it.
 - File:North Texas Stacked Wordmark.png: not rebuildable without tracing. Custom athletic lettering; Commons' University
   of North Texas wordmark.svg is the separate "UNT" mark.
+- File:Notifications - Email received - January 2016.png: removed from the queue; already triaged as NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
