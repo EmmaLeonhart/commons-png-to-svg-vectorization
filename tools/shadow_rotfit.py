@@ -1,7 +1,8 @@
-"""Rebuild File:Shadow picture of Ehime prefecture.png from MLIT 国土数値情報 N03 (2024): the prefecture fitted to the
-PNG's black by IoU with scale, aspect, rotation and offset. Unlike the other shadow pictures this one is drawn rotated
-(about 29°; aspect 1.22 = 1/cos 35°, an equal-scale map at Ehime's latitude), which the batch fitter
-(tools/batch_shadow.py) does not allow for. Run from the repo root; `fit` refits."""
+"""Rebuild a "Shadow picture of X prefecture.png" from MLIT 国土数値情報 N03 (2024): the prefecture fitted to the PNG's
+black by IoU with scale, aspect, rotation and offset. For the shadow pictures that tools/batch_shadow.py (scale and
+offset only) cannot fit, e.g. Ehime, which is drawn rotated about 29°.
+usage (repo root): python tools/shadow_rotfit.py SLUG N03-CODE [fit]
+  reads data_lake/downloads/shadow-SLUG/Shadow picture of <Slug> prefecture.png, writes files/shadow-SLUG/"""
 import json, sys
 import numpy as np
 from PIL import Image, ImageDraw
@@ -12,15 +13,17 @@ from shapely.ops import unary_union, transform as stransform
 sys.path.insert(0, 'tools')
 from n03_prefecture_svg import load  # noqa: E402
 
-SRC = 'data_lake/downloads/shadow-ehime/Shadow picture of Ehime prefecture.png'
-OUT = 'files/shadow-ehime/Shadow picture of Ehime prefecture.svg'
-PAR = 'files/shadow-ehime/projection.json'
+SLUG, CODE = sys.argv[1], int(sys.argv[2])
+NAME = f'Shadow picture of {SLUG.capitalize()} prefecture'
+SRC = f'data_lake/downloads/shadow-{SLUG}/{NAME}.png'
+OUT = f'files/shadow-{SLUG}/{NAME}.svg'
+PAR = f'files/shadow-{SLUG}/projection.json'
 
 im = Image.open(SRC).convert('RGBA')
 a = np.asarray(Image.alpha_composite(Image.new('RGBA', im.size, 'white'), im).convert('L'))
 H, W = a.shape
 ink = a < 128
-geo = unary_union([shape(f['geometry']) for f in load(38)['features']]).buffer(0)
+geo = unary_union([shape(f['geometry']) for f in load(CODE)['features']]).buffer(0)
 parts = [g for g in (geo.geoms if hasattr(geo, 'geoms') else [geo]) if g.area > 1e-7]
 
 
@@ -55,7 +58,7 @@ def loss(p):
 
 
 if __name__ == '__main__':
-    if len(sys.argv) > 1 and sys.argv[1] == 'fit':
+    if len(sys.argv) > 3 and sys.argv[3] == 'fit':
         ys, xs = np.nonzero(ink)
         best = None
         for rot in range(-40, 41, 5):  # coarse grid over rotation and scale, then Nelder-Mead
