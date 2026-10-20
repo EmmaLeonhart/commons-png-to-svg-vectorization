@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Kamon of kounoke.}}
+|date=2018-02-27
+|source={{own}}
+|author=[[User:Shimomurake|Shimomurake]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Oshiki mon (Japanese crests)]]
+[[Category:Kōno clan]]

@@ -458,3 +458,5 @@
   1735 book; freeform line art).
 - **File:Koshur in Sharada Script.png → SVG** (`files/koshur-in-sharada/`): Kashmiri "Koshur" in Sharada as `<text>` in
   Noto Sans Sharada (the PNG's own font); IoU 0.85. Staged in upload/.
+- **File:Kounoke kamon.png → SVG** (`files/kounoke-kamon/`): octagonal ring (fitted octagon + 58 px round offset) and
+  three bands on one fitted sine wave; IoU 0.98. Staged in upload/.
