@@ -1,0 +1,22 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ja|1=株式会社天満屋のロゴ。}}
+{{en|1=Tenmaya Company, Limited logo.}}
+|date=2017-04-08
+|source=http://www.tenmaya.co.jp
+|author=Tenmaya Company, Limited
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-textlogo}}
+{{Trademarked}}
+
+[[Category:Tenmaya]]
+[[Category:Logos of retail companies of Japan]]
+[[Category:Logos of department stores]]
+[[Category:7 letter alphabet logos of Japan]]
+[[Category:Gray and pink logos]]
+[[Category:Emphasized pink logos]]
+[[Category:Vertically text logos]]
