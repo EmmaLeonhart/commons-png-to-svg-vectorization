@@ -578,3 +578,5 @@
   source, shadow arcs about the bar's tip, rays, θ as `<text>`); the Paint ellipses made exact circles. Staged in upload/.
 - **File:RSAFinfoboxflag.png → SVG** (`files/rsaf-flag/`): canton, crescent, stars, roundel and the 12-vertex emblem by
   construction (0.6% pixels differ). Staged in upload/.
+- **File:Seeman douman.png → SVG** (`files/seeman-douman/`): regular pentagram and 4×5 kuji grid as round-capped
+  strokes (ink IoU 0.93). Staged in upload/.
