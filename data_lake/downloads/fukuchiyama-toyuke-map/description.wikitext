@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ja|1=元伊勢外宮（京都府福知山市）の社殿の配置図です．
+境内社の社名は検索で出てきますが，配置は掲載されていないようですので作製しました．}}
+|date=2016-12-05
+|source={{own}}
+|author=[[User:Totitetisiti|Totitetisiti]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Toyōke Daijinja]]
+[[Category:Keidai-sha in Japan]]

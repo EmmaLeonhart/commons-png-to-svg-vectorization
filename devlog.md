@@ -364,3 +364,8 @@
   vector source.
 - File:Flag of the King of Korea (1856–1871).png: removed from the queue; already triaged as NOT REBUILDABLE without tracing: a painted dragon among clouds
 - File:Flag of the Mexican Maritime Search and Rescue.png: removed from the queue; already triaged as NOT REBUILDABLE: the emblem contains a photograph (boat at sea)
+- Royal Moroccan Air Force and South African Army (1966–1973) flags: still blocked (no vector badges; Commons
+  re-searched for the Moroccan one: rank insignia only). They stay; the tick moved on.
+- **File:Fukuchiyama Toyuke-daijinja map.png → SVG** (`files/fukuchiyama-toyuke-map/`): exact straight-run line work
+  and 45 transcribed labels as `<text>` with per-character cells; 1.7% of pixels differ. One reading (篷戸 vs 蓬戸)
+  flagged in notes.md. Staged in upload/.
