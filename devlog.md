@@ -298,3 +298,7 @@
 - File:BodhGayaCetiya silhouette.png: not rebuildable without tracing. The stepped base and towers are straight
   runs, but the finials, onion domes and the curved flanks of the central tower are freeform outlines; fitting
   them would be tracing (same rule as the chef's hat). No vector on Commons.
+- **File:Bohai Sea map.png → SVG** (`files/bohai-sea-map/`): Natural Earth 10m land, borders and rivers in a
+  Lambert conformal conic fitted to ten city dots (2.4 px RMS) and the land mask (IoU 0.91); graticule, dots,
+  labels as fitted `<text>`, north arrow and scale bar. 5.9% of pixels differ. Staged in upload/. Natural Earth
+  borders, rivers and lakes added to `data_lake/downloads/natural-earth/`.
