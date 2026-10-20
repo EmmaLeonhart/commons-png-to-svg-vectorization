@@ -1,0 +1,20 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|1=Seton Hall University's logo}}
+|Source={{transferred from|en.wikipedia|Innotata|CommonsHelper}}
+|Date={{original upload date|2009-01-24}}
+|Author={{original uploader|Anubis3|wikipedia|en}}
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{PD-textlogo}}
+{{Trademark}}
+
+== {{Original upload log}} ==
+{{original description page|en.wikipedia|Shu_logo.png}}
+* 2009-01-24 23:46 [[:en:User:Anubis3|Anubis3]] 309×56× (3534 bytes) ''<nowiki>{{logo fur <!-- REQUIRED --> |Article=Seton Hall University |Use=Org <!-- HIGHLY RECOMMENDED --> |Source= Seton Hall University <!-- ADDITIONAL INFORMATION --> |Used_for= |Owner= |Website=http://www.shu.edu/ |History= |Commentary= <!-- OVERRIDE FIELDS --</nowiki>''
+
+[[Category:Seton Hall University]]
+[[Category:Logos of universities and colleges in New Jersey]]

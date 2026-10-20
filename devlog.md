@@ -668,3 +668,5 @@
 - File:Shiogama-zakura inverted.png: not rebuildable without tracing. The petals and stamens are geometric, but the three
   oak leaves are freeform serrated shapes drawn in Illustrator. There is no vector (normal or inverted) on Commons
   (searched). PNG kept in `data_lake/downloads/shiogama-zakura/`.
+- **File:Shu logo.png → SVG** (`files/shu-logo/`): SETON HALL as `<text>` (Garamond, glyphs placed per letter) with its
+  drop shadow. Staged in upload/.
