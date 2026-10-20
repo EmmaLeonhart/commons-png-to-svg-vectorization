@@ -414,3 +414,7 @@
   was tried and rejected (27 dB, visible). Per-card numbers in `tarot/report.txt`. First tool version rebuilt the
   document and ignored Inkscape transforms; replaced by the in-place version.
 - Pause ended at 20:00; queue resumed (checked at 20:21).
+- File:Historical expanse of Ainu.png: already vectorized on Commons. Its own page lists File:Historical expanse of
+  the Ainu.svg as the other version: the same content (attested and suspected Ainu ranges, toponym dots) redrawn in
+  another projection with a legend. The PNG's own drawing could only be reproduced by tracing its hand-drawn ranges,
+  so it is recorded rather than redone.
