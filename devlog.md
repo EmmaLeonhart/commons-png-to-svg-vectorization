@@ -687,3 +687,4 @@
 - **File:Swasti Prapti ring Wikipédia Basa Bali.png → SVG** (`files/swasti-prapti/`): the Balinese welcome text (from
   en.wikipedia Help:Multilingual support) as `<text>` in Noto Sans Balinese. Staged in upload/.
 - File:Talk tab location - Minerva - en.png: removed from the queue; already triaged as NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
+- File:Talk tab location - Vector 2022 - en.png: removed from the queue; already triaged as NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
