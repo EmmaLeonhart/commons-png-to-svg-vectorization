@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|Description ={{Ja|長野県上田市下之郷にある生島足島神社の神紋。三つ巴に立梶の葉}}
+|Source      = Self-published work by [[User:J6nYAXJy|J6nYAXJy]]
+|Date        = 
+|Author      = [[User:J6nYAXJy|J6nYAXJy]]
+|Permission  = 
+|other_versions = 
+}}
+
+=={{int:license-header}} ==
+{{self|GFDL|cc-by-sa-all}}
+
+[[Category:Ikushimatarushima-jinja]]
+[[Category:Kaji mon (Japanese crests of Paper mulberry)]]
+[[Category:Tomoe mon (Japanese crests of Tomoe)]]

@@ -422,3 +422,6 @@
 - File:Idioma osetio.png: not rebuildable without tracing. The Caucasus base could come from Natural Earth, but the
   map's content is the hand-painted Ossetian-speaking areas (freehand minority patches; the page is tagged "map
   datasource missing"), which only tracing would reproduce.
+- File:Ikushimatarushimajinja.png: not rebuildable without tracing. The shrine crest is two mitsudomoe flanking a
+  standing kaji leaf; Commons has tomoe SVGs, but its kaji SVGs are other designs (rounded lobes where this leaf is
+  pointed and serrated), and the leaf is organic artwork that only tracing would reproduce.
