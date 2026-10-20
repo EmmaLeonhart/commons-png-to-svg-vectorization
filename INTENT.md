@@ -156,6 +156,12 @@ caused by unbounded steps (since fixed).
   are not fitted (amateur radio coil made regular). Arms: every order.life person is now classified with no
   needs-investigation left (57 rebuilt, 31 vector on Commons, 69 waiting on the generator). Reading of the
   project unchanged.
+- 2026-10-20 00:25 PST: queue through the O–R files. Chart and map rules from these ticks: a chart made by a known
+  program from public data (Orion-Sternkarte, pp3) is rebuilt from that program's own data and style file, with what
+  the author added by hand (extra constellation lines) read back from the PNG as data. A hand-drawn map that real
+  geography can't overlay without losing part of it (Regionen japans) is laid out to the PNG's extent instead. A
+  hand-painted range map with no free source stays not rebuildable, and an existing vector range map is noted as the
+  alternative. SVGs staged after the 2026-10-19 upload zips are not in them yet. Reading of the project unchanged.
 - 2026-10-19 22:57 PST: queue through the N–O files. New rule of thumb from these ticks: a script specimen whose
   text cannot be read reliably (PNG in a non-Noto font, no text in the description: Cross of Herat, Nonotonoto) is set
   aside rather than guessed. Reading of the project unchanged.
