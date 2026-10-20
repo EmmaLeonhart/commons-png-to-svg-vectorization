@@ -482,3 +482,4 @@
 - **File:Map-okinawa-pref.png → SVG** (`files/map-okinawa-pref/`): N03 Okinawa islands fitted to six island positions
   (separate x/y scales; the PNG's source is not quite equirectangular), flat green (relief shading not reproduced),
   27 labels as `<text>`. Staged in upload/.
+- File:Maru ni Sasa Rindō inverted.png: removed from the queue; already triaged as NOT REBUILDABLE without tracing: kamon with freeform organic motifs.
