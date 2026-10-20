@@ -623,3 +623,5 @@
   each fitted in its own framed region, frames measured; whole IoU 0.869 (smoothed islets in the PNG). Staged in upload/.
 - **File:Shadow picture of Nara prefecture.png → SVG** (`files/shadow-nara/`): `tools/shadow_rotfit.py`, IoU 0.977
   (rotation 0.0°). Staged in upload/.
+- **File:Shadow picture of Niigata prefecture.png → SVG** (`files/shadow-niigata/`): `tools/shadow_rotfit.py`, IoU 0.957
+  (rotation 13.5°). Staged in upload/.
