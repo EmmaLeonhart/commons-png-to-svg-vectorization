@@ -1,0 +1,26 @@
+
+[[Category:Linguistic maps of Dravidian languages]]
+[[Category:Urdu Brahui Arabic script]]
+[[Category:Arabic script in non-Arabic languages]]
+[[Category:Genetic studies on Brahui]]
+[[Category:Brahui language]]
+[[Category:Genetic studies on Dravidians]]
+[[Category:Linguistic maps of the Tulu language]]
+{{Information
+|Description=
+{{de|1= Verbreitungsgebiet der dravidischen Sprachen}}
+{{en|1= Area where Dravidian languages are spoken}}
+|Source=
+{{de|1= Kartenvorlage: [http://www.demis.nl/wms/mapclip.htm demis.nl]-
+Verbreitungsgebiet nachgezeichnet nach der Karte ''Language families and branches, languages and dialects'' in ''A Historical Atlas of South Asia'', Oxford University Press. New York 1992.}}
+{{en|1= Base map template: [http://www.demis.nl/wms/mapclip.htm demis.nl].
+Sorce for map data: ''Language families and branches, languages and dialects'' in ''A Historical Atlas of South Asia'', Oxford University Press. New York 1992.}}
+|Date=2007-01-23
+|Author= [[User:BishkekRocks|BishkekRocks]]
+|Permission= {{GFDL|migration=relicense}}
+|other_versions=
+[[:Image:Dravidische Sprachen Verbreitung.png]]
+{{de|Überblickskarte des Verbreitungsgebietes}}
+{{en|Overview of the area}}
+{{ru|: [[:Image:Dravid-ru.png]]}}
+}}

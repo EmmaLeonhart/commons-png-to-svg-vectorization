@@ -27,7 +27,6 @@ rebuildable. No person is left unclassified.
 Ordered by `tools/visual_triage.py`: flat graphics first (391), then mixed images (174).
 
 - [File:Blasó de Mallorca.png](https://commons.wikimedia.org/wiki/File:Blas%C3%B3_de_Mallorca.png) — Template:Coat of arms — BLOCKED-ON-EXTERNAL: generator draws the castle as one tower (files/arms/mallorca/); Commons SVGs of Palma/Kingdom of Majorca arms checked 2026-10-19, all differ (sea, palm, lozenge), so no vector-exists
-- [File:Dravidische Sprachen.png](https://commons.wikimedia.org/wiki/File:Dravidische_Sprachen.png) — Module:Portal/images/d
 - [File:Eastern Europe (Robinson projection).png](https://commons.wikimedia.org/wiki/File:Eastern_Europe_%28Robinson_projection%29.png) — Module:Portal/images/e, Module:Portal/images/e/sandbox
 - [File:EcoviaLogo.png](https://commons.wikimedia.org/wiki/File:EcoviaLogo.png) — Template:Rail-interchange — NOT REBUILDABLE without tracing: a wordmark in custom lettering with a freeform leaf; no vector logo on Commons
 - [File:Enabling Visual Editor.png](https://commons.wikimedia.org/wiki/File:Enabling_Visual_Editor.png) — Help:VisualEditor — NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')

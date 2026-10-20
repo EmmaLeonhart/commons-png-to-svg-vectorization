@@ -333,3 +333,6 @@
 - File:DiscussionTools Show new comment 2022 en.png: removed from the queue; already triaged as NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals').
 - File:Dolmen in Japan and Jeju.png: not rebuildable, a raster original: a screenshot of the PAX SAPIENTICA app
   (window title bar and menus, raster land-cover tiles, dolmen sprites).
+- File:Dravidische Sprachen.png: not rebuildable without tracing. Hand-drawn language areas (copied from a 1992
+  atlas, per its description) over a raster relief base from demis.nl; Dravidian map.svg on Commons is a different
+  map with other sources and classes.
