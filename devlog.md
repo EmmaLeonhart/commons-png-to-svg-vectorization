@@ -498,3 +498,5 @@
 - File:Midtown line GO logo.png: removed from the queue; already triaged as NOT REBUILDABLE without tracing: 62 px two-colour pixel art with curved parts (rounded roof, oval lamps); not a Material Design train icon (compared 2026-10-15, files in data_lake/downloads/batch4/)
 - File:Minor edit.png: removed from the queue; already triaged as NOT REBUILDABLE: a screenshot of the wiki editor with an annotation; a raster original (move to 'Likely raster originals')
 - File:Mitsu Zaru inverted.png: removed from the queue; already triaged as NOT REBUILDABLE without tracing: kamon with freeform organic motifs.
+- **File:Modre symbol Omkara.png → SVG** (`files/modre-symbol-omkara/`): Balinese okara + ulu candra as `<text>` in Noto
+  Serif Balinese (best of eight encoding/font tries). Staged in upload/.
