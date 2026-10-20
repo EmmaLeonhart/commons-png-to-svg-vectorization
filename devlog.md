@@ -328,3 +328,5 @@
   glyphs would break the vector-text rule. A published transcription of the Herat cross would unblock it.
 - File:Dakiine.png: not rebuildable without tracing. The 抱き稲 crest is an organic drawing (curved leaves and
   grain heads; from kamon.website), the class INTENT.md already sets aside as tracing-only; no SVG of it on Commons.
+- File:Deir el Bahari-map.png: not rebuildable without tracing. A scanned temple plan (soft grey edges, hundreds
+  of irregular column dots, walls of uneven width); only the numerals could be constructed. No vector version.
