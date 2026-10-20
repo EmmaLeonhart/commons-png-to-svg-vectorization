@@ -1,0 +1,231 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1505" viewBox="0 0 1000 1505">
+<defs>
+<linearGradient id="g0"><stop offset="0" stop-color="#008c22"/><stop offset="1" stop-color="#00cb32"/></linearGradient>
+<linearGradient id="g1"><stop offset="0" stop-color="#8b8baf"/><stop offset="1" stop-color="#cbcbff"/></linearGradient>
+<linearGradient id="g2"><stop offset="0" stop-color="#afafaf"/><stop offset="1" stop-color="#ffffff"/></linearGradient>
+<linearGradient id="g3"><stop offset="0" stop-color="#aeaeae"/><stop offset="1" stop-color="#ffffff"/></linearGradient>
+<linearGradient id="g4"><stop offset="0" stop-color="#8b8baf"/><stop offset="1" stop-color="#cbcbff"/></linearGradient>
+<linearGradient id="g5"><stop offset="0" stop-color="#8b8baf"/><stop offset="1" stop-color="#cbcbff"/></linearGradient>
+<linearGradient id="g6"><stop offset="0" stop-color="#8b8baf"/><stop offset="1" stop-color="#cbcbff"/></linearGradient>
+<linearGradient id="g7"><stop offset="0" stop-color="#afafaf"/><stop offset="1" stop-color="#ffffff"/></linearGradient>
+<linearGradient id="g8"><stop offset="0" stop-color="#afafaf"/><stop offset="1" stop-color="#ffffff"/></linearGradient>
+<linearGradient id="g9"><stop offset="0" stop-color="#afafaf"/><stop offset="1" stop-color="#ffffff"/></linearGradient>
+<linearGradient id="g10"><stop offset="0" stop-color="#8b8baf"/><stop offset="1" stop-color="#cbcbff"/></linearGradient>
+<linearGradient id="g11"><stop offset="0" stop-color="#8b8baf"/><stop offset="1" stop-color="#cbcbff"/></linearGradient>
+<linearGradient id="g12"><stop offset="0" stop-color="#8b8baf"/><stop offset="1" stop-color="#cbcbff"/></linearGradient>
+<linearGradient id="g13"><stop offset="0" stop-color="#8b8baf"/><stop offset="1" stop-color="#cbcbff"/></linearGradient>
+<linearGradient id="g14"><stop offset="0" stop-color="#8b8baf"/><stop offset="1" stop-color="#cbcbff"/></linearGradient>
+<linearGradient id="g15"><stop offset="0" stop-color="#aeaeae"/><stop offset="1" stop-color="#ffffff"/></linearGradient>
+<linearGradient id="g16"><stop offset="0" stop-color="#8b8baf"/><stop offset="1" stop-color="#cbcbff"/></linearGradient>
+<linearGradient id="g17"><stop offset="0" stop-color="#8b8baf"/><stop offset="1" stop-color="#cbcbff"/></linearGradient>
+<linearGradient id="g18"><stop offset="0" stop-color="#ad6700"/><stop offset="1" stop-color="#ff9800"/></linearGradient>
+<linearGradient id="g19"><stop offset="0" stop-color="#afafaf"/><stop offset="1" stop-color="#ffffff"/></linearGradient>
+<linearGradient id="g20"><stop offset="0" stop-color="#008c22"/><stop offset="1" stop-color="#00cb32"/></linearGradient>
+<linearGradient id="g21"><stop offset="0" stop-color="#aeaeae"/><stop offset="1" stop-color="#ffffff"/></linearGradient>
+<linearGradient id="g22"><stop offset="0" stop-color="#8e4646"/><stop offset="1" stop-color="#ca6464"/></linearGradient>
+<linearGradient id="g23"><stop offset="0" stop-color="#8b8baf"/><stop offset="1" stop-color="#cbcbff"/></linearGradient>
+<linearGradient id="g24"><stop offset="0" stop-color="#8b8baf"/><stop offset="1" stop-color="#cbcbff"/></linearGradient>
+<linearGradient id="g25"><stop offset="0" stop-color="#afafaf"/><stop offset="1" stop-color="#ffffff"/></linearGradient>
+<linearGradient id="g26"><stop offset="0" stop-color="#8e4646"/><stop offset="1" stop-color="#ca6464"/></linearGradient>
+<linearGradient id="g27"><stop offset="0" stop-color="#aeaeae"/><stop offset="1" stop-color="#ffffff"/></linearGradient>
+<linearGradient id="g28"><stop offset="0" stop-color="#aeaeae"/><stop offset="1" stop-color="#ffffff"/></linearGradient>
+<linearGradient id="g29"><stop offset="0" stop-color="#afafaf"/><stop offset="1" stop-color="#ffffff"/></linearGradient>
+<linearGradient id="g30"><stop offset="0" stop-color="#afafaf"/><stop offset="1" stop-color="#ffffff"/></linearGradient>
+<linearGradient id="g31"><stop offset="0" stop-color="#afafaf"/><stop offset="1" stop-color="#ffffff"/></linearGradient>
+<linearGradient id="g32"><stop offset="0" stop-color="#aeaeae"/><stop offset="1" stop-color="#ffffff"/></linearGradient>
+<linearGradient id="g33"><stop offset="0" stop-color="#8b8baf"/><stop offset="1" stop-color="#cbcbff"/></linearGradient>
+<linearGradient id="g34"><stop offset="0" stop-color="#8b8baf"/><stop offset="1" stop-color="#cbcbff"/></linearGradient>
+<linearGradient id="g35"><stop offset="0" stop-color="#ad6700"/><stop offset="1" stop-color="#ff9800"/></linearGradient>
+<linearGradient id="g36"><stop offset="0" stop-color="#aeaeae"/><stop offset="1" stop-color="#ffffff"/></linearGradient>
+<linearGradient id="g37"><stop offset="0" stop-color="#aeaeae"/><stop offset="1" stop-color="#ffffff"/></linearGradient>
+<linearGradient id="g38"><stop offset="0" stop-color="#8b8baf"/><stop offset="1" stop-color="#cbcbff"/></linearGradient>
+<linearGradient id="g39"><stop offset="0" stop-color="#afafaf"/><stop offset="1" stop-color="#ffffff"/></linearGradient>
+<linearGradient id="g40"><stop offset="0" stop-color="#8b8baf"/><stop offset="1" stop-color="#cbcbff"/></linearGradient>
+<linearGradient id="g41"><stop offset="0" stop-color="#8b8baf"/><stop offset="1" stop-color="#cbcbff"/></linearGradient>
+<linearGradient id="g42"><stop offset="0" stop-color="#8e4646"/><stop offset="1" stop-color="#ca6464"/></linearGradient>
+</defs>
+<rect width="1000" height="1505" fill="#ffffff"/>
+<rect x="0.5" y="0.5" width="999" height="1504" fill="none" stroke="#000000"/>
+<path fill="#99ccff" d="M14,6H979V1146H358V960H14Z"/>
+<path fill="#cccc99" d="M14,964H354V1149H834V1495H14Z"/>
+<rect x="29" y="11" width="129" height="65" rx="32.5" fill="#3298ff"/>
+<rect x="34.5" y="16.5" width="118.0" height="54.0" rx="27.0" fill="url(#g0)"/>
+<rect x="318" y="22" width="100" height="74" rx="9" fill="#3298ff"/>
+<rect x="325.5" y="29.5" width="88.0" height="62.0" rx="3.5" fill="#226ab2"/>
+<rect x="323.5" y="27.5" width="89.0" height="63.0" rx="3.5" fill="url(#g1)"/>
+<path d="M503,23H572.0A25.0,25.0 0 0 1 572.0,73H503A6,6 0 0 1 497,67V29A6,6 0 0 1 503,23Z" fill="#3298ff"/>
+<path d="M508.5,28.5H572.0A19.5,19.5 0 0 1 572.0,67.5H508.5A6,6 0 0 1 502.5,61.5V34.5A6,6 0 0 1 508.5,28.5Z" fill="url(#g2)"/>
+<path d="M225.0,70L275,119.5L225.0,169L175,119.5Z" fill="#3298ff"/>
+<path d="M225.0,75.5L269.5,119.5L225.0,163.5L180.5,119.5Z" fill="url(#g3)"/>
+<rect x="45" y="83" width="100" height="74" rx="9" fill="#3298ff"/>
+<rect x="52.5" y="90.5" width="88.0" height="62.0" rx="3.5" fill="#226ab2"/>
+<rect x="50.5" y="88.5" width="89.0" height="63.0" rx="3.5" fill="url(#g4)"/>
+<rect x="620" y="83" width="100" height="74" rx="9" fill="#3298ff"/>
+<rect x="627.5" y="90.5" width="88.0" height="62.0" rx="3.5" fill="#226ab2"/>
+<rect x="625.5" y="88.5" width="89.0" height="63.0" rx="3.5" fill="url(#g5)"/>
+<rect x="45" y="172" width="100" height="74" rx="9" fill="#3298ff"/>
+<rect x="52.5" y="179.5" width="88.0" height="62.0" rx="3.5" fill="#226ab2"/>
+<rect x="50.5" y="177.5" width="89.0" height="63.0" rx="3.5" fill="url(#g6)"/>
+<path d="M661,217H731.5A25.5,25.5 0 0 1 731.5,268H661A6,6 0 0 1 655,262V223A6,6 0 0 1 661,217Z" fill="#3298ff"/>
+<path d="M666.5,222.5H731.5A20.0,20.0 0 0 1 731.5,262.5H666.5A6,6 0 0 1 660.5,256.5V228.5A6,6 0 0 1 666.5,222.5Z" fill="url(#g7)"/>
+<path d="M668,224H738.5A25.5,25.5 0 0 1 738.5,275H668A6,6 0 0 1 662,269V230A6,6 0 0 1 668,224Z" fill="#3298ff"/>
+<path d="M673.5,229.5H738.5A20.0,20.0 0 0 1 738.5,269.5H673.5A6,6 0 0 1 667.5,263.5V235.5A6,6 0 0 1 673.5,229.5Z" fill="url(#g7)"/>
+<path d="M675,231H745.5A25.5,25.5 0 0 1 745.5,282H675A6,6 0 0 1 669,276V237A6,6 0 0 1 675,231Z" fill="#3298ff"/>
+<path d="M680.5,236.5H745.5A20.0,20.0 0 0 1 745.5,276.5H680.5A6,6 0 0 1 674.5,270.5V242.5A6,6 0 0 1 680.5,236.5Z" fill="url(#g7)"/>
+<path d="M505,222H574.0A25.0,25.0 0 0 1 574.0,272H505A6,6 0 0 1 499,266V228A6,6 0 0 1 505,222Z" fill="#3298ff"/>
+<path d="M510.5,227.5H574.0A19.5,19.5 0 0 1 574.0,266.5H510.5A6,6 0 0 1 504.5,260.5V233.5A6,6 0 0 1 510.5,227.5Z" fill="url(#g8)"/>
+<path d="M161,227H230.0A25.0,25.0 0 0 1 230.0,277H161A6,6 0 0 1 155,271V233A6,6 0 0 1 161,227Z" fill="#3298ff"/>
+<path d="M166.5,232.5H230.0A19.5,19.5 0 0 1 230.0,271.5H166.5A6,6 0 0 1 160.5,265.5V238.5A6,6 0 0 1 166.5,232.5Z" fill="url(#g9)"/>
+<rect x="45" y="273" width="100" height="74" rx="9" fill="#3298ff"/>
+<rect x="52.5" y="280.5" width="88.0" height="62.0" rx="3.5" fill="#226ab2"/>
+<rect x="50.5" y="278.5" width="89.0" height="63.0" rx="3.5" fill="url(#g10)"/>
+<rect x="770" y="282" width="100" height="74" rx="9" fill="#3298ff"/>
+<rect x="777.5" y="289.5" width="88.0" height="62.0" rx="3.5" fill="#226ab2"/>
+<rect x="775.5" y="287.5" width="89.0" height="63.0" rx="3.5" fill="url(#g11)"/>
+<rect x="235" y="284" width="100" height="74" rx="9" fill="#3298ff"/>
+<rect x="242.5" y="291.5" width="88.0" height="62.0" rx="3.5" fill="#226ab2"/>
+<rect x="240.5" y="289.5" width="89.0" height="63.0" rx="3.5" fill="url(#g12)"/>
+<rect x="438" y="284" width="100" height="74" rx="9" fill="#3298ff"/>
+<rect x="445.5" y="291.5" width="88.0" height="62.0" rx="3.5" fill="#226ab2"/>
+<rect x="443.5" y="289.5" width="89.0" height="63.0" rx="3.5" fill="url(#g13)"/>
+<rect x="567" y="284" width="100" height="74" rx="9" fill="#3298ff"/>
+<rect x="574.5" y="291.5" width="88.0" height="62.0" rx="3.5" fill="#226ab2"/>
+<rect x="572.5" y="289.5" width="89.0" height="63.0" rx="3.5" fill="url(#g14)"/>
+<path d="M95.0,351L145,400.5L95.0,450L45,400.5Z" fill="#3298ff"/>
+<path d="M95.0,356.5L139.5,400.5L95.0,444.5L50.5,400.5Z" fill="url(#g15)"/>
+<rect x="206" y="410" width="100" height="74" rx="9" fill="#3298ff"/>
+<rect x="213.5" y="417.5" width="88.0" height="62.0" rx="3.5" fill="#226ab2"/>
+<rect x="211.5" y="415.5" width="89.0" height="63.0" rx="3.5" fill="url(#g16)"/>
+<rect x="45" y="485" width="100" height="74" rx="9" fill="#3298ff"/>
+<rect x="52.5" y="492.5" width="88.0" height="62.0" rx="3.5" fill="#226ab2"/>
+<rect x="50.5" y="490.5" width="89.0" height="63.0" rx="3.5" fill="url(#g17)"/>
+<rect x="452" y="508" width="100" height="49" rx="24.5" fill="#3298ff"/>
+<rect x="457.5" y="513.5" width="89.0" height="38.0" rx="19.0" fill="url(#g18)"/>
+<path d="M616,534H685.0A25.0,25.0 0 0 1 685.0,584H616A6,6 0 0 1 610,578V540A6,6 0 0 1 616,534Z" fill="#3298ff"/>
+<path d="M621.5,539.5H685.0A19.5,19.5 0 0 1 685.0,578.5H621.5A6,6 0 0 1 615.5,572.5V545.5A6,6 0 0 1 621.5,539.5Z" fill="url(#g19)"/>
+<rect x="851" y="554" width="124" height="62" rx="31.0" fill="#3298ff"/>
+<rect x="856.5" y="559.5" width="113.0" height="51.0" rx="25.5" fill="url(#g20)"/>
+<path d="M413.0,570L463,619.5L413.0,669L363,619.5Z" fill="#3298ff"/>
+<path d="M413.0,575.5L457.5,619.5L413.0,663.5L368.5,619.5Z" fill="url(#g21)"/>
+<rect x="360" y="700" width="100" height="74" rx="9" fill="#3298ff"/>
+<rect x="367.5" y="707.5" width="88.0" height="62.0" rx="3.5" fill="#226ab2"/>
+<rect x="365.5" y="705.5" width="89.0" height="63.0" rx="3.5" fill="url(#g22)"/>
+<rect x="35" y="742" width="43" height="32" rx="9" fill="#3298ff"/>
+<rect x="42.5" y="749.5" width="31.0" height="20.0" rx="3.5" fill="#226ab2"/>
+<rect x="40.5" y="747.5" width="32.0" height="21.0" rx="3.5" fill="url(#g23)"/>
+<rect x="360" y="803" width="100" height="74" rx="9" fill="#3298ff"/>
+<rect x="367.5" y="810.5" width="88.0" height="62.0" rx="3.5" fill="#226ab2"/>
+<rect x="365.5" y="808.5" width="89.0" height="63.0" rx="3.5" fill="url(#g24)"/>
+<path d="M618,737H687.0A25.0,25.0 0 0 1 687.0,787H618A6,6 0 0 1 612,781V743A6,6 0 0 1 618,737Z" fill="#3298ff"/>
+<path d="M623.5,742.5H687.0A19.5,19.5 0 0 1 687.0,781.5H623.5A6,6 0 0 1 617.5,775.5V748.5A6,6 0 0 1 623.5,742.5Z" fill="url(#g25)"/>
+<rect x="33" y="907" width="44" height="32" rx="9" fill="#3298ff"/>
+<rect x="40.5" y="914.5" width="32.0" height="20.0" rx="3.5" fill="#226ab2"/>
+<rect x="38.5" y="912.5" width="33.0" height="21.0" rx="3.5" fill="url(#g26)"/>
+<path d="M412.0,912L462,961.5L412.0,1011L362,961.5Z" fill="#3298ff"/>
+<path d="M412.0,917.5L456.5,961.5L412.0,1005.5L367.5,961.5Z" fill="url(#g27)"/>
+<path d="M550.0,912L600,961.5L550.0,1011L500,961.5Z" fill="#3298ff"/>
+<path d="M550.0,917.5L594.5,961.5L550.0,1005.5L505.5,961.5Z" fill="url(#g28)"/>
+<path d="M618,899H687.0A25.0,25.0 0 0 1 687.0,949H618A6,6 0 0 1 612,943V905A6,6 0 0 1 618,899Z" fill="#3298ff"/>
+<path d="M623.5,904.5H687.0A19.5,19.5 0 0 1 687.0,943.5H623.5A6,6 0 0 1 617.5,937.5V910.5A6,6 0 0 1 623.5,904.5Z" fill="url(#g29)"/>
+<path d="M247,969H316.0A25.0,25.0 0 0 1 316.0,1019H247A6,6 0 0 1 241,1013V975A6,6 0 0 1 247,969Z" fill="#3298ff"/>
+<path d="M252.5,974.5H316.0A19.5,19.5 0 0 1 316.0,1013.5H252.5A6,6 0 0 1 246.5,1007.5V980.5A6,6 0 0 1 252.5,974.5Z" fill="url(#g30)"/>
+<path d="M42,987H109.0A26.0,26.0 0 0 1 109.0,1039H42A6,6 0 0 1 36,1033V993A6,6 0 0 1 42,987Z" fill="#3298ff"/>
+<path d="M47.5,992.5H109.0A20.5,20.5 0 0 1 109.0,1033.5H47.5A6,6 0 0 1 41.5,1027.5V998.5A6,6 0 0 1 47.5,992.5Z" fill="url(#g31)"/>
+<path d="M49,994H116.0A26.0,26.0 0 0 1 116.0,1046H49A6,6 0 0 1 43,1040V1000A6,6 0 0 1 49,994Z" fill="#3298ff"/>
+<path d="M54.5,999.5H116.0A20.5,20.5 0 0 1 116.0,1040.5H54.5A6,6 0 0 1 48.5,1034.5V1005.5A6,6 0 0 1 54.5,999.5Z" fill="url(#g31)"/>
+<path d="M56,1001H123.0A26.0,26.0 0 0 1 123.0,1053H56A6,6 0 0 1 50,1047V1007A6,6 0 0 1 56,1001Z" fill="#3298ff"/>
+<path d="M61.5,1006.5H123.0A20.5,20.5 0 0 1 123.0,1047.5H61.5A6,6 0 0 1 55.5,1041.5V1012.5A6,6 0 0 1 61.5,1006.5Z" fill="url(#g31)"/>
+<path d="M550.0,1026L600,1075.5L550.0,1125L500,1075.5Z" fill="#3298ff"/>
+<path d="M550.0,1031.5L594.5,1075.5L550.0,1119.5L505.5,1075.5Z" fill="url(#g32)"/>
+<rect x="169" y="1044" width="100" height="74" rx="9" fill="#3298ff"/>
+<rect x="176.5" y="1051.5" width="88.0" height="62.0" rx="3.5" fill="#226ab2"/>
+<rect x="174.5" y="1049.5" width="89.0" height="63.0" rx="3.5" fill="url(#g33)"/>
+<rect x="49" y="1129" width="100" height="74" rx="9" fill="#3298ff"/>
+<rect x="56.5" y="1136.5" width="88.0" height="62.0" rx="3.5" fill="#226ab2"/>
+<rect x="54.5" y="1134.5" width="89.0" height="63.0" rx="3.5" fill="url(#g34)"/>
+<rect x="697" y="1176" width="99" height="49" rx="24.5" fill="#3298ff"/>
+<rect x="702.5" y="1181.5" width="88.0" height="38.0" rx="19.0" fill="url(#g35)"/>
+<path d="M218.5,1222L268,1271.5L218.5,1321L169,1271.5Z" fill="#3298ff"/>
+<path d="M218.5,1227.5L262.5,1271.5L218.5,1315.5L174.5,1271.5Z" fill="url(#g36)"/>
+<path d="M645.5,1222L695,1271.5L645.5,1321L596,1271.5Z" fill="#3298ff"/>
+<path d="M645.5,1227.5L689.5,1271.5L645.5,1315.5L601.5,1271.5Z" fill="url(#g37)"/>
+<rect x="330" y="1234" width="100" height="74" rx="9" fill="#3298ff"/>
+<rect x="337.5" y="1241.5" width="88.0" height="62.0" rx="3.5" fill="#226ab2"/>
+<rect x="335.5" y="1239.5" width="89.0" height="63.0" rx="3.5" fill="url(#g38)"/>
+<path d="M333,1337H400.0A26.0,26.0 0 0 1 400.0,1389H333A6,6 0 0 1 327,1383V1343A6,6 0 0 1 333,1337Z" fill="#3298ff"/>
+<path d="M338.5,1342.5H400.0A20.5,20.5 0 0 1 400.0,1383.5H338.5A6,6 0 0 1 332.5,1377.5V1348.5A6,6 0 0 1 338.5,1342.5Z" fill="url(#g39)"/>
+<path d="M340,1344H407.0A26.0,26.0 0 0 1 407.0,1396H340A6,6 0 0 1 334,1390V1350A6,6 0 0 1 340,1344Z" fill="#3298ff"/>
+<path d="M345.5,1349.5H407.0A20.5,20.5 0 0 1 407.0,1390.5H345.5A6,6 0 0 1 339.5,1384.5V1355.5A6,6 0 0 1 345.5,1349.5Z" fill="url(#g39)"/>
+<path d="M347,1351H414.0A26.0,26.0 0 0 1 414.0,1403H347A6,6 0 0 1 341,1397V1357A6,6 0 0 1 347,1351Z" fill="#3298ff"/>
+<path d="M352.5,1356.5H414.0A20.5,20.5 0 0 1 414.0,1397.5H352.5A6,6 0 0 1 346.5,1391.5V1362.5A6,6 0 0 1 352.5,1356.5Z" fill="url(#g39)"/>
+<rect x="163" y="1353" width="100" height="74" rx="9" fill="#3298ff"/>
+<rect x="170.5" y="1360.5" width="88.0" height="62.0" rx="3.5" fill="#226ab2"/>
+<rect x="168.5" y="1358.5" width="89.0" height="63.0" rx="3.5" fill="url(#g40)"/>
+<rect x="448" y="1353" width="100" height="74" rx="9" fill="#3298ff"/>
+<rect x="455.5" y="1360.5" width="88.0" height="62.0" rx="3.5" fill="#226ab2"/>
+<rect x="453.5" y="1358.5" width="89.0" height="63.0" rx="3.5" fill="url(#g41)"/>
+<rect x="596" y="1353" width="100" height="74" rx="9" fill="#3298ff"/>
+<rect x="603.5" y="1360.5" width="88.0" height="62.0" rx="3.5" fill="#226ab2"/>
+<rect x="601.5" y="1358.5" width="89.0" height="63.0" rx="3.5" fill="url(#g42)"/>
+<text x="41.0" y="48.0" font-size="9.72" letter-spacing="0.31" font-weight="bold" fill="#ffffff" font-family="Verdana, 'DejaVu Sans', sans-serif">Perfom batch task</text>
+<text x="335.0" y="56.0" font-size="9.62" letter-spacing="0.18" font-weight="bold" fill="#333333" font-family="Verdana, 'DejaVu Sans', sans-serif">findOriginal</text>
+<text x="342.0" y="68.0" font-size="9.62" letter-spacing="0.29" font-weight="bold" fill="#333333" font-family="Verdana, 'DejaVu Sans', sans-serif">Uploader</text>
+<text x="528.0" y="51.0" font-size="9.62" font-weight="bold" fill="#00ff99" font-family="Verdana, 'DejaVu Sans', sans-serif">ApiCall</text>
+<text x="194.0" y="123.0" font-size="9.09" letter-spacing="1.0" font-weight="bold" fill="#333333" font-family="Verdana, 'DejaVu Sans', sans-serif">page-type</text>
+<text x="62.0" y="124.0" font-size="9.72" letter-spacing="0.38" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">mdStartMd</text>
+<text x="637.0" y="118.0" font-size="9.62" letter-spacing="0.18" font-weight="bold" fill="#333333" font-family="Verdana, 'DejaVu Sans', sans-serif">findOriginal</text>
+<text x="637.0" y="130.0" font-size="9.62" letter-spacing="0.22" font-weight="bold" fill="#333333" font-family="Verdana, 'DejaVu Sans', sans-serif">UploaderCB</text>
+<text x="60.0" y="212.0" font-size="9.72" letter-spacing="0.33" font-weight="bold" fill="#333333" font-family="Verdana, 'DejaVu Sans', sans-serif">mdContinue</text>
+<text x="702.0" y="260.0" font-size="9.62" font-weight="bold" fill="#00ff99" font-family="Verdana, 'DejaVu Sans', sans-serif">ApiCall</text>
+<text x="509.0" y="244.0" font-size="9.62" letter-spacing="0.23" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">Setting up the</text>
+<text x="504.0" y="256.0" font-size="9.62" letter-spacing="0.2" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">selection Dialog</text>
+<text x="186.0" y="255.0" font-size="9.62" font-weight="bold" fill="#00ff99" font-family="Verdana, 'DejaVu Sans', sans-serif">ApiCall</text>
+<text x="73.0" y="308.0" font-size="9.72" letter-spacing="0.4" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">mdFind</text>
+<text x="72.0" y="320.0" font-size="9.62" letter-spacing="0.17" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">Uploads</text>
+<text x="777.0" y="322.0" font-size="9.62" letter-spacing="0.42" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">mdQueriedFile</text>
+<text x="263.0" y="318.0" font-size="9.72" letter-spacing="0.4" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">mdFind</text>
+<text x="255.0" y="330.0" font-size="9.62" letter-spacing="0.25" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">UploadsCB</text>
+<text x="443.0" y="324.0" font-size="9.72" letter-spacing="0.18" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">mdGenIThumbs</text>
+<text x="579.0" y="318.0" font-size="9.72" letter-spacing="0.44" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">mdSendNext</text>
+<text x="595.0" y="330.0" font-size="9.09" letter-spacing="0.67" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">Queries</text>
+<text x="64.0" y="398.0" font-size="9.72" letter-spacing="-0.77" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">Batch of files</text>
+<text x="69.0" y="410.0" font-size="9.62" letter-spacing="0.29" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">queried?</text>
+<text x="214.0" y="444.0" font-size="9.62" letter-spacing="0.5" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">mdQueryMore</text>
+<text x="229.0" y="456.0" font-size="9.62" letter-spacing="0.14" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">(Thumbs)</text>
+<text x="57.0" y="520.0" font-size="9.62" letter-spacing="0.5" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">mdQueryFile</text>
+<text x="80.0" y="532.0" font-size="9.72" letter-spacing="0.33" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">Done</text>
+<text x="460.0" y="536.0" font-size="9.62" letter-spacing="0.31" font-weight="bold" fill="#ffffff" font-family="Verdana, 'DejaVu Sans', sans-serif">destroy dialog</text>
+<text x="641.0" y="562.0" font-size="9.62" font-weight="bold" fill="#00ff99" font-family="Verdana, 'DejaVu Sans', sans-serif">ApiCall</text>
+<text x="880.0" y="583.0" font-size="9.72" letter-spacing="0.5" font-weight="bold" fill="#ffffff" font-family="Verdana, 'DejaVu Sans', sans-serif">mdExecute</text>
+<text x="895.0" y="595.0" font-size="9.62" letter-spacing="0.5" font-weight="bold" fill="#ffffff" font-family="Verdana, 'DejaVu Sans', sans-serif">Ready</text>
+<text x="382.0" y="619.0" font-size="6.48" letter-spacing="1.36" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">user pressed</text>
+<text x="393.0" y="629.0" font-size="9.72" letter-spacing="0.4" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">button</text>
+<text x="359.0" y="767.0" font-size="79.59" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">mdExecute</text>
+<text x="377.0" y="838.0" font-size="9.72" letter-spacing="0.5" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">mdExecute</text>
+<text x="385.0" y="850.0" font-size="9.72" letter-spacing="0.14" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">Continue</text>
+<text x="643.0" y="765.0" font-size="9.62" font-weight="bold" fill="#00ff99" font-family="Verdana, 'DejaVu Sans', sans-serif">ApiCall</text>
+<text x="382.0" y="965.0" font-size="9.72" letter-spacing="-0.92" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">files selected</text>
+<text x="537.0" y="965.0" font-size="9.72" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">Task</text>
+<text x="643.0" y="927.0" font-size="9.62" font-weight="bold" fill="#00ff99" font-family="Verdana, 'DejaVu Sans', sans-serif">ApiCall</text>
+<text x="251.0" y="991.0" font-size="9.62" letter-spacing="0.23" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">Setting up the</text>
+<text x="246.0" y="1003.0" font-size="9.62" letter-spacing="0.2" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">selection Dialog</text>
+<text x="62.0" y="1025.0" font-size="9.09" letter-spacing="0.55" font-weight="bold" fill="#00ff99" font-family="Verdana, 'DejaVu Sans', sans-serif">HTTP request</text>
+<text x="71.0" y="1037.0" font-size="9.62" letter-spacing="0.38" font-weight="bold" fill="#00ff99" font-family="Verdana, 'DejaVu Sans', sans-serif">index.php</text>
+<text x="537.0" y="1079.0" font-size="9.72" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">Task</text>
+<text x="201.0" y="1078.0" font-size="9.72" letter-spacing="0.67" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">mdRv</text>
+<text x="181.0" y="1090.0" font-size="9.72" letter-spacing="0.11" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">GenOThumbs</text>
+<text x="81.0" y="1164.0" font-size="9.72" letter-spacing="0.67" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">mdRv</text>
+<text x="66.0" y="1176.0" font-size="9.62" letter-spacing="0.2" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">QueriedFile</text>
+<text x="705.0" y="1204.0" font-size="9.62" letter-spacing="0.31" font-weight="bold" fill="#ffffff" font-family="Verdana, 'DejaVu Sans', sans-serif">destroy dialog</text>
+<text x="199.0" y="1269.0" font-size="9.72" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">All files</text>
+<text x="188.0" y="1279.0" font-size="7.78" letter-spacing="1.22" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">processed?</text>
+<text x="615.0" y="1271.0" font-size="6.48" letter-spacing="1.18" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">user pressed</text>
+<text x="626.0" y="1281.0" font-size="9.72" letter-spacing="0.4" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">button</text>
+<text x="362.0" y="1268.0" font-size="9.72" letter-spacing="0.67" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">mdRv</text>
+<text x="338.0" y="1280.0" font-size="9.62" letter-spacing="0.21" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">AllFilesQueried</text>
+<text x="353.0" y="1375.0" font-size="9.09" letter-spacing="0.55" font-weight="bold" fill="#00ff99" font-family="Verdana, 'DejaVu Sans', sans-serif">HTTP request</text>
+<text x="362.0" y="1387.0" font-size="9.62" letter-spacing="0.38" font-weight="bold" fill="#00ff99" font-family="Verdana, 'DejaVu Sans', sans-serif">index.php</text>
+<text x="176.0" y="1394.0" font-size="9.72" letter-spacing="0.56" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">mdReverted</text>
+<text x="468.0" y="1388.0" font-size="9.72" letter-spacing="0.71" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">mdRevert</text>
+<text x="479.0" y="1400.0" font-size="9.09" letter-spacing="1.0" font-weight="bold" fill="#000000" font-family="Verdana, 'DejaVu Sans', sans-serif">Image</text>
+</svg>
