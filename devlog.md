@@ -441,3 +441,4 @@
 - **File:Kaikatennou oujintennou.png → SVG** (`files/kaikatennou-oujintennou/`): family tree via `tools/rebuild_tree.py`;
   its vertical connectors are anti-aliased, so `verticals.py` measures them into the spec as exact lines. 13 names as
   `<text>`. Staged in upload/.
+- File:Kajikimen (鹿食免).png: removed from the queue; already triaged as NOT REBUILDABLE without tracing: woodblock / line-art figure drawing (flat colours, but freeform art).
