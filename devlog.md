@@ -787,3 +787,4 @@
   N03 2024 coast (IoU 0.77). Staged in upload/.
 - File:Wakan Sansai Zue - Hitatare.png: not rebuildable without tracing. A 1712 woodblock page (freehand drawings of the
   garment, with the brush caption). PNG kept in `data_lake/downloads/wakan-hitatare/`.
+- File:Watched page in Vector.png: not rebuildable: a screenshot of the Vector skin (raster original).
