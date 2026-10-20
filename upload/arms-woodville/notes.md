@@ -16,3 +16,7 @@ Drawings reused from Commons (licence and author; the SVG inherits share-alike w
 
 What the generator could not draw:
 - none
+
+Fixed 2026-10-19 (Emma: "this one is not good"): the generator drew the canton 6 px short of the fess, leaving a
+white line between them; in these arms the canton joins the fess. The canton now runs down to the fess's top edge
+(y 185.83).

@@ -403,3 +403,5 @@
   GFDL+CC BY-SA, MLIT terms (CC BY 4.0 compatible), geoBoundaries CC BY 4.0, and OSM (produced work). East Asia
   Cutout's PNG is GFDL-only, but the SVG comes from its CC BY-SA source SVG. Saved as
   Documents/commons-upload_2026-10-19(.zip).
+- WoodvilleArms.svg fixed (Emma: "this one is not good"): the canton stopped 6 px short of the fess, leaving a white
+  line; it now joins the fess, as in the PNG. Generator gap recorded. Upload package rebuilt.
