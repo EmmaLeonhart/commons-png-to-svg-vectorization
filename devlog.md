@@ -821,3 +821,8 @@
 - File:大山道.png: already vectorized. It is the uploader's own PNG re-upload of File:大山通.svg (its description says so);
   rendered side by side, the PNG is that SVG cropped to the map. Nothing to build. PNG kept in
   `data_lake/downloads/oyama-michi/`.
+- **File:大洋.png → SVG** (`files/taiyo-oceania/`): the PNG's base is a Pacific-centred, generalised world map (New Zealand
+  drawn at ~11 px per degree of longitude against ~7.5 for Australia and Borneo; Australia fatter), so no projection
+  of real geography matches it, which is also why World Map Blank.svg never did. Real geography replaces it: Natural Earth
+  10m land, equirectangular at lon_0 150 (the best of Robinson, Miller, Mercator and equirectangular), fitted with New
+  Zealand left out (land IoU 0.71). Each polygon takes the colour of the PNG's nearest land. Staged in upload/.
