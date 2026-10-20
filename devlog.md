@@ -656,3 +656,5 @@
   (rotation 0.0°). Staged in upload/.
 - **File:Shadow picture of Yamaguchi prefecture.png → SVG** (`files/shadow-yamaguchi/`): `tools/shadow_rotfit.py`, IoU 0.944
   (rotation -5.2°). Staged in upload/.
+- **File:Shadow picture of Yamanashi prefecture.png → SVG** (`files/shadow-yamanashi/`): `tools/shadow_rotfit.py`, IoU 0.980
+  (rotation 0.0°). Staged in upload/.
