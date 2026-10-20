@@ -749,3 +749,4 @@
 - File:VisualEditor link tool 2015.png: not rebuildable: a screenshot of the VisualEditor interface (raster original).
 - File:VisualEditor link tool simple link.png: not rebuildable: a screenshot of the VisualEditor interface (raster original).
 - File:VisualEditor lists 1 unordered bullet.png: not rebuildable: a screenshot of the VisualEditor interface (raster original).
+- File:VisualEditor lists 2 ordered numbered.png: not rebuildable: a screenshot of the VisualEditor interface (raster original).
