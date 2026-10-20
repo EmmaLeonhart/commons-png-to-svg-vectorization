@@ -485,3 +485,6 @@
 - File:Maru ni Sasa Rindō inverted.png: removed from the queue; already triaged as NOT REBUILDABLE without tracing: kamon with freeform organic motifs.
 - File:Marunimitsukashiwa.png: removed from the queue; already triaged as NOT REBUILDABLE without tracing: kamon with freeform organic motifs.
 - File:Marunitsurukashiwa.png: removed from the queue; already triaged as NOT REBUILDABLE without tracing: kamon with freeform organic motifs.
+- **File:Matsuura-gun.png → SVG** (`files/matsuura-gun/`): N03 2000 municipalities of four prefectures fitted to four
+  landmarks; Meiji-era Matsuura District chosen by name (its 2000 towns and the cities made from it), since colour
+  voting missed Goto towns. Staged in upload/.
