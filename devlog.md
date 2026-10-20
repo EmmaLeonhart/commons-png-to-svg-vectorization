@@ -609,3 +609,5 @@
   SHADOW_LAKES_MIN_AREA): IoU 0.945 to 0.959.
 - **File:Shadow picture of Kumamoto prefecture.png → SVG** (`files/shadow-kumamoto/`): `tools/shadow_rotfit.py`, IoU 0.950
   (rotation -17.9°). Staged in upload/.
+- **File:Shadow picture of Kyoto prefecture.png → SVG** (`files/shadow-kyoto/`): `tools/shadow_rotfit.py`, IoU 0.970
+  (rotation 0.0°). Staged in upload/.
