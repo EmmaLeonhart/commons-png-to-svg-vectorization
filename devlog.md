@@ -474,3 +474,5 @@
 - File:Manual tab only - visual editor - citations.png: removed from the queue; already triaged as NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
 - File:Map Kumano Kodo (ja).png: not rebuildable without tracing. The coast could come from boundary data, but the map's
   content is the pilgrimage routes drawn by hand as schematic coloured lines; same call as the Korea and Ossetian maps.
+- File:Map Kumano Kodo.png: not rebuildable without tracing; the English-labelled twin of Map Kumano Kodo (ja).png (same
+  hand-drawn routes).
