@@ -156,6 +156,10 @@ caused by unbounded steps (since fixed).
   are not fitted (amateur radio coil made regular). Arms: every order.life person is now classified with no
   needs-investigation left (57 rebuilt, 31 vector on Commons, 69 waiting on the generator). Reading of the
   project unchanged.
+- 2026-10-20 09:07 PST: the AjaxMassDelete flowchart takes several ticks. It has no SVG anywhere and is built from
+  node templates, transcribed labels and connector centrelines thinned from their exact core colours. Large rebuildable
+  charts are worth the multi-tick effort, with the remaining steps kept in the queue entry between ticks. Reading of the
+  project unchanged.
 - 2026-10-20 08:08 PST: the end of the Japanese-named files, now into the digits and A– files. Saigen Jiro's line plans
   (kofun, Heian Palace) are rebuilt by construction. A smooth drawn curve in such a plan is made regular, not fitted:
   for the Danpusan estimated moat line, straight sides tangent to a circle. Dash phases are fitted per piece, since the
