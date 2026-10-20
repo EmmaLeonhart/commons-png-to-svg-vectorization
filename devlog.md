@@ -756,3 +756,6 @@
 - File:VisualEditor lists mixed.png: not rebuildable: a screenshot of the VisualEditor interface (raster original).
 - File:VisualEditor mathematic formula inline.png: not rebuildable: a screenshot of the VisualEditor interface (raster original).
 - File:VisualEditor Media Insert Menu-en.png: not rebuildable: a screenshot of the VisualEditor interface (raster original).
+- File:VisualEditor MediaWiki theme clear icon bitmap.png: already vectorized. It is an 11 px render of the MediaWiki
+  theme's 'clear' icon, which Commons has as File:OOjs UI icon cancel.svg (MIT; rendered at 11 px it matches, mean
+  difference 26 of 255 from anti-aliasing). PNG kept in `data_lake/downloads/ve-clear-icon/`.
