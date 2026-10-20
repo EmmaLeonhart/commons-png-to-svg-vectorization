@@ -547,3 +547,7 @@
 - **File:Om siddham2.png → SVG** (`files/om-siddham2/`): 𑖌𑖼 as `<text>` in Noto Sans Siddham (brush hand vs typeset,
   IoU 0.34). Staged in upload/.
 - File:One chef's hat.png: removed from the queue; already triaged as NOT REBUILDABLE without tracing: a freehand brush-style outline (varying stroke width, tapered pleats)
+- **File:Orion-Sternkarte.png → SVG** (`files/orion-sternkarte/`): a pp3 1.3 star chart rebuilt from pp3 1.3.3's own data
+  (MIT; BSC stars, IAU boundaries, lines, NGC/IC, Milky Way) in the fitted azimuthal equidistant projection (0.15 px on
+  the anchors), wiki.pp3 colours, star radii calibrated to the PNG, the PNG's extra constellation lines detected from its
+  green, 48 labels as `<text>`. Staged in upload/.

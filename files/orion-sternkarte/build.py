@@ -18,8 +18,8 @@ W, H = 381, 457
 GRID, LINES, LABELS_C, BOUND, BOUND_HI, TEXTL, ECL, MW = (
     '#d6ebff', '#00cc00', '#0000ee', '#fff3aa', '#ffdd00', '#b3b3b3', '#cc2200', (0.5, 0.5, 1))
 FAINTEST = 5.0
-R_MAG = [(-1.5, 7.09), (0.0, 6.10), (0.5, 5.69), (1.5, 4.88), (2.0, 4.47), (2.5, 3.77), (3.0, 3.24), (3.5, 2.62),
-         (4.0, 1.20), (4.5, 0.54), (5.0, 0.45)]  # medians measured in the PNG (bin starts), see devlog
+R_MAG = [(-1.5, 7.09), (0.0, 6.10), (0.5, 5.69), (1.5, 5.17), (2.0, 4.60), (2.5, 4.07), (3.0, 3.30), (3.5, 3.48),
+         (4.0, 1.70), (4.5, 0.85), (5.0, 0.70)]  # per half-magnitude bin, calibrated so the discs' dark area matches the PNG's
 
 # labels: (text, ink box x0, x1, y0, y1 in the PNG, kind); kind g = Greek letter, n = name, c = constellation (grey, bold)
 LABELS = [('β', 192, 199, 6, 18, 'g'), ('ε', 53, 57, 16, 22, 'g'), ('M 35', 107, 129, 21, 29, 'n'),
@@ -97,7 +97,11 @@ def fit_labels():
         ys, xs = np.nonzero(m)
         box = (x0 + xs.min(), x0 + xs.max(), y0 + ys.min(), y0 + ys.max())
         weight = 'bold' if kind == 'c' else 'normal'
-        q = fit(t, box, 'Arial', weight, canvas=(W, H))
+        try:
+            q = fit(t, box, 'Arial', weight, canvas=(W, H))
+        except ValueError:  # a hairline glyph (ι) too faint to measure in regular weight
+            weight = 'bold'
+            q = fit(t, box, 'Arial', weight, canvas=(W, H))
         out.append(dict(text=t, kind=kind, weight=weight, box=[int(v) for v in box], **{k: q[k] for k in ('x', 'y', 'size', 'ls')}))
         print(t, box, out[-1])
     json.dump(out, open(PAR, 'w', encoding='utf8'), ensure_ascii=False, indent=1)
@@ -140,7 +144,8 @@ im = np.asarray(Image.open(PNG).convert('RGB')).astype(int)
 green = (im[..., 1] - im[..., 0] > 50) & (im[..., 1] - im[..., 2] > 50)
 gnear = np.zeros_like(green)
 gnear[1:-1, 1:-1] = green[1:-1, 1:-1] | green[:-2, 1:-1] | green[2:, 1:-1] | green[1:-1, :-2] | green[1:-1, 2:]
-cand = [s for s in stars if s['mag'] <= 5.5 and inside(s['x'], s['y'], 160)]
+# endpoints: drawn stars, or any star off the canvas (a line seen to stop at an undrawn star would show a gap)
+cand = [s for s in stars if inside(s['x'], s['y'], 160) and (s['mag'] <= FAINTEST or (s['mag'] <= 5.5 and not inside(s['x'], s['y'], 0)))]
 for ii, s in enumerate(cand):
     for t in cand[ii + 1:]:
         n = np.hypot(t['x'] - s['x'], t['y'] - s['y'])
@@ -205,7 +210,7 @@ lam = np.radians(np.linspace(0, 360, 3000)); eps = np.radians(23.4393)
 ecl = curve((np.degrees(np.arctan2(np.sin(lam) * np.cos(eps), np.cos(lam))) % 360) / 15,
             np.degrees(np.arcsin(np.sin(lam) * np.sin(eps))))
 
-# nebulae: clusters as fixed circles, nebulae at their catalogue size when larger (ellipse, axes as listed)
+# nebulae: circles, of their catalogue size (mean diameter) when larger than the fixed cluster symbol
 t = dat('nebulae.dat').split()
 neb = []
 for i in range(0, len(t) - 10, 11):
@@ -213,8 +218,7 @@ for i in range(0, len(t) - 10, 11):
         ra, de, d1, d2 = (float(v) for v in (t[i + 4], t[i + 5], t[i + 7], t[i + 8]))
         x, y = (float(v) for v in proj(ra, de))
         px = SCALE * np.pi / 180  # pixels per degree at the centre
-        rx, ry = max(3.6, d1 * px / 2), max(3.6, d2 * px / 2)
-        neb.append(f'<ellipse cx="{x:.2f}" cy="{y:.2f}" rx="{rx:.2f}" ry="{ry:.2f}"/>')
+        neb.append(f'<circle cx="{x:.2f}" cy="{y:.2f}" r="{max(3.6, (d1 + d2) / 2 * px / 2):.2f}"/>')
 P = json.load(open(PAR, encoding='utf8'))
 texts = []
 for q in P:
@@ -223,16 +227,64 @@ for q in P:
     wt = ' font-weight="bold"' if q['weight'] == 'bold' else ''
     texts.append(f'<text x="{q["x"]}" y="{q["y"]}" font-size="{q["size"]}"{wt}{ls} fill="{col}">{q["text"]}</text>')
 
+# Milky Way: milkyway.dat's sky pixels (discs of the header radius, grey 1-255) splatted onto the pixel grid, lightly
+# smoothed, and cut into bands of 8 grey levels; each band filled with white blended toward wiki.pp3's milky_way colour
+# by 0.9 * grey / 255 (the PNG's tints, measured; grey below 6 is lost in the PNG's palette and left out)
+from scipy import ndimage
+import matplotlib
+matplotlib.use('Agg')
+import matplotlib.pyplot as plt
+mt = dat('milkyway.dat').split()
+mrad = float(mt[0]) * SCALE * np.pi / 180
+mv = np.array(mt[1:], float).reshape(-1, 3)
+mx, my = proj(mv[:, 0], mv[:, 1])
+keep = (mx > -10) & (mx < W + 10) & (my > -10) & (my < H + 10)
+F = np.zeros((H + 20, W + 20))  # 10 px margin so bands run off the edge cleanly
+gy, gx = np.mgrid[0:H + 20, 0:W + 20] + 0.5 - 10
+for xi, yi, val in zip(mx[keep], my[keep], mv[keep, 2]):
+    x0, x1 = int(max(0, xi + 10 - mrad - 1)), int(min(W + 20, xi + 10 + mrad + 2))
+    y0, y1 = int(max(0, yi + 10 - mrad - 1)), int(min(H + 20, yi + 10 + mrad + 2))
+    d = (gx[y0:y1, x0:x1] - xi) ** 2 + (gy[y0:y1, x0:x1] - yi) ** 2 <= mrad * mrad
+    sub = F[y0:y1, x0:x1]; sub[d] = np.maximum(sub[d], val)
+F = ndimage.gaussian_filter(F, 1.0)
+levels = list(range(6, int(F.max()) + 8, 8))
+cs = plt.contourf(gx[0], gy[:, 0], F, levels=levels + [999])
+mw_paths = []
+
+
+def ring_d(ring):
+    from shapely.geometry import LineString
+    pts = list(LineString(ring + [ring[0]]).simplify(0.4).coords)[:-1] if len(ring) > 3 else ring
+    return 'M' + ' '.join(f'{x:.1f},{y:.1f}' for x, y in pts) + 'Z'
+
+
+for lv, path in zip(levels, cs.get_paths()):
+    if not len(path.vertices):
+        continue
+    d, ring = [], []
+    for (vx, vy), c in zip(path.vertices, path.codes):  # rings, each simplified to 0.4 px
+        if c == 1 and ring:
+            d.append(ring_d(ring)); ring = []
+        if c != 79:
+            ring.append((vx, vy))
+    if ring:
+        d.append(ring_d(ring))
+    tnt = 0.9 * (lv + 4) / 255
+    col = '#%02x%02x%02x' % tuple(int(round(255 - tnt * (255 - 255 * c))) for c in MW)
+    mw_paths.append(f'<path fill="{col}" fill-rule="evenodd" d="{"".join(d)}"/>')
+plt.close('all')
+
 o = [f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}">',
      f'<rect width="{W}" height="{H}" fill="#ffffff"/>',
+     *mw_paths,
      f'<path fill="none" stroke="{GRID}" stroke-width="1.2" d="{"".join(grid)}"/>',
      f'<path fill="none" stroke="{BOUND}" stroke-width="1.6" stroke-dasharray="6,3" d="{"".join(bnd)}"/>',
      f'<path fill="none" stroke="{BOUND_HI}" stroke-width="1.6" stroke-dasharray="6,3" d="{"".join(bnd_hi)}"/>',
      f'<path fill="none" stroke="{ECL}" stroke-width="1.5" stroke-dasharray="7,3" d="{ecl}"/>',
      f'<path fill="none" stroke="{LINES}" stroke-width="1.2" d="{"".join(seg)}"/>',
-     '<g fill="#000000" stroke="#ffffff" stroke-width="0.8">' +
+     '<g fill="#ffffff" stroke="#000000" stroke-width="1.3">' + ''.join(neb) + '</g>',
+     '<g fill="#000000" stroke="#ffffff" stroke-width="1.6" paint-order="stroke">' +
      ''.join(f'<circle cx="{s["x"]:.2f}" cy="{s["y"]:.2f}" r="{radius(s["mag"]):.2f}"/>' for s in shown) + '</g>',
-     '<g fill="#ffffff" stroke="#000000" stroke-width="1">' + ''.join(neb) + '</g>',
      f'<g font-family="{FAMILY}">', *texts, '</g>',
      '</svg>']
 open(OUT, 'w', encoding='utf8').write('\n'.join(o) + '\n')

@@ -2,7 +2,7 @@
  {
   "text": "β",
   "kind": "g",
-  "weight": "bold",
+  "weight": "normal",
   "box": [
    192,
    199,
@@ -12,12 +12,12 @@
   "x": 191.0,
   "y": 16.0,
   "size": 13.54,
-  "ls": 3.0
+  "ls": 6.0
  },
  {
   "text": "ε",
   "kind": "g",
-  "weight": "bold",
+  "weight": "normal",
   "box": [
    53,
    57,
@@ -77,7 +77,7 @@
  {
   "text": "μ",
   "kind": "g",
-  "weight": "bold",
+  "weight": "normal",
   "box": [
    76,
    82,
@@ -87,12 +87,12 @@
   "x": 75.0,
   "y": 64.0,
   "size": 12.5,
-  "ls": 3.0
+  "ls": 6.0
  },
  {
   "text": "η",
   "kind": "g",
-  "weight": "bold",
+  "weight": "normal",
   "box": [
    110,
    116,
@@ -102,12 +102,12 @@
   "x": 109.0,
   "y": 64.0,
   "size": 12.5,
-  "ls": 3.0
+  "ls": 6.0
  },
  {
   "text": "ζ",
   "kind": "g",
-  "weight": "bold",
+  "weight": "normal",
   "box": [
    170,
    175,
@@ -122,7 +122,7 @@
  {
   "text": "ε",
   "kind": "g",
-  "weight": "bold",
+  "weight": "normal",
   "box": [
    335,
    339,
@@ -137,7 +137,7 @@
  {
   "text": "γ",
   "kind": "g",
-  "weight": "bold",
+  "weight": "normal",
   "box": [
    355,
    362,
@@ -147,12 +147,12 @@
   "x": 355.0,
   "y": 105.0,
   "size": 12.5,
-  "ls": 3.0
+  "ls": 6.0
  },
  {
   "text": "γ",
   "kind": "g",
-  "weight": "bold",
+  "weight": "normal",
   "box": [
    62,
    69,
@@ -162,7 +162,7 @@
   "x": 62.0,
   "y": 108.0,
   "size": 12.5,
-  "ls": 3.0
+  "ls": 6.0
  },
  {
   "text": "Aldebaran",
@@ -182,7 +182,7 @@
  {
   "text": "θ²",
   "kind": "g",
-  "weight": "bold",
+  "weight": "normal",
   "box": [
    323,
    336,
@@ -192,12 +192,12 @@
   "x": 322.0,
   "y": 128.0,
   "size": 16.67,
-  "ls": 1.0
+  "ls": 0.0
  },
  {
   "text": "ξ",
   "kind": "g",
-  "weight": "bold",
+  "weight": "normal",
   "box": [
    24,
    31,
@@ -212,7 +212,7 @@
  {
   "text": "λ",
   "kind": "g",
-  "weight": "bold",
+  "weight": "normal",
   "box": [
    192,
    199,
@@ -222,12 +222,12 @@
   "x": 192.0,
   "y": 162.0,
   "size": 13.89,
-  "ls": 0.0
+  "ls": 3.0
  },
  {
   "text": "γ",
   "kind": "g",
-  "weight": "bold",
+  "weight": "normal",
   "box": [
    216,
    223,
@@ -237,12 +237,12 @@
   "x": 216.0,
   "y": 189.0,
   "size": 12.5,
-  "ls": 3.0
+  "ls": 6.0
  },
  {
   "text": "π³",
   "kind": "g",
-  "weight": "bold",
+  "weight": "normal",
   "box": [
    266,
    279,
@@ -252,7 +252,7 @@
   "x": 266.0,
   "y": 197.0,
   "size": 16.67,
-  "ls": -4.0
+  "ls": -3.0
  },
  {
   "text": "Beteigeuze",
@@ -272,7 +272,7 @@
  {
   "text": "π⁴",
   "kind": "g",
-  "weight": "bold",
+  "weight": "normal",
   "box": [
    265,
    279,
@@ -282,7 +282,7 @@
   "x": 265.0,
   "y": 219.0,
   "size": 16.67,
-  "ls": -3.0
+  "ls": -2.0
  },
  {
   "text": "NGC 2238",
@@ -317,7 +317,7 @@
  {
   "text": "δ",
   "kind": "g",
-  "weight": "bold",
+  "weight": "normal",
   "box": [
    182,
    188,
@@ -327,12 +327,12 @@
   "x": 181.0,
   "y": 251.0,
   "size": 13.89,
-  "ls": 0.0
+  "ls": 3.0
  },
  {
   "text": "ζ",
   "kind": "g",
-  "weight": "bold",
+  "weight": "normal",
   "box": [
    162,
    167,
@@ -347,7 +347,7 @@
  {
   "text": "ε",
   "kind": "g",
-  "weight": "bold",
+  "weight": "normal",
   "box": [
    193,
    197,
@@ -362,7 +362,7 @@
  {
   "text": "η",
   "kind": "g",
-  "weight": "bold",
+  "weight": "normal",
   "box": [
    218,
    224,
@@ -372,7 +372,7 @@
   "x": 217.0,
   "y": 277.0,
   "size": 12.5,
-  "ls": 3.0
+  "ls": 6.0
  },
  {
   "text": "M 42",
@@ -392,14 +392,14 @@
  {
   "text": "τ",
   "kind": "g",
-  "weight": "bold",
+  "weight": "normal",
   "box": [
    223,
    230,
    301,
    308
   ],
-  "x": 222.0,
+  "x": 223.0,
   "y": 309.0,
   "size": 15.56,
   "ls": 6.0
@@ -407,7 +407,7 @@
  {
   "text": "β",
   "kind": "g",
-  "weight": "bold",
+  "weight": "normal",
   "box": [
    254,
    261,
@@ -417,7 +417,7 @@
   "x": 253.0,
   "y": 313.0,
   "size": 13.54,
-  "ls": 3.0
+  "ls": 6.0
  },
  {
   "text": "ι",
@@ -437,7 +437,7 @@
  {
   "text": "κ",
   "kind": "g",
-  "weight": "bold",
+  "weight": "normal",
   "box": [
    169,
    174,
@@ -447,7 +447,7 @@
   "x": 168.0,
   "y": 343.0,
   "size": 14.58,
-  "ls": -3.0
+  "ls": 0.0
  },
  {
   "text": "Rigel",
@@ -467,7 +467,7 @@
  {
   "text": "ζ",
   "kind": "g",
-  "weight": "bold",
+  "weight": "normal",
   "box": [
    167,
    172,
@@ -497,7 +497,7 @@
  {
   "text": "μ",
   "kind": "g",
-  "weight": "bold",
+  "weight": "normal",
   "box": [
    243,
    250,
@@ -507,12 +507,12 @@
   "x": 242.0,
   "y": 399.0,
   "size": 12.5,
-  "ls": 6.0
+  "ls": 9.0
  },
  {
   "text": "β",
   "kind": "g",
-  "weight": "bold",
+  "weight": "normal",
   "box": [
    94,
    101,
@@ -522,12 +522,12 @@
   "x": 93.0,
   "y": 417.0,
   "size": 13.54,
-  "ls": 3.0
+  "ls": 6.0
  },
  {
   "text": "α",
   "kind": "g",
-  "weight": "bold",
+  "weight": "normal",
   "box": [
    179,
    187,
@@ -542,7 +542,7 @@
  {
   "text": "β",
   "kind": "g",
-  "weight": "bold",
+  "weight": "normal",
   "box": [
    208,
    215,
@@ -552,7 +552,7 @@
   "x": 207.0,
   "y": 430.0,
   "size": 13.54,
-  "ls": 3.0
+  "ls": 6.0
  },
  {
   "text": "M 41",
@@ -572,7 +572,7 @@
  {
   "text": "γ",
   "kind": "g",
-  "weight": "bold",
+  "weight": "normal",
   "box": [
    155,
    161,
@@ -582,12 +582,12 @@
   "x": 155.0,
   "y": 454.0,
   "size": 12.5,
-  "ls": 0.0
+  "ls": 3.0
  },
  {
   "text": "ε",
   "kind": "g",
-  "weight": "bold",
+  "weight": "normal",
   "box": [
    258,
    262,
