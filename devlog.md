@@ -491,3 +491,6 @@
 - File:Megamihōri-no-in (売神祝印) seal imprint.png: not rebuildable without tracing. The seal-script characters were
   drawn freehand from a photograph of the seal; as `<text>` they would become ordinary glyphs, which loses the seal
   script the image is about, and no seal-script font is available on Commons.
+- File:Melanesian Cultural Area.png: not rebuildable without tracing (the call on its open question). The base map and
+  labels could be rebuilt, but the map's content is the hand-drawn cultural-area blob with no data source; same call
+  as the Korea, Ossetian and Kumano maps.
