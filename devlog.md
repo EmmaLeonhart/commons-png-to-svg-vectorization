@@ -755,3 +755,4 @@
 - File:VisualEditor lists after indenting.png: not rebuildable: a screenshot of the VisualEditor interface (raster original).
 - File:VisualEditor lists mixed.png: not rebuildable: a screenshot of the VisualEditor interface (raster original).
 - File:VisualEditor mathematic formula inline.png: not rebuildable: a screenshot of the VisualEditor interface (raster original).
+- File:VisualEditor Media Insert Menu-en.png: not rebuildable: a screenshot of the VisualEditor interface (raster original).
