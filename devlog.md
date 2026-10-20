@@ -811,3 +811,6 @@
   `data_lake/downloads/maru-ni-ichimonji/`.
 - File:三本杉（さんぼんすぎ）.png: not rebuildable without tracing: three freehand cedar trees (freeform-kamon class); no
   SVG of the crest on Commons (searched). PNG kept in `data_lake/downloads/sanbonsugi/`.
+- **File:井桁に唐花菱.png → SVG** (`files/igeta-karahanabishi/`): built by construction. The 井 frame and the four-petal
+  karahana (circle lobes, quadrant-clipped) are regular in a square space, mapped into the lozenge by one affine
+  transform; the strokes are constant width. Frame IoU 0.99, whole 0.97. Staged in upload/.

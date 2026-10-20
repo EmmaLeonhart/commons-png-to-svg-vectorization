@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ja|1=井桁に唐花菱（いげた に からはなびし）。
+日本の家紋。井桁を外郭とし、中に唐花紋の唐花菱を配した紋である。}}
+|date=2023-07-10
+|source={{own}}
+|author=[[User:MLFU5BrYMJ2|MLFU5BrYMJ2]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Mon shaped like diamonds]]
