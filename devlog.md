@@ -713,3 +713,4 @@
 - File:Unwatched page in Vector.png: removed from the queue; already triaged as NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
 - **File:Urquiza U 60px.png → SVG** (`files/urquiza-u/`): orange disc and U as `<text>`. Staged in upload/.
 - File:Visual editor citoid convert button.png: removed from the queue; already triaged as NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
+- File:VisualEditor - Apply changes.png: removed from the queue; already triaged as NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
