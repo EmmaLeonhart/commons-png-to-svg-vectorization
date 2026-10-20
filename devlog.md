@@ -383,3 +383,4 @@
   the PNG (central meridian found by search: 9.6°E), the Macedonia region from North Macedonia, Blagoevgrad and
   Greek municipalities (geoBoundaries, CC BY 4.0). 4.7% of pixels differ. Staged in upload/.
 - File:Hakusan Myori Daigongen.png: removed from the queue; already triaged as NOT REBUILDABLE without tracing: woodblock / line-art figure drawing (flat colours, but freeform art).
+- File:Harisainyo.png: removed from the queue; already triaged as NOT REBUILDABLE without tracing: woodblock / line-art figure drawing (flat colours, but freeform art).
