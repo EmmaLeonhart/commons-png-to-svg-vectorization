@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=a marchen alphabet rendering sample}}
+|date=2018-11-11
+|source={{own}}
+|author=[[User:CaibsSAM|CaibsSAM]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Marchen script]]
+[[Category:Swastikas]]

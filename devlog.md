@@ -525,3 +525,7 @@
   and an eye check (one corrected to vowel sign AY), set as `<text>` in Noto Sans New Tai Lue. Staged in upload/.
 - File:NoDVDcover copy.png: not rebuildable, a raster original (a photographed, desaturated DVD case; only the "No cover
   available" overlay is text).
+- File:Nonotonoto.png: not rebuildable for now (as Cross of Herat). A Marchen rendering sample with no text in its
+  description; brute-force matching of every base + subjoined letter (+ vowel) against Noto Sans Marchen reached only
+  IoU 0.77 and none of the top readings looks right by eye: the PNG uses another, blockier font. Guessing would publish
+  wrong text; the Unicode text from the uploader would unblock it.
