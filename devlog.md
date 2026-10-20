@@ -607,3 +607,5 @@
   (rotation 5.2°). Staged in upload/.
 - Shadow picture of Ibaraki redone with the lakes cut out (MLIT W09; `tools/shadow_rotfit.py` gained
   SHADOW_LAKES_MIN_AREA): IoU 0.945 to 0.959.
+- **File:Shadow picture of Kumamoto prefecture.png → SVG** (`files/shadow-kumamoto/`): `tools/shadow_rotfit.py`, IoU 0.950
+  (rotation -17.9°). Staged in upload/.
