@@ -391,3 +391,9 @@
   in magenta, labels as `<text>`; 7.1% of pixels differ. Staged in upload/.
 - Emma, 2026-10-19 (relayed in chat): finish up, double-check, zip everything for her to upload, and do no more
   vectorizations until 20:00. Queue paused until then.
+- Pre-upload check (Emma asked for everything finished and double-checked): new `tools/check_upload.py` checks every
+  folder in upload/ for an SVG and notes.md, that each SVG parses and renders non-blank, and that nothing holds stray
+  control characters. 169 SVGs, 0 problems after copying 43 missing notes.md files over from files/ (East Asia
+  Cutout and Oki islands crash resvg but render in Chrome). The 31 TransJakarta icons from 2026-10-15 reviewed
+  against their PNGs (all match) and taken off the queue; six roundels (2A 4D 5C 5D 6A 9A) were never built and
+  stay queued.
