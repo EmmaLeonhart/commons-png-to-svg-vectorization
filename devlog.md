@@ -785,3 +785,5 @@
   hand-generalised PNG), green set read off the PNG, Sinai light green. Staged in upload/.
 - **File:Wakamiyajima Iki.png → SVG** (`files/wakamiyajima-iki/`): the Iki series build retargeted to Wakamiyajima (OSM),
   N03 2024 coast (IoU 0.77). Staged in upload/.
+- File:Wakan Sansai Zue - Hitatare.png: not rebuildable without tracing. A 1712 woodblock page (freehand drawings of the
+  garment, with the brush caption). PNG kept in `data_lake/downloads/wakan-hitatare/`.
