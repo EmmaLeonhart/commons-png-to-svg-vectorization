@@ -40,6 +40,12 @@ if LAKES_MIN:
     lakes = [shape(r.shape.__geo_interface__).buffer(0) for r in rd.iterShapeRecords()]
     lakes = [g for g in lakes if g.area >= LAKES_MIN and g.intersects(geo)]
     geo = geo.difference(unary_union(lakes)).buffer(0)
+SW = os.environ.get('SHADOW_STROKE')  # optional outline width (px) for pictures with slightly bolder silhouettes
+STROKE = f' stroke="#000000" stroke-width="{SW}" stroke-linejoin="round"' if SW else ''
+BBOX = os.environ.get('SHADOW_BBOX')  # optional: keep only islands inside 'minlon,minlat,maxlon,maxlat'
+if BBOX:
+    from shapely.geometry import box
+    geo = geo.intersection(box(*map(float, BBOX.split(',')))).buffer(0)
 parts = [g for g in (geo.geoms if hasattr(geo, 'geoms') else [geo]) if g.area > 1e-7 and g.centroid.x < MAX_LON]
 
 
@@ -93,6 +99,6 @@ if __name__ == '__main__':
     d = ''.join('M' + ' '.join(f'{x:.1f},{y:.1f}' for x, y in r.coords) + 'Z'
                 for g in parts for q in [stransform(f, g.simplify(0.0003))] for r in [q.exterior, *q.interiors])
     o = [f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}">',
-         f'<path fill="#000000" fill-rule="evenodd" d="{d}"/>', '</svg>']
+         f'<path fill="#000000" fill-rule="evenodd"{STROKE} d="{d}"/>', '</svg>']
     open(OUT, 'w', encoding='utf8').write('\n'.join(o) + '\n')
     print('wrote', OUT, len(parts), 'parts')

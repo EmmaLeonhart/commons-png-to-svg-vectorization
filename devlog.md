@@ -629,3 +629,5 @@
   (rotation -6.3°). Staged in upload/.
 - **File:Shadow picture of Okayama prefecture.png → SVG** (`files/shadow-okayama/`): `tools/shadow_rotfit.py`, IoU 0.969
   (rotation 0.0°). Staged in upload/.
+- **File:Shadow picture of Okinawa prefecture 2.png → SVG** (`files/shadow-okinawa-2/`): `tools/shadow_rotfit.py`, IoU 0.877
+  (rotation 2.7°). Staged in upload/.

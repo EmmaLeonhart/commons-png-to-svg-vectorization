@@ -1,0 +1,9 @@
+{{Information
+|Description={{ja|日本国・[[:ja:沖縄県|沖縄県]]の影絵（[[:ja:沖縄本島|沖縄本島]]周辺）}}{{en|The shadow picture of [[:en:Okinawa Prefecture|Okinawa Prefecture]] (periphery of the [[:en:Okinawa Island|Okinawa Island]]), Japan}}
+|Source=Data is from [http://aoki2.si.gunma-u.ac.jp/map/map.html here]
+|Date=
+|Author=Created by LERK
+|Permission={{Map of Japan-Shigenobu AOKI}}
+}}
+[[Category:Maps of Okinawa prefecture]]
+[[Category:Shadow picture maps of prefectures of Japan]]
