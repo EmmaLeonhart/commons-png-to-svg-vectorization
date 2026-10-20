@@ -665,3 +665,6 @@
   PNG kept in `data_lake/downloads/shinkai-sansha/`.
 - **File:Shiogama Jinja plan.png → SVG** (`files/shiogama-plan/`): line plan by construction (dark lines at sub-pixel
   positions, light lines on the grid, two fitted circles); mean pixel diff 0.32. Staged in upload/.
+- File:Shiogama-zakura inverted.png: not rebuildable without tracing. The petals and stamens are geometric, but the three
+  oak leaves are freeform serrated shapes drawn in Illustrator. There is no vector (normal or inverted) on Commons
+  (searched). PNG kept in `data_lake/downloads/shiogama-zakura/`.
