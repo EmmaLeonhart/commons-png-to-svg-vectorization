@@ -568,3 +568,6 @@
 - File:Position Beta Cma.png: removed from the queue; already triaged as NOT REBUILDABLE as drawn: a planetarium-program screenshot (star field with glow). A new chart could be drawn from a star catalogue, but that is a new image: NEEDS-DECISION (user) if wanted
 - **File:Position of Ashibe Port Iki City.png → SVG** (`files/ashibe-port-iki/`): N03 Iki, the real shore inside the PNG's
   blue mark in blue (checked against OSM's 芦辺港), labels as `<text>`. Staged in upload/.
+- **File:Regionen japans.png → SVG** (`files/regionen-japans/`): Natural Earth prefectures in the eight region colours,
+  Okinawa Island in the inset; the hand-drawn PNG squeezes the west (overlap fit IoU 0.58 pushed Kyūshū off the
+  canvas), so the real map is laid out to the PNG's land extent instead. Staged in upload/.
