@@ -1,0 +1,14 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Hmong is an Indigenous people of Asia}}
+|date=2020-12-20
+|source={{own}}
+|author=[[User:AlphaLaugh|AlphaLaugh]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Pahawh Hmong]]

@@ -425,3 +425,6 @@
 - File:Ikushimatarushimajinja.png: not rebuildable without tracing. The shrine crest is two mitsudomoe flanking a
   standing kaji leaf; Commons has tomoe SVGs, but its kaji SVGs are other designs (rounded lobes where this leaf is
   pointed and serrated), and the leaf is organic artwork that only tracing would reproduce.
+- **File:Indigenous of Asia.png → SVG** (`files/indigenous-of-asia/`): Pahawh Hmong sentence as `<text>` in Noto Sans
+  Pahawh Hmong, letters identified by glyph matching; `tools/glyph_specimen.py` now takes fallback fonts (the full
+  stop is DejaVu Sans). Staged in upload/.

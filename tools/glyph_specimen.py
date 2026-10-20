@@ -2,6 +2,7 @@
 the text is set in the given font and scaled and placed so its rendered (shaped) ink box matches the PNG's ink box.
 Prints the pixel difference and IoU against the PNG and writes a side-by-side comparison.
 usage: python tools/glyph_specimen.py in.png out.svg "<text>" font.ttf "Font Family" [weight] [cmp.png]
+(font may list fallback files separated by ";", with the matching families comma-separated in "Font Family")
 """
 import io, sys
 import numpy as np, resvg_py
@@ -21,7 +22,7 @@ rgb = np.median(np.array(im.convert('RGB'))[ink], axis=0).astype(int)
 colour = '#000000' if rgb.max() < 64 else '#%02x%02x%02x' % tuple(rgb)  # anti-aliasing tints black ink
 
 def render(svg, w):
-    r = Image.open(io.BytesIO(bytes(resvg_py.svg_to_bytes(svg_string=svg, width=w, font_files=[font],
+    r = Image.open(io.BytesIO(bytes(resvg_py.svg_to_bytes(svg_string=svg, width=w, font_files=font.split(';'),
                                                           skip_system_fonts=True)))).convert('RGBA')
     return r, np.array(Image.alpha_composite(Image.new('RGBA', r.size, 'white'), r).convert('L')) < 128
 
