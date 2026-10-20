@@ -431,3 +431,4 @@
 - **File:Itsukushima-island.png → SVG** (`files/itsukushima-island/`): N03 2000 municipalities of Hiroshima and
   Yamaguchi (real geography, as for the other Japan map.png crops), Itsukushima green, 17 transcribed labels as
   `<text>`, leaders and underlines from the PNG's pixel runs; land IoU 0.83. Staged in upload/.
+- File:Izuna Gongen.png: removed from the queue; already triaged as NOT REBUILDABLE without tracing: woodblock / line-art figure drawing (flat colours, but freeform art).
