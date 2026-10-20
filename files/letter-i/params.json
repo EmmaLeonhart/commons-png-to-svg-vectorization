@@ -1,0 +1,131 @@
+{
+ "frame": {
+  "sc": 1.6066793816750953,
+  "tx": -100.79660868557875,
+  "ty": -210.21626178584603
+ },
+ "colours": {
+  "gNLD": "steel",
+  "gGBR": "beige",
+  "gALB": "steel",
+  "gFIN": "blue",
+  "gFRA": "steel",
+  "gAUT": "blue",
+  "gBEL": "steel",
+  "gBGR": "grey",
+  "gBIH": "steel",
+  "gBLR": "grey",
+  "gCHE": "blue",
+  "gCYP": "grey",
+  "gCYN": "grey",
+  "gCZE": "cyan",
+  "gDEU": "blue",
+  "gDNK": "blue",
+  "gDZA": "grey",
+  "gESP": "steel",
+  "gEST": "blue",
+  "gGRC": "grey",
+  "gHRV": "steel",
+  "gHUN": "steel",
+  "gIRL": "beige",
+  "gISL": "lavender",
+  "gITA": "steel",
+  "gSRB": "steel",
+  "gRKS": "steel",
+  "gLTU": "cyan",
+  "gLUX": "steel",
+  "gLVA": "steel",
+  "gMAR": "grey",
+  "gMDA": "steel",
+  "gMKD": "grey",
+  "gMNE": "steel",
+  "gNOR": "blue",
+  "gPOL": "steel",
+  "gROU": "steel",
+  "gRUS": "grey",
+  "gSVK": "steel",
+  "gSVN": "steel",
+  "gSWE": "blue",
+  "gTUN": "grey",
+  "gTUR": "grey",
+  "gUKR": "grey",
+  "gPRT": "steel"
+ },
+ "wales": [
+  0.00030970256052107836,
+  1189.560387809251,
+  168.38681080218333
+ ],
+ "labels": [
+  {
+   "text": "[iː]",
+   "x": 1097.0,
+   "y": 264.0,
+   "size": 95.74,
+   "ls": 0.0
+  },
+  {
+   "text": "[ɪː]",
+   "x": 165.0,
+   "y": 288.0,
+   "size": 95.74,
+   "ls": 0.0
+  },
+  {
+   "text": "[ɪ]",
+   "x": 1273.0,
+   "y": 912.0,
+   "size": 95.74,
+   "ls": 0.0
+  },
+  {
+   "text": "[aɪ]",
+   "x": 430.0,
+   "y": 1068.0,
+   "size": 86.9,
+   "ls": -0.33
+  },
+  {
+   "text": "[i]",
+   "x": 1141.0,
+   "y": 1124.0,
+   "size": 95.74,
+   "ls": -0.5
+  },
+  {
+   "text": "[iː]",
+   "x": 809.0,
+   "y": 1200.0,
+   "size": 95.74,
+   "ls": 0.0
+  },
+  {
+   "text": "[ɪ]",
+   "x": 1013.0,
+   "y": 1264.0,
+   "size": 95.74,
+   "ls": 0.0
+  },
+  {
+   "text": "[i]",
+   "x": 553.0,
+   "y": 1400.0,
+   "size": 95.74,
+   "ls": -0.5
+  },
+  {
+   "text": "[i]",
+   "x": 1245.0,
+   "y": 1442.0,
+   "size": 118.53,
+   "ls": -0.5
+  },
+  {
+   "text": "[i]",
+   "x": 257.0,
+   "y": 1712.0,
+   "size": 95.74,
+   "ls": -0.5
+  }
+ ]
+}

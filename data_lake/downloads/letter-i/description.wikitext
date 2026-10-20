@@ -1,0 +1,23 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|Name of the letter (i) in different European languages.}}
+|Source={{DF|Blank map of Europe cropped.svg}}
+|Date={{Original upload date|2017-05-03}}
+|Author={{uap|عربي-٣١|wikipedia|en}}
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{cc-by-sa-2.5}}
+
+== {{Original upload log}} ==
+{{original description|en.wikipedia|Name+of+the+letter+%28i%29+in+different+European+languages.png}}
+{| class="wikitable"
+! {{int:filehist-datetime}} !! {{int:filehist-dimensions}} !! {{int:filehist-user}} !! {{int:filehist-comment}}
+|-
+| 2017-05-03 21:18 || 1968×2044× (473091 bytes) || [[:en:User:عربي-٣١|عربي-٣١]] || ''<nowiki>Uploading a file from a free published source using [[Wikipedia:File_Upload_Wizard|File Upload Wizard]]</nowiki>''
+|}
+
+[[Category:Photographs by Kong of Lasers]]
+[[Category:Phonological maps of Europe]]

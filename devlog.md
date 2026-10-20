@@ -698,3 +698,6 @@
   PNG kept in `data_lake/downloads/tha-aff-2020/`.
 - **File:The Condensed Lifetime Chronologies of Yamato Takeru and Miyazuhime.png → SVG** (`files/yamato-takeru-chron/`):
   reign bands, fades, hexagon bars by construction, all labels as `<text>` (vertical names per glyph). Staged in upload/.
+- **File:The Letter "i" in Different European Languages.png → SVG** (`files/letter-i/`): Blank map of Europe cropped.svg
+  framed to the PNG, countries recoloured by vote, Wales from Natural Earth fitted to the map's UK, IPA labels as
+  `<text>`. Staged in upload/ (filename without the quotes).
