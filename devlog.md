@@ -767,3 +767,4 @@
 - File:VisualEditor Reference List Insert Menu-en.png: not rebuildable: a screenshot of the VisualEditor interface (raster original).
 - File:VisualEditor table editing add and remove columns.png: not rebuildable: a screenshot of the VisualEditor interface (raster original).
 - File:VisualEditor Template Insert Menu-en.png: not rebuildable: a screenshot of the VisualEditor interface (raster original).
+- File:VisualEditor template not visible context menu.png: not rebuildable: a screenshot of the VisualEditor interface (raster original).
