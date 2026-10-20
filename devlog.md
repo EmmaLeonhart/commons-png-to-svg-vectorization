@@ -647,3 +647,5 @@
   (rotation -0.0°). Staged in upload/.
 - **File:Shadow picture of Tottori prefecture.png → SVG** (`files/shadow-tottori/`): `tools/shadow_rotfit.py`, IoU 0.970
   (rotation 0.0°). Staged in upload/.
+- **File:Shadow picture of Toyama prefecture.png → SVG** (`files/shadow-toyama/`): `tools/shadow_rotfit.py`, IoU 0.980
+  (rotation 0.0°). Staged in upload/.
