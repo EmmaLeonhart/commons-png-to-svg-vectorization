@@ -1,0 +1,14 @@
+== {{int:filedesc}} ==
+{{Information
+|description={{ja|1=京都市左京区吉田神楽岡町吉田神社境内図。}}
+|date=2013-09-29 22:22:03
+|source={{own}}
+|author=[[User:Hiroshi Nishida|Hiroshi Nishida]]
+|permission=
+|other_versions=
+|other_fields=
+}}
+
+== {{int:license-header}} ==
+{{self|cc-by-sa-3.0}}
+[[Category:Yoshida shrine]]

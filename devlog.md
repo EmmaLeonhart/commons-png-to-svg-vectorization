@@ -814,3 +814,7 @@
 - **File:井桁に唐花菱.png → SVG** (`files/igeta-karahanabishi/`): built by construction. The 井 frame and the four-petal
   karahana (circle lobes, quadrant-clipped) are regular in a square space, mapped into the lozenge by one affine
   transform; the strokes are constant width. Frame IoU 0.99, whole 0.97. Staged in upload/.
+- File:吉田神社境内図.png: not rebuildable without tracing. The buildings are rectangles, but the plan is the author's own
+  estimate "from aerial photos, YouTube and the like, partly guessed" (its own note): freehand forest and lawn edges, a
+  curved main path, irregular steps, with no data source; OpenStreetMap footprints would make a different map. PNG kept
+  in `data_lake/downloads/yoshida-jinja-map/`.
