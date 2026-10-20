@@ -7,4 +7,4 @@
 - **Method:** `python tools/shadow_rotfit.py fukui 18 fit` (scale, aspect 1.26, rotation -5.2°, offset);
   silhouette IoU against the PNG 0.9503. `tools/batch_shadow.py`, which fits scale and offset only, had parked it.
 - **Text:** none.
-- Comparison: `Documents\claude-screenshotsgentic-vectorization_2026-10-20\cmp_shadow-fukui.png`.
+- Comparison: `Documents\claude-screenshots\agentic-vectorization_2026-10-20\cmp_shadow-fukui.png`.
