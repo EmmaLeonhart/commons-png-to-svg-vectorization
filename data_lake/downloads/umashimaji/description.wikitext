@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{ja|1=[[:ja:ウマシマジ|ウマシマジ]]}}
+|date=2019-01-21
+|source=[https://kotenseki.nijl.ac.jp/ 新日本古典籍総合データベース]『[https://doi.org/10.20730/200013212 前賢故實]』（[https://kotenseki.nijl.ac.jp/biblio/200013212/viewer/20 画像]）
+|author={{Creator:Kikuchi Yōsai}}
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{cc-by-sa-4.0}}
+
+[[Category:Zenken Kojitsu Vol.1]]
+[[Category:Umashimaji]]

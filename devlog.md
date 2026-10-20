@@ -708,3 +708,5 @@
   line badges). PNG kept in `data_lake/downloads/tren-ligero/`.
 - **File:Tua Tham.png → SVG** (`files/tua-tham/`): ᨲ᩠ᩅᩫᨵᩢᨾ᩠ᨾ᩼ (from en.wikipedia Help:Multilingual support) as `<text>` in Noto Sans
   Tai Tham (the PNG's calligraphic face differs). Staged in upload/.
+- File:Umashimaji by Kikuchi Yōsai.png: not rebuildable without tracing. A woodblock figure illustration from the Zenken
+  Kojitsu (freehand artwork). PNG kept in `data_lake/downloads/umashimaji/`.
