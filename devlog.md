@@ -500,3 +500,4 @@
 - File:Mitsu Zaru inverted.png: removed from the queue; already triaged as NOT REBUILDABLE without tracing: kamon with freeform organic motifs.
 - **File:Modre symbol Omkara.png → SVG** (`files/modre-symbol-omkara/`): Balinese okara + ulu candra as `<text>` in Noto
   Serif Balinese (best of eight encoding/font tries). Staged in upload/.
+- File:Mon- Izumo taisha.png: removed from the queue; already triaged as NOT REBUILDABLE without tracing: kamon with freeform organic motifs.
