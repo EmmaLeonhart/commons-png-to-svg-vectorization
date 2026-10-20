@@ -689,3 +689,5 @@
 - File:Talk tab location - Minerva - en.png: removed from the queue; already triaged as NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
 - File:Talk tab location - Vector 2022 - en.png: removed from the queue; already triaged as NOT REBUILDABLE: a screenshot of the wiki interface (raster original; belongs with 'Likely raster originals')
 - **File:Tangut Sample.png → SVG** (`files/tangut-sample/`): 𗈁𗤻𗖰𗚩 as `<text>` in Noto Serif Tangut. Staged in upload/.
+- **File:Tenmaya logo.png → SVG** (`files/tenmaya-logo/`): wordmark by construction from measured primitives (rounded
+  rects, arches, the N diagonal, the Y bend, the pink stroke); ink IoU 0.966. Staged in upload/.
