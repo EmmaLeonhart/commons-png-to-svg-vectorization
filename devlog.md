@@ -397,3 +397,9 @@
   Cutout and Oki islands crash resvg but render in Chrome). The 31 TransJakarta icons from 2026-10-15 reviewed
   against their PNGs (all match) and taken off the queue; six roundels (2A 4D 5C 5D 6A 9A) were never built and
   stay queued.
+- Upload package for Emma: `tools/package_upload.py` writes all 169 SVGs flat, each named after the file it replaces
+  and carrying a licence comment (CC BY-SA 4.0, the original file, author and licence from the Commons API, and data
+  credits), plus LICENSE.txt. One licence fits all: the sources are PD/CC0/free use, CC BY 2.5–4.0, CC BY-SA 2.5–4.0,
+  GFDL+CC BY-SA, MLIT terms (CC BY 4.0 compatible), geoBoundaries CC BY 4.0, and OSM (produced work). East Asia
+  Cutout's PNG is GFDL-only, but the SVG comes from its CC BY-SA source SVG. Saved as
+  Documents/commons-upload_2026-10-19(.zip).

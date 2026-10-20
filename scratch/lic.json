@@ -1,0 +1,1743 @@
+{
+ "items": {
+  "1bc1a": "1bc1a.png",
+  "23-graz": "23 Graz.png",
+  "24directions": "24directions.png",
+  "45-record": "45 record.png",
+  "abkhazia-stub": "Abkhazia stub.png",
+  "abusir-map": "Abusir map.png",
+  "aca-org-chart": "Agency for Cultural Affairs Organizational chart 20230327.png",
+  "adlam": "ADLaM.png",
+  "ahom-rendering": "Ahom rendering.png",
+  "amateur-radio-icon": "Amateur radio compact icon.png",
+  "aomori-tsugaru-block": "Aomori Tsugaru-block.png",
+  "appalachian-region": "Appalachian region of United States.png",
+  "arms-andechs": "Andechs-Wappen.png",
+  "arms-arpad": "Arpad.png",
+  "arms-ataide-brason": "Brason Ataíde.jpg",
+  "arms-aubigny-william": "Coat of arms of William d'Aubigny, Earl of Arundel.png",
+  "arms-audley-james": "Coat of Arms of Sir James Audeley, KG.png",
+  "arms-avarna": "Coa fam ITA avarna.jpg",
+  "arms-basset": "BassetArms.png",
+  "arms-bigod-hugh": "Coat of arms of Hugh Bigod, heir to the earldoms of Norfolk and Suffolk.png",
+  "arms-bigod-modern": "BigodModernArms.JPG",
+  "arms-buornonville": "Buornonville (antes de la I cruzada).png",
+  "arms-cardona": "Cardonapic.png",
+  "arms-cherleton-barons": "Arms of Cherleton, Barons Cherleton.png",
+  "arms-cherleton-edward": "Sir Edward Cherleton, 5th Baron Cherleton, KG.png",
+  "arms-clare-richard": "Coat of arms of Richard de Clare, Earl of Hertford.png",
+  "arms-clifford-bend": "CliffordArms WithBend.png",
+  "arms-county-of-portugal": "Shield of the County of Portugal (1095-1139).png",
+  "arms-devereux-walter": "Coat of Arms of Sir Walter Devereux, 7th Baron Ferrers of Chartley, KG.png",
+  "arms-ely-geoffrey-de-burgo": "Arms displayed by Geoffrey de Burgo, Bishop of Ely, at the signing of Magna Charta.png",
+  "arms-fitzhamon": "RobertFitzHamonAttributedArms.PNG",
+  "arms-giffone": "Coa fam ITA giffone.jpg",
+  "arms-herbert-william": "Coat of Arms of Sir William Herbert, 1st Baron Herbert, KG.png",
+  "arms-hohenberg": "Hohenberg-Wappen ZW.png",
+  "arms-hvide": "Hvide Dynasty escutcheon (scan 2008).jpg",
+  "arms-longespee": "LongespeeArms1.png",
+  "arms-mandeville-geoffrey": "Coat of arms of Geoffrey de Mandeville, Earl of Essex and Gloucester.png",
+  "arms-meissen": "Meissen-Mark.png",
+  "arms-mohun-john": "Coat of Arms of Sir John de Mohun, 2nd Baron Mohun, KG.png",
+  "arms-mowbray-william": "Coat of arms of William de Mowbray, Lord of Axholme Castle.png",
+  "arms-mowbray": "MowbrayArms.png",
+  "arms-neville-john": "Sir John Neville, 3rd Baron Neville de Raby, KG.png",
+  "arms-neville-westmorland": "Coat of Arms - Neville, Earls of Westmorland, and Barons Neville of Raby.png",
+  "arms-of-bahrain": "Arms of Bahrain.png",
+  "arms-percy-alnwick": "Coat of Arms - Percy, Barons Percy of Alnwick.png",
+  "arms-percy-henry-4th": "Coat of arms of Sir Henry Percy, 4th Earl of Northumberland, KG.png",
+  "arms-percy-richard": "Coat of arms of Richard de Percy, Baron.png",
+  "arms-rabenswalde": "Wappen derer von Rabenswalde.png",
+  "arms-rhys-ap-thomas": "Coat of arms of Sir Rhys ap Thomas, KG.png",
+  "arms-rischach": "Rischach-Wappen ZW.png",
+  "arms-saffenburg": "Saffenburg-Wappen.png",
+  "arms-st-john": "K-067-Coat of Arms-ST JOHN-John de St. John (\"Johan de Saint Johan\").png",
+  "arms-woodville": "WoodvilleArms.png",
+  "arms-zegligovic": "Zegligovic Coat of Arms.png",
+  "bali-ba": "Bali Ba.png",
+  "bamum-king-njoya-4": "Bamum King Njoya (4).png",
+  "bangkok-monorail-logo": "Bangkok Monorail Logo.png",
+  "blackpool-transport-logo": "Blackpool Transport simple logo.png",
+  "blank-50px": "Blank 50px.png",
+  "bohai-sea-map": "Bohai Sea map.png",
+  "bonji-i": "Bonji-I.png",
+  "bonji-ii": "Bonji-Ii.png",
+  "bonjia": "BonjiA.png",
+  "bonjibra": "BonjiBra.png",
+  "bonjica": "BonjiCa.png",
+  "bonjihaammaam": "BonjiHaammaam.png",
+  "bonjima": "BonjiMa.png",
+  "bonjinr": "BonjiNr.png",
+  "bonjipr": "BonjiPr.png",
+  "bonjiva": "BonjiVa.png",
+  "bonjivaa": "BonjiVaa.png",
+  "bonjivai": "BonjiVai.png",
+  "bonjiyam": "BonjiYam.png",
+  "ch-1422a": "Ch-1422a.png",
+  "cherokee-lowercase": "Cherokee Lowercase.png",
+  "col-city-icon": "COL-city icon.png",
+  "compare-tropical-years": "CompareTropicalYears.png",
+  "cricket-no-pic": "Cricket no pic.png",
+  "cube-rgb-64px": "Cube NoEdges RGBfaces 64px.png",
+  "dpm-icon": "DPM icon.png",
+  "east-asia-cutout": "East Asia Cutout Projection.png",
+  "eastern-europe-robinson": "Eastern Europe (Robinson projection).png",
+  "edinburgh-trams-generic": "EdinburghTramsGeneric.png",
+  "ehou-direction": "Ehou-direction.png",
+  "emperor-family-tree0": "Emperor family tree0.png",
+  "excerpt-tree": "Excerpt tree.png",
+  "flag-of-wurttemberg-1806-1816": "Flag of the Kingdom of Württemberg (1806 - 1816).png",
+  "former-ensign-myanmar-air-force": "Former Ensign of Myanmar Air Force.png",
+  "fukuchiyama-toyuke-map": "Fukuchiyama Toyuke-daijinja map.png",
+  "g01": "G01.png",
+  "g05": "G05.png",
+  "g100": "G100.png",
+  "g10": "G10.png",
+  "g50": "G50.png",
+  "gongen-zukuri": "Gongen Zukuri.png",
+  "greater-macedonia": "Greater Macedonia.png",
+  "harushima-iki": "Harushima Iki.png",
+  "higashimuro-district-map": "Higashimuro District Map.png",
+  "indonesian-marine-corps-flag": "Flag of the Indonesian Marine Corps.png",
+  "indonesian-road-sign-d9a": "Indonesian Road Sign d9a.png",
+  "istanbul-nostaljik-tramvay": "Istanbul public transport - Nostaljik Tramvay symbol.png",
+  "japan-birth-death-rate": "Birth and death rate of japan 1950-2019.png",
+  "kagoshima-geo-stub": "Kagoshima-geo-stub.png",
+  "kamon-maru-ni-kenkatabami": "Kamon maru ni kenkatabami.png",
+  "kenmu-restoration-flag": "Japanese flag during the Kenmu Restoration.png",
+  "kinai-hyuga": "Kinai-and-Hyuga-Province-in-Japan-RA.png",
+  "kitakatsuragi": "Kitakatsuragi District in Nara prefecture Ja.png",
+  "kochi-geo-stub": "Kochi-geo-stub.png",
+  "kongo-cosmogram": "Kongo Cosmogram - blank.png",
+  "kyoto-geo-stub": "Kyoto-geo-stub.png",
+  "l14-c": "L14 C.png",
+  "map-icon-hotel": "Map Icon - Hotel.png",
+  "maruni-toshi-no-monji": "Maruni-Toshi no Monji.jpg",
+  "mon-imperial": "Mon-Imperial.png",
+  "moriya-family-tree-english": "Moriya Family Tree (English).png",
+  "nigeria-rivers-state": "Nigeria Rivers State map.png",
+  "no-image-yet-square": "NO IMAGE YET square.png",
+  "no-image-yet": "NO IMAGE YET.png",
+  "null": "Null.png",
+  "ohokuninushi-family-tree": "Ohokuninushi family tree.png",
+  "oki-islands": "Oki islands in Shimane prefecture.png",
+  "r01": "R01.png",
+  "r05": "R05.png",
+  "r10": "R10.png",
+  "r50": "R50.png",
+  "shadow-aichi": "Shadow picture of Aichi prefecture.png",
+  "shadow-aomori": "Shadow picture of Aomori prefecture.png",
+  "shadow-chiba": "Shadow picture of Chiba prefecture.png",
+  "shadow-fukuoka": "Shadow picture of Fukuoka prefecture.png",
+  "shadow-fukushima": "Shadow picture of Fukushima prefecture.png",
+  "shadow-gifu": "Shadow picture of Gifu prefecture.png",
+  "shinmei-torii": "Shinmei torii.png",
+  "susanowo-family-tree": "Susanowo family tree.png",
+  "takamatsu-no-miya": "Takamatsu no miya.png",
+  "transjakarta-brt-corridor-1-icon": "TransJakarta BRT Corridor 1 Icon.png",
+  "transjakarta-brt-corridor-10-icon": "TransJakarta BRT Corridor 10 Icon.png",
+  "transjakarta-brt-corridor-11-icon": "TransJakarta BRT Corridor 11 Icon.png",
+  "transjakarta-brt-corridor-12-icon": "TransJakarta BRT Corridor 12 Icon.png",
+  "transjakarta-brt-corridor-13-icon": "TransJakarta BRT Corridor 13 Icon.png",
+  "transjakarta-brt-corridor-14-icon": "TransJakarta BRT Corridor 14 Icon.png",
+  "transjakarta-brt-corridor-2-icon": "TransJakarta BRT Corridor 2 Icon.png",
+  "transjakarta-brt-corridor-3-icon": "TransJakarta BRT Corridor 3 Icon.png",
+  "transjakarta-brt-corridor-4-icon": "TransJakarta BRT Corridor 4 Icon.png",
+  "transjakarta-brt-corridor-5-icon": "TransJakarta BRT Corridor 5 Icon.png",
+  "transjakarta-brt-corridor-6-icon": "TransJakarta BRT Corridor 6 Icon.png",
+  "transjakarta-brt-corridor-7-icon": "TransJakarta BRT Corridor 7 Icon.png",
+  "transjakarta-brt-corridor-8-icon": "TransJakarta BRT Corridor 8 Icon.png",
+  "transjakarta-brt-corridor-9-icon": "TransJakarta BRT Corridor 9 Icon.png",
+  "transjakarta-brt-route-13d-icon": "Transjakarta BRT Route 13D Icon.png",
+  "transjakarta-brt-route-2c-icon": "Transjakarta BRT Route 2C Icon.png",
+  "transjakarta-brt-route-4h-icon": "Transjakarta BRT Route 4H Icon.png",
+  "transjakarta-brt-route-5h-icon": "Transjakarta BRT Route 5H Icon.png",
+  "transjakarta-brt-route-6b-icon": "Transjakarta BRT Route 6B Icon.png",
+  "transjakarta-brt-route-8a-icon": "Transjakarta BRT Route 8A Icon.png",
+  "transjakarta-brt-route-9c-icon": "Transjakarta BRT Route 9C Icon.png",
+  "transjakarta-roundel-10d": "TransJakarta roundel 10D.png",
+  "transjakarta-roundel-10h": "TransJakarta roundel 10H.png",
+  "transjakarta-roundel-13b": "TransJakarta roundel 13B.png",
+  "transjakarta-roundel-13e": "TransJakarta roundel 13E.png",
+  "transjakarta-roundel-3f": "TransJakarta roundel 3F.png",
+  "transjakarta-roundel-3h": "TransJakarta roundel 3H.png",
+  "transjakarta-roundel-6v": "TransJakarta roundel 6V.png",
+  "transjakarta-roundel-7f": "TransJakarta roundel 7F.png",
+  "transjakarta-roundel-9n": "TransJakarta roundel 9N.png",
+  "transjakarta-roundel-l13e": "TransJakarta roundel L13E.png",
+  "ushu-province": "Ushu Province.png",
+  "uzbek-ssr-flag-1927": "Flag of the Uzbek Soviet Socialist Republic(1927-1929).png",
+  "uzbek-ssr-flag-1937": "Flag of the Uzbek Soviet Socialist Republic(1937-1938).png",
+  "wakayama-geo-stub": "Wakayama-geo-stub.png"
+ },
+ "lic": {
+  "Bohai Sea map.png": [
+   "CC BY-SA 3.0",
+   "cc-by-sa-3.0",
+   [
+    "Template:CC-Layout",
+    "Template:Cc-by-sa-3.0-migrated",
+    "Template:GFDL",
+    "Template:License migration",
+    "Template:Self",
+    "Module:Self"
+   ]
+  ],
+  "Abusir map.png": [
+   "Public domain",
+   "pd",
+   [
+    "Template:PD-Layout",
+    "Template:PD-self"
+   ]
+  ],
+  "24directions.png": [
+   "CC BY-SA 3.0",
+   "cc-by-sa-3.0",
+   [
+    "Template:CC-Layout",
+    "Template:Cc-by-sa-3.0-migrated",
+    "Template:GFDL",
+    "Template:License migration",
+    "Template:License migration complete"
+   ]
+  ],
+  "Bali Ba.png": [
+   "CC BY-SA 4.0",
+   "cc-by-sa-4.0",
+   [
+    "Template:Cc-by-sa-4.0,3.0,2.5,2.0,1.0",
+    "Template:Cc-by-sa-all",
+    "Template:Cc-by-sa-layout",
+    "Template:GFDL",
+    "Template:License migration",
+    "Template:Self",
+    "Module:Self"
+   ]
+  ],
+  "Blank 50px.png": [
+   "Public domain",
+   "pd",
+   [
+    "Template:PD-Layout",
+    "Template:PD-ineligible",
+    "Template:PD-ineligible/en",
+    "Template:PD-ineligible/layout"
+   ]
+  ],
+  "Brason Ataíde.jpg": [
+   "Public domain",
+   "pd",
+   [
+    "Template:PD-Layout",
+    "Template:PD-self"
+   ]
+  ],
+  "Andechs-Wappen.png": [
+   "Public domain",
+   "pd",
+   [
+    "Template:Cc-pd-mark-footer",
+    "Template:PD-Layout",
+    "Template:PD-old",
+    "Template:PD-old-text",
+    "Template:PD-old-warning-text",
+    "Template:SDC-PD-old"
+   ]
+  ],
+  "Arms of Bahrain.png": [
+   "Public domain",
+   "pd",
+   [
+    "Template:PD-Layout",
+    "Template:PD-self",
+    "Template:Self",
+    "Module:Self"
+   ]
+  ],
+  "45 record.png": [
+   "CC0",
+   "cc0",
+   [
+    "Template:CC-Layout",
+    "Template:Cc-zero",
+    "Template:PD-OpenClipart",
+    "Template:PD-OpenClipart/en",
+    "Template:PD-OpenClipart/lang",
+    "Template:PD-OpenClipart/layout"
+   ]
+  ],
+  "Abkhazia stub.png": [
+   "CC BY-SA 3.0",
+   "cc-by-sa-3.0",
+   [
+    "Template:Cc-by-sa-3.0",
+    "Template:Cc-by-sa-layout",
+    "Template:Self",
+    "Module:Self"
+   ]
+  ],
+  "1bc1a.png": [
+   "Public domain",
+   "pd",
+   [
+    "Template:PD-Layout",
+    "Template:PD-generic/layout",
+    "Template:PD-text",
+    "Template:PD-text/en"
+   ]
+  ],
+  "BigodModernArms.JPG": [
+   "Public domain",
+   "pd",
+   [
+    "Template:PD-Layout",
+    "Template:PD-self"
+   ]
+  ],
+  "Blackpool Transport simple logo.png": [
+   "CC BY-SA 3.0",
+   "cc-by-sa-3.0",
+   [
+    "Template:Cc-by-sa-3.0",
+    "Template:Cc-by-sa-layout",
+    "Template:Self",
+    "Module:Self"
+   ]
+  ],
+  "Arms of Cherleton, Barons Cherleton.png": [
+   "CC BY-SA 3.0",
+   "cc-by-sa-3.0",
+   [
+    "Template:Cc-by-sa-3.0",
+    "Template:Cc-by-sa-layout",
+    "Template:Cc-by-sa-layout/styles.css",
+    "Template:Self",
+    "Module:Self"
+   ]
+  ],
+  "Arms displayed by Geoffrey de Burgo, Bishop of Ely, at the signing of Magna Charta.png": [
+   "CC BY-SA 3.0",
+   "cc-by-sa-3.0",
+   [
+    "Template:Cc-by-sa-3.0",
+    "Template:Cc-by-sa-layout",
+    "Template:Cc-by-sa-layout/styles.css",
+    "Template:Self",
+    "Module:Self"
+   ]
+  ],
+  "Appalachian region of United States.png": [
+   "Public domain",
+   "pd",
+   [
+    "Template:Cc-pd-mark-footer",
+    "Template:PD-Layout",
+    "Template:PD-USGov",
+    "Template:PD-USGov/en",
+    "Template:PD-USGov/layout",
+    "Template:SDC-PD-USGov"
+   ]
+  ],
+  "Arpad.png": [
+   "Public domain",
+   "pd",
+   [
+    "Template:PD-Layout",
+    "Template:PD-self"
+   ]
+  ],
+  "BassetArms.png": [
+   "Public domain",
+   "pd",
+   [
+    "Template:PD-Layout",
+    "Template:PD-self"
+   ]
+  ],
+  "Bangkok Monorail Logo.png": [
+   "CC BY-SA 4.0",
+   "cc-by-sa-4.0",
+   [
+    "Template:Cc-by-sa-4.0",
+    "Template:Cc-by-sa-layout",
+    "Template:Self",
+    "Module:Self"
+   ]
+  ],
+  "Bamum King Njoya (4).png": [
+   "CC BY-SA 4.0",
+   "cc-by-sa-4.0",
+   [
+    "Template:Cc-by-sa-4.0",
+    "Template:Cc-by-sa-layout",
+    "Template:Self",
+    "Module:Self"
+   ]
+  ],
+  "Ahom rendering.png": [
+   "CC BY-SA 4.0",
+   "cc-by-sa-4.0",
+   [
+    "Template:Cc-by-sa-4.0",
+    "Template:Cc-by-sa-layout",
+    "Template:Cc-by-sa-layout/styles.css",
+    "Template:Self",
+    "Module:Self"
+   ]
+  ],
+  "BonjiA.png": [
+   "CC BY-SA 4.0",
+   "cc-by-sa-4.0",
+   [
+    "Template:Cc-by-sa-4.0",
+    "Template:Cc-by-sa-layout",
+    "Template:Self",
+    "Module:Self"
+   ]
+  ],
+  "BonjiCa.png": [
+   "CC BY-SA 4.0",
+   "cc-by-sa-4.0",
+   [
+    "Template:Cc-by-sa-4.0",
+    "Template:Cc-by-sa-layout",
+    "Template:Self",
+    "Module:Self"
+   ]
+  ],
+  "Bonji-Ii.png": [
+   "CC BY-SA 4.0",
+   "cc-by-sa-4.0",
+   [
+    "Template:Cc-by-sa-4.0",
+    "Template:Cc-by-sa-layout",
+    "Template:Self"
+   ]
+  ],
+  "Bonji-I.png": [
+   "CC BY-SA 4.0",
+   "cc-by-sa-4.0",
+   []
+  ],
+  "BonjiNr.png": [
+   "CC BY-SA 4.0",
+   "cc-by-sa-4.0",
+   []
+  ],
+  "BonjiPr.png": [
+   "CC BY-SA 4.0",
+   "cc-by-sa-4.0",
+   []
+  ],
+  "BonjiBra.png": [
+   "CC BY-SA 4.0",
+   "cc-by-sa-4.0",
+   []
+  ],
+  "BonjiMa.png": [
+   "CC BY-SA 4.0",
+   "cc-by-sa-4.0",
+   []
+  ],
+  "BonjiYam.png": [
+   "CC BY-SA 4.0",
+   "cc-by-sa-4.0",
+   []
+  ],
+  "BonjiVa.png": [
+   "CC BY-SA 4.0",
+   "cc-by-sa-4.0",
+   []
+  ],
+  "BonjiVaa.png": [
+   "CC BY-SA 4.0",
+   "cc-by-sa-4.0",
+   []
+  ],
+  "BonjiVai.png": [
+   "CC BY-SA 4.0",
+   "cc-by-sa-4.0",
+   []
+  ],
+  "BonjiHaammaam.png": [
+   "CC BY-SA 4.0",
+   "cc-by-sa-4.0",
+   []
+  ],
+  "Birth and death rate of japan 1950-2019.png": [
+   "CC BY-SA 4.0",
+   "cc-by-sa-4.0",
+   []
+  ],
+  "Aomori Tsugaru-block.png": [
+   "CC BY-SA 3.0",
+   "cc-by-sa-3.0",
+   []
+  ],
+  "23 Graz.png": [
+   "Public domain",
+   "pd",
+   []
+  ],
+  "ADLaM.png": [
+   "CC0",
+   "cc0",
+   []
+  ],
+  "Agency for Cultural Affairs Organizational chart 20230327.png": [
+   "CC0",
+   "cc0",
+   []
+  ],
+  "Amateur radio compact icon.png": [
+   "CC0",
+   "cc0",
+   []
+  ],
+  "Emperor family tree0.png": [
+   "CC BY 2.5",
+   "cc-by-2.5",
+   [
+    "Template:CC-Layout",
+    "Template:Cc-by-2.5",
+    "Template:Cc-by-layout",
+    "Template:Cc-by-sa-3.0-migrated",
+    "Template:GFDL",
+    "Template:License migration",
+    "Template:Self",
+    "Module:Self"
+   ]
+  ],
+  "G01.png": [
+   "Public domain",
+   "pd",
+   [
+    "Template:PD-Layout",
+    "Template:PD-shape",
+    "Template:PD-shape/en",
+    "Template:PD-shape/layout"
+   ]
+  ],
+  "G05.png": [
+   "Public domain",
+   "pd",
+   [
+    "Template:PD-Layout",
+    "Template:PD-shape",
+    "Template:PD-shape/en",
+    "Template:PD-shape/layout"
+   ]
+  ],
+  "CompareTropicalYears.png": [
+   "CC BY-SA 3.0",
+   "cc-by-sa-3.0",
+   [
+    "Template:CC-Layout",
+    "Template:Cc-by-sa-3.0-migrated",
+    "Template:GFDL",
+    "Template:License migration",
+    "Template:License migration complete"
+   ]
+  ],
+  "Coa fam ITA avarna.jpg": [
+   "CC BY-SA 3.0",
+   "cc-by-sa-3.0",
+   [
+    "Template:Cc-by-sa-3.0",
+    "Template:Cc-by-sa-layout",
+    "Template:Cc-by-sa-layout/styles.css",
+    "Template:GFDL",
+    "Template:License migration",
+    "Template:Self",
+    "Module:Self"
+   ]
+  ],
+  "Ch-1422a.png": [
+   "Public domain",
+   "pd",
+   [
+    "Template:PD-Layout",
+    "Template:PD-self"
+   ]
+  ],
+  "Cricket no pic.png": [
+   "Public domain",
+   "pd",
+   [
+    "Template:PD-Layout",
+    "Template:PD-ineligible",
+    "Template:PD-ineligible/en",
+    "Template:PD-ineligible/layout"
+   ]
+  ],
+  "Eastern Europe (Robinson projection).png": [
+   "CC BY-SA 3.0",
+   "cc-by-sa-3.0",
+   [
+    "Template:CC-Layout",
+    "Template:Cc-by-sa-3.0-migrated",
+    "Template:GFDL",
+    "Template:License migration",
+    "Template:License migration complete",
+    "Template:Self",
+    "Module:Self"
+   ]
+  ],
+  "East Asia Cutout Projection.png": [
+   "GFDL",
+   null,
+   [
+    "Template:GFDL",
+    "Template:GFDL-GMT",
+    "Template:GFDL-GMT/en",
+    "Template:GFDL-GMT/lang",
+    "Template:GFDL-GMT/layout",
+    "Template:License migration"
+   ]
+  ],
+  "Coa fam ITA giffone.jpg": [
+   "CC BY-SA 3.0",
+   "cc-by-sa-3.0",
+   [
+    "Template:Cc-by-sa-3.0",
+    "Template:Cc-by-sa-layout",
+    "Template:GFDL",
+    "Template:License migration",
+    "Template:Self",
+    "Module:Self"
+   ]
+  ],
+  "COL-city icon.png": [
+   "CC BY-SA 3.0",
+   "cc-by-sa-3.0",
+   [
+    "Template:Cc-by-sa-3.0",
+    "Template:Cc-by-sa-layout"
+   ]
+  ],
+  "Coat of Arms of Sir John de Mohun, 2nd Baron Mohun, KG.png": [
+   "CC BY-SA 3.0",
+   "cc-by-sa-3.0",
+   [
+    "Template:Cc-by-sa-3.0",
+    "Template:Cc-by-sa-layout",
+    "Template:Self",
+    "Module:Self"
+   ]
+  ],
+  "Coat of Arms of Sir James Audeley, KG.png": [
+   "CC BY-SA 3.0",
+   "cc-by-sa-3.0",
+   [
+    "Template:Cc-by-sa-3.0",
+    "Template:Cc-by-sa-layout",
+    "Template:Self",
+    "Module:Self"
+   ]
+  ],
+  "Coat of Arms of Sir William Herbert, 1st Baron Herbert, KG.png": [
+   "CC BY-SA 3.0",
+   "cc-by-sa-3.0",
+   [
+    "Template:Cc-by-sa-3.0",
+    "Template:Cc-by-sa-layout",
+    "Template:Self",
+    "Module:Self"
+   ]
+  ],
+  "Coat of Arms of Sir Walter Devereux, 7th Baron Ferrers of Chartley, KG.png": [
+   "CC BY-SA 3.0",
+   "cc-by-sa-3.0",
+   [
+    "Template:Cc-by-sa-3.0",
+    "Template:Cc-by-sa-layout",
+    "Template:Self",
+    "Module:Self"
+   ]
+  ],
+  "Coat of arms of Sir Rhys ap Thomas, KG.png": [
+   "CC BY-SA 3.0",
+   "cc-by-sa-3.0",
+   [
+    "Template:Cc-by-sa-3.0",
+    "Template:Cc-by-sa-layout",
+    "Template:Self",
+    "Module:Self"
+   ]
+  ],
+  "Coat of arms of Sir Henry Percy, 4th Earl of Northumberland, KG.png": [
+   "CC BY-SA 3.0",
+   "cc-by-sa-3.0",
+   [
+    "Template:Cc-by-sa-3.0",
+    "Template:Cc-by-sa-layout",
+    "Template:Self",
+    "Module:Self"
+   ]
+  ],
+  "Coat of arms of William d'Aubigny, Earl of Arundel.png": [
+   "CC BY-SA 3.0",
+   "cc-by-sa-3.0",
+   [
+    "Template:Cc-by-sa-3.0",
+    "Template:Cc-by-sa-layout",
+    "Template:Self",
+    "Module:Self"
+   ]
+  ],
+  "Coat of arms of Hugh Bigod, heir to the earldoms of Norfolk and Suffolk.png": [
+   "CC BY-SA 3.0",
+   "cc-by-sa-3.0",
+   [
+    "Template:Cc-by-sa-3.0",
+    "Template:Cc-by-sa-layout",
+    "Template:Self",
+    "Module:Self"
+   ]
+  ],
+  "Coat of arms of Richard de Clare, Earl of Hertford.png": [
+   "CC BY-SA 3.0",
+   "cc-by-sa-3.0",
+   [
+    "Template:Cc-by-sa-3.0",
+    "Template:Cc-by-sa-layout",
+    "Template:Self",
+    "Module:Self"
+   ]
+  ],
+  "Coat of arms of Geoffrey de Mandeville, Earl of Essex and Gloucester.png": [
+   "CC BY-SA 3.0",
+   "cc-by-sa-3.0",
+   [
+    "Template:Cc-by-sa-3.0",
+    "Template:Cc-by-sa-layout",
+    "Template:Self",
+    "Module:Self"
+   ]
+  ],
+  "Coat of arms of William de Mowbray, Lord of Axholme Castle.png": [
+   "CC BY-SA 3.0",
+   "cc-by-sa-3.0",
+   [
+    "Template:Cc-by-sa-3.0",
+    "Template:Cc-by-sa-layout",
+    "Template:Self",
+    "Module:Self"
+   ]
+  ],
+  "Coat of arms of Richard de Percy, Baron.png": [
+   "CC BY-SA 3.0",
+   "cc-by-sa-3.0",
+   [
+    "Template:Cc-by-sa-3.0",
+    "Template:Cc-by-sa-layout",
+    "Template:Self",
+    "Module:Self"
+   ]
+  ],
+  "Coat of Arms - Neville, Earls of Westmorland, and Barons Neville of Raby.png": [
+   "CC BY-SA 3.0",
+   "cc-by-sa-3.0",
+   [
+    "Template:Cc-by-sa-3.0",
+    "Template:Cc-by-sa-layout",
+    "Template:Self",
+    "Module:Self"
+   ]
+  ],
+  "Coat of Arms - Percy, Barons Percy of Alnwick.png": [
+   "CC BY-SA 3.0",
+   "cc-by-sa-3.0",
+   [
+    "Template:Cc-by-sa-3.0",
+    "Template:Cc-by-sa-layout",
+    "Template:Self",
+    "Module:Self"
+   ]
+  ],
+  "Buornonville (antes de la I cruzada).png": [
+   "CC BY-SA 3.0",
+   "cc-by-sa-3.0",
+   [
+    "Template:Cc-by-sa-3.0",
+    "Template:Cc-by-sa-layout",
+    "Template:Self",
+    "Module:Self"
+   ]
+  ],
+  "Cardonapic.png": [
+   "Public domain",
+   "pd",
+   [
+    "Template:PD-Layout",
+    "Template:PD-self"
+   ]
+  ],
+  "EdinburghTramsGeneric.png": [
+   "Public domain",
+   "pd",
+   [
+    "Template:PD-Layout",
+    "Template:PD-shape",
+    "Template:PD-shape/en",
+    "Template:PD-shape/layout"
+   ]
+  ],
+  "DPM icon.png": [
+   "Public domain",
+   "pd",
+   []
+  ],
+  "CliffordArms WithBend.png": [
+   "Public domain",
+   "pd",
+   []
+  ],
+  "Cube NoEdges RGBfaces 64px.png": [
+   "CC BY-SA 4.0",
+   "cc-by-sa-4.0",
+   []
+  ],
+  "Fukuchiyama Toyuke-daijinja map.png": [
+   "CC BY-SA 4.0",
+   "cc-by-sa-4.0",
+   []
+  ],
+  "Cherokee Lowercase.png": [
+   "CC0",
+   "cc0",
+   []
+  ],
+  "Excerpt tree.png": [
+   "CC BY-SA 4.0",
+   "cc-by-sa-4.0",
+   []
+  ],
+  "Flag of the Uzbek Soviet Socialist Republic(1927-1929).png": [
+   "CC BY 4.0",
+   "cc-by-4.0",
+   []
+  ],
+  "Flag of the Uzbek Soviet Socialist Republic(1937-1938).png": [
+   "CC BY 4.0",
+   "cc-by-4.0",
+   []
+  ],
+  "Ehou-direction.png": [
+   "CC BY-SA 3.0",
+   "cc-by-sa-3.0",
+   []
+  ],
+  "Former Ensign of Myanmar Air Force.png": [
+   "CC BY-SA 4.0",
+   "cc-by-sa-4.0",
+   []
+  ],
+  "Flag of the Indonesian Marine Corps.png": [
+   "CC BY-SA 4.0",
+   "cc-by-sa-4.0",
+   []
+  ],
+  "Flag of the Kingdom of Württemberg (1806 - 1816).png": [
+   "CC BY-SA 4.0",
+   "cc-by-sa-4.0",
+   []
+  ],
+  "Null.png": [
+   "Public domain",
+   "pd",
+   [
+    "Template:PD-Layout",
+    "Template:PD-ineligible",
+    "Template:PD-ineligible/en",
+    "Template:PD-ineligible/layout"
+   ]
+  ],
+  "Ohokuninushi family tree.png": [
+   "CC BY 2.5",
+   "cc-by-2.5",
+   [
+    "Template:CC-Layout",
+    "Template:Cc-by-2.5",
+    "Template:Cc-by-layout",
+    "Template:Cc-by-sa-3.0-migrated",
+    "Template:GFDL",
+    "Template:License migration",
+    "Template:Self",
+    "Module:Self"
+   ]
+  ],
+  "G10.png": [
+   "Public domain",
+   "pd",
+   [
+    "Template:PD-Layout",
+    "Template:PD-shape",
+    "Template:PD-shape/en",
+    "Template:PD-shape/layout"
+   ]
+  ],
+  "G50.png": [
+   "Public domain",
+   "pd",
+   [
+    "Template:PD-Layout",
+    "Template:PD-shape",
+    "Template:PD-shape/en",
+    "Template:PD-shape/layout"
+   ]
+  ],
+  "G100.png": [
+   "Public domain",
+   "pd",
+   [
+    "Template:PD-Layout",
+    "Template:PD-shape",
+    "Template:PD-shape/en",
+    "Template:PD-shape/layout"
+   ]
+  ],
+  "R01.png": [
+   "Public domain",
+   "pd",
+   [
+    "Template:PD-Layout",
+    "Template:PD-shape",
+    "Template:PD-shape/en",
+    "Template:PD-shape/layout"
+   ]
+  ],
+  "R05.png": [
+   "Public domain",
+   "pd",
+   [
+    "Template:PD-Layout",
+    "Template:PD-shape",
+    "Template:PD-shape/en",
+    "Template:PD-shape/layout"
+   ]
+  ],
+  "R10.png": [
+   "Public domain",
+   "pd",
+   [
+    "Template:PD-Layout",
+    "Template:PD-shape",
+    "Template:PD-shape/en",
+    "Template:PD-shape/layout"
+   ]
+  ],
+  "R50.png": [
+   "Public domain",
+   "pd",
+   [
+    "Template:PD-Layout",
+    "Template:PD-ineligible",
+    "Template:PD-ineligible/en",
+    "Template:PD-ineligible/layout"
+   ]
+  ],
+  "Mon-Imperial.png": [
+   "Public domain",
+   "pd",
+   [
+    "Template:PD-Layout",
+    "Template:PD-self"
+   ]
+  ],
+  "Higashimuro District Map.png": [
+   "Public domain",
+   "pd",
+   [
+    "Template:PD-Layout",
+    "Template:PD-self"
+   ]
+  ],
+  "Gongen Zukuri.png": [
+   "Public domain",
+   "pd",
+   [
+    "Template:PD-Layout",
+    "Template:PD-self"
+   ]
+  ],
+  "Meissen-Mark.png": [
+   "CC BY-SA 3.0",
+   "cc-by-sa-3.0",
+   [
+    "Template:Cc-by-sa-3.0,2.5,2.0,1.0",
+    "Template:Cc-by-sa-layout",
+    "Template:GFDL",
+    "Template:License migration",
+    "Template:Self",
+    "Module:Self"
+   ]
+  ],
+  "Kagoshima-geo-stub.png": [
+   "Public domain",
+   "pd",
+   [
+    "Template:PD-Layout",
+    "Template:PD-self"
+   ]
+  ],
+  "Kochi-geo-stub.png": [
+   "Public domain",
+   "pd",
+   [
+    "Template:PD-Layout",
+    "Template:PD-self"
+   ]
+  ],
+  "Kitakatsuragi District in Nara prefecture Ja.png": [
+   "CC BY-SA 3.0",
+   "cc-by-sa-3.0",
+   [
+    "Template:CC-Layout",
+    "Template:Cc-by-sa-3.0-migrated",
+    "Template:GFDL",
+    "Template:License migration",
+    "Template:License migration complete"
+   ]
+  ],
+  "Greater Macedonia.png": [
+   "Public domain",
+   "pd",
+   [
+    "Template:PD-Layout",
+    "Template:PD-self"
+   ]
+  ],
+  "Nigeria Rivers State map.png": [
+   "CC BY-SA 3.0",
+   "cc-by-sa-3.0",
+   [
+    "Template:Cc-by-sa-3.0",
+    "Template:Cc-by-sa-layout"
+   ]
+  ],
+  "Maruni-Toshi no Monji.jpg": [
+   "CC BY-SA 3.0",
+   "cc-by-sa-3.0",
+   [
+    "Template:Cc-by-sa-3.0",
+    "Template:Cc-by-sa-layout"
+   ]
+  ],
+  "Hvide Dynasty escutcheon (scan 2008).jpg": [
+   "Public domain",
+   "pd",
+   [
+    "Template:PD-EU-no author disclosure",
+    "Template:PD-EU-no author disclosure/en",
+    "Template:PD-EU-no author disclosure/lang",
+    "Template:PD-EU-no author disclosure/layout",
+    "Template:PD-Layout"
+   ]
+  ],
+  "Istanbul public transport - Nostaljik Tramvay symbol.png": [
+   "CC BY-SA 2.5",
+   "cc-by-sa-2.5",
+   [
+    "Template:Cc-by-sa-2.5",
+    "Template:Cc-by-sa-layout",
+    "Template:Self",
+    "Module:Self"
+   ]
+  ],
+  "Harushima Iki.png": [
+   "CC BY-SA 3.0",
+   "cc-by-sa-3.0",
+   [
+    "Template:Cc-by-sa-3.0",
+    "Template:Cc-by-sa-layout",
+    "Template:Self",
+    "Module:Self"
+   ]
+  ],
+  "Hohenberg-Wappen ZW.png": [
+   "Public domain",
+   "pd",
+   [
+    "Template:Cc-pd-mark-footer",
+    "Template:PD-Layout",
+    "Template:PD-old",
+    "Template:PD-old-text",
+    "Template:PD-old-warning-text",
+    "Template:SDC-PD-old"
+   ]
+  ],
+  "Kamon maru ni kenkatabami.png": [
+   "CC BY-SA 3.0",
+   "cc-by-sa-3.0",
+   [
+    "Template:Cc-by-sa-3.0",
+    "Template:Cc-by-sa-layout",
+    "Template:Self",
+    "Module:Self"
+   ]
+  ],
+  "RobertFitzHamonAttributedArms.PNG": [
+   "Public domain",
+   "pd",
+   [
+    "Template:PD-Layout",
+    "Template:PD-self"
+   ]
+  ],
+  "Indonesian Road Sign d9a.png": [
+   "CC BY-SA 3.0",
+   "cc-by-sa-3.0",
+   [
+    "Template:Cc-by-sa-3.0",
+    "Template:Cc-by-sa-layout",
+    "Template:Cc-by-sa-layout/styles.css",
+    "Template:Self"
+   ]
+  ],
+  "NO IMAGE YET square.png": [
+   "CC BY-SA 3.0",
+   "cc-by-sa-3.0",
+   []
+  ],
+  "LongespeeArms1.png": [
+   "CC BY-SA 3.0",
+   "cc-by-sa-3.0",
+   []
+  ],
+  "K-067-Coat of Arms-ST JOHN-John de St. John (\"Johan de Saint Johan\").png": [
+   "CC BY-SA 4.0",
+   "cc-by-sa-4.0",
+   []
+  ],
+  "Rischach-Wappen ZW.png": [
+   "Public domain",
+   "pd",
+   []
+  ],
+  "NO IMAGE YET.png": [
+   "CC BY-SA 3.0",
+   "cc-by-sa-3.0",
+   []
+  ],
+  "MowbrayArms.png": [
+   "CC BY-SA 3.0",
+   "cc-by-sa-3.0",
+   []
+  ],
+  "Oki islands in Shimane prefecture.png": [
+   "CC BY-SA 4.0",
+   "cc-by-sa-4.0",
+   []
+  ],
+  "Map Icon - Hotel.png": [
+   "CC BY-SA 4.0",
+   "cc-by-sa-4.0",
+   []
+  ],
+  "Kyoto-geo-stub.png": [
+   "CC BY-SA 4.0",
+   "cc-by-sa-4.0",
+   []
+  ],
+  "L14 C.png": [
+   "CC BY-SA 4.0",
+   "cc-by-sa-4.0",
+   []
+  ],
+  "Moriya Family Tree (English).png": [
+   "CC0",
+   "cc0",
+   []
+  ],
+  "Japanese flag during the Kenmu Restoration.png": [
+   "CC BY-SA 4.0",
+   "cc-by-sa-4.0",
+   []
+  ],
+  "Kongo Cosmogram - blank.png": [
+   "CC BY-SA 4.0",
+   "cc-by-sa-4.0",
+   []
+  ],
+  "Kinai-and-Hyuga-Province-in-Japan-RA.png": [
+   "CC BY-SA 3.0",
+   "cc-by-sa-3.0",
+   []
+  ],
+  "Susanowo family tree.png": [
+   "CC BY 2.5",
+   "cc-by-2.5",
+   [
+    "Template:CC-Layout",
+    "Template:Cc-by-2.5",
+    "Template:Cc-by-layout",
+    "Template:Cc-by-sa-3.0-migrated",
+    "Template:Cc-by-sa-layout/styles.css",
+    "Template:GFDL",
+    "Template:License migration",
+    "Template:Self",
+    "Module:Self"
+   ]
+  ],
+  "Shadow picture of Aomori prefecture.png": [
+   "Copyrighted free use",
+   null,
+   []
+  ],
+  "Shadow picture of Fukushima prefecture.png": [
+   "Copyrighted free use",
+   null,
+   []
+  ],
+  "Shadow picture of Chiba prefecture.png": [
+   "Copyrighted free use",
+   null,
+   []
+  ],
+  "Shadow picture of Gifu prefecture.png": [
+   "Copyrighted free use",
+   null,
+   []
+  ],
+  "Shadow picture of Aichi prefecture.png": [
+   "Copyrighted free use",
+   null,
+   []
+  ],
+  "Shadow picture of Fukuoka prefecture.png": [
+   "Copyrighted free use",
+   null,
+   []
+  ],
+  "Shinmei torii.png": [
+   "CC BY-SA 3.0",
+   "cc-by-sa-3.0",
+   [
+    "Template:Cc-by-sa-3.0,2.5,2.0,1.0",
+    "Template:Cc-by-sa-layout",
+    "Template:GFDL",
+    "Template:License migration",
+    "Template:Self",
+    "Module:Self"
+   ]
+  ],
+  "Shield of the County of Portugal (1095-1139).png": [
+   "CC BY-SA 3.0",
+   "cc-by-sa-3.0",
+   [
+    "Template:Cc-by-sa-3.0",
+    "Template:Cc-by-sa-layout",
+    "Template:Self",
+    "Module:Self"
+   ]
+  ],
+  "Saffenburg-Wappen.png": [
+   "CC0",
+   "cc0",
+   [
+    "Template:CC-Layout",
+    "Template:Cc-zero"
+   ]
+  ],
+  "Sir John Neville, 3rd Baron Neville de Raby, KG.png": [
+   "CC BY-SA 3.0",
+   "cc-by-sa-3.0",
+   [
+    "Template:Cc-by-sa-3.0",
+    "Template:Cc-by-sa-layout",
+    "Template:Self",
+    "Module:Self"
+   ]
+  ],
+  "Sir Edward Cherleton, 5th Baron Cherleton, KG.png": [
+   "CC BY-SA 3.0",
+   "cc-by-sa-3.0",
+   [
+    "Template:Cc-by-sa-3.0",
+    "Template:Cc-by-sa-layout",
+    "Template:Self",
+    "Module:Self"
+   ]
+  ],
+  "Takamatsu no miya.png": [
+   "CC BY 3.0",
+   "cc-by-3.0",
+   [
+    "Template:Cc-by-3.0",
+    "Template:Cc-by-layout",
+    "Template:GFDL",
+    "Template:License migration",
+    "Template:Self",
+    "Module:Self"
+   ]
+  ],
+  "TransJakarta BRT Corridor 14 Icon.png": [
+   "Public domain",
+   "pd",
+   [
+    "Template:PD-Layout",
+    "Template:PD-shape",
+    "Template:PD-shape/en",
+    "Template:PD-shape/layout",
+    "Template:PD-simple"
+   ]
+  ],
+  "TransJakarta BRT Corridor 13 Icon.png": [
+   "Public domain",
+   "pd",
+   [
+    "Template:PD-Layout",
+    "Template:PD-shape",
+    "Template:PD-shape/en",
+    "Template:PD-shape/layout",
+    "Template:PD-simple"
+   ]
+  ],
+  "TransJakarta BRT Corridor 12 Icon.png": [
+   "Public domain",
+   "pd",
+   [
+    "Template:PD-Layout",
+    "Template:PD-shape",
+    "Template:PD-shape/en",
+    "Template:PD-shape/layout",
+    "Template:PD-simple"
+   ]
+  ],
+  "TransJakarta BRT Corridor 11 Icon.png": [
+   "Public domain",
+   "pd",
+   [
+    "Template:PD-Layout",
+    "Template:PD-shape",
+    "Template:PD-shape/en",
+    "Template:PD-shape/layout",
+    "Template:PD-simple"
+   ]
+  ],
+  "TransJakarta BRT Corridor 10 Icon.png": [
+   "Public domain",
+   "pd",
+   [
+    "Template:PD-Layout",
+    "Template:PD-shape",
+    "Template:PD-shape/en",
+    "Template:PD-shape/layout",
+    "Template:PD-simple"
+   ]
+  ],
+  "TransJakarta BRT Corridor 9 Icon.png": [
+   "Public domain",
+   "pd",
+   [
+    "Template:PD-Layout",
+    "Template:PD-shape",
+    "Template:PD-shape/en",
+    "Template:PD-shape/layout",
+    "Template:PD-simple"
+   ]
+  ],
+  "TransJakarta BRT Corridor 8 Icon.png": [
+   "Public domain",
+   "pd",
+   [
+    "Template:PD-Layout",
+    "Template:PD-shape",
+    "Template:PD-shape/en",
+    "Template:PD-shape/layout",
+    "Template:PD-simple"
+   ]
+  ],
+  "TransJakarta BRT Corridor 7 Icon.png": [
+   "Public domain",
+   "pd",
+   [
+    "Template:PD-Layout",
+    "Template:PD-shape",
+    "Template:PD-shape/en",
+    "Template:PD-shape/layout",
+    "Template:PD-simple"
+   ]
+  ],
+  "TransJakarta BRT Corridor 6 Icon.png": [
+   "Public domain",
+   "pd",
+   [
+    "Template:PD-Layout",
+    "Template:PD-shape",
+    "Template:PD-shape/en",
+    "Template:PD-shape/layout",
+    "Template:PD-simple"
+   ]
+  ],
+  "TransJakarta BRT Corridor 5 Icon.png": [
+   "Public domain",
+   "pd",
+   [
+    "Template:PD-Layout",
+    "Template:PD-shape",
+    "Template:PD-shape/en",
+    "Template:PD-shape/layout",
+    "Template:PD-simple"
+   ]
+  ],
+  "TransJakarta BRT Corridor 4 Icon.png": [
+   "Public domain",
+   "pd",
+   [
+    "Template:PD-Layout",
+    "Template:PD-shape",
+    "Template:PD-shape/en",
+    "Template:PD-shape/layout"
+   ]
+  ],
+  "TransJakarta BRT Corridor 3 Icon.png": [
+   "Public domain",
+   "pd",
+   []
+  ],
+  "TransJakarta BRT Corridor 2 Icon.png": [
+   "Public domain",
+   "pd",
+   []
+  ],
+  "TransJakarta BRT Corridor 1 Icon.png": [
+   "Public domain",
+   "pd",
+   []
+  ],
+  "TransJakarta roundel L13E.png": [
+   "Public domain",
+   "pd",
+   []
+  ],
+  "TransJakarta roundel 7F.png": [
+   "Public domain",
+   "pd",
+   []
+  ],
+  "TransJakarta roundel 3H.png": [
+   "Public domain",
+   "pd",
+   []
+  ],
+  "TransJakarta roundel 10H.png": [
+   "Public domain",
+   "pd",
+   []
+  ],
+  "TransJakarta roundel 3F.png": [
+   "Public domain",
+   "pd",
+   []
+  ],
+  "TransJakarta roundel 13B.png": [
+   "Public domain",
+   "pd",
+   []
+  ],
+  "TransJakarta roundel 6V.png": [
+   "Public domain",
+   "pd",
+   []
+  ],
+  "TransJakarta roundel 9N.png": [
+   "Public domain",
+   "pd",
+   []
+  ],
+  "TransJakarta roundel 10D.png": [
+   "Public domain",
+   "pd",
+   []
+  ],
+  "Transjakarta BRT Route 2C Icon.png": [
+   "Public domain",
+   "pd",
+   []
+  ],
+  "Transjakarta BRT Route 13D Icon.png": [
+   "Public domain",
+   "pd",
+   []
+  ],
+  "Transjakarta BRT Route 4H Icon.png": [
+   "Public domain",
+   "pd",
+   []
+  ],
+  "TransJakarta roundel 13E.png": [
+   "Public domain",
+   "pd",
+   []
+  ],
+  "Wappen derer von Rabenswalde.png": [
+   "CC BY-SA 3.0",
+   "cc-by-sa-3.0",
+   [
+    "Template:Cc-by-sa-3.0",
+    "Template:Cc-by-sa-layout",
+    "Template:Self",
+    "Module:Self"
+   ]
+  ],
+  "Wakayama-geo-stub.png": [
+   "Public domain",
+   "pd",
+   [
+    "Template:PD-Layout",
+    "Template:PD-self"
+   ]
+  ],
+  "WoodvilleArms.png": [
+   "Public domain",
+   "pd",
+   [
+    "Template:PD-Layout",
+    "Template:PD-self"
+   ]
+  ],
+  "Zegligovic Coat of Arms.png": [
+   "CC BY-SA 4.0",
+   "cc-by-sa-4.0",
+   [
+    "Template:Cc-by-sa-4.0",
+    "Template:Cc-by-sa-layout",
+    "Template:Self",
+    "Module:Self"
+   ]
+  ],
+  "Ushu Province.png": [
+   "CC BY 2.5",
+   "cc-by-2.5",
+   [
+    "Template:CC-Layout",
+    "Template:Cc-by-2.5",
+    "Template:Cc-by-layout",
+    "Template:Cc-by-sa-3.0-migrated",
+    "Template:Cc-by-sa-4.0",
+    "Template:Cc-by-sa-layout",
+    "Template:GFDL",
+    "Template:License migration",
+    "Template:Self",
+    "Module:Self"
+   ]
+  ],
+  "Transjakarta BRT Route 5H Icon.png": [
+   "Public domain",
+   "pd",
+   [
+    "Template:PD-Layout",
+    "Template:PD-shape",
+    "Template:PD-shape/en",
+    "Template:PD-shape/layout",
+    "Template:PD-simple"
+   ]
+  ],
+  "Transjakarta BRT Route 6B Icon.png": [
+   "Public domain",
+   "pd",
+   [
+    "Template:PD-Layout",
+    "Template:PD-shape",
+    "Template:PD-shape/en",
+    "Template:PD-shape/layout",
+    "Template:PD-simple"
+   ]
+  ],
+  "Transjakarta BRT Route 9C Icon.png": [
+   "Public domain",
+   "pd",
+   [
+    "Template:PD-Layout",
+    "Template:PD-shape",
+    "Template:PD-shape/en",
+    "Template:PD-shape/layout",
+    "Template:PD-simple"
+   ]
+  ],
+  "Transjakarta BRT Route 8A Icon.png": [
+   "Public domain",
+   "pd",
+   [
+    "Template:PD-Layout",
+    "Template:PD-generic/layout",
+    "Template:PD-textlogo",
+    "Template:PD-textlogo/en"
+   ]
+  ]
+ },
+ "artist": {
+  "Bohai Sea map.png": "NormanEinstein",
+  "Abusir map.png": "",
+  "24directions.png": "",
+  "Bali Ba.png": "Made Adiputra",
+  "Blank 50px.png": "",
+  "Brason Ataíde.jpg": "Aviz2000",
+  "Andechs-Wappen.png": "Unknown authorUnknown author",
+  "Arms of Bahrain.png": "Emblem_of_Bahrain.svg: Tonyjeff, based on national symbol. derivative work: Salavat (talk)",
+  "45 record.png": "laurianne",
+  "Abkhazia stub.png": "WhiteWriter",
+  "1bc1a.png": "Vanisaac at English Wikipedia",
+  "BigodModernArms.JPG": "own work",
+  "Blackpool Transport simple logo.png": "Hammersfan",
+  "Arms of Cherleton, Barons Cherleton.png": "Rs-nourse",
+  "Arms displayed by Geoffrey de Burgo, Bishop of Ely, at the signing of Magna Charta.png": "Rs-nourse",
+  "Appalachian region of United States.png": "Jax42 at en.wikipedia",
+  "Arpad.png": "Tantarantana",
+  "BassetArms.png": "(Lobsterthermidor (talk) 17:00, 3 January 2016 (UTC))",
+  "Bangkok Monorail Logo.png": "Walker Emp",
+  "Bamum King Njoya (4).png": "Khu'hamgaba Kitap",
+  "Ahom rendering.png": "CaibsSAM",
+  "BonjiA.png": "Blueknight611jp",
+  "BonjiCa.png": "Blueknight611jp",
+  "Bonji-Ii.png": "Blueknight611jp",
+  "Bonji-I.png": "Blueknight611jp",
+  "BonjiNr.png": "Blueknight611jp",
+  "BonjiPr.png": "Blueknight611jp",
+  "BonjiBra.png": "Blueknight611jp",
+  "BonjiMa.png": "Blueknight611jp",
+  "BonjiYam.png": "Blueknight611jp",
+  "BonjiVa.png": "Blueknight611jp",
+  "BonjiVaa.png": "Blueknight611jp",
+  "BonjiVai.png": "Blueknight611jp",
+  "BonjiHaammaam.png": "Blueknight611jp",
+  "Birth and death rate of japan 1950-2019.png": "Sdgedfegw",
+  "Aomori Tsugaru-block.png": "改変元：著作権・使用制限テンプレート参照 改変部分：アップロード者",
+  "23 Graz.png": "Verbundlinie",
+  "ADLaM.png": "Immanuel Giel",
+  "Agency for Cultural Affairs Organizational chart 20230327.png": "Narenko",
+  "Amateur radio compact icon.png": "Sinucep",
+  "Emperor family tree0.png": "nnh",
+  "G01.png": "",
+  "G05.png": "",
+  "CompareTropicalYears.png": "Sch",
+  "Coa fam ITA avarna.jpg": "Massimop",
+  "Ch-1422a.png": "T.F. Mills, Roadytom",
+  "Cricket no pic.png": "Stephen Turner at English Wikipedia",
+  "Eastern Europe (Robinson projection).png": "Serg!o",
+  "East Asia Cutout Projection.png": "Sven Manguard. Original work credited to Koyos, Ssolbergj, and Serg!o",
+  "Coa fam ITA giffone.jpg": "Massimop",
+  "COL-city icon.png": "Dr Brains",
+  "Coat of Arms of Sir John de Mohun, 2nd Baron Mohun, KG.png": "Rs-nourse",
+  "Coat of Arms of Sir James Audeley, KG.png": "Rs-nourse",
+  "Coat of Arms of Sir William Herbert, 1st Baron Herbert, KG.png": "Rs-nourse",
+  "Coat of Arms of Sir Walter Devereux, 7th Baron Ferrers of Chartley, KG.png": "Rs-nourse",
+  "Coat of arms of Sir Rhys ap Thomas, KG.png": "Rs-nourse",
+  "Coat of arms of Sir Henry Percy, 4th Earl of Northumberland, KG.png": "Rs-nourse",
+  "Coat of arms of William d'Aubigny, Earl of Arundel.png": "Rs-nourse",
+  "Coat of arms of Hugh Bigod, heir to the earldoms of Norfolk and Suffolk.png": "Rs-nourse",
+  "Coat of arms of Richard de Clare, Earl of Hertford.png": "Rs-nourse",
+  "Coat of arms of Geoffrey de Mandeville, Earl of Essex and Gloucester.png": "Rs-nourse",
+  "Coat of arms of William de Mowbray, Lord of Axholme Castle.png": "Rs-nourse",
+  "Coat of arms of Richard de Percy, Baron.png": "Rs-nourse",
+  "Coat of Arms - Neville, Earls of Westmorland, and Barons Neville of Raby.png": "Rs-nourse",
+  "Coat of Arms - Percy, Barons Percy of Alnwick.png": "Rs-nourse",
+  "Buornonville (antes de la I cruzada).png": "Jmirache",
+  "Cardonapic.png": "Framo",
+  "EdinburghTramsGeneric.png": "G-13114",
+  "DPM icon.png": "Secondarywaltz",
+  "CliffordArms WithBend.png": "(Lobsterthermidor (talk) 11:47, 2 April 2016 (UTC))",
+  "Cube NoEdges RGBfaces 64px.png": "David Koller",
+  "Fukuchiyama Toyuke-daijinja map.png": "Totitetisiti",
+  "Cherokee Lowercase.png": "Wikilackey",
+  "Excerpt tree.png": "Sophivorus",
+  "Flag of the Uzbek Soviet Socialist Republic(1927-1929).png": "Whaales",
+  "Flag of the Uzbek Soviet Socialist Republic(1937-1938).png": "Whaales",
+  "Ehou-direction.png": "",
+  "Former Ensign of Myanmar Air Force.png": "File:Air Force Ensign of Myanmar.svg : Zedlander",
+  "Flag of the Indonesian Marine Corps.png": "Indonesian Marine Corps",
+  "Flag of the Kingdom of Württemberg (1806 - 1816).png": "Oinkuss",
+  "Null.png": "The original uploader was Netoholic at Wikimedia Commons.",
+  "Ohokuninushi family tree.png": "nnh",
+  "G10.png": "",
+  "G50.png": "",
+  "G100.png": "",
+  "R01.png": "",
+  "R05.png": "",
+  "R10.png": "",
+  "R50.png": "",
+  "Mon-Imperial.png": "No machine-readable author provided. Alexa~commonswiki assumed (based on copyright claims).",
+  "Higashimuro District Map.png": "No machine-readable author provided. Krisgrotius assumed (based on copyright claims).",
+  "Gongen Zukuri.png": "user:Hiroyuki0904",
+  "Meissen-Mark.png": "Kooij",
+  "Kagoshima-geo-stub.png": "Kzaral",
+  "Kochi-geo-stub.png": "Kzaral",
+  "Kitakatsuragi District in Nara prefecture Ja.png": "ja: 利用者:Lincun, Krisgrotius (talk)",
+  "Greater Macedonia.png": "Original work: User:Wiki-vr * Derivative work: EDG161",
+  "Nigeria Rivers State map.png": "Himalayan Explorer based on work by Uwe Dedering",
+  "Maruni-Toshi no Monji.jpg": "SUPER REXTON",
+  "Hvide Dynasty escutcheon (scan 2008).jpg": "Unknown artist (collection photo scanned by Ristesson Ent.)",
+  "Istanbul public transport - Nostaljik Tramvay symbol.png": "Maximilian Dörrbecker (Chumwa)",
+  "Harushima Iki.png": "Ackeyyama",
+  "Hohenberg-Wappen ZW.png": "Unknown authorUnknown author",
+  "Kamon maru ni kenkatabami.png": "Kamon up",
+  "RobertFitzHamonAttributedArms.PNG": "own work",
+  "Indonesian Road Sign d9a.png": "AdriansyahYS",
+  "NO IMAGE YET square.png": "Vanished user 1234567890 at English Wikipedia",
+  "LongespeeArms1.png": "Sodacan",
+  "K-067-Coat of Arms-ST JOHN-John de St. John (\"Johan de Saint Johan\").png": "Rs-nourse",
+  "Rischach-Wappen ZW.png": "Unknown authorUnknown author",
+  "NO IMAGE YET.png": "Vanished user 1234567890 at English Wikipedia",
+  "MowbrayArms.png": "(Lobsterthermidor (talk) 16:21, 3 April 2016 (UTC))",
+  "Oki islands in Shimane prefecture.png": "Flappiefh Sources of data : NASA Shuttle Radar Topography Mission (SRTM3 v.2) (public domain) ; OpenStreetMap.org ; Japan GSI.",
+  "Map Icon - Hotel.png": "Alinjohnson",
+  "Kyoto-geo-stub.png": "AichiWikiFixer",
+  "L14 C.png": "UIUYIYUIUYIYU",
+  "Moriya Family Tree (English).png": "Pat457",
+  "Japanese flag during the Kenmu Restoration.png": "FlagGod",
+  "Kongo Cosmogram - blank.png": "MiddleOfAfrica",
+  "Kinai-and-Hyuga-Province-in-Japan-RA.png": "Flora fon Esth",
+  "Susanowo family tree.png": "nnh",
+  "Shadow picture of Aomori prefecture.png": "Created by LERK",
+  "Shadow picture of Fukushima prefecture.png": "Created by LERK",
+  "Shadow picture of Chiba prefecture.png": "Created by LERK",
+  "Shadow picture of Gifu prefecture.png": "Created by LERK",
+  "Shadow picture of Aichi prefecture.png": "Created by LERK",
+  "Shadow picture of Fukuoka prefecture.png": "Created by LERK",
+  "Shinmei torii.png": "Torii_gate_variation.svg: Mukai derivative work: Urashimataro (talk)",
+  "Shield of the County of Portugal (1095-1139).png": "Zulske heraldry",
+  "Saffenburg-Wappen.png": "Wappengrafik erstellt von LeoDavid",
+  "Sir John Neville, 3rd Baron Neville de Raby, KG.png": "Rs-nourse",
+  "Sir Edward Cherleton, 5th Baron Cherleton, KG.png": "Rs-nourse",
+  "Takamatsu no miya.png": "DCyokohama at Japanese Wikipedia",
+  "TransJakarta BRT Corridor 14 Icon.png": "Enperfectify World",
+  "TransJakarta BRT Corridor 13 Icon.png": "Enperfectify World",
+  "TransJakarta BRT Corridor 12 Icon.png": "Enperfectify World",
+  "TransJakarta BRT Corridor 11 Icon.png": "Enperfectify World",
+  "TransJakarta BRT Corridor 10 Icon.png": "Enperfectify World",
+  "TransJakarta BRT Corridor 9 Icon.png": "Enperfectify World",
+  "TransJakarta BRT Corridor 8 Icon.png": "Enperfectify World",
+  "TransJakarta BRT Corridor 7 Icon.png": "Enperfectify World",
+  "TransJakarta BRT Corridor 6 Icon.png": "Enperfectify World",
+  "TransJakarta BRT Corridor 5 Icon.png": "Enperfectify World",
+  "TransJakarta BRT Corridor 4 Icon.png": "Enperfectify World",
+  "TransJakarta BRT Corridor 3 Icon.png": "Enperfectify World",
+  "TransJakarta BRT Corridor 2 Icon.png": "Enperfectify World",
+  "TransJakarta BRT Corridor 1 Icon.png": "Enperfectify World",
+  "TransJakarta roundel L13E.png": "Desta231206",
+  "TransJakarta roundel 7F.png": "Desta231206",
+  "TransJakarta roundel 3H.png": "Desta231206",
+  "TransJakarta roundel 10H.png": "Desta231206",
+  "TransJakarta roundel 3F.png": "Desta231206",
+  "TransJakarta roundel 13B.png": "Desta231206",
+  "TransJakarta roundel 6V.png": "Desta231206",
+  "TransJakarta roundel 9N.png": "Desta231206",
+  "TransJakarta roundel 10D.png": "Desta231206",
+  "Transjakarta BRT Route 2C Icon.png": "Transjakarta",
+  "Transjakarta BRT Route 13D Icon.png": "Transjakarta",
+  "Transjakarta BRT Route 4H Icon.png": "Transjakarta",
+  "TransJakarta roundel 13E.png": "Desta231206",
+  "Wappen derer von Rabenswalde.png": "Rüdiger Bier",
+  "Wakayama-geo-stub.png": "Kzaral",
+  "WoodvilleArms.png": "(Lobsterthermidor (talk) 21:45, 29 October 2015 (UTC))",
+  "Zegligovic Coat of Arms.png": "WikiNameBaks",
+  "Ushu Province.png": "Yota00",
+  "Transjakarta BRT Route 5H Icon.png": "Transjakarta",
+  "Transjakarta BRT Route 6B Icon.png": "Transjakarta",
+  "Transjakarta BRT Route 9C Icon.png": "Transjakarta",
+  "Transjakarta BRT Route 8A Icon.png": "Transjakarta"
+ }
+}
