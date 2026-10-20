@@ -1,0 +1,24 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{ja|熊野古道の地図
+
+[[:ja::画像:JpLargeMap_Kinki.png]]から作成。}}
+{{en|Map of the old roads of Kumano, medieval pilgrimage routes. Red icons are shrines and temples that the roads begin and terminate at.}}
+|Source={{transferred from|ja.wikipedia|}}
+|Date={{original upload date|2004-09-23}}
+|Author={{original uploader|Yosemite|wikipedia|ja}}
+|Permission=
+|other_versions=[[Image:Map Kumano Kodo.png|100px]]
+}}
+
+== {{int:license-header}} ==
+{{PD-User|Yosemite|ja}}
+
+== {{original upload log}} ==
+{{original description page|ja.wikipedia|Map_Kumano_Kodo.png}}
+* 2004-09-23 08:14 [[:ja:User:Yosemite|Yosemite]] 640×480×8 (73413 bytes) ''<nowiki>熊野古道の地図</nowiki>''
+
+[[Category:Kumano-Nachi-shrine]]
+[[Category:Tourism in Wakayama prefecture]]
+[[Category:Tourism in Nara prefecture]]
+[[Category:Schematic drawing of Road (Japan)]]
