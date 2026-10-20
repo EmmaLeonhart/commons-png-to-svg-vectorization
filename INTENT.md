@@ -156,6 +156,12 @@ caused by unbounded steps (since fixed).
   are not fitted (amateur radio coil made regular). Arms: every order.life person is now classified with no
   needs-investigation left (57 rebuilt, 31 vector on Commons, 69 waiting on the generator). Reading of the
   project unchanged.
+- 2026-10-20 03:32 PST: queue through the S–T files. Script samples on en.wikipedia Help:Multilingual support take
+  their exact text from that page (it shows each image beside the same text). Images cut from a Commons SVG are
+  rebuilt from the revision current when the PNG was made (East Timor shield: 2012 revision). A hate-group logo
+  (Stormfront) is not vectorised; it is held as NEEDS-DECISION for Emma. Working rule: temporary files of these ticks
+  go in `scratch/tmp/`, never under a bare `scratch/` name. Several earlier scratch files are tracked, and
+  overwriting or deleting them by name or glob has hit them three times today (each time restored from git).
 - 2026-10-20 02:25 PST: every queued prefecture shadow picture is now rebuilt from N03 and staged. Variants handled:
   rotation (`tools/shadow_rotfit.py`), lakes the PNG shows as holes (MLIT W09: Ibaraki, Shiga, Shizuoka, Shimane),
   framed insets fitted per region (Hokkaidō, Nagasaki with N03 2000, Shimane), and island-only views (Okinawa 2,
