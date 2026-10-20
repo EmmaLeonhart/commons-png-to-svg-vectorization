@@ -544,3 +544,5 @@
   the PNG outlines them). Staged in upload/.
 - **File:Om in Cham script.png → SVG** (`files/om-cham/`): ꨅꩌ (Cham O + final M) as `<text>` in Noto Sans Cham,
   IoU 0.942. Staged in upload/.
+- **File:Om siddham2.png → SVG** (`files/om-siddham2/`): 𑖌𑖼 as `<text>` in Noto Sans Siddham (brush hand vs typeset,
+  IoU 0.34). Staged in upload/.
