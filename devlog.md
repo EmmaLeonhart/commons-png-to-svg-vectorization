@@ -740,3 +740,4 @@
 - File:VisualEditor category editing-en.png: not rebuildable: a screenshot of the VisualEditor interface (raster original).
 - File:VisualEditor category item-en.png: not rebuildable: a screenshot of the VisualEditor interface (raster original).
 - File:VisualEditor citoid Cite button.png: not rebuildable: a screenshot of the VisualEditor interface (raster original).
+- File:VisualEditor edit tab-en.png: not rebuildable: a screenshot of the VisualEditor interface (raster original).
