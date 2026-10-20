@@ -585,3 +585,5 @@
   other parked shadow pictures (Fukui, Gunma, Hiroshima) may have the same cause.
 - **File:Shadow picture of Fukui prefecture.png → SVG** (`files/shadow-fukui/`): `tools/shadow_rotfit.py`, IoU 0.950
   (rotation -5.2°). Staged in upload/.
+- **File:Shadow picture of Gunma prefecture.png → SVG** (`files/shadow-gunma/`): `tools/shadow_rotfit.py`, IoU 0.975
+  (rotation 15.0°). Staged in upload/.
