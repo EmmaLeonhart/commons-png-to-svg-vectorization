@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="739" height="1103" viewBox="0 0 739 1103">
+<defs><linearGradient id="ft" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity="1"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient><linearGradient id="fb" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="1" stop-color="#fff" stop-opacity="1"/></linearGradient></defs>
+<rect width="739" height="1103" fill="#ffffff"/>
+<rect x="13.5" y="0" width="123.0" height="84.5" fill="#fdd1af"/>
+<rect x="136.5" y="0" width="588.5" height="84.5" fill="#fef2d9"/>
+<rect x="13.5" y="84.5" width="123.0" height="435.0" fill="#adceed"/>
+<rect x="136.5" y="84.5" width="588.5" height="435.0" fill="#d4e5f6"/>
+<rect x="13.5" y="519.5" width="123.0" height="436.0" fill="#fdd1af"/>
+<rect x="136.5" y="519.5" width="588.5" height="436.0" fill="#fef2d9"/>
+<rect x="13.5" y="955.5" width="123.0" height="66.0" fill="#adceed"/>
+<rect x="136.5" y="955.5" width="588.5" height="66.0" fill="#d4e5f6"/>
+<rect x="13.5" y="1021.5" width="123.0" height="81.5" fill="#fdd1af"/>
+<rect x="136.5" y="1021.5" width="588.5" height="81.5" fill="#fef2d9"/>
+<rect x="0" y="0" width="739" height="20" fill="#ffffff"/>
+<rect x="0" y="20" width="739" height="33" fill="url(#ft)"/>
+<rect x="0" y="1053" width="739" height="32" fill="url(#fb)"/>
+<rect x="0" y="1085" width="739" height="18" fill="#ffffff"/>
+<path fill="#069edb" d="M209.0,178.5L245,194V381L209.0,396.5L173,381V194Z"/>
+<path fill="#f15966" d="M318.0,265.5L354,281V970L318.0,985.5L282,970V281Z"/>
+<g font-family="Meiryo, 'Hiragino Sans', 'Noto Sans CJK JP', 'Yu Gothic', sans-serif">
+<text x="28.0" y="67.0" font-size="23.33" font-weight="bold" letter-spacing="-0.33" fill="#d55125">垂仁天皇</text>
+<text x="29.0" y="297.0" font-size="22.44" font-weight="bold" letter-spacing="0.67" fill="#1a3f6c">景行天皇</text>
+<text x="48.0" y="324.0" font-size="16.35" font-weight="bold" letter-spacing="-0.5" fill="#1a3f6c">(60年)</text>
+<text x="30.0" y="733.0" font-size="22.44" font-weight="bold" letter-spacing="0.33" fill="#d55125">成務天皇</text>
+<text x="48.0" y="760.0" font-size="16.35" font-weight="bold" letter-spacing="-0.5" fill="#d55125">(60年)</text>
+<text x="29.0" y="984.0" font-size="23.33" font-weight="bold" letter-spacing="-0.67" fill="#1a3f6c">仲哀天皇</text>
+<text x="48.0" y="1010.0" font-size="16.35" font-weight="bold" letter-spacing="-0.5" fill="#1a3f6c">(15年)</text>
+<text x="29.0" y="1058.0" font-size="22.44" font-weight="bold" letter-spacing="0.67" fill="#d55125">応神天皇</text>
+<text x="382.0" y="384.0" font-size="21.11" font-weight="bold" letter-spacing="-0.07" fill="#000000">●40年 - 日本武尊の東征開始</text>
+<text x="382.0" y="406.0" font-size="21.11" font-weight="bold" letter-spacing="-0.08" fill="#000000">●43年 - 草薙御剣の創祀</text>
+<text x="382.0" y="969.0" font-size="21.11" font-weight="bold" letter-spacing="0.25" fill="#000000">●元年 - 熱田神宮の創建</text>
+<text x="382.0" y="996.0" font-size="21.11" font-weight="bold" letter-spacing="0.07" fill="#000000">●4年 - 氷上姉子神社の創建</text>
+<text font-size="29.5" font-weight="bold" text-anchor="middle" fill="#ffffff"><tspan x="209.0" y="255.8">日</tspan><tspan x="209.0" y="284.8">本</tspan><tspan x="209.0" y="313.8">武</tspan><tspan x="209.0" y="342.8">尊</tspan></text>
+<text font-size="30.7" font-weight="bold" text-anchor="middle" fill="#ffffff"><tspan x="318.0" y="593.8">宮</tspan><tspan x="318.0" y="622.8">簀</tspan><tspan x="318.0" y="651.8">媛</tspan><tspan x="318.0" y="680.8">命</tspan></text>
+</g>
+</svg>

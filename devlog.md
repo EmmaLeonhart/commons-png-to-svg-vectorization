@@ -696,3 +696,5 @@
 - File:THA AFF 2020.png: not rebuildable without tracing. A 150×93 deliberately simplified Thailand team crest (a
   freeform elephant-head shield), simplified to stay clear of the original logo's copyright; no vector source.
   PNG kept in `data_lake/downloads/tha-aff-2020/`.
+- **File:The Condensed Lifetime Chronologies of Yamato Takeru and Miyazuhime.png → SVG** (`files/yamato-takeru-chron/`):
+  reign bands, fades, hexagon bars by construction, all labels as `<text>` (vertical names per glyph). Staged in upload/.
