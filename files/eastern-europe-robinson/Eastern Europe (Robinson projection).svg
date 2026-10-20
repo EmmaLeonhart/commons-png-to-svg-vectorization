@@ -68,7 +68,7 @@
 {
 	fill:#b9b9b9;
 	stroke:#ffffff;
-	stroke-width:0.5;
+	stroke-width:0.9;
 	fill-rule:evenodd;
 }
 
@@ -77,9 +77,9 @@
  */
 .coastxx
 {
-	fill:#e0e0e0;
+	fill:#b9b9b9;
 	stroke:#ffffff;
-	stroke-width:0.5;
+	stroke-width:0.9;
 	fill-rule:evenodd;
 }
 
@@ -88,9 +88,9 @@
  */
 .limitxx
 {
-	fill:#e0e0e0;
+	fill:#b9b9b9;
 	stroke:#ffffff;
-	stroke-width:0;
+	stroke-width:0.9;
 	fill-rule:evenodd;
 }
 
@@ -99,9 +99,9 @@
  */
 .antxx
 {
-	fill:#e0e0e0;
+	fill:#b9b9b9;
 	stroke:#ffffff;
-	stroke-width:0;
+	stroke-width:0.9;
 	fill-rule:evenodd;
 }
 

@@ -340,3 +340,6 @@
   the 2011-01-03 revision of BlankMap-World6.svg (CSS-classed countries, rendered as an index image with crisp
   edges) against the PNG and colours the 21 green countries; 3.2% of pixels differ. Two fixes left (light-grey
   units from other CSS rules, border width), noted on the queue line.
+- **File:Eastern Europe (Robinson projection).png → SVG** (`files/eastern-europe-robinson/`): finished. All land
+  classes (coastxx, limitxx, antxx too) in the PNG's grey, borders widened to ~2 px; 3.65% of pixels differ.
+  Staged in upload/.

@@ -110,9 +110,12 @@ if __name__ == '__main__':
                        fill=hexc(sea))
     first = [c for c in root if isinstance(c.tag, str) and c.tag not in (NS + 'defs', NS + 'style')][0]
     first.addprevious(bg)
-    for st in root.iter(NS + 'style'):  # plain land and borders in the PNG's colours
-        st.text = re.sub(r'(\.landxx\s*\{[^}]*?fill:)#[0-9a-fA-F]{6}', r'\g<1>' + hexc(land), st.text)
-        if border:
-            st.text = re.sub(r'(\.landxx\s*\{[^}]*?stroke:)#[0-9a-fA-F]{6}', r'\g<1>' + hexc(border), st.text)
+    for st in root.iter(NS + 'style'):
+        # every land class (landxx, coastxx, limitxx, antxx) in the PNG's grey, with white borders as wide as the
+        # PNG's (~2 px: each country's fill covers half its neighbour's stroke, so 0.5 units showed as ~1 px)
+        for cls in ('landxx', 'coastxx', 'limitxx', 'antxx'):
+            st.text = re.sub(r'(\.' + cls + r'\s*\{[^}]*?fill:)#[0-9a-fA-F]{6}', r'\g<1>' + hexc(land), st.text)
+            st.text = re.sub(r'(\.' + cls + r'\s*\{[^}]*?stroke:)#[0-9a-fA-F]{6}', r'\g<1>' + hexc(border), st.text)
+            st.text = re.sub(r'(\.' + cls + r'\s*\{[^}]*?stroke-width:)[0-9.]+', r'\g<1>0.9', st.text)
     tree.write(OUT, xml_declaration=True, encoding='UTF-8')
     print('highlighted:', ' '.join(sorted(x or '?' for x in hl)))
