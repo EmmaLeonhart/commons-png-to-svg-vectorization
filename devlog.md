@@ -747,3 +747,4 @@
 - File:VisualEditor Insert Menu-en.png: not rebuildable: a screenshot of the VisualEditor interface (raster original).
 - File:VisualEditor insert table.png: not rebuildable: a screenshot of the VisualEditor interface (raster original).
 - File:VisualEditor link tool 2015.png: not rebuildable: a screenshot of the VisualEditor interface (raster original).
+- File:VisualEditor link tool simple link.png: not rebuildable: a screenshot of the VisualEditor interface (raster original).
