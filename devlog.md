@@ -793,3 +793,4 @@
 - File:Wikidata article on English Wikipedia as of Nov 3 2023 Below.png: not rebuildable: a screenshot of the wiki interface (raster original).
 - File:Wikidata article on English Wikipedia as of Nov 3 2023 Header.png: not rebuildable: a screenshot of the wiki interface (raster original).
 - File:WikiEditor-heading menu-en.png: not rebuildable: a screenshot of the wiki interface (raster original).
+- File:Wikipedia VisualEditor Table Properties.png: not rebuildable: a screenshot of the wiki interface (raster original).
