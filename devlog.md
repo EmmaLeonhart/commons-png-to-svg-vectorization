@@ -523,3 +523,5 @@
 - File:Neulicht.Botein.P1162773.png: not rebuildable, a raster original (a photograph of the crescent Moon and Botein).
 - **File:New Tai Lue script sample.png → SVG** (`files/new-tai-lue-script-sample/`): ten glyphs identified by matching
   and an eye check (one corrected to vowel sign AY), set as `<text>` in Noto Sans New Tai Lue. Staged in upload/.
+- File:NoDVDcover copy.png: not rebuildable, a raster original (a photographed, desaturated DVD case; only the "No cover
+  available" overlay is text).
