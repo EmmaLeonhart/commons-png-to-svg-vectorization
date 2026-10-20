@@ -591,3 +591,5 @@
   (rotation 0.0°). Staged in upload/.
 - **File:Shadow picture of Hokkaido prefecture edit.png → SVG** (`files/shadow-hokkaido-edit/`): `tools/shadow_rotfit.py`, IoU 0.949
   (rotation 11.2°). Staged in upload/.
+- **File:Shadow picture of Hokkaido prefecture.png → SVG** (`files/shadow-hokkaido/`): the edit rebuild's main map plus the
+  islands' inset fitted on its own, and the frame; whole IoU 0.93. Staged in upload/.
